@@ -1,0 +1,333 @@
+#+STARTUP: show2levels
+#+PROPERTY: header-args:sh :results output table replace :noweb yes :wrap quote
+#+TODO: XPS(x) AIR(a) PRO(p) | SYNCED(s)
+* changelog
+** todo states
+
+with the cursor on a header set a todo
+
+#+begin_example
+C-c C-t
+#+end_example
+
++ x = xps changes only on dell xps
++ a = air changes pulled on macbook air
++ p = pro changes pulled on macbook pro
++ s = synced
+
+space clears the todo state
+
+** noweb code block
+
+pass in the var path and use eval echo path to expand it
+
+#+NAME: noweb-block
+#+begin_src sh 
+expanded_path=$(eval echo "${path}") # Force shell expansion
+git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
+#+end_src
+
+** XPS cerberus
+
+github url
+
+[[https://github.com/NapoleonWils0n/cerberus]]
+
+local git repo
+
+#+begin_src sh
+~/git/cerberus
+#+end_src
+
+git status
+
+#+NAME: cerberus
+#+HEADER: :var path="~/git/cerberus"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: cerberus
+#+begin_quote
+| fb9cfa6b | cuda check          | 19:44:23/20-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 99390b5a | quote test complete | 15:55:34/20-06-2025 |                                            |
+| 83ff4c85 | quote test          | 15:54:05/20-06-2025 |                                            |
+| f01c483e | table               | 15:50:18/20-06-2025 |                                            |
+| 76bcf456 | table               | 15:48:03/20-06-2025 |                                            |
+| 3a6b9798 | push                | 15:47:28/20-06-2025 |                                            |
+| 5a8cd58a | commit              | 15:46:57/20-06-2025 |                                            |
+| 99dc3f71 | todo                | 15:45:49/20-06-2025 |                                            |
+| 9936c068 | quote works         | 15:41:45/20-06-2025 |                                            |
+| e21fe73a | org wrap            | 15:39:07/20-06-2025 |                                            |
+#+end_quote
+
+** nixos
+*** XPS nixos-dotfiles
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-dotfiles]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-dotfiles
+#+end_src
+
+status
+
+#+NAME: nixos-dotfiles
+#+HEADER: :var path="~/git/nixos/nixos-dotfiles"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-dotfiles
+#+begin_quote
+| 7faf991 | whisper flake                                          | 19:42:56/20-06-2025 | HEAD -> master, github/master |
+| 2733dfd | removed shell.nix                                      | 19:42:25/20-06-2025 |                               |
+| 0aac175 | emacs exec-path ~/bin                                  | 23:27:04/17-06-2025 |                               |
+| d3df145 | Update Home Manager flake.lock after successful switch | 18:02:29/15-06-2025 |                               |
+| 443242c | nixos home manager flake                               | 14:08:53/15-06-2025 |                               |
+| 6c701cc | audacity removed                                       | 09:50:31/10-06-2025 |                               |
+| 8243a46 | mpv                                                    | 20:27:58/09-06-2025 |                               |
+| b3daaa7 | mpv bbc cache                                          | 20:14:23/09-06-2025 |                               |
+| 4f77a94 | bat                                                    | 19:02:05/09-06-2025 |                               |
+| 2e454e5 | make                                                   | 19:32:02/08-06-2025 |                               |
+#+end_quote
+
+*** nixos-root-xps
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-root-xps15]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-root-xps15
+#+end_src
+
+status
+
+#+NAME: nixos-root-xps15
+#+HEADER: :var path="~/git/nixos/nixos-root-xps15"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-root-xps15
+#+begin_quote
+| 4d7ea47 | README                            | 15:05:04/15-06-2025 | HEAD -> master, github/master |
+| a09f642 | flake                             | 14:03:11/15-06-2025 |                               |
+| 4f52305 | flake.lock                        | 14:02:32/15-06-2025 |                               |
+| 3c32748 | flake                             | 12:57:50/15-06-2025 |                               |
+| 577fbad | removed pulseaudio                | 16:29:37/01-06-2025 |                               |
+| f8176b2 | pulseaudio                        | 15:49:59/01-06-2025 |                               |
+| 61cf80f | pulseaudio for resolve            | 15:47:17/01-06-2025 |                               |
+| c008882 | pipewire alsa for davinci resolve | 15:12:15/01-06-2025 |                               |
+| 49fce80 | nixos update 25.05                | 16:25:20/25-05-2025 |                               |
+| 96e5f51 | nixos                             | 20:14:11/08-05-2025 |                               |
+#+end_quote
+
+*** nixos-dotfiles-macbook
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-dotfiles-macbook-air]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-dotfiles-macbook-air
+#+end_src
+
+status
+
+#+NAME: nixos-dotfiles-macbook-air
+#+HEADER: :var path="~/git/nixos/nixos-dotfiles-macbook-air"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-dotfiles-macbook-air
+#+begin_quote
+| c243720 | emacs exec-path ~/bin                                  | 23:28:24/17-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 240f493 | flake update                                           | 15:09:35/15-06-2025 |                                            |
+| 733bb8e | Update Home Manager flake.lock after successful switch | 00:16:00/15-06-2025 |                                            |
+| e911119 | Initial Home Manager flake setup with unstable         | 23:49:08/14-06-2025 |                                            |
+| 58c044e | emacs bookmarks                                        | 13:40:20/13-06-2025 |                                            |
+| cce76d6 | emacs mpv default                                      | 23:00:42/12-06-2025 |                                            |
+| 6bdbec9 | nixos dotfiles macbook air                             | 20:10:15/12-06-2025 |                                            |
+| 3757a05 | gnome                                                  | 17:45:26/07-05-2024 |                                            |
+| 90995b9 | nix                                                    | 15:05:31/07-05-2024 |                                            |
+| 1f6295b | nixos                                                  | 15:04:54/07-05-2024 |                                            |
+#+end_quote
+
+*** nixos-root-macbook
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-root-macbook]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-root-macbook
+#+end_src
+
+status
+
+#+NAME: nixos-root-macbook
+#+HEADER: :var path="~/git/nixos/nixos-root-macbook"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-root-macbook
+#+begin_quote
+| 39c660b | README                 | 15:05:29/15-06-2025 | HEAD -> master, github/master, github/HEAD |
+| fe72c7e | flake                  | 21:59:20/14-06-2025 |                                            |
+| 1bfb3ae | flake                  | 21:49:03/14-06-2025 |                                            |
+| 1bb4f0a | flake                  | 21:48:00/14-06-2025 |                                            |
+| c31ec38 | flake                  | 21:44:47/14-06-2025 |                                            |
+| a0108e8 | flake                  | 21:21:16/14-06-2025 |                                            |
+| ff53d8e | flake                  | 21:20:36/14-06-2025 |                                            |
+| 7fdf2f1 | flake                  | 21:18:14/14-06-2025 |                                            |
+| 912fe10 | nixos root macbook air | 19:52:12/12-06-2025 |                                            |
+| f3e7039 | typo fixed             | 14:23:09/11-05-2024 |                                            |
+#+end_quote
+
+*** nixos-bin
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-bin]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-bin
+#+end_src
+
+status
+
+#+NAME: nixos-bin
+#+HEADER: :var path="~/git/nixos/nixos-bin"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-bin
+#+begin_quote
+| 1.0e+INF | removed script                              | 13:46:13/18-06-2025 | HEAD -> master, github/master |
+| 9103843  | lrsha                                       | 13:45:42/18-06-2025 |                               |
+| 3fb16e0  | removed script                              | 12:33:27/18-06-2025 |                               |
+| b049767  | lrsha compare local and remote git sha sums | 22:51:30/17-06-2025 |                               |
+| e31a6ba  | lrsha compare local and remote git sha sums | 22:22:57/17-06-2025 |                               |
+| 1.0e+INF | combine-audio-video                         | 15:33:35/07-06-2025 |                               |
+| d235473  | resample-audio                              | 14:59:24/02-06-2025 |                               |
+| 49eb106  | record pipewire                             | 13:16:29/23-05-2025 |                               |
+| 9905a38  | record pipewire                             | 18:58:30/22-05-2025 |                               |
+| 60030ef  | srt                                         | 15:26:58/20-05-2025 |                               |
+#+end_quote
+
+** debian
+*** debian-dotfiles
+
+github url
+
+[[https://github.com/NapoleonWils0n/debian-dotfiles]]
+
+local path
+
+#+begin_src sh
+~/git/various-systems/debian/debian-dotfiles
+#+end_src
+
+status
+
+#+NAME: debian-dotfiles
+#+HEADER: :var path="~/git/various-systems/debian/debian-dotfiles"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: debian-dotfiles
+#+begin_quote
+| 3bd7ae8 | emacs exec-path ~/bin  | 23:30:17/17-06-2025 | HEAD -> master, github/master, github/HEAD |
+| eeb500a | debian emacs gptel     | 13:28:30/13-06-2025 |                                            |
+| 70fe3b5 | dired side window      | 18:31:02/31-05-2025 |                                            |
+| 9ea470c | dried side window      | 14:44:11/31-05-2025 |                                            |
+| bf282d2 | zshrc                  | 18:50:34/22-05-2025 |                                            |
+| 128fdc0 | pipewire completions   | 15:40:35/22-05-2025 |                                            |
+| bc74f67 | emacs titlebar and mpd | 20:48:17/16-05-2025 |                                            |
+| 005d4f6 | emacs titlebar and mpd | 20:43:24/16-05-2025 |                                            |
+| bba05ee | emacs titlebar and mpd | 20:40:44/16-05-2025 |                                            |
+| f7b6250 | nognome notifications  | 14:40:02/16-05-2025 |                                            |
+#+end_quote
+
+*** debian-root
+
+github url
+
+[[https://github.com/NapoleonWils0n/debian-root]]
+
+local path
+
+#+begin_src sh
+~/git/various-systems/debian/debian-root
+#+end_src
+
+status
+
+#+NAME: debian-root
+#+HEADER: :var path="~/git/various-systems/debian/debian-root"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: debian-root
+#+begin_quote
+| 10ec258 | non-free             | 16:02:50/16-05-2025 | HEAD -> master, github/master |
+| ce131c6 | nognome removed      | 14:38:51/16-05-2025 |                               |
+| 3a992bd | bin                  | 14:20:00/16-05-2025 |                               |
+| cbc2e05 | bin                  | 14:15:21/16-05-2025 |                               |
+| 7514afb | debian root          | 21:19:24/15-05-2025 |                               |
+| f83c775 | debian dns and dhcp  | 20:58:13/14-03-2017 | mac/master                    |
+| 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
+#+end_quote
+
+*** debian-bin
+
+github url
+
+[[https://github.com/NapoleonWils0n/debian-bin]]
+
+local path
+
+#+begin_src sh
+~/git/various-systems/debian/debian-bin
+#+end_src
+
+status
+
+#+NAME: debian-bin
+#+HEADER: :var path="~/git/various-systems/debian/debian-bin"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: debian-bin
+#+begin_quote
+| 963a35a | removed script                              | 13:06:14/18-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 89d03f9 | lrsha compare local and remote git sha sums | 22:53:16/17-06-2025 |                                            |
+| 52deae6 | lrsha compare local and remote git sha sums | 22:40:01/17-06-2025 |                                            |
+| 3537a00 | yt-dlp                                      | 18:02:59/10-06-2025 |                                            |
+| 0a72033 | combine-audio-video                         | 15:34:45/07-06-2025 |                                            |
+| 5b8ec0f | resample-audio                              | 15:00:08/02-06-2025 |                                            |
+| 2d2ffe4 | yt-dlp                                      | 17:05:33/25-05-2025 |                                            |
+| 2d68894 | record pipewire                             | 13:16:42/23-05-2025 |                                            |
+| 94d6fb8 | record pipewire                             | 18:59:08/22-05-2025 |                                            |
+| 382fdb9 | removed old script                          | 00:07:11/20-05-2025 |                                            |
+#+end_quote
