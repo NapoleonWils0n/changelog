@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fb9cfa6b | cuda check          | 19:44:23/20-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 3ecf0cc3 | whisperx nixos      | 22:56:52/21-06-2025 | HEAD -> master, github/master, github/HEAD |
+| fb9cfa6b | cuda check          | 19:44:23/20-06-2025 |                                            |
 | 99390b5a | quote test complete | 15:55:34/20-06-2025 |                                            |
 | 83ff4c85 | quote test          | 15:54:05/20-06-2025 |                                            |
 | f01c483e | table               | 15:50:18/20-06-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | 5a8cd58a | commit              | 15:46:57/20-06-2025 |                                            |
 | 99dc3f71 | todo                | 15:45:49/20-06-2025 |                                            |
 | 9936c068 | quote works         | 15:41:45/20-06-2025 |                                            |
-| e21fe73a | org wrap            | 15:39:07/20-06-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7faf991 | whisper flake                                          | 19:42:56/20-06-2025 | HEAD -> master, github/master |
-| 2733dfd | removed shell.nix                                      | 19:42:25/20-06-2025 |                               |
-| 0aac175 | emacs exec-path ~/bin                                  | 23:27:04/17-06-2025 |                               |
-| d3df145 | Update Home Manager flake.lock after successful switch | 18:02:29/15-06-2025 |                               |
-| 443242c | nixos home manager flake                               | 14:08:53/15-06-2025 |                               |
-| 6c701cc | audacity removed                                       | 09:50:31/10-06-2025 |                               |
-| 8243a46 | mpv                                                    | 20:27:58/09-06-2025 |                               |
-| b3daaa7 | mpv bbc cache                                          | 20:14:23/09-06-2025 |                               |
-| 4f77a94 | bat                                                    | 19:02:05/09-06-2025 |                               |
-| 2e454e5 | make                                                   | 19:32:02/08-06-2025 |                               |
+| 89d3d7e  | whisperx nixos flake                                   | 23:01:22/21-06-2025 | HEAD -> master, github/master |
+| 1.0e+INF | whisperx nixos flake                                   | 23:00:49/21-06-2025 |                               |
+| 7faf991  | whisper flake                                          | 19:42:56/20-06-2025 |                               |
+| 2733dfd  | removed shell.nix                                      | 19:42:25/20-06-2025 |                               |
+| 0aac175  | emacs exec-path ~/bin                                  | 23:27:04/17-06-2025 |                               |
+| d3df145  | Update Home Manager flake.lock after successful switch | 18:02:29/15-06-2025 |                               |
+| 443242c  | nixos home manager flake                               | 14:08:53/15-06-2025 |                               |
+| 6c701cc  | audacity removed                                       | 09:50:31/10-06-2025 |                               |
+| 8243a46  | mpv                                                    | 20:27:58/09-06-2025 |                               |
+| b3daaa7  | mpv bbc cache                                          | 20:14:23/09-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
