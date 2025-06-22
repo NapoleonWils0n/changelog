@@ -130,7 +130,7 @@ status
 | 96e5f51 | nixos                             | 20:14:11/08-05-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| c243720 | emacs exec-path ~/bin                                  | 23:28:24/17-06-2025 | HEAD -> master, github/master, github/HEAD |
+| d727c79 | nixos home manager flake                               | 20:02:34/22-06-2025 | HEAD -> master, github/master, github/HEAD |
+| c243720 | emacs exec-path ~/bin                                  | 23:28:24/17-06-2025 |                                            |
 | 240f493 | flake update                                           | 15:09:35/15-06-2025 |                                            |
 | 733bb8e | Update Home Manager flake.lock after successful switch | 00:16:00/15-06-2025 |                                            |
 | e911119 | Initial Home Manager flake setup with unstable         | 23:49:08/14-06-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 6bdbec9 | nixos dotfiles macbook air                             | 20:10:15/12-06-2025 |                                            |
 | 3757a05 | gnome                                                  | 17:45:26/07-05-2024 |                                            |
 | 90995b9 | nix                                                    | 15:05:31/07-05-2024 |                                            |
-| 1f6295b | nixos                                                  | 15:04:54/07-05-2024 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
