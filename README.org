@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fa37ccd4 | whisperx speakers   | 18:40:43/22-06-2025 | HEAD -> master, github/master, github/HEAD |
-| 3d9ab361 | whisperx speakers   | 18:34:13/22-06-2025 |                                            |
-| 3ecf0cc3 | whisperx nixos      | 22:56:52/21-06-2025 |                                            |
-| fb9cfa6b | cuda check          | 19:44:23/20-06-2025 |                                            |
-| 99390b5a | quote test complete | 15:55:34/20-06-2025 |                                            |
-| 83ff4c85 | quote test          | 15:54:05/20-06-2025 |                                            |
-| f01c483e | table               | 15:50:18/20-06-2025 |                                            |
-| 76bcf456 | table               | 15:48:03/20-06-2025 |                                            |
-| 3a6b9798 | push                | 15:47:28/20-06-2025 |                                            |
-| 5a8cd58a | commit              | 15:46:57/20-06-2025 |                                            |
+| cc6497e2 | nixos delete old generations | 19:02:40/22-06-2025 | HEAD -> master, github/master, github/HEAD |
+| fa37ccd4 | whisperx speakers            | 18:40:43/22-06-2025 |                                            |
+| 3d9ab361 | whisperx speakers            | 18:34:13/22-06-2025 |                                            |
+| 3ecf0cc3 | whisperx nixos               | 22:56:52/21-06-2025 |                                            |
+| fb9cfa6b | cuda check                   | 19:44:23/20-06-2025 |                                            |
+| 99390b5a | quote test complete          | 15:55:34/20-06-2025 |                                            |
+| 83ff4c85 | quote test                   | 15:54:05/20-06-2025 |                                            |
+| f01c483e | table                        | 15:50:18/20-06-2025 |                                            |
+| 76bcf456 | table                        | 15:48:03/20-06-2025 |                                            |
+| 3a6b9798 | push                         | 15:47:28/20-06-2025 |                                            |
 #+end_quote
 
 ** nixos
