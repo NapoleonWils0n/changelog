@@ -164,7 +164,7 @@ status
 | 90995b9 | nix                                                    | 15:05:31/07-05-2024 |                                            |
 #+end_quote
 
-*** nixos-root-macbook
+*** XPS nixos-root-macbook
 
 github url
 
@@ -186,16 +186,16 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| 39c660b | README                 | 15:05:29/15-06-2025 | HEAD -> master, github/master, github/HEAD |
-| fe72c7e | flake                  | 21:59:20/14-06-2025 |                                            |
-| 1bfb3ae | flake                  | 21:49:03/14-06-2025 |                                            |
-| 1bb4f0a | flake                  | 21:48:00/14-06-2025 |                                            |
-| c31ec38 | flake                  | 21:44:47/14-06-2025 |                                            |
-| a0108e8 | flake                  | 21:21:16/14-06-2025 |                                            |
-| ff53d8e | flake                  | 21:20:36/14-06-2025 |                                            |
-| 7fdf2f1 | flake                  | 21:18:14/14-06-2025 |                                            |
-| 912fe10 | nixos root macbook air | 19:52:12/12-06-2025 |                                            |
-| f3e7039 | typo fixed             | 14:23:09/11-05-2024 |                                            |
+| 3cbaa59 | nixos flake update | 21:00:06/22-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 928fcf4 | flake updated      | 20:58:25/22-06-2025 |                                            |
+| 39c660b | README             | 15:05:29/15-06-2025 |                                            |
+| fe72c7e | flake              | 21:59:20/14-06-2025 |                                            |
+| 1bfb3ae | flake              | 21:49:03/14-06-2025 |                                            |
+| 1bb4f0a | flake              | 21:48:00/14-06-2025 |                                            |
+| c31ec38 | flake              | 21:44:47/14-06-2025 |                                            |
+| a0108e8 | flake              | 21:21:16/14-06-2025 |                                            |
+| ff53d8e | flake              | 21:20:36/14-06-2025 |                                            |
+| 7fdf2f1 | flake              | 21:18:14/14-06-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
