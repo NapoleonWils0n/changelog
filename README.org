@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 6c701cc  | audacity removed                                       | 09:50:31/10-06-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** AIR nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 96e5f51 | nixos                             | 20:14:11/08-05-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 90995b9 | nix                                                    | 15:05:31/07-05-2024 |                                            |
 #+end_quote
 
-*** XPS nixos-root-macbook
+*** AIR nixos-root-macbook
 
 github url
 
