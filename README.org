@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| cc6497e2 | nixos delete old generations | 19:02:40/22-06-2025 | HEAD -> master, github/master, github/HEAD |
+| a6ffc0d5 | nixos                        | 19:53:49/22-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 4eddddc5 | nix flake update             | 19:45:01/22-06-2025 |                                            |
+| cc6497e2 | nixos delete old generations | 19:02:40/22-06-2025 |                                            |
 | fa37ccd4 | whisperx speakers            | 18:40:43/22-06-2025 |                                            |
 | 3d9ab361 | whisperx speakers            | 18:34:13/22-06-2025 |                                            |
 | 3ecf0cc3 | whisperx nixos               | 22:56:52/21-06-2025 |                                            |
@@ -57,12 +59,10 @@ git status
 | 99390b5a | quote test complete          | 15:55:34/20-06-2025 |                                            |
 | 83ff4c85 | quote test                   | 15:54:05/20-06-2025 |                                            |
 | f01c483e | table                        | 15:50:18/20-06-2025 |                                            |
-| 76bcf456 | table                        | 15:48:03/20-06-2025 |                                            |
-| 3a6b9798 | push                         | 15:47:28/20-06-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 8243a46  | mpv                                                    | 20:27:58/09-06-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
