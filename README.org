@@ -130,7 +130,7 @@ status
 | 61cf80f  | pulseaudio for resolve | 15:47:17/01-06-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 53cee7b | nix flake revert                                       | 13:17:34/23-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 2533247 | flake update                                           | 13:00:10/24-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 53cee7b | nix flake revert                                       | 13:17:34/23-06-2025 |                                            |
 | f8a41ac | git revert flake                                       | 01:14:47/23-06-2025 |                                            |
 | d727c79 | nixos home manager flake                               | 20:02:34/22-06-2025 |                                            |
 | c243720 | emacs exec-path ~/bin                                  | 23:28:24/17-06-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | e911119 | Initial Home Manager flake setup with unstable         | 23:49:08/14-06-2025 |                                            |
 | 58c044e | emacs bookmarks                                        | 13:40:20/13-06-2025 |                                            |
 | cce76d6 | emacs mpv default                                      | 23:00:42/12-06-2025 |                                            |
-| 6bdbec9 | nixos dotfiles macbook air                             | 20:10:15/12-06-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
