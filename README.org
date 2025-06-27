@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** TODO nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8088770  | nix flake revert                                       | 13:16:01/23-06-2025 | HEAD -> master, github/master |
-| a848af6  | git revert flake                                       | 01:13:33/23-06-2025 |                               |
-| 53f04a6  | home manager flake                                     | 20:00:42/22-06-2025 |                               |
-| 339bbaa  | whisperx                                               | 18:44:04/22-06-2025 |                               |
-| 89d3d7e  | whisperx nixos flake                                   | 23:01:22/21-06-2025 |                               |
-| 1.0e+INF | whisperx nixos flake                                   | 23:00:49/21-06-2025 |                               |
-| 7faf991  | whisper flake                                          | 19:42:56/20-06-2025 |                               |
-| 2733dfd  | removed shell.nix                                      | 19:42:25/20-06-2025 |                               |
-| 0aac175  | emacs exec-path ~/bin                                  | 23:27:04/17-06-2025 |                               |
-| d3df145  | Update Home Manager flake.lock after successful switch | 18:02:29/15-06-2025 |                               |
+| 17d1978  | flake pin resolve     | 12:41:59/27-06-2025 | HEAD -> master, github/master |
+| 8088770  | nix flake revert      | 13:16:01/23-06-2025 |                               |
+| a848af6  | git revert flake      | 01:13:33/23-06-2025 |                               |
+| 53f04a6  | home manager flake    | 20:00:42/22-06-2025 |                               |
+| 339bbaa  | whisperx              | 18:44:04/22-06-2025 |                               |
+| 89d3d7e  | whisperx nixos flake  | 23:01:22/21-06-2025 |                               |
+| 1.0e+INF | whisperx nixos flake  | 23:00:49/21-06-2025 |                               |
+| 7faf991  | whisper flake         | 19:42:56/20-06-2025 |                               |
+| 2733dfd  | removed shell.nix     | 19:42:25/20-06-2025 |                               |
+| 0aac175  | emacs exec-path ~/bin | 23:27:04/17-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
