@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 17d1978  | flake pin resolve     | 12:41:59/27-06-2025 | HEAD -> master, github/master |
-| 8088770  | nix flake revert      | 13:16:01/23-06-2025 |                               |
-| a848af6  | git revert flake      | 01:13:33/23-06-2025 |                               |
-| 53f04a6  | home manager flake    | 20:00:42/22-06-2025 |                               |
-| 339bbaa  | whisperx              | 18:44:04/22-06-2025 |                               |
-| 89d3d7e  | whisperx nixos flake  | 23:01:22/21-06-2025 |                               |
-| 1.0e+INF | whisperx nixos flake  | 23:00:49/21-06-2025 |                               |
-| 7faf991  | whisper flake         | 19:42:56/20-06-2025 |                               |
-| 2733dfd  | removed shell.nix     | 19:42:25/20-06-2025 |                               |
-| 0aac175  | emacs exec-path ~/bin | 23:27:04/17-06-2025 |                               |
+| 1223b70  | flake updated        | 20:40:26/27-06-2025 | HEAD -> master, github/master |
+| 17d1978  | flake pin resolve    | 12:41:59/27-06-2025 |                               |
+| 8088770  | nix flake revert     | 13:16:01/23-06-2025 |                               |
+| a848af6  | git revert flake     | 01:13:33/23-06-2025 |                               |
+| 53f04a6  | home manager flake   | 20:00:42/22-06-2025 |                               |
+| 339bbaa  | whisperx             | 18:44:04/22-06-2025 |                               |
+| 89d3d7e  | whisperx nixos flake | 23:01:22/21-06-2025 |                               |
+| 1.0e+INF | whisperx nixos flake | 23:00:49/21-06-2025 |                               |
+| 7faf991  | whisper flake        | 19:42:56/20-06-2025 |                               |
+| 2733dfd  | removed shell.nix    | 19:42:25/20-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | f8176b2  | pulseaudio         | 15:49:59/01-06-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 2533247 | flake update                                           | 13:00:10/24-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 8e10bc6 | firefox update                                         | 20:40:55/27-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 2533247 | flake update                                           | 13:00:10/24-06-2025 |                                            |
 | 53cee7b | nix flake revert                                       | 13:17:34/23-06-2025 |                                            |
 | f8a41ac | git revert flake                                       | 01:14:47/23-06-2025 |                                            |
 | d727c79 | nixos home manager flake                               | 20:02:34/22-06-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 733bb8e | Update Home Manager flake.lock after successful switch | 00:16:00/15-06-2025 |                                            |
 | e911119 | Initial Home Manager flake setup with unstable         | 23:49:08/14-06-2025 |                                            |
 | 58c044e | emacs bookmarks                                        | 13:40:20/13-06-2025 |                                            |
-| cce76d6 | emacs mpv default                                      | 23:00:42/12-06-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
