@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f2a5231a | nixos mount zfs snapshot | 22:14:28/26-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 0a8b54f4 | flake pin overlay        | 14:04:29/27-06-2025 | HEAD -> master, github/master, github/HEAD |
+| f2a5231a | nixos mount zfs snapshot | 22:14:28/26-06-2025 |                                            |
 | f46a8153 | nixos mount zfs snapshot | 22:13:26/26-06-2025 |                                            |
 | 68bcbbc3 | removed file             | 21:05:58/26-06-2025 |                                            |
 | e1fa71f5 | override nix hash        | 22:39:33/25-06-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 18bf294f | nix git fix              | 13:38:13/24-06-2025 |                                            |
 | 641d13c1 | nix fix                  | 13:36:56/24-06-2025 |                                            |
 | beedd5fe | removed file             | 18:29:46/23-06-2025 |                                            |
-| c8a15d2c | test                     | 18:26:39/23-06-2025 |                                            |
 #+end_quote
 
 ** nixos
