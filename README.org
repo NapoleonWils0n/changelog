@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| dfab0353 | nix flake pin application | 16:13:55/28-06-2025 | HEAD -> master, github/master, github/HEAD |
-| 63bf0f53 | flake pin application     | 16:12:21/28-06-2025 |                                            |
-| 8e4b9ff2 | flask pin application     | 15:30:22/28-06-2025 |                                            |
-| 0a8b54f4 | flake pin overlay         | 14:04:29/27-06-2025 |                                            |
-| f2a5231a | nixos mount zfs snapshot  | 22:14:28/26-06-2025 |                                            |
-| f46a8153 | nixos mount zfs snapshot  | 22:13:26/26-06-2025 |                                            |
-| 68bcbbc3 | removed file              | 21:05:58/26-06-2025 |                                            |
-| e1fa71f5 | override nix hash         | 22:39:33/25-06-2025 |                                            |
-| 264b3e5c | nix-hash                  | 17:08:21/25-06-2025 |                                            |
-| 090d3844 | nixos hash                | 15:18:28/25-06-2025 |                                            |
+| aa79da67 | awk extract git commit hash | 22:08:18/28-06-2025 | HEAD -> master, github/master, github/HEAD |
+| dfab0353 | nix flake pin application   | 16:13:55/28-06-2025 |                                            |
+| 63bf0f53 | flake pin application       | 16:12:21/28-06-2025 |                                            |
+| 8e4b9ff2 | flask pin application       | 15:30:22/28-06-2025 |                                            |
+| 0a8b54f4 | flake pin overlay           | 14:04:29/27-06-2025 |                                            |
+| f2a5231a | nixos mount zfs snapshot    | 22:14:28/26-06-2025 |                                            |
+| f46a8153 | nixos mount zfs snapshot    | 22:13:26/26-06-2025 |                                            |
+| 68bcbbc3 | removed file                | 21:05:58/26-06-2025 |                                            |
+| e1fa71f5 | override nix hash           | 22:39:33/25-06-2025 |                                            |
+| 264b3e5c | nix-hash                    | 17:08:21/25-06-2025 |                                            |
 #+end_quote
 
 ** nixos
