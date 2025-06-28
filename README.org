@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 26f7673 | emacs ssh sock         | 18:14:26/28-06-2025 | HEAD -> master, github/master |
+| 822c383 | changelog bookmark     | 19:26:39/28-06-2025 | HEAD -> master, github/master |
+| 26f7673 | emacs ssh sock         | 18:14:26/28-06-2025 |                               |
 | 9f438e6 | emacs ssh sock         | 18:10:54/28-06-2025 |                               |
 | 63c8c23 | davinci resolve pinned | 16:11:59/28-06-2025 |                               |
 | 93e088a | with pkgs              | 15:13:38/28-06-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 1223b70 | flake updated          | 20:40:26/27-06-2025 |                               |
 | 17d1978 | flake pin resolve      | 12:41:59/27-06-2025 |                               |
 | 8088770 | nix flake revert       | 13:16:01/23-06-2025 |                               |
-| a848af6 | git revert flake       | 01:13:33/23-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 2651af1 | emacs ssh key                                          | 21:32:19/27-06-2025 | HEAD -> master, github/master, github/HEAD |
-| 4e926a0 | flake updated                                          | 21:13:57/27-06-2025 |                                            |
-| 8e10bc6 | firefox update                                         | 20:40:55/27-06-2025 |                                            |
-| 2533247 | flake update                                           | 13:00:10/24-06-2025 |                                            |
-| 53cee7b | nix flake revert                                       | 13:17:34/23-06-2025 |                                            |
-| f8a41ac | git revert flake                                       | 01:14:47/23-06-2025 |                                            |
-| d727c79 | nixos home manager flake                               | 20:02:34/22-06-2025 |                                            |
-| c243720 | emacs exec-path ~/bin                                  | 23:28:24/17-06-2025 |                                            |
-| 240f493 | flake update                                           | 15:09:35/15-06-2025 |                                            |
-| 733bb8e | Update Home Manager flake.lock after successful switch | 00:16:00/15-06-2025 |                                            |
+| e0edd41 | flake.nix                | 19:24:52/28-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 2651af1 | emacs ssh key            | 21:32:19/27-06-2025 |                                            |
+| 4e926a0 | flake updated            | 21:13:57/27-06-2025 |                                            |
+| 8e10bc6 | firefox update           | 20:40:55/27-06-2025 |                                            |
+| 2533247 | flake update             | 13:00:10/24-06-2025 |                                            |
+| 53cee7b | nix flake revert         | 13:17:34/23-06-2025 |                                            |
+| f8a41ac | git revert flake         | 01:14:47/23-06-2025 |                                            |
+| d727c79 | nixos home manager flake | 20:02:34/22-06-2025 |                                            |
+| c243720 | emacs exec-path ~/bin    | 23:28:24/17-06-2025 |                                            |
+| 240f493 | flake update             | 15:09:35/15-06-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
