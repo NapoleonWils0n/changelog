@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 63c8c23 | davinci resolve pinned | 16:11:59/28-06-2025 | HEAD -> master, github/master |
+| 26f7673 | emacs ssh sock         | 18:14:26/28-06-2025 | HEAD -> master, github/master |
+| 9f438e6 | emacs ssh sock         | 18:10:54/28-06-2025 |                               |
+| 63c8c23 | davinci resolve pinned | 16:11:59/28-06-2025 |                               |
 | 93e088a | with pkgs              | 15:13:38/28-06-2025 |                               |
 | 43b5458 | home manager           | 14:43:24/28-06-2025 |                               |
 | 52796bd | emacs ssh key          | 21:28:40/27-06-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 17d1978 | flake pin resolve      | 12:41:59/27-06-2025 |                               |
 | 8088770 | nix flake revert       | 13:16:01/23-06-2025 |                               |
 | a848af6 | git revert flake       | 01:13:33/23-06-2025 |                               |
-| 53f04a6 | home manager flake     | 20:00:42/22-06-2025 |                               |
-| 339bbaa | whisperx               | 18:44:04/22-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
