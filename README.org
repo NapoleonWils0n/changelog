@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 2fc87a6d | index-tts flake             | 20:52:05/29-06-2025 | HEAD -> master, github/master, github/HEAD |
+| af9a4a63 | nix index-tts               | 00:14:36/01-07-2025 | HEAD -> master, github/master, github/HEAD |
+| c48ec392 | nixos index-tts flake       | 00:12:12/01-07-2025 |                                            |
+| 2fc87a6d | index-tts flake             | 20:52:05/29-06-2025 |                                            |
 | aa79da67 | awk extract git commit hash | 22:08:18/28-06-2025 |                                            |
 | dfab0353 | nix flake pin application   | 16:13:55/28-06-2025 |                                            |
 | 63bf0f53 | flake pin application       | 16:12:21/28-06-2025 |                                            |
@@ -57,8 +59,6 @@ git status
 | 0a8b54f4 | flake pin overlay           | 14:04:29/27-06-2025 |                                            |
 | f2a5231a | nixos mount zfs snapshot    | 22:14:28/26-06-2025 |                                            |
 | f46a8153 | nixos mount zfs snapshot    | 22:13:26/26-06-2025 |                                            |
-| 68bcbbc3 | removed file                | 21:05:58/26-06-2025 |                                            |
-| e1fa71f5 | override nix hash           | 22:39:33/25-06-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6907379 | index-tts flake        | 22:45:14/29-06-2025 | HEAD -> master, github/master |
+| 379e26f | nixos index-tts flake  | 00:17:35/01-07-2025 | HEAD -> master, github/master |
+| 6907379 | index-tts flake        | 22:45:14/29-06-2025 |                               |
 | 822c383 | changelog bookmark     | 19:26:39/28-06-2025 |                               |
 | 26f7673 | emacs ssh sock         | 18:14:26/28-06-2025 |                               |
 | 9f438e6 | emacs ssh sock         | 18:10:54/28-06-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 43b5458 | home manager           | 14:43:24/28-06-2025 |                               |
 | 52796bd | emacs ssh key          | 21:28:40/27-06-2025 |                               |
 | 1223b70 | flake updated          | 20:40:26/27-06-2025 |                               |
-| 17d1978 | flake pin resolve      | 12:41:59/27-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
