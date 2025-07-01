@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 379e26f | nixos index-tts flake  | 00:17:35/01-07-2025 | HEAD -> master, github/master |
+| f6f85d0 | gemini-cli             | 20:58:22/01-07-2025 | HEAD -> master, github/master |
+| 379e26f | nixos index-tts flake  | 00:17:35/01-07-2025 |                               |
 | 6907379 | index-tts flake        | 22:45:14/29-06-2025 |                               |
 | 822c383 | changelog bookmark     | 19:26:39/28-06-2025 |                               |
 | 26f7673 | emacs ssh sock         | 18:14:26/28-06-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 93e088a | with pkgs              | 15:13:38/28-06-2025 |                               |
 | 43b5458 | home manager           | 14:43:24/28-06-2025 |                               |
 | 52796bd | emacs ssh key          | 21:28:40/27-06-2025 |                               |
-| 1223b70 | flake updated          | 20:40:26/27-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
