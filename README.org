@@ -96,7 +96,7 @@ status
 | 52796bd | emacs ssh key          | 21:28:40/27-06-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 6639829  | flake updated      | 15:22:10/24-06-2025 | HEAD -> master, github/master |
+| cac2341  | flake updated      | 13:02:54/02-07-2025 | HEAD -> master, github/master |
+| 6639829  | flake updated      | 15:22:10/24-06-2025 |                               |
 | 2210ad0  | nix revert flake   | 13:18:54/23-06-2025 |                               |
 | 9b6ba3d  | git revert flake   | 01:15:49/23-06-2025 |                               |
 | 1.0e+INF | readme             | 19:36:11/22-06-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 4f52305  | flake.lock         | 14:02:32/15-06-2025 |                               |
 | 3c32748  | flake              | 12:57:50/15-06-2025 |                               |
 | 577fbad  | removed pulseaudio | 16:29:37/01-06-2025 |                               |
-| f8176b2  | pulseaudio         | 15:49:59/01-06-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
