@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 93e088a | with pkgs              | 15:13:38/28-06-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| e0edd41 | flake.nix                | 19:24:52/28-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 5c71057 | flake updated            | 15:10:29/02-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 73a7acf | tree                     | 14:54:45/02-07-2025 |                                            |
+| e0edd41 | flake.nix                | 19:24:52/28-06-2025 |                                            |
 | 2651af1 | emacs ssh key            | 21:32:19/27-06-2025 |                                            |
 | 4e926a0 | flake updated            | 21:13:57/27-06-2025 |                                            |
 | 8e10bc6 | firefox update           | 20:40:55/27-06-2025 |                                            |
@@ -160,8 +162,6 @@ status
 | 53cee7b | nix flake revert         | 13:17:34/23-06-2025 |                                            |
 | f8a41ac | git revert flake         | 01:14:47/23-06-2025 |                                            |
 | d727c79 | nixos home manager flake | 20:02:34/22-06-2025 |                                            |
-| c243720 | emacs exec-path ~/bin    | 23:28:24/17-06-2025 |                                            |
-| 240f493 | flake update             | 15:09:35/15-06-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| 43d89c9 | nix revert flake   | 13:23:20/23-06-2025 | HEAD -> master, github/master, github/HEAD |
+| a288945 | flake updated      | 14:51:46/02-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 43d89c9 | nix revert flake   | 13:23:20/23-06-2025 |                                            |
 | a721f6d | git revert flake   | 01:16:41/23-06-2025 |                                            |
 | 3cbaa59 | nixos flake update | 21:00:06/22-06-2025 |                                            |
 | 928fcf4 | flake updated      | 20:58:25/22-06-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | 1bfb3ae | flake              | 21:49:03/14-06-2025 |                                            |
 | 1bb4f0a | flake              | 21:48:00/14-06-2025 |                                            |
 | c31ec38 | flake              | 21:44:47/14-06-2025 |                                            |
-| a0108e8 | flake              | 21:21:16/14-06-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
