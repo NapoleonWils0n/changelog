@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5ff4bd2b | gem                         | 13:53:00/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 0f78021e | now playing                 | 14:21:29/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 5ff4bd2b | gem                         | 13:53:00/03-07-2025 |                                            |
 | c8d6e0e4 | places research gem         | 15:45:36/02-07-2025 |                                            |
 | af9a4a63 | nix index-tts               | 00:14:36/01-07-2025 |                                            |
 | c48ec392 | nixos index-tts flake       | 00:12:12/01-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | dfab0353 | nix flake pin application   | 16:13:55/28-06-2025 |                                            |
 | 63bf0f53 | flake pin application       | 16:12:21/28-06-2025 |                                            |
 | 8e4b9ff2 | flask pin application       | 15:30:22/28-06-2025 |                                            |
-| 0a8b54f4 | flake pin overlay           | 14:04:29/27-06-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -130,7 +130,7 @@ status
 | 577fbad  | removed pulseaudio | 16:29:37/01-06-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 5c71057 | flake updated            | 15:10:29/02-07-2025 | HEAD -> master, github/master, github/HEAD |
-| 73a7acf | tree                     | 14:54:45/02-07-2025 |                                            |
-| e0edd41 | flake.nix                | 19:24:52/28-06-2025 |                                            |
-| 2651af1 | emacs ssh key            | 21:32:19/27-06-2025 |                                            |
-| 4e926a0 | flake updated            | 21:13:57/27-06-2025 |                                            |
-| 8e10bc6 | firefox update           | 20:40:55/27-06-2025 |                                            |
-| 2533247 | flake update             | 13:00:10/24-06-2025 |                                            |
-| 53cee7b | nix flake revert         | 13:17:34/23-06-2025 |                                            |
-| f8a41ac | git revert flake         | 01:14:47/23-06-2025 |                                            |
-| d727c79 | nixos home manager flake | 20:02:34/22-06-2025 |                                            |
+| fe112ee | removed doom modeline now playing | 14:11:44/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 5c71057 | flake updated                     | 15:10:29/02-07-2025 |                                            |
+| 73a7acf | tree                              | 14:54:45/02-07-2025 |                                            |
+| e0edd41 | flake.nix                         | 19:24:52/28-06-2025 |                                            |
+| 2651af1 | emacs ssh key                     | 21:32:19/27-06-2025 |                                            |
+| 4e926a0 | flake updated                     | 21:13:57/27-06-2025 |                                            |
+| 8e10bc6 | firefox update                    | 20:40:55/27-06-2025 |                                            |
+| 2533247 | flake update                      | 13:00:10/24-06-2025 |                                            |
+| 53cee7b | nix flake revert                  | 13:17:34/23-06-2025 |                                            |
+| f8a41ac | git revert flake                  | 01:14:47/23-06-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 3bd7ae8 | emacs exec-path ~/bin  | 23:30:17/17-06-2025 | HEAD -> master, github/master, github/HEAD |
+| 3d11fea | removed now playing    | 14:13:18/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 3bd7ae8 | emacs exec-path ~/bin  | 23:30:17/17-06-2025 |                                            |
 | eeb500a | debian emacs gptel     | 13:28:30/13-06-2025 |                                            |
 | 70fe3b5 | dired side window      | 18:31:02/31-05-2025 |                                            |
 | 9ea470c | dried side window      | 14:44:11/31-05-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | bc74f67 | emacs titlebar and mpd | 20:48:17/16-05-2025 |                                            |
 | 005d4f6 | emacs titlebar and mpd | 20:43:24/16-05-2025 |                                            |
 | bba05ee | emacs titlebar and mpd | 20:40:44/16-05-2025 |                                            |
-| f7b6250 | nognome notifications  | 14:40:02/16-05-2025 |                                            |
 #+end_quote
 
 *** debian-root
