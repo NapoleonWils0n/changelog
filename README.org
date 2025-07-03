@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 105fe35 | whisperx flake.lock                     | 23:43:13/03-07-2025 | HEAD -> master, github/master |
+| a437ab9 | whisperx nixos unstable                 | 00:44:41/04-07-2025 | HEAD -> master, github/master |
+| 105fe35 | whisperx flake.lock                     | 23:43:13/03-07-2025 |                               |
 | d6de974 | emacs removed doom modeline now playing | 13:38:26/03-07-2025 |                               |
 | 3ef0f1e | flake updated                           | 12:23:04/03-07-2025 |                               |
 | 1a96c7a | flake update                            | 13:15:43/02-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 379e26f | nixos index-tts flake                   | 00:17:35/01-07-2025 |                               |
 | 6907379 | index-tts flake                         | 22:45:14/29-06-2025 |                               |
 | 822c383 | changelog bookmark                      | 19:26:39/28-06-2025 |                               |
-| 26f7673 | emacs ssh sock                          | 18:14:26/28-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
