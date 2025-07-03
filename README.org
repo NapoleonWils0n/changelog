@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0f78021e | now playing                 | 14:21:29/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| dbc687fb | make scene detection        | 20:34:38/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 0f78021e | now playing                 | 14:21:29/03-07-2025 |                                            |
 | 5ff4bd2b | gem                         | 13:53:00/03-07-2025 |                                            |
 | c8d6e0e4 | places research gem         | 15:45:36/02-07-2025 |                                            |
 | af9a4a63 | nix index-tts               | 00:14:36/01-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | aa79da67 | awk extract git commit hash | 22:08:18/28-06-2025 |                                            |
 | dfab0353 | nix flake pin application   | 16:13:55/28-06-2025 |                                            |
 | 63bf0f53 | flake pin application       | 16:12:21/28-06-2025 |                                            |
-| 8e4b9ff2 | flask pin application       | 15:30:22/28-06-2025 |                                            |
 #+end_quote
 
 ** nixos
