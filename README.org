@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| de858888 | index-tts            | 19:04:18/04-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 5759f765 | index-tts            | 19:24:14/04-07-2025 | HEAD -> master, github/master, github/HEAD |
+| de858888 | index-tts            | 19:04:18/04-07-2025 |                                            |
 | 3bdf7746 | whisper              | 13:50:15/04-07-2025 |                                            |
 | 737221fd | whisper              | 13:38:39/04-07-2025 |                                            |
 | 87bc872e | whisper              | 13:37:43/04-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | dbc687fb | make scene detection | 20:34:38/03-07-2025 |                                            |
 | 0f78021e | now playing          | 14:21:29/03-07-2025 |                                            |
 | 5ff4bd2b | gem                  | 13:53:00/03-07-2025 |                                            |
-| c8d6e0e4 | places research gem  | 15:45:36/02-07-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 4292d26 | flake update                            | 17:10:14/04-07-2025 | HEAD -> master, github/master |
+| cd6e6e3 | index-tts flake updated                 | 19:24:56/04-07-2025 | HEAD -> master, github/master |
+| 4292d26 | flake update                            | 17:10:14/04-07-2025 |                               |
 | a73a3bc | resolve                                 | 14:07:24/04-07-2025 |                               |
 | ab21e96 | whisper                                 | 13:40:17/04-07-2025 |                               |
 | a437ab9 | whisperx nixos unstable                 | 00:44:41/04-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 3ef0f1e | flake updated                           | 12:23:04/03-07-2025 |                               |
 | 1a96c7a | flake update                            | 13:15:43/02-07-2025 |                               |
 | bd63e8d | tree                                    | 13:09:19/02-07-2025 |                               |
-| f6f85d0 | gemini-cli                              | 20:58:22/01-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
