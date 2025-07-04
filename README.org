@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 3bdf7746 | whisper              | 13:50:15/04-07-2025 | HEAD -> master, github/master, github/HEAD |
+| de858888 | index-tts            | 19:04:18/04-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 3bdf7746 | whisper              | 13:50:15/04-07-2025 |                                            |
 | 737221fd | whisper              | 13:38:39/04-07-2025 |                                            |
 | 87bc872e | whisper              | 13:37:43/04-07-2025 |                                            |
 | 20aff3f4 | whisperx unstable    | 12:35:06/04-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 0f78021e | now playing          | 14:21:29/03-07-2025 |                                            |
 | 5ff4bd2b | gem                  | 13:53:00/03-07-2025 |                                            |
 | c8d6e0e4 | places research gem  | 15:45:36/02-07-2025 |                                            |
-| af9a4a63 | nix index-tts        | 00:14:36/01-07-2025 |                                            |
 #+end_quote
 
 ** nixos
