@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| ab21e96 | whisper                                 | 13:40:17/04-07-2025 | HEAD -> master, github/master |
+| 4292d26 | flake update                            | 17:10:14/04-07-2025 | HEAD -> master, github/master |
+| a73a3bc | resolve                                 | 14:07:24/04-07-2025 |                               |
+| ab21e96 | whisper                                 | 13:40:17/04-07-2025 |                               |
 | a437ab9 | whisperx nixos unstable                 | 00:44:41/04-07-2025 |                               |
 | 105fe35 | whisperx flake.lock                     | 23:43:13/03-07-2025 |                               |
 | d6de974 | emacs removed doom modeline now playing | 13:38:26/03-07-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 1a96c7a | flake update                            | 13:15:43/02-07-2025 |                               |
 | bd63e8d | tree                                    | 13:09:19/02-07-2025 |                               |
 | f6f85d0 | gemini-cli                              | 20:58:22/01-07-2025 |                               |
-| 379e26f | nixos index-tts flake                   | 00:17:35/01-07-2025 |                               |
-| 6907379 | index-tts flake                         | 22:45:14/29-06-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
