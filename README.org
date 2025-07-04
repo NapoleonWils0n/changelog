@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 4596218a | gemini-cli                  | 22:59:18/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 20aff3f4 | whisperx unstable           | 12:35:06/04-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 4596218a | gemini-cli                  | 22:59:18/03-07-2025 |                                            |
 | dbc687fb | make scene detection        | 20:34:38/03-07-2025 |                                            |
 | 0f78021e | now playing                 | 14:21:29/03-07-2025 |                                            |
 | 5ff4bd2b | gem                         | 13:53:00/03-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | c48ec392 | nixos index-tts flake       | 00:12:12/01-07-2025 |                                            |
 | 2fc87a6d | index-tts flake             | 20:52:05/29-06-2025 |                                            |
 | aa79da67 | awk extract git commit hash | 22:08:18/28-06-2025 |                                            |
-| dfab0353 | nix flake pin application   | 16:13:55/28-06-2025 |                                            |
 #+end_quote
 
 ** nixos
