@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5759f765 | index-tts            | 19:24:14/04-07-2025 | HEAD -> master, github/master, github/HEAD |
-| de858888 | index-tts            | 19:04:18/04-07-2025 |                                            |
-| 3bdf7746 | whisper              | 13:50:15/04-07-2025 |                                            |
-| 737221fd | whisper              | 13:38:39/04-07-2025 |                                            |
-| 87bc872e | whisper              | 13:37:43/04-07-2025 |                                            |
-| 20aff3f4 | whisperx unstable    | 12:35:06/04-07-2025 |                                            |
-| 4596218a | gemini-cli           | 22:59:18/03-07-2025 |                                            |
-| dbc687fb | make scene detection | 20:34:38/03-07-2025 |                                            |
-| 0f78021e | now playing          | 14:21:29/03-07-2025 |                                            |
-| 5ff4bd2b | gem                  | 13:53:00/03-07-2025 |                                            |
+| a5acc1db | flake pin application | 14:18:58/06-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 5759f765 | index-tts             | 19:24:14/04-07-2025 |                                            |
+| de858888 | index-tts             | 19:04:18/04-07-2025 |                                            |
+| 3bdf7746 | whisper               | 13:50:15/04-07-2025 |                                            |
+| 737221fd | whisper               | 13:38:39/04-07-2025 |                                            |
+| 87bc872e | whisper               | 13:37:43/04-07-2025 |                                            |
+| 20aff3f4 | whisperx unstable     | 12:35:06/04-07-2025 |                                            |
+| 4596218a | gemini-cli            | 22:59:18/03-07-2025 |                                            |
+| dbc687fb | make scene detection  | 20:34:38/03-07-2025 |                                            |
+| 0f78021e | now playing           | 14:21:29/03-07-2025 |                                            |
 #+end_quote
 
 ** nixos
