@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a5acc1db | flake pin application | 14:18:58/06-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 62447420 | fdkaac                | 15:48:09/06-07-2025 | HEAD -> master, github/master, github/HEAD |
+| a5acc1db | flake pin application | 14:18:58/06-07-2025 |                                            |
 | 5759f765 | index-tts             | 19:24:14/04-07-2025 |                                            |
 | de858888 | index-tts             | 19:04:18/04-07-2025 |                                            |
 | 3bdf7746 | whisper               | 13:50:15/04-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 20aff3f4 | whisperx unstable     | 12:35:06/04-07-2025 |                                            |
 | 4596218a | gemini-cli            | 22:59:18/03-07-2025 |                                            |
 | dbc687fb | make scene detection  | 20:34:38/03-07-2025 |                                            |
-| 0f78021e | now playing           | 14:21:29/03-07-2025 |                                            |
 #+end_quote
 
 ** nixos
