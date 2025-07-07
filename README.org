@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f9e8e55 | rnnoise                 | 22:54:19/07-07-2025 | HEAD -> master, github/master |
+| 7fa13ab | removed rnnoise-plugin  | 23:28:13/07-07-2025 | HEAD -> master, github/master |
+| f9e8e55 | rnnoise                 | 22:54:19/07-07-2025 |                               |
 | 84fa596 | removed rnnoise         | 21:50:21/07-07-2025 |                               |
 | dc83a14 | rnnoise                 | 21:42:44/07-07-2025 |                               |
 | fa531f0 | noise repellent         | 15:45:38/05-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | b6445d8 | ardour                  | 12:49:55/05-07-2025 |                               |
 | cd6e6e3 | index-tts flake updated | 19:24:56/04-07-2025 |                               |
 | 4292d26 | flake update            | 17:10:14/04-07-2025 |                               |
-| a73a3bc | resolve                 | 14:07:24/04-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
