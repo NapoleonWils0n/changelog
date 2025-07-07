@@ -96,7 +96,7 @@ status
 | 105fe35 | whisperx flake.lock     | 23:43:13/03-07-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| cac2341  | flake updated      | 13:02:54/02-07-2025 | HEAD -> master, github/master |
-| 6639829  | flake updated      | 15:22:10/24-06-2025 |                               |
-| 2210ad0  | nix revert flake   | 13:18:54/23-06-2025 |                               |
-| 9b6ba3d  | git revert flake   | 01:15:49/23-06-2025 |                               |
-| 1.0e+INF | readme             | 19:36:11/22-06-2025 |                               |
-| 4d7ea47  | README             | 15:05:04/15-06-2025 |                               |
-| a09f642  | flake              | 14:03:11/15-06-2025 |                               |
-| 4f52305  | flake.lock         | 14:02:32/15-06-2025 |                               |
-| 3c32748  | flake              | 12:57:50/15-06-2025 |                               |
-| 577fbad  | removed pulseaudio | 16:29:37/01-06-2025 |                               |
+| e655aac  | jack             | 17:57:15/07-07-2025 | HEAD -> master, github/master |
+| cac2341  | flake updated    | 13:02:54/02-07-2025 |                               |
+| 6639829  | flake updated    | 15:22:10/24-06-2025 |                               |
+| 2210ad0  | nix revert flake | 13:18:54/23-06-2025 |                               |
+| 9b6ba3d  | git revert flake | 01:15:49/23-06-2025 |                               |
+| 1.0e+INF | readme           | 19:36:11/22-06-2025 |                               |
+| 4d7ea47  | README           | 15:05:04/15-06-2025 |                               |
+| a09f642  | flake            | 14:03:11/15-06-2025 |                               |
+| 4f52305  | flake.lock       | 14:02:32/15-06-2025 |                               |
+| 3c32748  | flake            | 12:57:50/15-06-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
