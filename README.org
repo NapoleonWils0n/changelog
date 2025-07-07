@@ -164,7 +164,7 @@ status
 | f8a41ac | git revert flake                  | 01:14:47/23-06-2025 |                                            |
 #+end_quote
 
-*** nixos-root-macbook
+*** XPS nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| a288945 | flake updated      | 14:51:46/02-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 | HEAD -> master, github/master, github/HEAD |
+| a288945 | flake updated      | 14:51:46/02-07-2025 |                                            |
 | 43d89c9 | nix revert flake   | 13:23:20/23-06-2025 |                                            |
 | a721f6d | git revert flake   | 01:16:41/23-06-2025 |                                            |
 | 3cbaa59 | nixos flake update | 21:00:06/22-06-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | fe72c7e | flake              | 21:59:20/14-06-2025 |                                            |
 | 1bfb3ae | flake              | 21:49:03/14-06-2025 |                                            |
 | 1bb4f0a | flake              | 21:48:00/14-06-2025 |                                            |
-| c31ec38 | flake              | 21:44:47/14-06-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
