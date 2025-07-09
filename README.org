@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 503d1ee | rnnoise-plugin vst                 | 15:39:22/08-07-2025 | HEAD -> master, github/master |
+| 7fa8fed | pipewire                           | 21:35:36/09-07-2025 | HEAD -> master, github/master |
+| 503d1ee | rnnoise-plugin vst                 | 15:39:22/08-07-2025 |                               |
 | af86141 | removed rnnoise-plugin not working | 14:59:54/08-07-2025 |                               |
 | 079f975 | rnnoise-plugin                     | 14:47:34/08-07-2025 |                               |
 | 7fa13ab | removed rnnoise-plugin             | 23:28:13/07-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | dc83a14 | rnnoise                            | 21:42:44/07-07-2025 |                               |
 | fa531f0 | noise repellent                    | 15:45:38/05-07-2025 |                               |
 | 85eb2bd | rnnoise-plugin                     | 15:05:30/05-07-2025 |                               |
-| beb978f | rnnoise                            | 14:32:31/05-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
