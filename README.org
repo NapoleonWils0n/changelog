@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 85eb2bd | rnnoise-plugin                     | 15:05:30/05-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** AIR nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 3c32748  | flake            | 12:57:50/15-06-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| fe112ee | removed doom modeline now playing | 14:11:44/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 50d1758 | flake updated                     | 20:00:05/10-07-2025 | HEAD -> master, github/master, github/HEAD |
+| fe112ee | removed doom modeline now playing | 14:11:44/03-07-2025 |                                            |
 | 5c71057 | flake updated                     | 15:10:29/02-07-2025 |                                            |
 | 73a7acf | tree                              | 14:54:45/02-07-2025 |                                            |
 | e0edd41 | flake.nix                         | 19:24:52/28-06-2025 |                                            |
@@ -161,10 +162,9 @@ status
 | 8e10bc6 | firefox update                    | 20:40:55/27-06-2025 |                                            |
 | 2533247 | flake update                      | 13:00:10/24-06-2025 |                                            |
 | 53cee7b | nix flake revert                  | 13:17:34/23-06-2025 |                                            |
-| f8a41ac | git revert flake                  | 01:14:47/23-06-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-root-macbook
+*** AIR nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 | HEAD -> master, github/master, github/HEAD |
+| e8fb96e | flake updated      | 19:43:24/10-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 |                                            |
 | a288945 | flake updated      | 14:51:46/02-07-2025 |                                            |
 | 43d89c9 | nix revert flake   | 13:23:20/23-06-2025 |                                            |
 | a721f6d | git revert flake   | 01:16:41/23-06-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | 39c660b | README             | 15:05:29/15-06-2025 |                                            |
 | fe72c7e | flake              | 21:59:20/14-06-2025 |                                            |
 | 1bfb3ae | flake              | 21:49:03/14-06-2025 |                                            |
-| 1bb4f0a | flake              | 21:48:00/14-06-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
