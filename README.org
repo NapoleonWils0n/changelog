@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| da7bde96 | whisperx              | 23:04:07/11-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 744da064 | whisperx 3 speakers   | 23:06:43/11-07-2025 | HEAD -> master, github/master, github/HEAD |
+| da7bde96 | whisperx              | 23:04:07/11-07-2025 |                                            |
 | a71f6344 | gemini-cli            | 17:45:13/11-07-2025 |                                            |
 | a12a633f | ardour nixos          | 23:47:10/08-07-2025 |                                            |
 | 62447420 | fdkaac                | 15:48:09/06-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | de858888 | index-tts             | 19:04:18/04-07-2025 |                                            |
 | 3bdf7746 | whisper               | 13:50:15/04-07-2025 |                                            |
 | 737221fd | whisper               | 13:38:39/04-07-2025 |                                            |
-| 87bc872e | whisper               | 13:37:43/04-07-2025 |                                            |
 #+end_quote
 
 ** nixos
