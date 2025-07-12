@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7fa8fed | pipewire                           | 21:35:36/09-07-2025 | HEAD -> master, github/master |
-| 503d1ee | rnnoise-plugin vst                 | 15:39:22/08-07-2025 |                               |
-| af86141 | removed rnnoise-plugin not working | 14:59:54/08-07-2025 |                               |
-| 079f975 | rnnoise-plugin                     | 14:47:34/08-07-2025 |                               |
-| 7fa13ab | removed rnnoise-plugin             | 23:28:13/07-07-2025 |                               |
-| f9e8e55 | rnnoise                            | 22:54:19/07-07-2025 |                               |
-| 84fa596 | removed rnnoise                    | 21:50:21/07-07-2025 |                               |
-| dc83a14 | rnnoise                            | 21:42:44/07-07-2025 |                               |
-| fa531f0 | noise repellent                    | 15:45:38/05-07-2025 |                               |
-| 85eb2bd | rnnoise-plugin                     | 15:05:30/05-07-2025 |                               |
+| 3857f6f | home-manager removed dwl             | 22:52:52/12-07-2025 | HEAD -> master, github/master |
+| e271d37 | moving dwl dwlb to configuration.nix | 21:23:35/12-07-2025 |                               |
+| 8d3fd01 | dwl overlay                          | 21:05:53/12-07-2025 |                               |
+| 5ed0940 | dwl                                  | 21:00:30/12-07-2025 |                               |
+| 7fa8fed | pipewire                             | 21:35:36/09-07-2025 |                               |
+| 503d1ee | rnnoise-plugin vst                   | 15:39:22/08-07-2025 |                               |
+| af86141 | removed rnnoise-plugin not working   | 14:59:54/08-07-2025 |                               |
+| 079f975 | rnnoise-plugin                       | 14:47:34/08-07-2025 |                               |
+| 7fa13ab | removed rnnoise-plugin               | 23:28:13/07-07-2025 |                               |
+| f9e8e55 | rnnoise                              | 22:54:19/07-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
