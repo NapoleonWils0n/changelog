@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 537b9c9 | dwl                                  | 01:46:54/13-07-2025 | HEAD -> master, github/master |
+| 56edfc3 | tofi font                            | 02:16:34/13-07-2025 | HEAD -> master, github/master |
+| 537b9c9 | dwl                                  | 01:46:54/13-07-2025 |                               |
 | 3857f6f | home-manager removed dwl             | 22:52:52/12-07-2025 |                               |
 | e271d37 | moving dwl dwlb to configuration.nix | 21:23:35/12-07-2025 |                               |
 | 8d3fd01 | dwl overlay                          | 21:05:53/12-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 503d1ee | rnnoise-plugin vst                   | 15:39:22/08-07-2025 |                               |
 | af86141 | removed rnnoise-plugin not working   | 14:59:54/08-07-2025 |                               |
 | 079f975 | rnnoise-plugin                       | 14:47:34/08-07-2025 |                               |
-| 7fa13ab | removed rnnoise-plugin               | 23:28:13/07-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
