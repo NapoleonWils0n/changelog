@@ -130,7 +130,7 @@ status
 | 8ad7eb7   | dwl patch      | 00:55:28/13-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 50d1758 | flake updated                     | 20:00:05/10-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 1b20e52 | nixos dwl                         | 21:29:48/13-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 50d1758 | flake updated                     | 20:00:05/10-07-2025 |                                            |
 | fe112ee | removed doom modeline now playing | 14:11:44/03-07-2025 |                                            |
 | 5c71057 | flake updated                     | 15:10:29/02-07-2025 |                                            |
 | 73a7acf | tree                              | 14:54:45/02-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 4e926a0 | flake updated                     | 21:13:57/27-06-2025 |                                            |
 | 8e10bc6 | firefox update                    | 20:40:55/27-06-2025 |                                            |
 | 2533247 | flake update                      | 13:00:10/24-06-2025 |                                            |
-| 53cee7b | nix flake revert                  | 13:17:34/23-06-2025 |                                            |
 #+end_quote
 
 *** XPS nixos-root-macbook
