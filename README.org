@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| eb2f851 | dbus           | 16:13:34/13-07-2025 | HEAD -> master, github/master |
-| 5ba03df | renamed readme | 15:32:45/13-07-2025 |                               |
-| be96407 | wlroots        | 15:15:23/13-07-2025 |                               |
-| 95f9707 | xdg            | 14:24:54/13-07-2025 |                               |
-| 27769b9 | dwl dbus       | 02:31:05/13-07-2025 |                               |
-| d537b41 | dwl volume     | 01:45:35/13-07-2025 |                               |
-| 697c09a | dwl refactored | 01:20:44/13-07-2025 |                               |
-| 8ad7eb7 | dwl patch      | 00:55:28/13-07-2025 |                               |
-| a948cec | dwl            | 23:28:58/12-07-2025 |                               |
-| 467a77d | dwl dwlb       | 23:25:02/12-07-2025 |                               |
+| 2.078e+79 | nixos dwl      | 19:26:42/13-07-2025 | HEAD -> master, github/master |
+| eb2f851   | dbus           | 16:13:34/13-07-2025 |                               |
+| 5ba03df   | renamed readme | 15:32:45/13-07-2025 |                               |
+| be96407   | wlroots        | 15:15:23/13-07-2025 |                               |
+| 95f9707   | xdg            | 14:24:54/13-07-2025 |                               |
+| 27769b9   | dwl dbus       | 02:31:05/13-07-2025 |                               |
+| d537b41   | dwl volume     | 01:45:35/13-07-2025 |                               |
+| 697c09a   | dwl refactored | 01:20:44/13-07-2025 |                               |
+| 8ad7eb7   | dwl patch      | 00:55:28/13-07-2025 |                               |
+| a948cec   | dwl            | 23:28:58/12-07-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
