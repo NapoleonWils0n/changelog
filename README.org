@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** AIR cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** AIR nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 8d3fd01 | dwl overlay                          | 21:05:53/12-07-2025 |                               |
 #+end_quote
 
-*** AIR nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 8ad7eb7   | dwl patch      | 00:55:28/13-07-2025 |                               |
 #+end_quote
 
-*** AIR nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 8e10bc6 | firefox update                    | 20:40:55/27-06-2025 |                                            |
 #+end_quote
 
-*** AIR nixos-root-macbook
+*** nixos-root-macbook
 
 github url
 
