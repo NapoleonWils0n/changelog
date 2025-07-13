@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| d537b41 | dwl volume     | 01:45:35/13-07-2025 | HEAD -> master, github/master |
+| 27769b9 | dwl dbus       | 02:31:05/13-07-2025 | HEAD -> master, github/master |
+| d537b41 | dwl volume     | 01:45:35/13-07-2025 |                               |
 | 697c09a | dwl refactored | 01:20:44/13-07-2025 |                               |
 | 8ad7eb7 | dwl patch      | 00:55:28/13-07-2025 |                               |
 | a948cec | dwl            | 23:28:58/12-07-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 4a50e87 | dwl            | 23:00:56/12-07-2025 |                               |
 | c163800 | dwl            | 21:53:37/12-07-2025 |                               |
 | e655aac | jack           | 17:57:15/07-07-2025 |                               |
-| cac2341 | flake updated  | 13:02:54/02-07-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
