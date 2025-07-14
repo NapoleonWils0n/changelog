@@ -96,7 +96,7 @@ status
 | 8d3fd01 | dwl overlay                          | 21:05:53/12-07-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 30107a4   | tangle         | 21:01:41/13-07-2025 | HEAD -> master, github/master |
-| 2.078e+79 | nixos dwl      | 19:26:42/13-07-2025 |                               |
-| eb2f851   | dbus           | 16:13:34/13-07-2025 |                               |
-| 5ba03df   | renamed readme | 15:32:45/13-07-2025 |                               |
-| be96407   | wlroots        | 15:15:23/13-07-2025 |                               |
-| 95f9707   | xdg            | 14:24:54/13-07-2025 |                               |
-| 27769b9   | dwl dbus       | 02:31:05/13-07-2025 |                               |
-| d537b41   | dwl volume     | 01:45:35/13-07-2025 |                               |
-| 697c09a   | dwl refactored | 01:20:44/13-07-2025 |                               |
-| 8ad7eb7   | dwl patch      | 00:55:28/13-07-2025 |                               |
+| 9b8fb4b   | dwl nixos          | 21:58:32/14-07-2025 | HEAD -> master, github/master |
+| 2fe2731   | new patch          | 20:46:13/14-07-2025 |                               |
+| 307c4e1   | wpctl patch        | 20:33:03/14-07-2025 |                               |
+| a16db93   | patch new version  | 20:20:04/14-07-2025 |                               |
+| 38ec8cd   | sloppy focus patch | 20:05:10/14-07-2025 |                               |
+| fc1b781   | patch              | 18:28:41/14-07-2025 |                               |
+| 7d1a4fb   | removed patch      | 16:49:05/14-07-2025 |                               |
+| 1.0e+INF  | sloopy focus patch | 16:16:22/14-07-2025 |                               |
+| 30107a4   | tangle             | 21:01:41/13-07-2025 |                               |
+| 2.078e+79 | nixos dwl          | 19:26:42/13-07-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
