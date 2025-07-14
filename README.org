@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| e7b3e851 | dwl                          | 00:03:00/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| bb28b761 | wlrctl                       | 00:24:22/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| e7b3e851 | dwl                          | 00:03:00/15-07-2025 |                                            |
 | aaa3e7ac | dwl nixos                    | 23:10:31/14-07-2025 |                                            |
 | 2c9ce8fc | nixos dwl                    | 22:58:32/14-07-2025 |                                            |
 | 2781c930 | dbus                         | 16:16:58/13-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | dc14dc86 | wpctl pipewire adjust volume | 20:30:18/12-07-2025 |                                            |
 | 744da064 | whisperx 3 speakers          | 23:06:43/11-07-2025 |                                            |
 | da7bde96 | whisperx                     | 23:04:07/11-07-2025 |                                            |
-| a71f6344 | gemini-cli                   | 17:45:13/11-07-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 118471e | warp        | 23:56:58/14-07-2025 | HEAD -> master, github/master |
+| 45887ec | wlrctl      | 00:20:54/15-07-2025 | HEAD -> master, github/master |
+| 118471e | warp        | 23:56:58/14-07-2025 |                               |
 | 58e79ad | warp        | 23:53:48/14-07-2025 |                               |
 | 807789b | warp-cursor | 23:47:02/14-07-2025 |                               |
 | 8ad31a0 | dwl nixos   | 23:08:39/14-07-2025 |                               |
@@ -127,7 +128,6 @@ status
 | aabc640 | wlrctl      | 22:24:40/14-07-2025 |                               |
 | 7910f9a | wlrctl      | 22:19:40/14-07-2025 |                               |
 | 9b8fb4b | dwl nixos   | 21:58:32/14-07-2025 |                               |
-| 2fe2731 | new patch   | 20:46:13/14-07-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
@@ -186,16 +186,16 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| 720c3e8 | warp cursor        | 00:01:29/15-07-2025 | HEAD -> master, github/master, github/HEAD |
-| 372c6e3 | dwl nixos          | 23:09:39/14-07-2025 |                                            |
-| b535d64 | wlrctl warp        | 22:29:43/14-07-2025 |                                            |
-| d1d6cda | nixos dwl          | 21:22:12/13-07-2025 |                                            |
-| e8fb96e | flake updated      | 19:43:24/10-07-2025 |                                            |
-| b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 |                                            |
-| a288945 | flake updated      | 14:51:46/02-07-2025 |                                            |
-| 43d89c9 | nix revert flake   | 13:23:20/23-06-2025 |                                            |
-| a721f6d | git revert flake   | 01:16:41/23-06-2025 |                                            |
-| 3cbaa59 | nixos flake update | 21:00:06/22-06-2025 |                                            |
+| b904971 | wlrctl           | 00:22:36/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 720c3e8 | warp cursor      | 00:01:29/15-07-2025 |                                            |
+| 372c6e3 | dwl nixos        | 23:09:39/14-07-2025 |                                            |
+| b535d64 | wlrctl warp      | 22:29:43/14-07-2025 |                                            |
+| d1d6cda | nixos dwl        | 21:22:12/13-07-2025 |                                            |
+| e8fb96e | flake updated    | 19:43:24/10-07-2025 |                                            |
+| b00fa66 | rtkit for audio  | 20:21:35/07-07-2025 |                                            |
+| a288945 | flake updated    | 14:51:46/02-07-2025 |                                            |
+| 43d89c9 | nix revert flake | 13:23:20/23-06-2025 |                                            |
+| a721f6d | git revert flake | 01:16:41/23-06-2025 |                                            |
 #+end_quote
 
 *** XPS nixos-bin
@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 9670bc5  | warp cursor                                 | 23:38:35/14-07-2025 | HEAD -> master, github/master |
+| 935ba17  | removed warp-cursor                         | 00:23:32/15-07-2025 | HEAD -> master, github/master |
+| 9670bc5  | warp cursor                                 | 23:38:35/14-07-2025 |                               |
 | 1.0e+INF | removed script                              | 13:46:13/18-06-2025 |                               |
 | 9103843  | lrsha                                       | 13:45:42/18-06-2025 |                               |
 | 3fb16e0  | removed script                              | 12:33:27/18-06-2025 |                               |
@@ -229,7 +230,6 @@ status
 | 1.0e+INF | combine-audio-video                         | 15:33:35/07-06-2025 |                               |
 | d235473  | resample-audio                              | 14:59:24/02-06-2025 |                               |
 | 49eb106  | record pipewire                             | 13:16:29/23-05-2025 |                               |
-| 9905a38  | record pipewire                             | 18:58:30/22-05-2025 |                               |
 #+end_quote
 
 ** debian
