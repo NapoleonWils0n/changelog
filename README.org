@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 9b8fb4b   | dwl nixos          | 21:58:32/14-07-2025 | HEAD -> master, github/master |
-| 2fe2731   | new patch          | 20:46:13/14-07-2025 |                               |
-| 307c4e1   | wpctl patch        | 20:33:03/14-07-2025 |                               |
-| a16db93   | patch new version  | 20:20:04/14-07-2025 |                               |
-| 38ec8cd   | sloppy focus patch | 20:05:10/14-07-2025 |                               |
-| fc1b781   | patch              | 18:28:41/14-07-2025 |                               |
-| 7d1a4fb   | removed patch      | 16:49:05/14-07-2025 |                               |
-| 1.0e+INF  | sloopy focus patch | 16:16:22/14-07-2025 |                               |
-| 30107a4   | tangle             | 21:01:41/13-07-2025 |                               |
-| 2.078e+79 | nixos dwl          | 19:26:42/13-07-2025 |                               |
+| 3385cea | wlrctl warp        | 22:28:13/14-07-2025 | HEAD -> master, github/master |
+| aabc640 | wlrctl             | 22:24:40/14-07-2025 |                               |
+| 7910f9a | wlrctl             | 22:19:40/14-07-2025 |                               |
+| 9b8fb4b | dwl nixos          | 21:58:32/14-07-2025 |                               |
+| 2fe2731 | new patch          | 20:46:13/14-07-2025 |                               |
+| 307c4e1 | wpctl patch        | 20:33:03/14-07-2025 |                               |
+| a16db93 | patch new version  | 20:20:04/14-07-2025 |                               |
+| 38ec8cd | sloppy focus patch | 20:05:10/14-07-2025 |                               |
+| fc1b781 | patch              | 18:28:41/14-07-2025 |                               |
+| 7d1a4fb | removed patch      | 16:49:05/14-07-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
@@ -164,7 +164,7 @@ status
 | 8e10bc6 | firefox update                    | 20:40:55/27-06-2025 |                                            |
 #+end_quote
 
-*** nixos-root-macbook
+*** XPS nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| d1d6cda | nixos dwl          | 21:22:12/13-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b535d64 | wlrctl warp        | 22:29:43/14-07-2025 | HEAD -> master, github/master, github/HEAD |
+| d1d6cda | nixos dwl          | 21:22:12/13-07-2025 |                                            |
 | e8fb96e | flake updated      | 19:43:24/10-07-2025 |                                            |
 | b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 |                                            |
 | a288945 | flake updated      | 14:51:46/02-07-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | 3cbaa59 | nixos flake update | 21:00:06/22-06-2025 |                                            |
 | 928fcf4 | flake updated      | 20:58:25/22-06-2025 |                                            |
 | 39c660b | README             | 15:05:29/15-06-2025 |                                            |
-| fe72c7e | flake              | 21:59:20/14-06-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
