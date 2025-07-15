@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** TODO nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 2c64ae5 | removed opacity                   | 13:37:35/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| ace1a4d | wireplumber                       | 20:02:26/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 2c64ae5 | removed opacity                   | 13:37:35/15-07-2025 |                                            |
 | 8d27d7e | nixos dwl                         | 21:39:35/13-07-2025 |                                            |
 | 1b20e52 | nixos dwl                         | 21:29:48/13-07-2025 |                                            |
 | 50d1758 | flake updated                     | 20:00:05/10-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 73a7acf | tree                              | 14:54:45/02-07-2025 |                                            |
 | e0edd41 | flake.nix                         | 19:24:52/28-06-2025 |                                            |
 | 2651af1 | emacs ssh key                     | 21:32:19/27-06-2025 |                                            |
-| 4e926a0 | flake updated                     | 21:13:57/27-06-2025 |                                            |
 #+end_quote
 
 *** XPS nixos-root-macbook
