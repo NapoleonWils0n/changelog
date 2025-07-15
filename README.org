@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7ea79a9 | removed mako                         | 16:09:22/13-07-2025 | HEAD -> master, github/master |
+| 7216a97 | removed opacity                      | 13:35:42/15-07-2025 | HEAD -> master, github/master |
+| 7ea79a9 | removed mako                         | 16:09:22/13-07-2025 |                               |
 | 4a5386e | mako                                 | 15:59:48/13-07-2025 |                               |
 | fd26662 | obs                                  | 15:13:32/13-07-2025 |                               |
 | 6c08e9f | removed pcmanfm                      | 14:58:45/13-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 537b9c9 | dwl                                  | 01:46:54/13-07-2025 |                               |
 | 3857f6f | home-manager removed dwl             | 22:52:52/12-07-2025 |                               |
 | e271d37 | moving dwl dwlb to configuration.nix | 21:23:35/12-07-2025 |                               |
-| 8d3fd01 | dwl overlay                          | 21:05:53/12-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 9b8fb4b | dwl nixos   | 21:58:32/14-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 8d27d7e | nixos dwl                         | 21:39:35/13-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 2c64ae5 | removed opacity                   | 13:37:35/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 8d27d7e | nixos dwl                         | 21:39:35/13-07-2025 |                                            |
 | 1b20e52 | nixos dwl                         | 21:29:48/13-07-2025 |                                            |
 | 50d1758 | flake updated                     | 20:00:05/10-07-2025 |                                            |
 | fe112ee | removed doom modeline now playing | 14:11:44/03-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | e0edd41 | flake.nix                         | 19:24:52/28-06-2025 |                                            |
 | 2651af1 | emacs ssh key                     | 21:32:19/27-06-2025 |                                            |
 | 4e926a0 | flake updated                     | 21:13:57/27-06-2025 |                                            |
-| 8e10bc6 | firefox update                    | 20:40:55/27-06-2025 |                                            |
 #+end_quote
 
 *** XPS nixos-root-macbook
