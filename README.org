@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7216a97 | removed opacity                      | 13:35:42/15-07-2025 | HEAD -> master, github/master |
-| 7ea79a9 | removed mako                         | 16:09:22/13-07-2025 |                               |
-| 4a5386e | mako                                 | 15:59:48/13-07-2025 |                               |
-| fd26662 | obs                                  | 15:13:32/13-07-2025 |                               |
-| 6c08e9f | removed pcmanfm                      | 14:58:45/13-07-2025 |                               |
-| 6cc2196 | wlroots                              | 14:28:54/13-07-2025 |                               |
-| 56edfc3 | tofi font                            | 02:16:34/13-07-2025 |                               |
-| 537b9c9 | dwl                                  | 01:46:54/13-07-2025 |                               |
-| 3857f6f | home-manager removed dwl             | 22:52:52/12-07-2025 |                               |
-| e271d37 | moving dwl dwlb to configuration.nix | 21:23:35/12-07-2025 |                               |
+| 228155e | wireplumber              | 19:43:26/15-07-2025 | HEAD -> master, github/master |
+| 7216a97 | removed opacity          | 13:35:42/15-07-2025 |                               |
+| 7ea79a9 | removed mako             | 16:09:22/13-07-2025 |                               |
+| 4a5386e | mako                     | 15:59:48/13-07-2025 |                               |
+| fd26662 | obs                      | 15:13:32/13-07-2025 |                               |
+| 6c08e9f | removed pcmanfm          | 14:58:45/13-07-2025 |                               |
+| 6cc2196 | wlroots                  | 14:28:54/13-07-2025 |                               |
+| 56edfc3 | tofi font                | 02:16:34/13-07-2025 |                               |
+| 537b9c9 | dwl                      | 01:46:54/13-07-2025 |                               |
+| 3857f6f | home-manager removed dwl | 22:52:52/12-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
