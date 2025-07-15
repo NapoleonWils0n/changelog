@@ -164,7 +164,7 @@ status
 | 2651af1 | emacs ssh key                     | 21:32:19/27-06-2025 |                                            |
 #+end_quote
 
-*** TODO nixos-root-macbook
+*** AIR nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| b904971 | wlrctl           | 00:22:36/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 3595166 | flake updated    | 22:57:15/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b904971 | wlrctl           | 00:22:36/15-07-2025 |                                            |
 | 720c3e8 | warp cursor      | 00:01:29/15-07-2025 |                                            |
 | 372c6e3 | dwl nixos        | 23:09:39/14-07-2025 |                                            |
 | b535d64 | wlrctl warp      | 22:29:43/14-07-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | b00fa66 | rtkit for audio  | 20:21:35/07-07-2025 |                                            |
 | a288945 | flake updated    | 14:51:46/02-07-2025 |                                            |
 | 43d89c9 | nix revert flake | 13:23:20/23-06-2025 |                                            |
-| a721f6d | git revert flake | 01:16:41/23-06-2025 |                                            |
 #+end_quote
 
 *** XPS nixos-bin
