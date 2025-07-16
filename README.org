@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 228155e | wireplumber              | 19:43:26/15-07-2025 | HEAD -> master, github/master |
-| 7216a97 | removed opacity          | 13:35:42/15-07-2025 |                               |
-| 7ea79a9 | removed mako             | 16:09:22/13-07-2025 |                               |
-| 4a5386e | mako                     | 15:59:48/13-07-2025 |                               |
-| fd26662 | obs                      | 15:13:32/13-07-2025 |                               |
-| 6c08e9f | removed pcmanfm          | 14:58:45/13-07-2025 |                               |
-| 6cc2196 | wlroots                  | 14:28:54/13-07-2025 |                               |
-| 56edfc3 | tofi font                | 02:16:34/13-07-2025 |                               |
-| 537b9c9 | dwl                      | 01:46:54/13-07-2025 |                               |
-| 3857f6f | home-manager removed dwl | 22:52:52/12-07-2025 |                               |
+| 5f0c6aa | gptel gemini flash 2.5 | 18:31:25/16-07-2025 | HEAD -> master, github/master |
+| a56a1c8 | flake updated          | 12:31:00/16-07-2025 |                               |
+| 228155e | wireplumber            | 19:43:26/15-07-2025 |                               |
+| 7216a97 | removed opacity        | 13:35:42/15-07-2025 |                               |
+| 7ea79a9 | removed mako           | 16:09:22/13-07-2025 |                               |
+| 4a5386e | mako                   | 15:59:48/13-07-2025 |                               |
+| fd26662 | obs                    | 15:13:32/13-07-2025 |                               |
+| 6c08e9f | removed pcmanfm        | 14:58:45/13-07-2025 |                               |
+| 6cc2196 | wlroots                | 14:28:54/13-07-2025 |                               |
+| 56edfc3 | tofi font              | 02:16:34/13-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 7910f9a | wlrctl        | 22:19:40/14-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 5566914 | flake updated                     | 23:44:19/15-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 011a0d0 | gptel gemini flash 2.5            | 18:33:05/16-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 5566914 | flake updated                     | 23:44:19/15-07-2025 |                                            |
 | ace1a4d | wireplumber                       | 20:02:26/15-07-2025 |                                            |
 | 2c64ae5 | removed opacity                   | 13:37:35/15-07-2025 |                                            |
 | 8d27d7e | nixos dwl                         | 21:39:35/13-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | fe112ee | removed doom modeline now playing | 14:11:44/03-07-2025 |                                            |
 | 5c71057 | flake updated                     | 15:10:29/02-07-2025 |                                            |
 | 73a7acf | tree                              | 14:54:45/02-07-2025 |                                            |
-| e0edd41 | flake.nix                         | 19:24:52/28-06-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 3d11fea | removed now playing    | 14:13:18/03-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 8031739 | gptel gemini flash 2.5 | 18:34:03/16-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 3d11fea | removed now playing    | 14:13:18/03-07-2025 |                                            |
 | 3bd7ae8 | emacs exec-path ~/bin  | 23:30:17/17-06-2025 |                                            |
 | eeb500a | debian emacs gptel     | 13:28:30/13-06-2025 |                                            |
 | 70fe3b5 | dired side window      | 18:31:02/31-05-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 128fdc0 | pipewire completions   | 15:40:35/22-05-2025 |                                            |
 | bc74f67 | emacs titlebar and mpd | 20:48:17/16-05-2025 |                                            |
 | 005d4f6 | emacs titlebar and mpd | 20:43:24/16-05-2025 |                                            |
-| bba05ee | emacs titlebar and mpd | 20:40:44/16-05-2025 |                                            |
 #+end_quote
 
 *** debian-root
