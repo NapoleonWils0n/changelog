@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 5f0c6aa | gptel gemini flash 2.5 | 18:31:25/16-07-2025 | HEAD -> master, github/master |
+| 4c26b89 | gemini-cli             | 18:54:58/16-07-2025 | HEAD -> master, github/master |
+| 5f0c6aa | gptel gemini flash 2.5 | 18:31:25/16-07-2025 |                               |
 | a56a1c8 | flake updated          | 12:31:00/16-07-2025 |                               |
 | 228155e | wireplumber            | 19:43:26/15-07-2025 |                               |
 | 7216a97 | removed opacity        | 13:35:42/15-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | fd26662 | obs                    | 15:13:32/13-07-2025 |                               |
 | 6c08e9f | removed pcmanfm        | 14:58:45/13-07-2025 |                               |
 | 6cc2196 | wlroots                | 14:28:54/13-07-2025 |                               |
-| 56edfc3 | tofi font              | 02:16:34/13-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
