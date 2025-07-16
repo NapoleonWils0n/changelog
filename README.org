@@ -1,6 +1,6 @@
 #+STARTUP: show2levels
 #+PROPERTY: header-args:sh :results output table replace :noweb yes :wrap quote
-#+TODO: TODO(t) XPS(x) AIR(a) PRO(p) | SYNCED(s)
+#+TODO: TODO(t) INPROGRESS(i) XPS(x) AIR(a) PRO(p) | SYNCED(s)
 * changelog
 ** todo states
 
@@ -96,7 +96,7 @@ status
 | 3857f6f | home-manager removed dwl | 22:52:52/12-07-2025 |                               |
 #+end_quote
 
-*** TODO nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 45887ec | wlrctl      | 00:20:54/15-07-2025 | HEAD -> master, github/master |
-| 118471e | warp        | 23:56:58/14-07-2025 |                               |
-| 58e79ad | warp        | 23:53:48/14-07-2025 |                               |
-| 807789b | warp-cursor | 23:47:02/14-07-2025 |                               |
-| 8ad31a0 | dwl nixos   | 23:08:39/14-07-2025 |                               |
-| 4427f62 | revert      | 23:02:30/14-07-2025 |                               |
-| 3385cea | wlrctl warp | 22:28:13/14-07-2025 |                               |
-| aabc640 | wlrctl      | 22:24:40/14-07-2025 |                               |
-| 7910f9a | wlrctl      | 22:19:40/14-07-2025 |                               |
-| 9b8fb4b | dwl nixos   | 21:58:32/14-07-2025 |                               |
+| 07db71a | flake updated | 09:01:15/16-07-2025 | HEAD -> master, github/master |
+| 45887ec | wlrctl        | 00:20:54/15-07-2025 |                               |
+| 118471e | warp          | 23:56:58/14-07-2025 |                               |
+| 58e79ad | warp          | 23:53:48/14-07-2025 |                               |
+| 807789b | warp-cursor   | 23:47:02/14-07-2025 |                               |
+| 8ad31a0 | dwl nixos     | 23:08:39/14-07-2025 |                               |
+| 4427f62 | revert        | 23:02:30/14-07-2025 |                               |
+| 3385cea | wlrctl warp   | 22:28:13/14-07-2025 |                               |
+| aabc640 | wlrctl        | 22:24:40/14-07-2025 |                               |
+| 7910f9a | wlrctl        | 22:19:40/14-07-2025 |                               |
 #+end_quote
 
 *** AIR nixos-dotfiles-macbook
