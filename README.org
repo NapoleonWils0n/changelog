@@ -96,7 +96,7 @@ status
 | 4a5386e | mako                   | 15:59:48/13-07-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 07db71a | flake updated | 09:01:15/16-07-2025 | HEAD -> master, github/master |
-| 45887ec | wlrctl        | 00:20:54/15-07-2025 |                               |
-| 118471e | warp          | 23:56:58/14-07-2025 |                               |
-| 58e79ad | warp          | 23:53:48/14-07-2025 |                               |
-| 807789b | warp-cursor   | 23:47:02/14-07-2025 |                               |
-| 8ad31a0 | dwl nixos     | 23:08:39/14-07-2025 |                               |
-| 4427f62 | revert        | 23:02:30/14-07-2025 |                               |
-| 3385cea | wlrctl warp   | 22:28:13/14-07-2025 |                               |
-| aabc640 | wlrctl        | 22:24:40/14-07-2025 |                               |
-| 7910f9a | wlrctl        | 22:19:40/14-07-2025 |                               |
+| 709b3ab | no status bar                    | 19:40:02/17-07-2025 | HEAD -> master, github/master |
+| 57bbded | no status bar                    | 19:39:04/17-07-2025 |                               |
+| c0d5202 | status bar                       | 19:36:22/17-07-2025 |                               |
+| cb72d18 | no status bar                    | 19:31:01/17-07-2025 |                               |
+| cc5fecc | status bar                       | 19:26:50/17-07-2025 |                               |
+| d86e511 | no status bar                    | 19:23:21/17-07-2025 |                               |
+| aebb5df | dwlb status script               | 19:19:51/17-07-2025 |                               |
+| befca64 | back to previous working version | 19:17:06/17-07-2025 |                               |
+| d5c43ce | dwlb                             | 19:14:50/17-07-2025 |                               |
+| 07db71a | flake updated                    | 09:01:15/16-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-dotfiles-macbook
