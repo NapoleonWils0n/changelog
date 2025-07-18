@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 4519273 | emacs git                   | 20:36:44/18-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 0441b63 | zsh git                     | 22:14:57/18-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 4519273 | emacs git                   | 20:36:44/18-07-2025 |                                            |
 | 94e0cb1 | tmux                        | 13:07:26/17-07-2025 |                                            |
 | 1eaac03 | tmux volume and wireplumber | 00:44:21/17-07-2025 |                                            |
 | 8031739 | gptel gemini flash 2.5      | 18:34:03/16-07-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | eeb500a | debian emacs gptel          | 13:28:30/13-06-2025 |                                            |
 | 70fe3b5 | dired side window           | 18:31:02/31-05-2025 |                                            |
 | 9ea470c | dried side window           | 14:44:11/31-05-2025 |                                            |
-| bf282d2 | zshrc                       | 18:50:34/22-05-2025 |                                            |
 #+end_quote
 
 *** debian-root
