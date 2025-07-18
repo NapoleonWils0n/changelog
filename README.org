@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b375366 | removed flycheck                    | 23:28:14/18-07-2025 | HEAD -> master, github/master |
+| de4b20d | wlr which key                       | 23:57:06/18-07-2025 | HEAD -> master, github/master |
+| b375366 | removed flycheck                    | 23:28:14/18-07-2025 |                               |
 | fde1fc8 | tmux no time                        | 23:13:27/18-07-2025 |                               |
 | e73abcc | zsh git                             | 22:02:15/18-07-2025 |                               |
 | 17c7c2a | emacs git                           | 20:34:46/18-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | bc9d29c | tmux                                | 13:06:05/17-07-2025 |                               |
 | 3b54732 | tmux volume                         | 00:41:40/17-07-2025 |                               |
 | affed3a | tmux volume                         | 00:39:13/17-07-2025 |                               |
-| 4c26b89 | gemini-cli                          | 18:54:58/16-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| dbcb67a | removed flycheck                    | 23:28:59/18-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 8e0f050 | wlr which key                       | 00:00:10/19-07-2025 | HEAD -> master, github/master, github/HEAD |
+| dbcb67a | removed flycheck                    | 23:28:59/18-07-2025 |                                            |
 | afc94fb | tmux no time                        | 23:14:18/18-07-2025 |                                            |
 | ca66881 | zsh git                             | 22:03:30/18-07-2025 |                                            |
 | 71e526d | emacs git                           | 20:35:55/18-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 63fbe69 | dwlb systemd                        | 23:20:55/17-07-2025 |                                            |
 | 19500fa | tmux                                | 13:06:42/17-07-2025 |                                            |
 | d30ddfa | tmux volume                         | 00:40:56/17-07-2025 |                                            |
-| 011a0d0 | gptel gemini flash 2.5              | 18:33:05/16-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
