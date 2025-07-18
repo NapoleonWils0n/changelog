@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 17c7c2a | emacs git                           | 20:34:46/18-07-2025 | HEAD -> master, github/master |
+| e73abcc | zsh git                             | 22:02:15/18-07-2025 | HEAD -> master, github/master |
+| 17c7c2a | emacs git                           | 20:34:46/18-07-2025 |                               |
 | 011cabc | emacs doom modeline battery and git | 20:21:42/18-07-2025 |                               |
 | 14edb29 | dwl status bar                      | 23:18:20/17-07-2025 |                               |
 | bc9d29c | tmux                                | 13:06:05/17-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 4c26b89 | gemini-cli                          | 18:54:58/16-07-2025 |                               |
 | 5f0c6aa | gptel gemini flash 2.5              | 18:31:25/16-07-2025 |                               |
 | a56a1c8 | flake updated                       | 12:31:00/16-07-2025 |                               |
-| 228155e | wireplumber                         | 19:43:26/15-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 71e526d | emacs git                           | 20:35:55/18-07-2025 | HEAD -> master, github/master, github/HEAD |
+| ca66881 | zsh git                             | 22:03:30/18-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 71e526d | emacs git                           | 20:35:55/18-07-2025 |                                            |
 | dd0b5e6 | emacs doom modeline battery and git | 20:22:57/18-07-2025 |                                            |
 | cac2c72 | systemd                             | 13:24:58/18-07-2025 |                                            |
 | 63fbe69 | dwlb systemd                        | 23:20:55/17-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 011a0d0 | gptel gemini flash 2.5              | 18:33:05/16-07-2025 |                                            |
 | 5566914 | flake updated                       | 23:44:19/15-07-2025 |                                            |
 | ace1a4d | wireplumber                         | 20:02:26/15-07-2025 |                                            |
-| 2c64ae5 | removed opacity                     | 13:37:35/15-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
