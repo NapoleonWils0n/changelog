@@ -220,7 +220,9 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| d594d07 | wallpaper                                    | 21:01:20/19-07-2025 | HEAD -> master, github/master |
+| e64b906 | wallpaper                                    | 21:14:35/19-07-2025 | HEAD -> master, github/master |
+| f16a15e | wallpaper                                    | 21:05:45/19-07-2025 |                               |
+| d594d07 | wallpaper                                    | 21:01:20/19-07-2025 |                               |
 | e1b9701 | backlight                                    | 19:14:40/19-07-2025 |                               |
 | 714d4fd | backup to usb check if mountpoint is mounted | 15:23:36/19-07-2025 |                               |
 | 8b38429 | status-bar working                           | 23:09:52/17-07-2025 |                               |
@@ -228,8 +230,6 @@ status
 | 4d349e5 | audio switcher                               | 19:38:05/15-07-2025 |                               |
 | e08f164 | audio switcher                               | 19:16:02/15-07-2025 |                               |
 | 9c12de7 | audio switcher                               | 18:54:26/15-07-2025 |                               |
-| 935ba17 | removed warp-cursor                          | 00:23:32/15-07-2025 |                               |
-| 9670bc5 | warp cursor                                  | 23:38:35/14-07-2025 |                               |
 #+end_quote
 
 ** debian
