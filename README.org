@@ -130,7 +130,7 @@ status
 | cb72d18 | no status bar      | 19:31:01/17-07-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 2afa27b | doom modeline                       | 20:22:52/19-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 7edb898 | wbg systemd                         | 21:26:27/19-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 8db8c9b | wallpaper                           | 21:25:26/19-07-2025 |                                            |
+| 2afa27b | doom modeline                       | 20:22:52/19-07-2025 |                                            |
 | 7ae17ba | doom modeline elements order        | 20:15:15/19-07-2025 |                                            |
 | 8e0f050 | wlr which key                       | 00:00:10/19-07-2025 |                                            |
 | dbcb67a | removed flycheck                    | 23:28:59/18-07-2025 |                                            |
@@ -160,8 +162,6 @@ status
 | ca66881 | zsh git                             | 22:03:30/18-07-2025 |                                            |
 | 71e526d | emacs git                           | 20:35:55/18-07-2025 |                                            |
 | dd0b5e6 | emacs doom modeline battery and git | 20:22:57/18-07-2025 |                                            |
-| cac2c72 | systemd                             | 13:24:58/18-07-2025 |                                            |
-| 63fbe69 | dwlb systemd                        | 23:20:55/17-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
