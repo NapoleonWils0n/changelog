@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b099f00 | doom modeline                       | 20:21:35/19-07-2025 | HEAD -> master, github/master |
+| 9cc4e1f | wbg wallpaper                       | 21:02:15/19-07-2025 | HEAD -> master, github/master |
+| 042ef93 | wbg                                 | 20:49:15/19-07-2025 |                               |
+| b099f00 | doom modeline                       | 20:21:35/19-07-2025 |                               |
 | b381814 | doom modeline elements order        | 20:14:19/19-07-2025 |                               |
 | de4b20d | wlr which key                       | 23:57:06/18-07-2025 |                               |
 | b375366 | removed flycheck                    | 23:28:14/18-07-2025 |                               |
@@ -92,8 +94,6 @@ status
 | e73abcc | zsh git                             | 22:02:15/18-07-2025 |                               |
 | 17c7c2a | emacs git                           | 20:34:46/18-07-2025 |                               |
 | 011cabc | emacs doom modeline battery and git | 20:21:42/18-07-2025 |                               |
-| 14edb29 | dwl status bar                      | 23:18:20/17-07-2025 |                               |
-| bc9d29c | tmux                                | 13:06:05/17-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | cb72d18 | no status bar      | 19:31:01/17-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| e1b9701  | backlight                                    | 19:14:40/19-07-2025 | HEAD -> master, github/master |
-| 714d4fd  | backup to usb check if mountpoint is mounted | 15:23:36/19-07-2025 |                               |
-| 8b38429  | status-bar working                           | 23:09:52/17-07-2025 |                               |
-| fe5d948  | status-bar                                   | 21:36:17/17-07-2025 |                               |
-| 4d349e5  | audio switcher                               | 19:38:05/15-07-2025 |                               |
-| e08f164  | audio switcher                               | 19:16:02/15-07-2025 |                               |
-| 9c12de7  | audio switcher                               | 18:54:26/15-07-2025 |                               |
-| 935ba17  | removed warp-cursor                          | 00:23:32/15-07-2025 |                               |
-| 9670bc5  | warp cursor                                  | 23:38:35/14-07-2025 |                               |
-| 1.0e+INF | removed script                               | 13:46:13/18-06-2025 |                               |
+| d594d07 | wallpaper                                    | 21:01:20/19-07-2025 | HEAD -> master, github/master |
+| e1b9701 | backlight                                    | 19:14:40/19-07-2025 |                               |
+| 714d4fd | backup to usb check if mountpoint is mounted | 15:23:36/19-07-2025 |                               |
+| 8b38429 | status-bar working                           | 23:09:52/17-07-2025 |                               |
+| fe5d948 | status-bar                                   | 21:36:17/17-07-2025 |                               |
+| 4d349e5 | audio switcher                               | 19:38:05/15-07-2025 |                               |
+| e08f164 | audio switcher                               | 19:16:02/15-07-2025 |                               |
+| 9c12de7 | audio switcher                               | 18:54:26/15-07-2025 |                               |
+| 935ba17 | removed warp-cursor                          | 00:23:32/15-07-2025 |                               |
+| 9670bc5 | warp cursor                                  | 23:38:35/14-07-2025 |                               |
 #+end_quote
 
 ** debian
