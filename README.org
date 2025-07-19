@@ -298,7 +298,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -320,7 +320,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 47f786c | yt-dlp                                      | 15:22:31/16-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 751a379 | backup to usb                               | 15:30:13/19-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 47f786c | yt-dlp                                      | 15:22:31/16-07-2025 |                                            |
 | 963a35a | removed script                              | 13:06:14/18-06-2025 |                                            |
 | 89d03f9 | lrsha compare local and remote git sha sums | 22:53:16/17-06-2025 |                                            |
 | 52deae6 | lrsha compare local and remote git sha sums | 22:40:01/17-06-2025 |                                            |
@@ -329,5 +330,4 @@ status
 | 5b8ec0f | resample-audio                              | 15:00:08/02-06-2025 |                                            |
 | 2d2ffe4 | yt-dlp                                      | 17:05:33/25-05-2025 |                                            |
 | 2d68894 | record pipewire                             | 13:16:42/23-05-2025 |                                            |
-| 94d6fb8 | record pipewire                             | 18:59:08/22-05-2025 |                                            |
 #+end_quote
