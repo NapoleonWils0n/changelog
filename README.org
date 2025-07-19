@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 26a3e7eb | nmcli                      | 16:35:10/19-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 880f033b | backlight                  | 18:31:19/19-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 26a3e7eb | nmcli                      | 16:35:10/19-07-2025 |                                            |
 | 6b30eea6 | fdkaac                     | 21:34:09/18-07-2025 |                                            |
 | 47593839 | dwl status bar             | 23:24:28/17-07-2025 |                                            |
 | 9a1cbe5a | dwl status bar             | 23:19:35/17-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 46b4ac7e | wireplumber rename devices | 19:32:19/15-07-2025 |                                            |
 | bb28b761 | wlrctl                     | 00:24:22/15-07-2025 |                                            |
 | e7b3e851 | dwl                        | 00:03:00/15-07-2025 |                                            |
-| aaa3e7ac | dwl nixos                  | 23:10:31/14-07-2025 |                                            |
 #+end_quote
 
 ** nixos
