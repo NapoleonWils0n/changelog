@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 7edb898 | wbg systemd                         | 21:26:27/19-07-2025 | HEAD -> master, github/master, github/HEAD |
-| 8db8c9b | wallpaper                           | 21:25:26/19-07-2025 |                                            |
-| 2afa27b | doom modeline                       | 20:22:52/19-07-2025 |                                            |
-| 7ae17ba | doom modeline elements order        | 20:15:15/19-07-2025 |                                            |
-| 8e0f050 | wlr which key                       | 00:00:10/19-07-2025 |                                            |
-| dbcb67a | removed flycheck                    | 23:28:59/18-07-2025 |                                            |
-| afc94fb | tmux no time                        | 23:14:18/18-07-2025 |                                            |
-| ca66881 | zsh git                             | 22:03:30/18-07-2025 |                                            |
-| 71e526d | emacs git                           | 20:35:55/18-07-2025 |                                            |
-| dd0b5e6 | emacs doom modeline battery and git | 20:22:57/18-07-2025 |                                            |
+| 7b1eba2 | flake update                 | 14:51:18/20-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 7edb898 | wbg systemd                  | 21:26:27/19-07-2025 |                                            |
+| 8db8c9b | wallpaper                    | 21:25:26/19-07-2025 |                                            |
+| 2afa27b | doom modeline                | 20:22:52/19-07-2025 |                                            |
+| 7ae17ba | doom modeline elements order | 20:15:15/19-07-2025 |                                            |
+| 8e0f050 | wlr which key                | 00:00:10/19-07-2025 |                                            |
+| dbcb67a | removed flycheck             | 23:28:59/18-07-2025 |                                            |
+| afc94fb | tmux no time                 | 23:14:18/18-07-2025 |                                            |
+| ca66881 | zsh git                      | 22:03:30/18-07-2025 |                                            |
+| 71e526d | emacs git                    | 20:35:55/18-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -198,7 +198,7 @@ status
 | 43d89c9 | nix revert flake | 13:23:20/23-06-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-bin
+*** AIR nixos-bin
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** AIR debian-dotfiles
 
 github url
 
@@ -298,7 +298,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** XPS debian-bin
+*** AIR debian-bin
 
 github url
 
