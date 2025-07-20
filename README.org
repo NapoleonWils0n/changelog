@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 682057c2 | playerctl                         | 19:24:03/20-07-2025 | HEAD -> master, github/master, github/HEAD |
+| ba4e0786 | now playing                       | 19:55:19/20-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 682057c2 | playerctl                         | 19:24:03/20-07-2025 |                                            |
 | 31bf79fd | doom modeline now playing updated | 17:50:54/20-07-2025 |                                            |
 | 880f033b | backlight                         | 18:31:19/19-07-2025 |                                            |
 | 26a3e7eb | nmcli                             | 16:35:10/19-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 9a1cbe5a | dwl status bar                    | 23:19:35/17-07-2025 |                                            |
 | af827b86 | gem                               | 15:00:38/16-07-2025 |                                            |
 | e1c78282 | wireplumber rename devices        | 19:33:05/15-07-2025 |                                            |
-| 46b4ac7e | wireplumber rename devices        | 19:32:19/15-07-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8eea768 | removed now playing          | 18:43:48/20-07-2025 | HEAD -> master, github/master |
+| bc6e8b6 | now playing working          | 20:10:17/20-07-2025 | HEAD -> master, github/master |
+| 8eea768 | removed now playing          | 18:43:48/20-07-2025 |                               |
 | 395ccb0 | doom now playing updated     | 17:53:08/20-07-2025 |                               |
 | 9cc4e1f | wbg wallpaper                | 21:02:15/19-07-2025 |                               |
 | 042ef93 | wbg                          | 20:49:15/19-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | de4b20d | wlr which key                | 23:57:06/18-07-2025 |                               |
 | b375366 | removed flycheck             | 23:28:14/18-07-2025 |                               |
 | fde1fc8 | tmux no time                 | 23:13:27/18-07-2025 |                               |
-| e73abcc | zsh git                      | 22:02:15/18-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 1af789a | removed now playing               | 18:44:41/20-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 980e9df | now playing working               | 20:12:54/20-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 1af789a | removed now playing               | 18:44:41/20-07-2025 |                                            |
 | 9e8f5db | doom modeline now playing updated | 17:57:48/20-07-2025 |                                            |
 | 7b1eba2 | flake update                      | 14:51:18/20-07-2025 |                                            |
 | 7edb898 | wbg systemd                       | 21:26:27/19-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 7ae17ba | doom modeline elements order      | 20:15:15/19-07-2025 |                                            |
 | 8e0f050 | wlr which key                     | 00:00:10/19-07-2025 |                                            |
 | dbcb67a | removed flycheck                  | 23:28:59/18-07-2025 |                                            |
-| afc94fb | tmux no time                      | 23:14:18/18-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| b50c1f9  | removed now playing               | 18:45:30/20-07-2025 | HEAD -> master, github/master, github/HEAD |
+| ae846ce  | now playing working               | 20:14:57/20-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b50c1f9  | removed now playing               | 18:45:30/20-07-2025 |                                            |
 | 1.0e+INF | doom modeline now playing updated | 18:02:15/20-07-2025 |                                            |
 | c40916d  | no opacity                        | 21:30:33/19-07-2025 |                                            |
 | ed36664  | doom modeline                     | 20:23:48/19-07-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 9085482  | tmux no time                      | 23:15:04/18-07-2025 |                                            |
 | 0441b63  | zsh git                           | 22:14:57/18-07-2025 |                                            |
 | 4519273  | emacs git                         | 20:36:44/18-07-2025 |                                            |
-| 94e0cb1  | tmux                              | 13:07:26/17-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
