@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 69c6f13 | wlr which key                | 14:33:36/21-07-2025 | HEAD -> master, github/master |
+| c285e9e | flake updated                | 13:23:15/23-07-2025 | HEAD -> master, github/master |
+| 69c6f13 | wlr which key                | 14:33:36/21-07-2025 |                               |
 | bc6e8b6 | now playing working          | 20:10:17/20-07-2025 |                               |
 | 8eea768 | removed now playing          | 18:43:48/20-07-2025 |                               |
 | 395ccb0 | doom now playing updated     | 17:53:08/20-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | b099f00 | doom modeline                | 20:21:35/19-07-2025 |                               |
 | b381814 | doom modeline elements order | 20:14:19/19-07-2025 |                               |
 | de4b20d | wlr which key                | 23:57:06/18-07-2025 |                               |
-| b375366 | removed flycheck             | 23:28:14/18-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
