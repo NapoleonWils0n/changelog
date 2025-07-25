@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b38f0e0 | zsh completions   | 20:24:09/25-07-2025 | HEAD -> master, github/master |
+| 4577712 | zshrc zshenv      | 20:38:33/25-07-2025 | HEAD -> master, github/master |
+| f7d65d1 | zsh               | 20:35:51/25-07-2025 |                               |
+| b38f0e0 | zsh completions   | 20:24:09/25-07-2025 |                               |
 | bf1e02b | vpn               | 17:35:10/25-07-2025 |                               |
 | bdfcec0 | flake updated     | 01:38:06/25-07-2025 |                               |
 | e8a0b95 | emacs use-package | 19:27:17/24-07-2025 |                               |
@@ -92,8 +94,6 @@ status
 | f2d11ad | setq              | 19:04:55/24-07-2025 |                               |
 | d8637c8 | functions         | 19:03:12/24-07-2025 |                               |
 | d46b382 | add-to-list       | 19:01:09/24-07-2025 |                               |
-| 29a375c | functions         | 18:57:26/24-07-2025 |                               |
-| 2e9a282 | keymap order      | 18:54:12/24-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
