@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 18fa891 | vpn                               | 17:51:48/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b1c4138 | zsh completions                   | 20:33:31/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 18fa891 | vpn                               | 17:51:48/25-07-2025 |                                            |
 | b738808 | flake updated                     | 14:26:26/25-07-2025 |                                            |
 | 2853a05 | emacs use-package                 | 21:05:41/24-07-2025 |                                            |
 | 1dfa389 | emacs use-package                 | 20:50:08/24-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 980e9df | now playing working               | 20:12:54/20-07-2025 |                                            |
 | 1af789a | removed now playing               | 18:44:41/20-07-2025 |                                            |
 | 9e8f5db | doom modeline now playing updated | 17:57:48/20-07-2025 |                                            |
-| 7b1eba2 | flake update                      | 14:51:18/20-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
