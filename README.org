@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 6ac3cdf | side windows      | 18:45:10/24-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 2853a05 | emacs use-package                 | 21:05:41/24-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b738808 | flake updated                     | 14:26:26/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 2853a05 | emacs use-package                 | 21:05:41/24-07-2025 |                                            |
 | 1dfa389 | emacs use-package                 | 20:50:08/24-07-2025 |                                            |
 | 2aea8bd | flake update                      | 14:14:32/23-07-2025 |                                            |
 | 87707f1 | wlr which key                     | 14:34:36/21-07-2025 |                                            |
@@ -161,10 +162,9 @@ status
 | 9e8f5db | doom modeline now playing updated | 17:57:48/20-07-2025 |                                            |
 | 7b1eba2 | flake update                      | 14:51:18/20-07-2025 |                                            |
 | 7edb898 | wbg systemd                       | 21:26:27/19-07-2025 |                                            |
-| 8db8c9b | wallpaper                         | 21:25:26/19-07-2025 |                                            |
 #+end_quote
 
-*** TODO nixos-root-macbook
+*** nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| 4bd780d | permitted insecure | 13:51:46/23-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 14e0f20 | flake updated      | 14:14:58/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 4bd780d | permitted insecure | 13:51:46/23-07-2025 |                                            |
 | 3595166 | flake updated      | 22:57:15/15-07-2025 |                                            |
 | b904971 | wlrctl             | 00:22:36/15-07-2025 |                                            |
 | 720c3e8 | warp cursor        | 00:01:29/15-07-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | d1d6cda | nixos dwl          | 21:22:12/13-07-2025 |                                            |
 | e8fb96e | flake updated      | 19:43:24/10-07-2025 |                                            |
 | b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 |                                            |
-| a288945 | flake updated      | 14:51:46/02-07-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
