@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e8a0b95 | emacs use-package | 19:27:17/24-07-2025 | HEAD -> master, github/master |
+| bdfcec0 | flake updated     | 01:38:06/25-07-2025 | HEAD -> master, github/master |
+| e8a0b95 | emacs use-package | 19:27:17/24-07-2025 |                               |
 | 95a0a3f | init.el           | 19:14:39/24-07-2025 |                               |
 | f2d11ad | setq              | 19:04:55/24-07-2025 |                               |
 | d8637c8 | functions         | 19:03:12/24-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 2e9a282 | keymap order      | 18:54:12/24-07-2025 |                               |
 | e228e12 | keymap            | 18:48:23/24-07-2025 |                               |
 | 6ac3cdf | side windows      | 18:45:10/24-07-2025 |                               |
-| b754489 | functions         | 18:42:03/24-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 8db8c9b | wallpaper                         | 21:25:26/19-07-2025 |                                            |
 #+end_quote
 
-*** nixos-root-macbook
+*** TODO nixos-root-macbook
 
 github url
 
