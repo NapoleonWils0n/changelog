@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 1.0e+INF | vpn                               | 17:57:23/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| f6a4c45  | zshrc zshenv                      | 20:50:10/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF | vpn                               | 17:57:23/25-07-2025 |                                            |
 | 0ddc6ac  | meta fix                          | 21:20:30/24-07-2025 |                                            |
 | 83858b0  | emacs use-package                 | 20:55:56/24-07-2025 |                                            |
 | ae846ce  | now playing working               | 20:14:57/20-07-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | c40916d  | no opacity                        | 21:30:33/19-07-2025 |                                            |
 | ed36664  | doom modeline                     | 20:23:48/19-07-2025 |                                            |
 | 152fb41  | doom modeline elements order      | 20:16:05/19-07-2025 |                                            |
-| 39f06cb  | emacs                             | 23:29:46/18-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
