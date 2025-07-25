@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| bdfcec0 | flake updated     | 01:38:06/25-07-2025 | HEAD -> master, github/master |
+| bf1e02b | vpn               | 17:35:10/25-07-2025 | HEAD -> master, github/master |
+| bdfcec0 | flake updated     | 01:38:06/25-07-2025 |                               |
 | e8a0b95 | emacs use-package | 19:27:17/24-07-2025 |                               |
 | 95a0a3f | init.el           | 19:14:39/24-07-2025 |                               |
 | f2d11ad | setq              | 19:04:55/24-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 29a375c | functions         | 18:57:26/24-07-2025 |                               |
 | 2e9a282 | keymap order      | 18:54:12/24-07-2025 |                               |
 | e228e12 | keymap            | 18:48:23/24-07-2025 |                               |
-| 6ac3cdf | side windows      | 18:45:10/24-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| b738808 | flake updated                     | 14:26:26/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 18fa891 | vpn                               | 17:51:48/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| b738808 | flake updated                     | 14:26:26/25-07-2025 |                                            |
 | 2853a05 | emacs use-package                 | 21:05:41/24-07-2025 |                                            |
 | 1dfa389 | emacs use-package                 | 20:50:08/24-07-2025 |                                            |
 | 2aea8bd | flake update                      | 14:14:32/23-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 1af789a | removed now playing               | 18:44:41/20-07-2025 |                                            |
 | 9e8f5db | doom modeline now playing updated | 17:57:48/20-07-2025 |                                            |
 | 7b1eba2 | flake update                      | 14:51:18/20-07-2025 |                                            |
-| 7edb898 | wbg systemd                       | 21:26:27/19-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 0ddc6ac  | meta fix                          | 21:20:30/24-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF | vpn                               | 17:57:23/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 0ddc6ac  | meta fix                          | 21:20:30/24-07-2025 |                                            |
 | 83858b0  | emacs use-package                 | 20:55:56/24-07-2025 |                                            |
 | ae846ce  | now playing working               | 20:14:57/20-07-2025 |                                            |
 | b50c1f9  | removed now playing               | 18:45:30/20-07-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | ed36664  | doom modeline                     | 20:23:48/19-07-2025 |                                            |
 | 152fb41  | doom modeline elements order      | 20:16:05/19-07-2025 |                                            |
 | 39f06cb  | emacs                             | 23:29:46/18-07-2025 |                                            |
-| 9085482  | tmux no time                      | 23:15:04/18-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
