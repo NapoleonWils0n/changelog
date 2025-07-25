@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| bf1e02b | vpn               | 17:35:10/25-07-2025 | HEAD -> master, github/master |
+| b38f0e0 | zsh completions   | 20:24:09/25-07-2025 | HEAD -> master, github/master |
+| bf1e02b | vpn               | 17:35:10/25-07-2025 |                               |
 | bdfcec0 | flake updated     | 01:38:06/25-07-2025 |                               |
 | e8a0b95 | emacs use-package | 19:27:17/24-07-2025 |                               |
 | 95a0a3f | init.el           | 19:14:39/24-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | d46b382 | add-to-list       | 19:01:09/24-07-2025 |                               |
 | 29a375c | functions         | 18:57:26/24-07-2025 |                               |
 | 2e9a282 | keymap order      | 18:54:12/24-07-2025 |                               |
-| e228e12 | keymap            | 18:48:23/24-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -198,7 +198,7 @@ status
 | b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 |                                            |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| e64b906 | wallpaper                                    | 21:14:35/19-07-2025 | HEAD -> master, github/master |
+| 7fe0693 | removed ossuary                              | 19:20:45/25-07-2025 | HEAD -> master, github/master |
+| e64b906 | wallpaper                                    | 21:14:35/19-07-2025 |                               |
 | f16a15e | wallpaper                                    | 21:05:45/19-07-2025 |                               |
 | d594d07 | wallpaper                                    | 21:01:20/19-07-2025 |                               |
 | e1b9701 | backlight                                    | 19:14:40/19-07-2025 |                               |
@@ -229,7 +230,6 @@ status
 | fe5d948 | status-bar                                   | 21:36:17/17-07-2025 |                               |
 | 4d349e5 | audio switcher                               | 19:38:05/15-07-2025 |                               |
 | e08f164 | audio switcher                               | 19:16:02/15-07-2025 |                               |
-| 9c12de7 | audio switcher                               | 18:54:26/15-07-2025 |                               |
 #+end_quote
 
 ** debian
