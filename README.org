@@ -96,7 +96,7 @@ status
 | b754489 | functions         | 18:42:03/24-07-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 9f243f8 | flake updated      | 13:17:27/23-07-2025 | HEAD -> master, github/master |
+| 65cb8e1 | flake updated      | 01:29:11/25-07-2025 | HEAD -> master, github/master |
+| 9f243f8 | flake updated      | 13:17:27/23-07-2025 |                               |
 | 92597a8 | no status bar      | 20:45:40/17-07-2025 |                               |
 | 5b3764e | status bar         | 20:43:02/17-07-2025 |                               |
 | 8b195ee | no status bar      | 20:36:45/17-07-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 | 709b3ab | no status bar      | 19:40:02/17-07-2025 |                               |
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
-| c0d5202 | status bar         | 19:36:22/17-07-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
