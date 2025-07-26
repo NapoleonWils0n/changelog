@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 72855b8 | zsh               | 13:18:20/26-07-2025 | HEAD -> master, github/master |
+| 277ef8f | vpn               | 22:45:32/26-07-2025 | HEAD -> master, github/master |
+| 72855b8 | zsh               | 13:18:20/26-07-2025 |                               |
 | 4577712 | zshrc zshenv      | 20:38:33/25-07-2025 |                               |
 | f7d65d1 | zsh               | 20:35:51/25-07-2025 |                               |
 | b38f0e0 | zsh completions   | 20:24:09/25-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | e8a0b95 | emacs use-package | 19:27:17/24-07-2025 |                               |
 | 95a0a3f | init.el           | 19:14:39/24-07-2025 |                               |
 | f2d11ad | setq              | 19:04:55/24-07-2025 |                               |
-| d8637c8 | functions         | 19:03:12/24-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| c85ee6b | transmission      | 13:28:44/26-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 1487f44 | vpn               | 22:46:43/26-07-2025 | HEAD -> master, github/master, github/HEAD |
+| c85ee6b | transmission      | 13:28:44/26-07-2025 |                                            |
 | aeafafc | zsh               | 13:19:26/26-07-2025 |                                            |
 | e15b52a | zshrc zshenv      | 20:42:18/25-07-2025 |                                            |
 | b1c4138 | zsh completions   | 20:33:31/25-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 2853a05 | emacs use-package | 21:05:41/24-07-2025 |                                            |
 | 1dfa389 | emacs use-package | 20:50:08/24-07-2025 |                                            |
 | 2aea8bd | flake update      | 14:14:32/23-07-2025 |                                            |
-| 87707f1 | wlr which key     | 14:34:36/21-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| f6a4c45  | zshrc zshenv                      | 20:50:10/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 132445a  | vpn                               | 22:47:52/26-07-2025 | HEAD -> master, github/master, github/HEAD |
+| f6a4c45  | zshrc zshenv                      | 20:50:10/25-07-2025 |                                            |
 | 1.0e+INF | vpn                               | 17:57:23/25-07-2025 |                                            |
 | 0ddc6ac  | meta fix                          | 21:20:30/24-07-2025 |                                            |
 | 83858b0  | emacs use-package                 | 20:55:56/24-07-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 1.0e+INF | doom modeline now playing updated | 18:02:15/20-07-2025 |                                            |
 | c40916d  | no opacity                        | 21:30:33/19-07-2025 |                                            |
 | ed36664  | doom modeline                     | 20:23:48/19-07-2025 |                                            |
-| 152fb41  | doom modeline elements order      | 20:16:05/19-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
@@ -298,7 +298,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -320,7 +320,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 751a379 | backup to usb                               | 15:30:13/19-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 8bdb5d2 | vpn                                         | 22:37:52/26-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 751a379 | backup to usb                               | 15:30:13/19-07-2025 |                                            |
 | 47f786c | yt-dlp                                      | 15:22:31/16-07-2025 |                                            |
 | 963a35a | removed script                              | 13:06:14/18-06-2025 |                                            |
 | 89d03f9 | lrsha compare local and remote git sha sums | 22:53:16/17-06-2025 |                                            |
@@ -329,5 +330,4 @@ status
 | 0a72033 | combine-audio-video                         | 15:34:45/07-06-2025 |                                            |
 | 5b8ec0f | resample-audio                              | 15:00:08/02-06-2025 |                                            |
 | 2d2ffe4 | yt-dlp                                      | 17:05:33/25-05-2025 |                                            |
-| 2d68894 | record pipewire                             | 13:16:42/23-05-2025 |                                            |
 #+end_quote
