@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** AIR nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
-*** AIR nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -198,7 +198,7 @@ status
 | b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
