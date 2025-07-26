@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 4577712 | zshrc zshenv      | 20:38:33/25-07-2025 | HEAD -> master, github/master |
+| 72855b8 | zsh               | 13:18:20/26-07-2025 | HEAD -> master, github/master |
+| 4577712 | zshrc zshenv      | 20:38:33/25-07-2025 |                               |
 | f7d65d1 | zsh               | 20:35:51/25-07-2025 |                               |
 | b38f0e0 | zsh completions   | 20:24:09/25-07-2025 |                               |
 | bf1e02b | vpn               | 17:35:10/25-07-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 95a0a3f | init.el           | 19:14:39/24-07-2025 |                               |
 | f2d11ad | setq              | 19:04:55/24-07-2025 |                               |
 | d8637c8 | functions         | 19:03:12/24-07-2025 |                               |
-| d46b382 | add-to-list       | 19:01:09/24-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| e15b52a | zshrc zshenv        | 20:42:18/25-07-2025 | HEAD -> master, github/master, github/HEAD |
+| aeafafc | zsh                 | 13:19:26/26-07-2025 | HEAD -> master, github/master, github/HEAD |
+| e15b52a | zshrc zshenv        | 20:42:18/25-07-2025 |                                            |
 | b1c4138 | zsh completions     | 20:33:31/25-07-2025 |                                            |
 | 18fa891 | vpn                 | 17:51:48/25-07-2025 |                                            |
 | b738808 | flake updated       | 14:26:26/25-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 2aea8bd | flake update        | 14:14:32/23-07-2025 |                                            |
 | 87707f1 | wlr which key       | 14:34:36/21-07-2025 |                                            |
 | 980e9df | now playing working | 20:12:54/20-07-2025 |                                            |
-| 1af789a | removed now playing | 18:44:41/20-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
