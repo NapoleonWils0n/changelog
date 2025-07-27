@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** PRO nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** PRO nixos-dotfiles-macbook
 
 github url
 
@@ -198,7 +198,7 @@ status
 | b00fa66 | rtkit for audio    | 20:21:35/07-07-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-bin
+*** PRO nixos-bin
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** PRO debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 132445a  | vpn                               | 22:47:52/26-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 5f04ddc  | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 132445a  | vpn                               | 22:47:52/26-07-2025 |                                            |
 | f6a4c45  | zshrc zshenv                      | 20:50:10/25-07-2025 |                                            |
 | 1.0e+INF | vpn                               | 17:57:23/25-07-2025 |                                            |
 | 0ddc6ac  | meta fix                          | 21:20:30/24-07-2025 |                                            |
@@ -264,10 +265,10 @@ status
 | b50c1f9  | removed now playing               | 18:45:30/20-07-2025 |                                            |
 | 1.0e+INF | doom modeline now playing updated | 18:02:15/20-07-2025 |                                            |
 | c40916d  | no opacity                        | 21:30:33/19-07-2025 |                                            |
-| ed36664  | doom modeline                     | 20:23:48/19-07-2025 |                                            |
+#+end_quote
 #+end_quote
 
-*** debian-root
+*** PRO debian-root
 
 github url
 
@@ -289,16 +290,17 @@ status
 
 #+RESULTS: debian-root
 #+begin_quote
-| 10ec258 | non-free             | 16:02:50/16-05-2025 | HEAD -> master, github/master |
+| 17fbb66 | removed old scripts  | 14:14:11/27-07-2025 | HEAD -> master, github/master |
+| 10ec258 | non-free             | 16:02:50/16-05-2025 |                               |
 | ce131c6 | nognome removed      | 14:38:51/16-05-2025 |                               |
 | 3a992bd | bin                  | 14:20:00/16-05-2025 |                               |
 | cbc2e05 | bin                  | 14:15:21/16-05-2025 |                               |
 | 7514afb | debian root          | 21:19:24/15-05-2025 |                               |
-| f83c775 | debian dns and dhcp  | 20:58:13/14-03-2017 | mac/master                    |
+| f83c775 | debian dns and dhcp  | 20:58:13/14-03-2017 |                               |
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** XPS debian-bin
+*** PRO debian-bin
 
 github url
 
@@ -320,7 +322,9 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 8bdb5d2 | vpn                                         | 22:37:52/26-07-2025 | HEAD -> master, github/master, github/HEAD |
+| eb8d9dd | removed vpn scripts not working             | 14:20:45/27-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 749ffbd | vpn                                         | 22:43:21/26-07-2025 |                                            |
+| 8bdb5d2 | vpn                                         | 22:37:52/26-07-2025 |                                            |
 | 751a379 | backup to usb                               | 15:30:13/19-07-2025 |                                            |
 | 47f786c | yt-dlp                                      | 15:22:31/16-07-2025 |                                            |
 | 963a35a | removed script                              | 13:06:14/18-06-2025 |                                            |
@@ -328,6 +332,4 @@ status
 | 52deae6 | lrsha compare local and remote git sha sums | 22:40:01/17-06-2025 |                                            |
 | 3537a00 | yt-dlp                                      | 18:02:59/10-06-2025 |                                            |
 | 0a72033 | combine-audio-video                         | 15:34:45/07-06-2025 |                                            |
-| 5b8ec0f | resample-audio                              | 15:00:08/02-06-2025 |                                            |
-| 2d2ffe4 | yt-dlp                                      | 17:05:33/25-05-2025 |                                            |
 #+end_quote
