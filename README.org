@@ -130,7 +130,7 @@ status
 | 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
-*** AIR nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 2853a05 | emacs use-package | 21:05:41/24-07-2025 |                                            |
 #+end_quote
 
-*** AIR nixos-root-macbook
+*** nixos-root-macbook
 
 github url
 
