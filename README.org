@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | bdfcec0 | flake updated    | 01:38:06/25-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 2853a05 | emacs use-package | 21:05:41/24-07-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-root-macbook
+*** nixos-root-macbook
 
 github url
 
