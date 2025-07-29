@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 699651a | google translate  | 18:33:28/27-07-2025 | HEAD -> master, github/master |
+| e09c444 | flake updated     | 14:56:28/29-07-2025 | HEAD -> master, github/master |
+| 699651a | google translate  | 18:33:28/27-07-2025 |                               |
 | 277ef8f | vpn               | 22:45:32/26-07-2025 |                               |
 | 72855b8 | zsh               | 13:18:20/26-07-2025 |                               |
 | 4577712 | zshrc zshenv      | 20:38:33/25-07-2025 |                               |
@@ -93,10 +94,9 @@ status
 | bf1e02b | vpn               | 17:35:10/25-07-2025 |                               |
 | bdfcec0 | flake updated     | 01:38:06/25-07-2025 |                               |
 | e8a0b95 | emacs use-package | 19:27:17/24-07-2025 |                               |
-| 95a0a3f | init.el           | 19:14:39/24-07-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 65cb8e1 | flake updated      | 01:29:11/25-07-2025 | HEAD -> master, github/master |
+| e09a994 | flake updated      | 14:30:09/29-07-2025 | HEAD -> master, github/master |
+| 65cb8e1 | flake updated      | 01:29:11/25-07-2025 |                               |
 | 9f243f8 | flake updated      | 13:17:27/23-07-2025 |                               |
 | 92597a8 | no status bar      | 20:45:40/17-07-2025 |                               |
 | 5b3764e | status bar         | 20:43:02/17-07-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 28b0ada | no status bar      | 20:25:11/17-07-2025 |                               |
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 | 709b3ab | no status bar      | 19:40:02/17-07-2025 |                               |
-| 57bbded | no status bar      | 19:39:04/17-07-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
@@ -164,7 +164,7 @@ status
 | 2853a05 | emacs use-package | 21:05:41/24-07-2025 |                                            |
 #+end_quote
 
-*** nixos-root-macbook
+*** XPS nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| 84625b8 | flake updated      | 18:29:42/28-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 6bce3c8 | removed comments   | 13:25:43/29-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 84625b8 | flake updated      | 18:29:42/28-07-2025 |                                            |
 | c63ef3a | flake updated      | 18:13:07/28-07-2025 |                                            |
 | bfb380c | broadcom           | 16:02:38/28-07-2025 |                                            |
 | 14e0f20 | flake updated      | 14:14:58/25-07-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | b904971 | wlrctl             | 00:22:36/15-07-2025 |                                            |
 | 720c3e8 | warp cursor        | 00:01:29/15-07-2025 |                                            |
 | 372c6e3 | dwl nixos          | 23:09:39/14-07-2025 |                                            |
-| b535d64 | wlrctl warp        | 22:29:43/14-07-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
