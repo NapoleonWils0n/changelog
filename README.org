@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e09c444 | flake updated     | 14:56:28/29-07-2025 | HEAD -> master, github/master |
-| 699651a | google translate  | 18:33:28/27-07-2025 |                               |
-| 277ef8f | vpn               | 22:45:32/26-07-2025 |                               |
-| 72855b8 | zsh               | 13:18:20/26-07-2025 |                               |
-| 4577712 | zshrc zshenv      | 20:38:33/25-07-2025 |                               |
-| f7d65d1 | zsh               | 20:35:51/25-07-2025 |                               |
-| b38f0e0 | zsh completions   | 20:24:09/25-07-2025 |                               |
-| bf1e02b | vpn               | 17:35:10/25-07-2025 |                               |
-| bdfcec0 | flake updated     | 01:38:06/25-07-2025 |                               |
-| e8a0b95 | emacs use-package | 19:27:17/24-07-2025 |                               |
+| c4b996b | whisperx updated | 15:33:55/29-07-2025 | HEAD -> master, github/master |
+| e09c444 | flake updated    | 14:56:28/29-07-2025 |                               |
+| 699651a | google translate | 18:33:28/27-07-2025 |                               |
+| 277ef8f | vpn              | 22:45:32/26-07-2025 |                               |
+| 72855b8 | zsh              | 13:18:20/26-07-2025 |                               |
+| 4577712 | zshrc zshenv     | 20:38:33/25-07-2025 |                               |
+| f7d65d1 | zsh              | 20:35:51/25-07-2025 |                               |
+| b38f0e0 | zsh completions  | 20:24:09/25-07-2025 |                               |
+| bf1e02b | vpn              | 17:35:10/25-07-2025 |                               |
+| bdfcec0 | flake updated    | 01:38:06/25-07-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
