@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 618459b | emacs init.el gptel ollama | 18:19:55/02-08-2025 | HEAD -> master, github/master |
-| f8bf15d | ollama-cuda                | 18:10:31/02-08-2025 |                               |
-| da70f96 | ollama-cuda                | 18:10:18/02-08-2025 |                               |
-| 6624341 | n8n                        | 00:11:00/01-08-2025 |                               |
-| 330e64d | n8n                        | 00:10:22/01-08-2025 |                               |
-| 90bc979 | gemini cli updated         | 14:01:11/31-07-2025 |                               |
-| c4b996b | whisperx updated           | 15:33:55/29-07-2025 |                               |
-| e09c444 | flake updated              | 14:56:28/29-07-2025 |                               |
-| 699651a | google translate           | 18:33:28/27-07-2025 |                               |
-| 277ef8f | vpn                        | 22:45:32/26-07-2025 |                               |
+| f358882 | ollama-cuda flake with shell-hook.sh for completions | 23:30:55/02-08-2025 | HEAD -> master, github/master |
+| 618459b | emacs init.el gptel ollama                           | 18:19:55/02-08-2025 |                               |
+| f8bf15d | ollama-cuda                                          | 18:10:31/02-08-2025 |                               |
+| da70f96 | ollama-cuda                                          | 18:10:18/02-08-2025 |                               |
+| 6624341 | n8n                                                  | 00:11:00/01-08-2025 |                               |
+| 330e64d | n8n                                                  | 00:10:22/01-08-2025 |                               |
+| 90bc979 | gemini cli updated                                   | 14:01:11/31-07-2025 |                               |
+| c4b996b | whisperx updated                                     | 15:33:55/29-07-2025 |                               |
+| e09c444 | flake updated                                        | 14:56:28/29-07-2025 |                               |
+| 699651a | google translate                                     | 18:33:28/27-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
