@@ -198,7 +198,7 @@ status
 | 372c6e3 | dwl nixos          | 23:09:39/14-07-2025 |                                            |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 7ee6985 | trim-clip-to                                 | 17:59:28/27-07-2025 | HEAD -> master, github/master |
-| b60e8e8 | trim-clip-to                                 | 17:58:44/27-07-2025 |                               |
-| 637cce2 | vpn-route                                    | 22:42:39/26-07-2025 |                               |
-| 753d052 | netns-vpn use path                           | 22:12:21/26-07-2025 |                               |
-| 7fe0693 | removed ossuary                              | 19:20:45/25-07-2025 |                               |
-| e64b906 | wallpaper                                    | 21:14:35/19-07-2025 |                               |
-| f16a15e | wallpaper                                    | 21:05:45/19-07-2025 |                               |
-| d594d07 | wallpaper                                    | 21:01:20/19-07-2025 |                               |
-| e1b9701 | backlight                                    | 19:14:40/19-07-2025 |                               |
-| 714d4fd | backup to usb check if mountpoint is mounted | 15:23:36/19-07-2025 |                               |
+| f8e1868 | trim-clip-to       | 15:20:33/03-08-2025 | HEAD -> master, github/master |
+| 7ee6985 | trim-clip-to       | 17:59:28/27-07-2025 |                               |
+| b60e8e8 | trim-clip-to       | 17:58:44/27-07-2025 |                               |
+| 637cce2 | vpn-route          | 22:42:39/26-07-2025 |                               |
+| 753d052 | netns-vpn use path | 22:12:21/26-07-2025 |                               |
+| 7fe0693 | removed ossuary    | 19:20:45/25-07-2025 |                               |
+| e64b906 | wallpaper          | 21:14:35/19-07-2025 |                               |
+| f16a15e | wallpaper          | 21:05:45/19-07-2025 |                               |
+| d594d07 | wallpaper          | 21:01:20/19-07-2025 |                               |
+| e1b9701 | backlight          | 19:14:40/19-07-2025 |                               |
 #+end_quote
 
 ** debian
@@ -312,7 +312,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -334,7 +334,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| a91b7fc | trim-clip-to                                | 18:05:49/27-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 3636407 | trim-clip-to                                | 15:21:35/03-08-2025 | HEAD -> master, github/master, github/HEAD |
+| a91b7fc | trim-clip-to                                | 18:05:49/27-07-2025 |                                            |
 | eb8d9dd | removed vpn scripts not working             | 14:20:45/27-07-2025 |                                            |
 | 749ffbd | vpn                                         | 22:43:21/26-07-2025 |                                            |
 | 8bdb5d2 | vpn                                         | 22:37:52/26-07-2025 |                                            |
@@ -343,5 +344,4 @@ status
 | 963a35a | removed script                              | 13:06:14/18-06-2025 |                                            |
 | 89d03f9 | lrsha compare local and remote git sha sums | 22:53:16/17-06-2025 |                                            |
 | 52deae6 | lrsha compare local and remote git sha sums | 22:40:01/17-06-2025 |                                            |
-| 3537a00 | yt-dlp                                      | 18:02:59/10-06-2025 |                                            |
 #+end_quote
