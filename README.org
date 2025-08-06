@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 16a6322 | removed ollama and deepseek because it rubbish       | 00:37:22/03-08-2025 | HEAD -> master, github/master |
+| 317e83b | removed unused                                       | 14:11:31/06-08-2025 | HEAD -> master, github/master |
+| 16a6322 | removed ollama and deepseek because it rubbish       | 00:37:22/03-08-2025 |                               |
 | f358882 | ollama-cuda flake with shell-hook.sh for completions | 23:30:55/02-08-2025 |                               |
 | 618459b | emacs init.el gptel ollama                           | 18:19:55/02-08-2025 |                               |
 | f8bf15d | ollama-cuda                                          | 18:10:31/02-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 330e64d | n8n                                                  | 00:10:22/01-08-2025 |                               |
 | 90bc979 | gemini cli updated                                   | 14:01:11/31-07-2025 |                               |
 | c4b996b | whisperx updated                                     | 15:33:55/29-07-2025 |                               |
-| e09c444 | flake updated                                        | 14:56:28/29-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
