@@ -198,7 +198,7 @@ status
 | 372c6e3 | dwl nixos          | 23:09:39/14-07-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -312,7 +312,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
