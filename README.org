@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 282e74a | wlr-which-key                                        | 15:21:31/06-08-2025 | HEAD -> master, github/master |
+| d6777e9 | gemini-cli                                           | 16:21:25/06-08-2025 | HEAD -> master, github/master |
+| 282e74a | wlr-which-key                                        | 15:21:31/06-08-2025 |                               |
 | 317e83b | removed unused                                       | 14:11:31/06-08-2025 |                               |
 | 16a6322 | removed ollama and deepseek because it rubbish       | 00:37:22/03-08-2025 |                               |
 | f358882 | ollama-cuda flake with shell-hook.sh for completions | 23:30:55/02-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | da70f96 | ollama-cuda                                          | 18:10:18/02-08-2025 |                               |
 | 6624341 | n8n                                                  | 00:11:00/01-08-2025 |                               |
 | 330e64d | n8n                                                  | 00:10:22/01-08-2025 |                               |
-| 90bc979 | gemini cli updated                                   | 14:01:11/31-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
