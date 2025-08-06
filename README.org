@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f57e7b51 | miller                            | 18:22:33/04-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 3b54a5de | nix-flakes                        | 14:15:24/06-08-2025 | HEAD -> master, github/master, github/HEAD |
+| f57e7b51 | miller                            | 18:22:33/04-08-2025 |                                            |
 | d6fa14a4 | ollama-cuda                       | 00:56:36/03-08-2025 |                                            |
 | a8d239d8 | yt-dlp download format            | 21:14:16/29-07-2025 |                                            |
 | 284eb51b | firefox dns over https            | 17:59:01/26-07-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | ba4e0786 | now playing                       | 19:55:19/20-07-2025 |                                            |
 | 682057c2 | playerctl                         | 19:24:03/20-07-2025 |                                            |
 | 31bf79fd | doom modeline now playing updated | 17:50:54/20-07-2025 |                                            |
-| 880f033b | backlight                         | 18:31:19/19-07-2025 |                                            |
 #+end_quote
 
 ** nixos
