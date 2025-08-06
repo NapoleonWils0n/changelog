@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 3b54a5de | nix-flakes                        | 14:15:24/06-08-2025 | HEAD -> master, github/master, github/HEAD |
-| f57e7b51 | miller                            | 18:22:33/04-08-2025 |                                            |
-| d6fa14a4 | ollama-cuda                       | 00:56:36/03-08-2025 |                                            |
-| a8d239d8 | yt-dlp download format            | 21:14:16/29-07-2025 |                                            |
-| 284eb51b | firefox dns over https            | 17:59:01/26-07-2025 |                                            |
-| 712cbf84 | old emacs config                  | 17:36:46/24-07-2025 |                                            |
-| 18d0d412 | kml                               | 20:26:17/22-07-2025 |                                            |
-| ba4e0786 | now playing                       | 19:55:19/20-07-2025 |                                            |
-| 682057c2 | playerctl                         | 19:24:03/20-07-2025 |                                            |
-| 31bf79fd | doom modeline now playing updated | 17:50:54/20-07-2025 |                                            |
+| 7245af24 | flakes                 | 15:17:30/06-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 3b54a5de | nix-flakes             | 14:15:24/06-08-2025 |                                            |
+| f57e7b51 | miller                 | 18:22:33/04-08-2025 |                                            |
+| d6fa14a4 | ollama-cuda            | 00:56:36/03-08-2025 |                                            |
+| a8d239d8 | yt-dlp download format | 21:14:16/29-07-2025 |                                            |
+| 284eb51b | firefox dns over https | 17:59:01/26-07-2025 |                                            |
+| 712cbf84 | old emacs config       | 17:36:46/24-07-2025 |                                            |
+| 18d0d412 | kml                    | 20:26:17/22-07-2025 |                                            |
+| ba4e0786 | now playing            | 19:55:19/20-07-2025 |                                            |
+| 682057c2 | playerctl              | 19:24:03/20-07-2025 |                                            |
 #+end_quote
 
 ** nixos
