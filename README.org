@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 7245af24 | flakes                 | 15:17:30/06-08-2025 | HEAD -> master, github/master, github/HEAD |
+| a7f1dfe0 | flakes                 | 16:10:41/06-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 7245af24 | flakes                 | 15:17:30/06-08-2025 |                                            |
 | 3b54a5de | nix-flakes             | 14:15:24/06-08-2025 |                                            |
 | f57e7b51 | miller                 | 18:22:33/04-08-2025 |                                            |
 | d6fa14a4 | ollama-cuda            | 00:56:36/03-08-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 712cbf84 | old emacs config       | 17:36:46/24-07-2025 |                                            |
 | 18d0d412 | kml                    | 20:26:17/22-07-2025 |                                            |
 | ba4e0786 | now playing            | 19:55:19/20-07-2025 |                                            |
-| 682057c2 | playerctl              | 19:24:03/20-07-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 317e83b | removed unused                                       | 14:11:31/06-08-2025 | HEAD -> master, github/master |
+| 282e74a | wlr-which-key                                        | 15:21:31/06-08-2025 | HEAD -> master, github/master |
+| 317e83b | removed unused                                       | 14:11:31/06-08-2025 |                               |
 | 16a6322 | removed ollama and deepseek because it rubbish       | 00:37:22/03-08-2025 |                               |
 | f358882 | ollama-cuda flake with shell-hook.sh for completions | 23:30:55/02-08-2025 |                               |
 | 618459b | emacs init.el gptel ollama                           | 18:19:55/02-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 6624341 | n8n                                                  | 00:11:00/01-08-2025 |                               |
 | 330e64d | n8n                                                  | 00:10:22/01-08-2025 |                               |
 | 90bc979 | gemini cli updated                                   | 14:01:11/31-07-2025 |                               |
-| c4b996b | whisperx updated                                     | 15:33:55/29-07-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 709b3ab | no status bar      | 19:40:02/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 038eefd | flake updated     | 19:03:08/28-07-2025 | HEAD -> master, github/master, github/HEAD |
-| 2cef398 | google translate  | 18:35:12/27-07-2025 |                                            |
-| 1487f44 | vpn               | 22:46:43/26-07-2025 |                                            |
-| c85ee6b | transmission      | 13:28:44/26-07-2025 |                                            |
-| aeafafc | zsh               | 13:19:26/26-07-2025 |                                            |
-| e15b52a | zshrc zshenv      | 20:42:18/25-07-2025 |                                            |
-| b1c4138 | zsh completions   | 20:33:31/25-07-2025 |                                            |
-| 18fa891 | vpn               | 17:51:48/25-07-2025 |                                            |
-| b738808 | flake updated     | 14:26:26/25-07-2025 |                                            |
-| 2853a05 | emacs use-package | 21:05:41/24-07-2025 |                                            |
+| 8858d13 | wlr-which-key    | 15:22:16/06-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 038eefd | flake updated    | 19:03:08/28-07-2025 |                                            |
+| 2cef398 | google translate | 18:35:12/27-07-2025 |                                            |
+| 1487f44 | vpn              | 22:46:43/26-07-2025 |                                            |
+| c85ee6b | transmission     | 13:28:44/26-07-2025 |                                            |
+| aeafafc | zsh              | 13:19:26/26-07-2025 |                                            |
+| e15b52a | zshrc zshenv     | 20:42:18/25-07-2025 |                                            |
+| b1c4138 | zsh completions  | 20:33:31/25-07-2025 |                                            |
+| 18fa891 | vpn              | 17:51:48/25-07-2025 |                                            |
+| b738808 | flake updated    | 14:26:26/25-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
