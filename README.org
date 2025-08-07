@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c510c5e | ollama-cuda                                          | 16:04:22/07-08-2025 | HEAD -> master, github/master |
+| c95fbca | emacs gptel ollama                                   | 22:56:29/07-08-2025 | HEAD -> master, github/master |
+| c510c5e | ollama-cuda                                          | 16:04:22/07-08-2025 |                               |
 | d6777e9 | gemini-cli                                           | 16:21:25/06-08-2025 |                               |
 | 282e74a | wlr-which-key                                        | 15:21:31/06-08-2025 |                               |
 | 317e83b | removed unused                                       | 14:11:31/06-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 618459b | emacs init.el gptel ollama                           | 18:19:55/02-08-2025 |                               |
 | f8bf15d | ollama-cuda                                          | 18:10:31/02-08-2025 |                               |
 | da70f96 | ollama-cuda                                          | 18:10:18/02-08-2025 |                               |
-| 6624341 | n8n                                                  | 00:11:00/01-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
