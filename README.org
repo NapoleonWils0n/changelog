@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 709b3ab | no status bar      | 19:40:02/17-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
