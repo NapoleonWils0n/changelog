@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c12d2df  | emacs gptel tools                                    | 15:44:49/09-08-2025 | HEAD -> master, github/master |
+| 7138991  | emacs gptel tools                                    | 16:13:02/09-08-2025 | HEAD -> master, github/master |
+| c12d2df  | emacs gptel tools                                    | 15:44:49/09-08-2025 |                               |
 | 1.0e+INF | emacs gptel tools                                    | 22:15:40/08-08-2025 |                               |
 | c95fbca  | emacs gptel ollama                                   | 22:56:29/07-08-2025 |                               |
 | c510c5e  | ollama-cuda                                          | 16:04:22/07-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 317e83b  | removed unused                                       | 14:11:31/06-08-2025 |                               |
 | 16a6322  | removed ollama and deepseek because it rubbish       | 00:37:22/03-08-2025 |                               |
 | f358882  | ollama-cuda flake with shell-hook.sh for completions | 23:30:55/02-08-2025 |                               |
-| 618459b  | emacs init.el gptel ollama                           | 18:19:55/02-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 709b3ab | no status bar      | 19:40:02/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 8858d13 | wlr-which-key    | 15:22:16/06-08-2025 | HEAD -> master, github/master, github/HEAD |
+| a92c6ed | gptel tools      | 16:11:49/09-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 8858d13 | wlr-which-key    | 15:22:16/06-08-2025 |                                            |
 | 038eefd | flake updated    | 19:03:08/28-07-2025 |                                            |
 | 2cef398 | google translate | 18:35:12/27-07-2025 |                                            |
 | 1487f44 | vpn              | 22:46:43/26-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | e15b52a | zshrc zshenv     | 20:42:18/25-07-2025 |                                            |
 | b1c4138 | zsh completions  | 20:33:31/25-07-2025 |                                            |
 | 18fa891 | vpn              | 17:51:48/25-07-2025 |                                            |
-| b738808 | flake updated    | 14:26:26/25-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| e675c81  | google translate                  | 18:36:22/27-07-2025 | HEAD -> master, github/master, github/HEAD |
+| 1524ccc  | emacs gptel tools                 | 16:15:42/09-08-2025 | HEAD -> master, github/master, github/HEAD |
+| e675c81  | google translate                  | 18:36:22/27-07-2025 |                                            |
 | 5f04ddc  | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 |                                            |
 | 132445a  | vpn                               | 22:47:52/26-07-2025 |                                            |
 | f6a4c45  | zshrc zshenv                      | 20:50:10/25-07-2025 |                                            |
@@ -264,20 +265,6 @@ status
 | 83858b0  | emacs use-package                 | 20:55:56/24-07-2025 |                                            |
 | ae846ce  | now playing working               | 20:14:57/20-07-2025 |                                            |
 | b50c1f9  | removed now playing               | 18:45:30/20-07-2025 |                                            |
-| 1.0e+INF | doom modeline now playing updated | 18:02:15/20-07-2025 |                                            |
-#+end_quote
-#+begin_quote
-| 5f04ddc  | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 | HEAD -> master, github/master, github/HEAD |
-| 132445a  | vpn                               | 22:47:52/26-07-2025 |                                            |
-| f6a4c45  | zshrc zshenv                      | 20:50:10/25-07-2025 |                                            |
-| 1.0e+INF | vpn                               | 17:57:23/25-07-2025 |                                            |
-| 0ddc6ac  | meta fix                          | 21:20:30/24-07-2025 |                                            |
-| 83858b0  | emacs use-package                 | 20:55:56/24-07-2025 |                                            |
-| ae846ce  | now playing working               | 20:14:57/20-07-2025 |                                            |
-| b50c1f9  | removed now playing               | 18:45:30/20-07-2025 |                                            |
-| 1.0e+INF | doom modeline now playing updated | 18:02:15/20-07-2025 |                                            |
-| c40916d  | no opacity                        | 21:30:33/19-07-2025 |                                            |
-#+end_quote
 #+end_quote
 
 *** debian-root
