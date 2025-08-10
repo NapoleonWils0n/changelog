@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c99926b  | ollama flake updated | 16:10:00/10-08-2025 | HEAD -> master, github/master |
+| d101019  | gemini-cli           | 19:33:10/10-08-2025 | HEAD -> master, github/master |
+| c99926b  | ollama flake updated | 16:10:00/10-08-2025 |                               |
 | c17002a  | whisperx flake       | 16:03:52/10-08-2025 |                               |
 | 63957b4  | flake updated        | 13:24:07/10-08-2025 |                               |
 | b7b49aa  | stable               | 10:59:37/10-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 7138991  | emacs gptel tools    | 16:13:02/09-08-2025 |                               |
 | c12d2df  | emacs gptel tools    | 15:44:49/09-08-2025 |                               |
 | 1.0e+INF | emacs gptel tools    | 22:15:40/08-08-2025 |                               |
-| c95fbca  | emacs gptel ollama   | 22:56:29/07-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
