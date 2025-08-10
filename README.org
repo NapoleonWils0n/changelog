@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | d6777e9  | gemini-cli         | 16:21:25/06-08-2025 |                |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 6099fa0 | gptel tools      | 23:53:49/09-08-2025 | HEAD -> master, github/master, github/HEAD |
+| c98a484 | flake updated    | 14:43:34/10-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 6099fa0 | gptel tools      | 23:53:49/09-08-2025 |                                            |
 | a92c6ed | gptel tools      | 16:11:49/09-08-2025 |                                            |
 | 8858d13 | wlr-which-key    | 15:22:16/06-08-2025 |                                            |
 | 038eefd | flake updated    | 19:03:08/28-07-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | c85ee6b | transmission     | 13:28:44/26-07-2025 |                                            |
 | aeafafc | zsh              | 13:19:26/26-07-2025 |                                            |
 | e15b52a | zshrc zshenv     | 20:42:18/25-07-2025 |                                            |
-| b1c4138 | zsh completions  | 20:33:31/25-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| 6bce3c8 | removed comments   | 13:25:43/29-07-2025 | HEAD -> master, github/master, github/HEAD |
+| e91e042 | flake updated      | 14:34:46/10-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 6bce3c8 | removed comments   | 13:25:43/29-07-2025 |                                            |
 | 84625b8 | flake updated      | 18:29:42/28-07-2025 |                                            |
 | c63ef3a | flake updated      | 18:13:07/28-07-2025 |                                            |
 | bfb380c | broadcom           | 16:02:38/28-07-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | 3595166 | flake updated      | 22:57:15/15-07-2025 |                                            |
 | b904971 | wlrctl             | 00:22:36/15-07-2025 |                                            |
 | 720c3e8 | warp cursor        | 00:01:29/15-07-2025 |                                            |
-| 372c6e3 | dwl nixos          | 23:09:39/14-07-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
