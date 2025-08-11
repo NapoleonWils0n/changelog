@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 88419ee | python nix flake     | 23:02:12/10-08-2025 | HEAD -> master, github/master |
+| 1e65a76 | emacs init           | 13:12:14/11-08-2025 | HEAD -> master, github/master |
+| 88419ee | python nix flake     | 23:02:12/10-08-2025 |                               |
 | f4fa8cf | python flake         | 23:01:57/10-08-2025 |                               |
 | d101019 | gemini-cli           | 19:33:10/10-08-2025 |                               |
 | c99926b | ollama flake updated | 16:10:00/10-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | b7b49aa | stable               | 10:59:37/10-08-2025 |                               |
 | 2d73640 | gptel tools          | 23:52:44/09-08-2025 |                               |
 | 9bef180 | gptel models         | 19:09:03/09-08-2025 |                               |
-| 7138991 | emacs gptel tools    | 16:13:02/09-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| c98a484 | flake updated    | 14:43:34/10-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 05d889f | emacs init       | 13:14:05/11-08-2025 | HEAD -> master, github/master, github/HEAD |
+| c98a484 | flake updated    | 14:43:34/10-08-2025 |                                            |
 | 6099fa0 | gptel tools      | 23:53:49/09-08-2025 |                                            |
 | a92c6ed | gptel tools      | 16:11:49/09-08-2025 |                                            |
 | 8858d13 | wlr-which-key    | 15:22:16/06-08-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 1487f44 | vpn              | 22:46:43/26-07-2025 |                                            |
 | c85ee6b | transmission     | 13:28:44/26-07-2025 |                                            |
 | aeafafc | zsh              | 13:19:26/26-07-2025 |                                            |
-| e15b52a | zshrc zshenv     | 20:42:18/25-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 69419f1  | gptel tools                       | 23:54:51/09-08-2025 | HEAD -> master, github/master, github/HEAD |
+| c3752dc  | emacs init.el                     | 13:15:32/11-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 69419f1  | gptel tools                       | 23:54:51/09-08-2025 |                                            |
 | 1524ccc  | emacs gptel tools                 | 16:15:42/09-08-2025 |                                            |
 | e675c81  | google translate                  | 18:36:22/27-07-2025 |                                            |
 | 5f04ddc  | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 1.0e+INF | vpn                               | 17:57:23/25-07-2025 |                                            |
 | 0ddc6ac  | meta fix                          | 21:20:30/24-07-2025 |                                            |
 | 83858b0  | emacs use-package                 | 20:55:56/24-07-2025 |                                            |
-| ae846ce  | now playing working               | 20:14:57/20-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
