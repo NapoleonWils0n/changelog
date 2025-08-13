@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 1e65a76 | emacs init           | 13:12:14/11-08-2025 | HEAD -> master, github/master |
-| 88419ee | python nix flake     | 23:02:12/10-08-2025 |                               |
-| f4fa8cf | python flake         | 23:01:57/10-08-2025 |                               |
-| d101019 | gemini-cli           | 19:33:10/10-08-2025 |                               |
-| c99926b | ollama flake updated | 16:10:00/10-08-2025 |                               |
-| c17002a | whisperx flake       | 16:03:52/10-08-2025 |                               |
-| 63957b4 | flake updated        | 13:24:07/10-08-2025 |                               |
-| b7b49aa | stable               | 10:59:37/10-08-2025 |                               |
-| 2d73640 | gptel tools          | 23:52:44/09-08-2025 |                               |
-| 9bef180 | gptel models         | 19:09:03/09-08-2025 |                               |
+| c782d44 | emacs treesitter working | 20:59:29/13-08-2025 | HEAD -> master, github/master |
+| 43a2a0e | treesitter               | 20:33:38/13-08-2025 |                               |
+| adaa44b | treesitter               | 20:29:45/13-08-2025 |                               |
+| ebafe25 | treesitter               | 20:28:16/13-08-2025 |                               |
+| 388ceff | treesitter               | 20:24:46/13-08-2025 |                               |
+| d990ebd | treesitter               | 20:23:17/13-08-2025 |                               |
+| 9d76695 | treesitter               | 20:14:01/13-08-2025 |                               |
+| d824994 | treesit                  | 20:06:20/13-08-2025 |                               |
+| 5c287c7 | emacs tree sit           | 19:39:36/13-08-2025 |                               |
+| ce8337b | emacs treesitter         | 19:25:38/13-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
