@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0b2d777d | debian upgrade                          | 16:51:56/13-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 37bc3eb1 | debian 13 treesitter                    | 16:06:23/14-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 0b2d777d | debian upgrade                          | 16:51:56/13-08-2025 |                                            |
 | 1801afc7 | gem                                     | 18:51:31/12-08-2025 |                                            |
 | 129293bc | gem                                     | 18:47:31/12-08-2025 |                                            |
 | f4a8459b | gemini gems                             | 18:35:35/12-08-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 08d8fba7 | ffmpeg python                           | 00:48:21/11-08-2025 |                                            |
 | 1eb3909d | subtitle search                         | 00:43:12/11-08-2025 |                                            |
 | 854affaf | ffmpeg create clips using vtt subtitles | 21:59:40/10-08-2025 |                                            |
-| 6dde7376 | gemini-cli                              | 21:51:55/10-08-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -255,16 +255,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 04fccde  | emacs no title bar                | 17:47:39/13-08-2025 | HEAD -> master, github/master, github/HEAD |
-| 7777d12  | alacritty toml                    | 17:35:43/13-08-2025 |                                            |
-| c3752dc  | emacs init.el                     | 13:15:32/11-08-2025 |                                            |
-| 69419f1  | gptel tools                       | 23:54:51/09-08-2025 |                                            |
-| 1524ccc  | emacs gptel tools                 | 16:15:42/09-08-2025 |                                            |
-| e675c81  | google translate                  | 18:36:22/27-07-2025 |                                            |
-| 5f04ddc  | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 |                                            |
-| 132445a  | vpn                               | 22:47:52/26-07-2025 |                                            |
-| f6a4c45  | zshrc zshenv                      | 20:50:10/25-07-2025 |                                            |
-| 1.0e+INF | vpn                               | 17:57:23/25-07-2025 |                                            |
+| 914bb13 | debian 13 treesitter              | 16:06:37/14-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 04fccde | emacs no title bar                | 17:47:39/13-08-2025 |                                            |
+| 7777d12 | alacritty toml                    | 17:35:43/13-08-2025 |                                            |
+| c3752dc | emacs init.el                     | 13:15:32/11-08-2025 |                                            |
+| 69419f1 | gptel tools                       | 23:54:51/09-08-2025 |                                            |
+| 1524ccc | emacs gptel tools                 | 16:15:42/09-08-2025 |                                            |
+| e675c81 | google translate                  | 18:36:22/27-07-2025 |                                            |
+| 5f04ddc | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 |                                            |
+| 132445a | vpn                               | 22:47:52/26-07-2025 |                                            |
+| f6a4c45 | zshrc zshenv                      | 20:50:10/25-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
