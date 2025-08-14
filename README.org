@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 49c4057 | emacs treesitter | 13:19:18/14-08-2025 | HEAD -> master, github/master, github/HEAD |
+| d6feecf | emacs treesitter | 14:00:38/14-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 49c4057 | emacs treesitter | 13:19:18/14-08-2025 |                                            |
 | 05d889f | emacs init       | 13:14:05/11-08-2025 |                                            |
 | c98a484 | flake updated    | 14:43:34/10-08-2025 |                                            |
 | 6099fa0 | gptel tools      | 23:53:49/09-08-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 038eefd | flake updated    | 19:03:08/28-07-2025 |                                            |
 | 2cef398 | google translate | 18:35:12/27-07-2025 |                                            |
 | 1487f44 | vpn              | 22:46:43/26-07-2025 |                                            |
-| c85ee6b | transmission     | 13:28:44/26-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
