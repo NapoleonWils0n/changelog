@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| a8f12e6 | emacs treesitter         | 01:29:40/14-08-2025 | HEAD -> master, github/master |
+| 582bcf2 | emacs treesitter         | 12:19:48/14-08-2025 | HEAD -> master, github/master |
+| 82af706 | treesitter               | 12:13:46/14-08-2025 |                               |
+| 77b6984 | treesit                  | 12:06:51/14-08-2025 |                               |
+| a8f12e6 | emacs treesitter         | 01:29:40/14-08-2025 |                               |
 | 167636a | treesitter               | 01:02:19/14-08-2025 |                               |
 | 87b033a | emacs treesitter working | 21:21:36/13-08-2025 |                               |
 | 3ed14fd | emacs treesitter working | 21:09:04/13-08-2025 |                               |
 | c782d44 | emacs treesitter working | 20:59:29/13-08-2025 |                               |
 | 43a2a0e | treesitter               | 20:33:38/13-08-2025 |                               |
 | adaa44b | treesitter               | 20:29:45/13-08-2025 |                               |
-| ebafe25 | treesitter               | 20:28:16/13-08-2025 |                               |
-| 388ceff | treesitter               | 20:24:46/13-08-2025 |                               |
-| d990ebd | treesitter               | 20:23:17/13-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
