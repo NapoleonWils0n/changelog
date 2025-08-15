@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 82540224 | nix flakes            | 21:05:47/15-08-2025 | HEAD -> master, github/master, github/HEAD |
-| 37bc3eb1 | debian 13 treesitter  | 16:06:23/14-08-2025 |                                            |
-| 0b2d777d | debian upgrade        | 16:51:56/13-08-2025 |                                            |
-| 1801afc7 | gem                   | 18:51:31/12-08-2025 |                                            |
-| 129293bc | gem                   | 18:47:31/12-08-2025 |                                            |
-| f4a8459b | gemini gems           | 18:35:35/12-08-2025 |                                            |
-| 33416cbe | ffmpeg python scripts | 00:52:01/11-08-2025 |                                            |
-| bd9dc286 | ffmpeg python         | 00:48:58/11-08-2025 |                                            |
-| 08d8fba7 | ffmpeg python         | 00:48:21/11-08-2025 |                                            |
-| 1eb3909d | subtitle search       | 00:43:12/11-08-2025 |                                            |
+| 55e0f402 | ffmpeg record m3u8 urls | 00:10:44/16-08-2025 | HEAD -> master, github/master, github/HEAD |
+| e8d70b98 | ffmpeg record m3u8 url  | 00:01:46/16-08-2025 |                                            |
+| 82540224 | nix flakes              | 21:05:47/15-08-2025 |                                            |
+| 37bc3eb1 | debian 13 treesitter    | 16:06:23/14-08-2025 |                                            |
+| 0b2d777d | debian upgrade          | 16:51:56/13-08-2025 |                                            |
+| 1801afc7 | gem                     | 18:51:31/12-08-2025 |                                            |
+| 129293bc | gem                     | 18:47:31/12-08-2025 |                                            |
+| f4a8459b | gemini gems             | 18:35:35/12-08-2025 |                                            |
+| 33416cbe | ffmpeg python scripts   | 00:52:01/11-08-2025 |                                            |
+| bd9dc286 | ffmpeg python           | 00:48:58/11-08-2025 |                                            |
 #+end_quote
 
 ** nixos
