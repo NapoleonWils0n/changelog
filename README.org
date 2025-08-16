@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 037cb54 | audacity                 | 21:03:38/15-08-2025 | HEAD -> master, github/master |
-| a23feb0 | audacity                 | 21:03:12/15-08-2025 |                               |
-| 582bcf2 | emacs treesitter         | 12:19:48/14-08-2025 |                               |
-| 82af706 | treesitter               | 12:13:46/14-08-2025 |                               |
-| 77b6984 | treesit                  | 12:06:51/14-08-2025 |                               |
-| a8f12e6 | emacs treesitter         | 01:29:40/14-08-2025 |                               |
-| 167636a | treesitter               | 01:02:19/14-08-2025 |                               |
-| 87b033a | emacs treesitter working | 21:21:36/13-08-2025 |                               |
-| 3ed14fd | emacs treesitter working | 21:09:04/13-08-2025 |                               |
-| c782d44 | emacs treesitter working | 20:59:29/13-08-2025 |                               |
+| 2320fe0 | treesitter refactor  | 13:41:20/16-08-2025 | HEAD -> master, github/master |
+| a459e57 | treesitter try again | 12:46:42/16-08-2025 |                               |
+| 8d4f28e | removed treesitter   | 12:13:14/16-08-2025 |                               |
+| 8b20005 | removed treesitter   | 12:08:24/16-08-2025 |                               |
+| 037cb54 | audacity             | 21:03:38/15-08-2025 |                               |
+| a23feb0 | audacity             | 21:03:12/15-08-2025 |                               |
+| 582bcf2 | emacs treesitter     | 12:19:48/14-08-2025 |                               |
+| 82af706 | treesitter           | 12:13:46/14-08-2025 |                               |
+| 77b6984 | treesit              | 12:06:51/14-08-2025 |                               |
+| a8f12e6 | emacs treesitter     | 01:29:40/14-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| d6feecf | emacs treesitter | 14:00:38/14-08-2025 | HEAD -> master, github/master, github/HEAD |
-| 49c4057 | emacs treesitter | 13:19:18/14-08-2025 |                                            |
-| 05d889f | emacs init       | 13:14:05/11-08-2025 |                                            |
-| c98a484 | flake updated    | 14:43:34/10-08-2025 |                                            |
-| 6099fa0 | gptel tools      | 23:53:49/09-08-2025 |                                            |
-| a92c6ed | gptel tools      | 16:11:49/09-08-2025 |                                            |
-| 8858d13 | wlr-which-key    | 15:22:16/06-08-2025 |                                            |
-| 038eefd | flake updated    | 19:03:08/28-07-2025 |                                            |
-| 2cef398 | google translate | 18:35:12/27-07-2025 |                                            |
-| 1487f44 | vpn              | 22:46:43/26-07-2025 |                                            |
+| 64f0956 | emacs treesitter refactored | 13:50:16/16-08-2025 | HEAD -> master, github/master, github/HEAD |
+| d6feecf | emacs treesitter            | 14:00:38/14-08-2025 |                                            |
+| 49c4057 | emacs treesitter            | 13:19:18/14-08-2025 |                                            |
+| 05d889f | emacs init                  | 13:14:05/11-08-2025 |                                            |
+| c98a484 | flake updated               | 14:43:34/10-08-2025 |                                            |
+| 6099fa0 | gptel tools                 | 23:53:49/09-08-2025 |                                            |
+| a92c6ed | gptel tools                 | 16:11:49/09-08-2025 |                                            |
+| 8858d13 | wlr-which-key               | 15:22:16/06-08-2025 |                                            |
+| 038eefd | flake updated               | 19:03:08/28-07-2025 |                                            |
+| 2cef398 | google translate            | 18:35:12/27-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
