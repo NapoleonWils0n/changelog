@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 2d84203 | emacs gptel tools                | 21:36:51/17-08-2025 | HEAD -> master, github/master |
+| c5b449a | emacs gptel package config       | 22:28:42/17-08-2025 | HEAD -> master, github/master |
+| 2d84203 | emacs gptel tools                | 21:36:51/17-08-2025 |                               |
 | e718542 | flake updated                    | 11:25:59/17-08-2025 |                               |
 | 3a5567c | removed treesitter keeps failing | 11:20:49/17-08-2025 |                               |
 | 2320fe0 | treesitter refactor              | 13:41:20/16-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 8b20005 | removed treesitter               | 12:08:24/16-08-2025 |                               |
 | 037cb54 | audacity                         | 21:03:38/15-08-2025 |                               |
 | a23feb0 | audacity                         | 21:03:12/15-08-2025 |                               |
-| 582bcf2 | emacs treesitter                 | 12:19:48/14-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
