@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 2320fe0 | treesitter refactor  | 13:41:20/16-08-2025 | HEAD -> master, github/master |
-| a459e57 | treesitter try again | 12:46:42/16-08-2025 |                               |
-| 8d4f28e | removed treesitter   | 12:13:14/16-08-2025 |                               |
-| 8b20005 | removed treesitter   | 12:08:24/16-08-2025 |                               |
-| 037cb54 | audacity             | 21:03:38/15-08-2025 |                               |
-| a23feb0 | audacity             | 21:03:12/15-08-2025 |                               |
-| 582bcf2 | emacs treesitter     | 12:19:48/14-08-2025 |                               |
-| 82af706 | treesitter           | 12:13:46/14-08-2025 |                               |
-| 77b6984 | treesit              | 12:06:51/14-08-2025 |                               |
-| a8f12e6 | emacs treesitter     | 01:29:40/14-08-2025 |                               |
+| e718542 | flake updated                    | 11:25:59/17-08-2025 | HEAD -> master |
+| 3a5567c | removed treesitter keeps failing | 11:20:49/17-08-2025 |                |
+| 2320fe0 | treesitter refactor              | 13:41:20/16-08-2025 | github/master  |
+| a459e57 | treesitter try again             | 12:46:42/16-08-2025 |                |
+| 8d4f28e | removed treesitter               | 12:13:14/16-08-2025 |                |
+| 8b20005 | removed treesitter               | 12:08:24/16-08-2025 |                |
+| 037cb54 | audacity                         | 21:03:38/15-08-2025 |                |
+| a23feb0 | audacity                         | 21:03:12/15-08-2025 |                |
+| 582bcf2 | emacs treesitter                 | 12:19:48/14-08-2025 |                |
+| 82af706 | treesitter                       | 12:13:46/14-08-2025 |                |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 64f0956 | emacs treesitter refactored | 13:50:16/16-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 1557a28 | flake updated               | 11:29:42/17-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 0ea0044 | removed treesitter          | 11:22:17/17-08-2025 |                                            |
+| 64f0956 | emacs treesitter refactored | 13:50:16/16-08-2025 |                                            |
 | d6feecf | emacs treesitter            | 14:00:38/14-08-2025 |                                            |
 | 49c4057 | emacs treesitter            | 13:19:18/14-08-2025 |                                            |
 | 05d889f | emacs init                  | 13:14:05/11-08-2025 |                                            |
@@ -160,8 +162,6 @@ status
 | 6099fa0 | gptel tools                 | 23:53:49/09-08-2025 |                                            |
 | a92c6ed | gptel tools                 | 16:11:49/09-08-2025 |                                            |
 | 8858d13 | wlr-which-key               | 15:22:16/06-08-2025 |                                            |
-| 038eefd | flake updated               | 19:03:08/28-07-2025 |                                            |
-| 2cef398 | google translate            | 18:35:12/27-07-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 914bb13 | debian 13 treesitter              | 16:06:37/14-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 40f827d | removed treesitter                | 11:23:29/17-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 914bb13 | debian 13 treesitter              | 16:06:37/14-08-2025 |                                            |
 | 04fccde | emacs no title bar                | 17:47:39/13-08-2025 |                                            |
 | 7777d12 | alacritty toml                    | 17:35:43/13-08-2025 |                                            |
 | c3752dc | emacs init.el                     | 13:15:32/11-08-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | e675c81 | google translate                  | 18:36:22/27-07-2025 |                                            |
 | 5f04ddc | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 |                                            |
 | 132445a | vpn                               | 22:47:52/26-07-2025 |                                            |
-| f6a4c45 | zshrc zshenv                      | 20:50:10/25-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
