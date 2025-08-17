@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c5b449a | emacs gptel package config       | 22:28:42/17-08-2025 | HEAD -> master, github/master |
+| fe23fb1 | emacs gptel tools                | 22:42:46/17-08-2025 | HEAD -> master, github/master |
+| c5b449a | emacs gptel package config       | 22:28:42/17-08-2025 |                               |
 | 2d84203 | emacs gptel tools                | 21:36:51/17-08-2025 |                               |
 | e718542 | flake updated                    | 11:25:59/17-08-2025 |                               |
 | 3a5567c | removed treesitter keeps failing | 11:20:49/17-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 8d4f28e | removed treesitter               | 12:13:14/16-08-2025 |                               |
 | 8b20005 | removed treesitter               | 12:08:24/16-08-2025 |                               |
 | 037cb54 | audacity                         | 21:03:38/15-08-2025 |                               |
-| a23feb0 | audacity                         | 21:03:12/15-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 1557a28 | flake updated               | 11:29:42/17-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 3b1030c | emacs gptel tools           | 22:43:45/17-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 1557a28 | flake updated               | 11:29:42/17-08-2025 |                                            |
 | 0ea0044 | removed treesitter          | 11:22:17/17-08-2025 |                                            |
 | 64f0956 | emacs treesitter refactored | 13:50:16/16-08-2025 |                                            |
 | d6feecf | emacs treesitter            | 14:00:38/14-08-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | c98a484 | flake updated               | 14:43:34/10-08-2025 |                                            |
 | 6099fa0 | gptel tools                 | 23:53:49/09-08-2025 |                                            |
 | a92c6ed | gptel tools                 | 16:11:49/09-08-2025 |                                            |
-| 8858d13 | wlr-which-key               | 15:22:16/06-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 40f827d | removed treesitter                | 11:23:29/17-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 39a30a9 | emacs gptel tools                 | 22:45:10/17-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 40f827d | removed treesitter                | 11:23:29/17-08-2025 |                                            |
 | 914bb13 | debian 13 treesitter              | 16:06:37/14-08-2025 |                                            |
 | 04fccde | emacs no title bar                | 17:47:39/13-08-2025 |                                            |
 | 7777d12 | alacritty toml                    | 17:35:43/13-08-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 1524ccc | emacs gptel tools                 | 16:15:42/09-08-2025 |                                            |
 | e675c81 | google translate                  | 18:36:22/27-07-2025 |                                            |
 | 5f04ddc | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 |                                            |
-| 132445a | vpn                               | 22:47:52/26-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
