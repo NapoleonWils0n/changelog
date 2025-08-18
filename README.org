@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 7f0b9af3 | google docs epub             | 22:27:28/18-08-2025 | HEAD -> master, github/master, github/HEAD |
+| ffcdeb72 | google docs epub             | 00:04:11/19-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 7f0b9af3 | google docs epub             | 22:27:28/18-08-2025 |                                            |
 | 4755a6a7 | google docs epub hacking     | 22:20:32/18-08-2025 |                                            |
 | a9d9b56a | package-vc-selected-packages | 19:13:02/16-08-2025 |                                            |
 | 55e0f402 | ffmpeg record m3u8 urls      | 00:10:44/16-08-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 37bc3eb1 | debian 13 treesitter         | 16:06:23/14-08-2025 |                                            |
 | 0b2d777d | debian upgrade               | 16:51:56/13-08-2025 |                                            |
 | 1801afc7 | gem                          | 18:51:31/12-08-2025 |                                            |
-| 129293bc | gem                          | 18:47:31/12-08-2025 |                                            |
 #+end_quote
 
 ** nixos
