@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ffcdeb72 | google docs epub             | 00:04:11/19-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 6278b57f | mpv yt-dlp                   | 22:35:23/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| ffcdeb72 | google docs epub             | 00:04:11/19-08-2025 |                                            |
 | 7f0b9af3 | google docs epub             | 22:27:28/18-08-2025 |                                            |
 | 4755a6a7 | google docs epub hacking     | 22:20:32/18-08-2025 |                                            |
 | a9d9b56a | package-vc-selected-packages | 19:13:02/16-08-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | 82540224 | nix flakes                   | 21:05:47/15-08-2025 |                                            |
 | 37bc3eb1 | debian 13 treesitter         | 16:06:23/14-08-2025 |                                            |
 | 0b2d777d | debian upgrade               | 16:51:56/13-08-2025 |                                            |
-| 1801afc7 | gem                          | 18:51:31/12-08-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6091944 | mpv yt-dlp fix               | 21:50:42/20-08-2025 | HEAD -> master, github/master |
+| 7d728ed | wlr dash ffmpeg              | 22:51:22/20-08-2025 | HEAD -> master, github/master |
+| 3214b62 | mpv                          | 22:34:09/20-08-2025 |                               |
+| 6091944 | mpv yt-dlp fix               | 21:50:42/20-08-2025 |                               |
 | 540d222 | nix flake master             | 20:48:24/20-08-2025 |                               |
 | c88e6db | nixos flake master branch    | 20:37:24/20-08-2025 |                               |
 | 345a6c5 | nixpkgs master branch        | 20:05:28/20-08-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 4aeb087 | removed index-tts not used   | 15:31:10/20-08-2025 |                               |
 | 0a84e94 | removed gemini-cli           | 15:28:45/20-08-2025 |                               |
 | ee4ee9c | removed resolve not building | 14:32:24/20-08-2025 |                               |
-| 21ae726 | flake updated                | 14:28:50/20-08-2025 |                               |
-| 64cd4da | flake updated                | 13:52:15/20-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 28b0ada | no status bar      | 20:25:11/17-07-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 9a22e8c | mpv yt-dlp fix              | 21:51:02/20-08-2025 | HEAD -> master, github/master, github/HEAD |
-| 7b1a937 | home manager flake master   | 20:56:07/20-08-2025 |                                            |
-| 338595c | nix flake master            | 20:49:17/20-08-2025 |                                            |
-| 9af423c | flake updated               | 17:53:41/20-08-2025 |                                            |
-| 3b1030c | emacs gptel tools           | 22:43:45/17-08-2025 |                                            |
-| 1557a28 | flake updated               | 11:29:42/17-08-2025 |                                            |
-| 0ea0044 | removed treesitter          | 11:22:17/17-08-2025 |                                            |
-| 64f0956 | emacs treesitter refactored | 13:50:16/16-08-2025 |                                            |
-| d6feecf | emacs treesitter            | 14:00:38/14-08-2025 |                                            |
-| 49c4057 | emacs treesitter            | 13:19:18/14-08-2025 |                                            |
+| 994b41f | removed wireplumber rename         | 23:19:04/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 606b49f | wlr dash ffmpeg                    | 22:52:20/20-08-2025 |                                            |
+| de1f07c | removed fix and display fullscreen | 22:25:59/20-08-2025 |                                            |
+| 9a22e8c | mpv yt-dlp fix                     | 21:51:02/20-08-2025 |                                            |
+| 7b1a937 | home manager flake master          | 20:56:07/20-08-2025 |                                            |
+| 338595c | nix flake master                   | 20:49:17/20-08-2025 |                                            |
+| 9af423c | flake updated                      | 17:53:41/20-08-2025 |                                            |
+| 3b1030c | emacs gptel tools                  | 22:43:45/17-08-2025 |                                            |
+| 1557a28 | flake updated                      | 11:29:42/17-08-2025 |                                            |
+| 0ea0044 | removed treesitter                 | 11:22:17/17-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 7224a8c | scene-cut-to       | 19:35:57/06-08-2025 | HEAD -> master, github/master |
+| 2380d02 | dash-ffmpeg        | 22:46:25/20-08-2025 | HEAD -> master, github/master |
+| 7224a8c | scene-cut-to       | 19:35:57/06-08-2025 |                               |
 | 147bc4e | scripts            | 19:32:49/06-08-2025 |                               |
 | 9a24d08 | script             | 19:32:28/06-08-2025 |                               |
 | f8e1868 | trim-clip-to       | 15:20:33/03-08-2025 |                               |
@@ -229,7 +230,6 @@ status
 | 637cce2 | vpn-route          | 22:42:39/26-07-2025 |                               |
 | 753d052 | netns-vpn use path | 22:12:21/26-07-2025 |                               |
 | 7fe0693 | removed ossuary    | 19:20:45/25-07-2025 |                               |
-| e64b906 | wallpaper          | 21:14:35/19-07-2025 |                               |
 #+end_quote
 
 ** debian
@@ -255,16 +255,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 39a30a9 | emacs gptel tools                 | 22:45:10/17-08-2025 | HEAD -> master, github/master, github/HEAD |
-| 40f827d | removed treesitter                | 11:23:29/17-08-2025 |                                            |
-| 914bb13 | debian 13 treesitter              | 16:06:37/14-08-2025 |                                            |
-| 04fccde | emacs no title bar                | 17:47:39/13-08-2025 |                                            |
-| 7777d12 | alacritty toml                    | 17:35:43/13-08-2025 |                                            |
-| c3752dc | emacs init.el                     | 13:15:32/11-08-2025 |                                            |
-| 69419f1 | gptel tools                       | 23:54:51/09-08-2025 |                                            |
-| 1524ccc | emacs gptel tools                 | 16:15:42/09-08-2025 |                                            |
-| e675c81 | google translate                  | 18:36:22/27-07-2025 |                                            |
-| 5f04ddc | debian dotfiles removed vpn stuff | 14:23:50/27-07-2025 |                                            |
+| fb1074b | mpv                  | 22:54:10/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 39a30a9 | emacs gptel tools    | 22:45:10/17-08-2025 |                                            |
+| 40f827d | removed treesitter   | 11:23:29/17-08-2025 |                                            |
+| 914bb13 | debian 13 treesitter | 16:06:37/14-08-2025 |                                            |
+| 04fccde | emacs no title bar   | 17:47:39/13-08-2025 |                                            |
+| 7777d12 | alacritty toml       | 17:35:43/13-08-2025 |                                            |
+| c3752dc | emacs init.el        | 13:15:32/11-08-2025 |                                            |
+| 69419f1 | gptel tools          | 23:54:51/09-08-2025 |                                            |
+| 1524ccc | emacs gptel tools    | 16:15:42/09-08-2025 |                                            |
+| e675c81 | google translate     | 18:36:22/27-07-2025 |                                            |
 #+end_quote
 
 *** debian-root
@@ -322,14 +322,14 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 1d56839 | scene-cut-to                                | 20:52:03/06-08-2025 | HEAD -> master, github/master, github/HEAD |
-| 3636407 | trim-clip-to                                | 15:21:35/03-08-2025 |                                            |
-| a91b7fc | trim-clip-to                                | 18:05:49/27-07-2025 |                                            |
-| eb8d9dd | removed vpn scripts not working             | 14:20:45/27-07-2025 |                                            |
-| 749ffbd | vpn                                         | 22:43:21/26-07-2025 |                                            |
-| 8bdb5d2 | vpn                                         | 22:37:52/26-07-2025 |                                            |
-| 751a379 | backup to usb                               | 15:30:13/19-07-2025 |                                            |
-| 47f786c | yt-dlp                                      | 15:22:31/16-07-2025 |                                            |
-| 963a35a | removed script                              | 13:06:14/18-06-2025 |                                            |
-| 89d03f9 | lrsha compare local and remote git sha sums | 22:53:16/17-06-2025 |                                            |
+| 707c627 | dash-ffmpeg                     | 22:47:24/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 1d56839 | scene-cut-to                    | 20:52:03/06-08-2025 |                                            |
+| 3636407 | trim-clip-to                    | 15:21:35/03-08-2025 |                                            |
+| a91b7fc | trim-clip-to                    | 18:05:49/27-07-2025 |                                            |
+| eb8d9dd | removed vpn scripts not working | 14:20:45/27-07-2025 |                                            |
+| 749ffbd | vpn                             | 22:43:21/26-07-2025 |                                            |
+| 8bdb5d2 | vpn                             | 22:37:52/26-07-2025 |                                            |
+| 751a379 | backup to usb                   | 15:30:13/19-07-2025 |                                            |
+| 47f786c | yt-dlp                          | 15:22:31/16-07-2025 |                                            |
+| 963a35a | removed script                  | 13:06:14/18-06-2025 |                                            |
 #+end_quote
