@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 540d222 | nix flake master             | 20:48:24/20-08-2025 | HEAD -> master, github/master |
+| 6091944 | mpv yt-dlp fix               | 21:50:42/20-08-2025 | HEAD -> master, github/master |
+| 540d222 | nix flake master             | 20:48:24/20-08-2025 |                               |
 | c88e6db | nixos flake master branch    | 20:37:24/20-08-2025 |                               |
 | 345a6c5 | nixpkgs master branch        | 20:05:28/20-08-2025 |                               |
 | 45abee6 | python ollama updated        | 16:31:52/20-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | ee4ee9c | removed resolve not building | 14:32:24/20-08-2025 |                               |
 | 21ae726 | flake updated                | 14:28:50/20-08-2025 |                               |
 | 64cd4da | flake updated                | 13:52:15/20-08-2025 |                               |
-| 1cb07d5 | removed audacity             | 14:52:14/18-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 28b0ada | no status bar      | 20:25:11/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 7b1a937 | home manager flake master   | 20:56:07/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 9a22e8c | mpv yt-dlp fix              | 21:51:02/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 7b1a937 | home manager flake master   | 20:56:07/20-08-2025 |                                            |
 | 338595c | nix flake master            | 20:49:17/20-08-2025 |                                            |
 | 9af423c | flake updated               | 17:53:41/20-08-2025 |                                            |
 | 3b1030c | emacs gptel tools           | 22:43:45/17-08-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 64f0956 | emacs treesitter refactored | 13:50:16/16-08-2025 |                                            |
 | d6feecf | emacs treesitter            | 14:00:38/14-08-2025 |                                            |
 | 49c4057 | emacs treesitter            | 13:19:18/14-08-2025 |                                            |
-| 05d889f | emacs init                  | 13:14:05/11-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
