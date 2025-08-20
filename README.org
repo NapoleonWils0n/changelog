@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 45abee6 | python ollama updated        | 16:31:52/20-08-2025 | HEAD -> master, github/master |
+| 540d222 | nix flake master             | 20:48:24/20-08-2025 | HEAD -> master, github/master |
+| c88e6db | nixos flake master branch    | 20:37:24/20-08-2025 |                               |
+| 345a6c5 | nixpkgs master branch        | 20:05:28/20-08-2025 |                               |
+| 45abee6 | python ollama updated        | 16:31:52/20-08-2025 |                               |
 | 4aeb087 | removed index-tts not used   | 15:31:10/20-08-2025 |                               |
 | 0a84e94 | removed gemini-cli           | 15:28:45/20-08-2025 |                               |
 | ee4ee9c | removed resolve not building | 14:32:24/20-08-2025 |                               |
 | 21ae726 | flake updated                | 14:28:50/20-08-2025 |                               |
 | 64cd4da | flake updated                | 13:52:15/20-08-2025 |                               |
 | 1cb07d5 | removed audacity             | 14:52:14/18-08-2025 |                               |
-| fe23fb1 | emacs gptel tools            | 22:42:46/17-08-2025 |                               |
-| c5b449a | emacs gptel package config   | 22:28:42/17-08-2025 |                               |
-| 2d84203 | emacs gptel tools            | 21:36:51/17-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 9af423c | flake updated               | 17:53:41/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 7b1a937 | home manager flake master   | 20:56:07/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 338595c | nix flake master            | 20:49:17/20-08-2025 |                                            |
+| 9af423c | flake updated               | 17:53:41/20-08-2025 |                                            |
 | 3b1030c | emacs gptel tools           | 22:43:45/17-08-2025 |                                            |
 | 1557a28 | flake updated               | 11:29:42/17-08-2025 |                                            |
 | 0ea0044 | removed treesitter          | 11:22:17/17-08-2025 |                                            |
@@ -160,8 +162,6 @@ status
 | d6feecf | emacs treesitter            | 14:00:38/14-08-2025 |                                            |
 | 49c4057 | emacs treesitter            | 13:19:18/14-08-2025 |                                            |
 | 05d889f | emacs init                  | 13:14:05/11-08-2025 |                                            |
-| c98a484 | flake updated               | 14:43:34/10-08-2025 |                                            |
-| 6099fa0 | gptel tools                 | 23:53:49/09-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
