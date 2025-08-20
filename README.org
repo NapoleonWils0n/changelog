@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** INPROGRESS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 2d84203 | emacs gptel tools            | 21:36:51/17-08-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 28b0ada | no status bar      | 20:25:11/17-07-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 3b1030c | emacs gptel tools           | 22:43:45/17-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 9af423c | flake updated               | 17:53:41/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 3b1030c | emacs gptel tools           | 22:43:45/17-08-2025 |                                            |
 | 1557a28 | flake updated               | 11:29:42/17-08-2025 |                                            |
 | 0ea0044 | removed treesitter          | 11:22:17/17-08-2025 |                                            |
 | 64f0956 | emacs treesitter refactored | 13:50:16/16-08-2025 |                                            |
@@ -161,10 +162,9 @@ status
 | 05d889f | emacs init                  | 13:14:05/11-08-2025 |                                            |
 | c98a484 | flake updated               | 14:43:34/10-08-2025 |                                            |
 | 6099fa0 | gptel tools                 | 23:53:49/09-08-2025 |                                            |
-| a92c6ed | gptel tools                 | 16:11:49/09-08-2025 |                                            |
 #+end_quote
 
-*** TODO nixos-root-macbook
+*** nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| e91e042 | flake updated      | 14:34:46/10-08-2025 | HEAD -> master, github/master, github/HEAD |
+| c592d64 | flake updated      | 16:43:52/20-08-2025 | HEAD -> master, github/master, github/HEAD |
+| e91e042 | flake updated      | 14:34:46/10-08-2025 |                                            |
 | 6bce3c8 | removed comments   | 13:25:43/29-07-2025 |                                            |
 | 84625b8 | flake updated      | 18:29:42/28-07-2025 |                                            |
 | c63ef3a | flake updated      | 18:13:07/28-07-2025 |                                            |
@@ -195,7 +196,6 @@ status
 | 4bd780d | permitted insecure | 13:51:46/23-07-2025 |                                            |
 | 3595166 | flake updated      | 22:57:15/15-07-2025 |                                            |
 | b904971 | wlrctl             | 00:22:36/15-07-2025 |                                            |
-| 720c3e8 | warp cursor        | 00:01:29/15-07-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
