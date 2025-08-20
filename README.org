@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** TODO nixos-dotfiles
 
 github url
 
@@ -84,19 +84,19 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 1cb07d5 | removed audacity                 | 14:52:14/18-08-2025 | HEAD -> master, github/master |
-| fe23fb1 | emacs gptel tools                | 22:42:46/17-08-2025 |                               |
-| c5b449a | emacs gptel package config       | 22:28:42/17-08-2025 |                               |
-| 2d84203 | emacs gptel tools                | 21:36:51/17-08-2025 |                               |
-| e718542 | flake updated                    | 11:25:59/17-08-2025 |                               |
-| 3a5567c | removed treesitter keeps failing | 11:20:49/17-08-2025 |                               |
-| 2320fe0 | treesitter refactor              | 13:41:20/16-08-2025 |                               |
-| a459e57 | treesitter try again             | 12:46:42/16-08-2025 |                               |
-| 8d4f28e | removed treesitter               | 12:13:14/16-08-2025 |                               |
-| 8b20005 | removed treesitter               | 12:08:24/16-08-2025 |                               |
+| 4aeb087 | removed index-tts not used   | 15:31:10/20-08-2025 | HEAD -> master, github/master |
+| 0a84e94 | removed gemini-cli           | 15:28:45/20-08-2025 |                               |
+| ee4ee9c | removed resolve not building | 14:32:24/20-08-2025 |                               |
+| 21ae726 | flake updated                | 14:28:50/20-08-2025 |                               |
+| 64cd4da | flake updated                | 13:52:15/20-08-2025 |                               |
+| 1cb07d5 | removed audacity             | 14:52:14/18-08-2025 |                               |
+| fe23fb1 | emacs gptel tools            | 22:42:46/17-08-2025 |                               |
+| c5b449a | emacs gptel package config   | 22:28:42/17-08-2025 |                               |
+| 2d84203 | emacs gptel tools            | 21:36:51/17-08-2025 |                               |
+| e718542 | flake updated                | 11:25:59/17-08-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** INPROGRESS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| a12aa4e | flake updated      | 10:58:45/10-08-2025 | HEAD -> master, github/master |
+| 45f9dd9 | flake updated      | 14:43:20/20-08-2025 | HEAD -> master, github/master |
+| a12aa4e | flake updated      | 10:58:45/10-08-2025 |                               |
 | e09a994 | flake updated      | 14:30:09/29-07-2025 |                               |
 | 65cb8e1 | flake updated      | 01:29:11/25-07-2025 |                               |
 | 9f243f8 | flake updated      | 13:17:27/23-07-2025 |                               |
@@ -127,10 +128,9 @@ status
 | 8b195ee | no status bar      | 20:36:45/17-07-2025 |                               |
 | 16f537e | status bar wrapper | 20:33:20/17-07-2025 |                               |
 | 28b0ada | no status bar      | 20:25:11/17-07-2025 |                               |
-| 9e9cdfb | status bar         | 20:21:54/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -164,7 +164,7 @@ status
 | a92c6ed | gptel tools                 | 16:11:49/09-08-2025 |                                            |
 #+end_quote
 
-*** nixos-root-macbook
+*** TODO nixos-root-macbook
 
 github url
 
