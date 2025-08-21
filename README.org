@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 6278b57f | mpv yt-dlp                   | 22:35:23/20-08-2025 | HEAD -> master, github/master, github/HEAD |
-| ffcdeb72 | google docs epub             | 00:04:11/19-08-2025 |                                            |
-| 7f0b9af3 | google docs epub             | 22:27:28/18-08-2025 |                                            |
-| 4755a6a7 | google docs epub hacking     | 22:20:32/18-08-2025 |                                            |
-| a9d9b56a | package-vc-selected-packages | 19:13:02/16-08-2025 |                                            |
-| 55e0f402 | ffmpeg record m3u8 urls      | 00:10:44/16-08-2025 |                                            |
-| e8d70b98 | ffmpeg record m3u8 url       | 00:01:46/16-08-2025 |                                            |
-| 82540224 | nix flakes                   | 21:05:47/15-08-2025 |                                            |
-| 37bc3eb1 | debian 13 treesitter         | 16:06:23/14-08-2025 |                                            |
-| 0b2d777d | debian upgrade               | 16:51:56/13-08-2025 |                                            |
+| f7fbcd57 | gemini gem                         | 20:20:09/21-08-2025 | HEAD -> master, github/master, github/HEAD |
+| baa9c93f | gemini history and heritage prompt | 19:48:21/21-08-2025 |                                            |
+| 6278b57f | mpv yt-dlp                         | 22:35:23/20-08-2025 |                                            |
+| ffcdeb72 | google docs epub                   | 00:04:11/19-08-2025 |                                            |
+| 7f0b9af3 | google docs epub                   | 22:27:28/18-08-2025 |                                            |
+| 4755a6a7 | google docs epub hacking           | 22:20:32/18-08-2025 |                                            |
+| a9d9b56a | package-vc-selected-packages       | 19:13:02/16-08-2025 |                                            |
+| 55e0f402 | ffmpeg record m3u8 urls            | 00:10:44/16-08-2025 |                                            |
+| e8d70b98 | ffmpeg record m3u8 url             | 00:01:46/16-08-2025 |                                            |
+| 82540224 | nix flakes                         | 21:05:47/15-08-2025 |                                            |
 #+end_quote
 
 ** nixos
