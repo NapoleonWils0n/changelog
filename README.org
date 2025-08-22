@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** INPROGRESS nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
