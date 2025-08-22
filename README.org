@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** INPROGRESS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7d728ed | wlr dash ffmpeg              | 22:51:22/20-08-2025 | HEAD -> master, github/master |
-| 3214b62 | mpv                          | 22:34:09/20-08-2025 |                               |
-| 6091944 | mpv yt-dlp fix               | 21:50:42/20-08-2025 |                               |
-| 540d222 | nix flake master             | 20:48:24/20-08-2025 |                               |
-| c88e6db | nixos flake master branch    | 20:37:24/20-08-2025 |                               |
-| 345a6c5 | nixpkgs master branch        | 20:05:28/20-08-2025 |                               |
-| 45abee6 | python ollama updated        | 16:31:52/20-08-2025 |                               |
-| 4aeb087 | removed index-tts not used   | 15:31:10/20-08-2025 |                               |
-| 0a84e94 | removed gemini-cli           | 15:28:45/20-08-2025 |                               |
-| ee4ee9c | removed resolve not building | 14:32:24/20-08-2025 |                               |
+| 9976025 | whisperx flake             | 13:17:59/22-08-2025 | HEAD -> master, github/master |
+| 7d728ed | wlr dash ffmpeg            | 22:51:22/20-08-2025 |                               |
+| 3214b62 | mpv                        | 22:34:09/20-08-2025 |                               |
+| 6091944 | mpv yt-dlp fix             | 21:50:42/20-08-2025 |                               |
+| 540d222 | nix flake master           | 20:48:24/20-08-2025 |                               |
+| c88e6db | nixos flake master branch  | 20:37:24/20-08-2025 |                               |
+| 345a6c5 | nixpkgs master branch      | 20:05:28/20-08-2025 |                               |
+| 45abee6 | python ollama updated      | 16:31:52/20-08-2025 |                               |
+| 4aeb087 | removed index-tts not used | 15:31:10/20-08-2025 |                               |
+| 0a84e94 | removed gemini-cli         | 15:28:45/20-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
