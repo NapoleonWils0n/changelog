@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fea13666 | gemini gem                                        | 22:37:21/21-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 5f910b50 | gemini browse tool                                | 21:08:24/22-08-2025 | HEAD -> master, github/master, github/HEAD |
+| fea13666 | gemini gem                                        | 22:37:21/21-08-2025 |                                            |
 | 7c6d9981 | gemini gem history and heritage reposonse laguage | 22:30:31/21-08-2025 |                                            |
 | 92f35e4e | gemini gem                                        | 21:03:30/21-08-2025 |                                            |
 | f7fbcd57 | gemini gem                                        | 20:20:09/21-08-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | ffcdeb72 | google docs epub                                  | 00:04:11/19-08-2025 |                                            |
 | 7f0b9af3 | google docs epub                                  | 22:27:28/18-08-2025 |                                            |
 | 4755a6a7 | google docs epub hacking                          | 22:20:32/18-08-2025 |                                            |
-| a9d9b56a | package-vc-selected-packages                      | 19:13:02/16-08-2025 |                                            |
 #+end_quote
 
 ** nixos
