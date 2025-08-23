@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| af602230 | dash mpd                                          | 21:37:06/23-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 5d37155c | dash-mpv                                          | 22:42:47/23-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 154f65f0 | bash-mpv                                          | 22:42:28/23-08-2025 |                                            |
+| af602230 | dash mpd                                          | 21:37:06/23-08-2025 |                                            |
 | d245deef | podman nixos rootless                             | 23:39:58/22-08-2025 |                                            |
 | 5f910b50 | gemini browse tool                                | 21:08:24/22-08-2025 |                                            |
 | fea13666 | gemini gem                                        | 22:37:21/21-08-2025 |                                            |
@@ -57,8 +59,6 @@ git status
 | 92f35e4e | gemini gem                                        | 21:03:30/21-08-2025 |                                            |
 | f7fbcd57 | gemini gem                                        | 20:20:09/21-08-2025 |                                            |
 | baa9c93f | gemini history and heritage prompt                | 19:48:21/21-08-2025 |                                            |
-| 6278b57f | mpv yt-dlp                                        | 22:35:23/20-08-2025 |                                            |
-| ffcdeb72 | google docs epub                                  | 00:04:11/19-08-2025 |                                            |
 #+end_quote
 
 ** nixos
