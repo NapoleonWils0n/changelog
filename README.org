@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 6628e1d | dash-ffmpeg 720p       | 18:17:22/23-08-2025 | HEAD -> master, github/master |
+| fea4413 | dash ffmpeg            | 18:24:51/23-08-2025 | HEAD -> master, github/master |
+| 6628e1d | dash-ffmpeg 720p       | 18:17:22/23-08-2025 |                               |
 | 51cfcdf | dash-ffmpeg h264 aac   | 17:45:05/23-08-2025 |                               |
 | 59bc8a7 | dash-ffmpeg refactored | 16:03:55/23-08-2025 |                               |
 | 3d8cb08 | dash-ffmpeg refactored | 15:51:15/23-08-2025 |                               |
@@ -229,7 +230,6 @@ status
 | 147bc4e | scripts                | 19:32:49/06-08-2025 |                               |
 | 9a24d08 | script                 | 19:32:28/06-08-2025 |                               |
 | f8e1868 | trim-clip-to           | 15:20:33/03-08-2025 |                               |
-| 7ee6985 | trim-clip-to           | 17:59:28/27-07-2025 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| b9354e3 | dash ffmpeg 720                 | 18:21:24/23-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 4149b62 | dash ffmpeg                     | 18:26:31/23-08-2025 | HEAD -> master, github/master, github/HEAD |
+| b9354e3 | dash ffmpeg 720                 | 18:21:24/23-08-2025 |                                            |
 | 707c627 | dash-ffmpeg                     | 22:47:24/20-08-2025 |                                            |
 | 1d56839 | scene-cut-to                    | 20:52:03/06-08-2025 |                                            |
 | 3636407 | trim-clip-to                    | 15:21:35/03-08-2025 |                                            |
@@ -331,5 +332,4 @@ status
 | 749ffbd | vpn                             | 22:43:21/26-07-2025 |                                            |
 | 8bdb5d2 | vpn                             | 22:37:52/26-07-2025 |                                            |
 | 751a379 | backup to usb                   | 15:30:13/19-07-2025 |                                            |
-| 47f786c | yt-dlp                          | 15:22:31/16-07-2025 |                                            |
 #+end_quote
