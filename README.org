@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 74b01395 | mpv yt-dlp retry                                  | 16:12:42/25-08-2025 | HEAD -> master, github/master, github/HEAD |
-| ed4d36fb | yt-dlp download auto dub videos                   | 15:21:42/25-08-2025 |                                            |
-| f7cb0dc4 | download youtube auto dubbed videos               | 15:19:26/25-08-2025 |                                            |
-| 5d37155c | dash-mpv                                          | 22:42:47/23-08-2025 |                                            |
-| 154f65f0 | bash-mpv                                          | 22:42:28/23-08-2025 |                                            |
-| af602230 | dash mpd                                          | 21:37:06/23-08-2025 |                                            |
-| d245deef | podman nixos rootless                             | 23:39:58/22-08-2025 |                                            |
-| 5f910b50 | gemini browse tool                                | 21:08:24/22-08-2025 |                                            |
-| fea13666 | gemini gem                                        | 22:37:21/21-08-2025 |                                            |
-| 7c6d9981 | gemini gem history and heritage reposonse laguage | 22:30:31/21-08-2025 |                                            |
+| f2c3fe91 | yt-dlp json                         | 01:08:12/26-08-2025 | HEAD -> master, github/master, github/HEAD |
+| 74b01395 | mpv yt-dlp retry                    | 16:12:42/25-08-2025 |                                            |
+| ed4d36fb | yt-dlp download auto dub videos     | 15:21:42/25-08-2025 |                                            |
+| f7cb0dc4 | download youtube auto dubbed videos | 15:19:26/25-08-2025 |                                            |
+| 5d37155c | dash-mpv                            | 22:42:47/23-08-2025 |                                            |
+| 154f65f0 | bash-mpv                            | 22:42:28/23-08-2025 |                                            |
+| af602230 | dash mpd                            | 21:37:06/23-08-2025 |                                            |
+| d245deef | podman nixos rootless               | 23:39:58/22-08-2025 |                                            |
+| 5f910b50 | gemini browse tool                  | 21:08:24/22-08-2025 |                                            |
+| fea13666 | gemini gem                          | 22:37:21/21-08-2025 |                                            |
 #+end_quote
 
 ** nixos
