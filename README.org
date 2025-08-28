@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 52fe3fe | widevine master                            | 16:27:22/26-08-2025 | HEAD -> master, github/master |
-| bd06661 | widevine master todo                       | 16:08:15/26-08-2025 |                               |
-| db78ccc | removed python installed with home-manager | 00:07:26/26-08-2025 |                               |
-| 21272db | ytdlp-mpv wlr-which-key                    | 00:05:09/26-08-2025 |                               |
-| 990aaf4 | python                                     | 17:46:01/25-08-2025 |                               |
-| 7121050 | python                                     | 17:43:06/25-08-2025 |                               |
-| 5680268 | flake updated                              | 21:02:39/23-08-2025 |                               |
-| 9976025 | whisperx flake                             | 13:17:59/22-08-2025 |                               |
-| 7d728ed | wlr dash ffmpeg                            | 22:51:22/20-08-2025 |                               |
-| 3214b62 | mpv                                        | 22:34:09/20-08-2025 |                               |
+| df59d36 | flake updated                              | 20:46:04/28-08-2025 | HEAD -> master |
+| 52fe3fe | widevine master                            | 16:27:22/26-08-2025 | github/master  |
+| bd06661 | widevine master todo                       | 16:08:15/26-08-2025 |                |
+| db78ccc | removed python installed with home-manager | 00:07:26/26-08-2025 |                |
+| 21272db | ytdlp-mpv wlr-which-key                    | 00:05:09/26-08-2025 |                |
+| 990aaf4 | python                                     | 17:46:01/25-08-2025 |                |
+| 7121050 | python                                     | 17:43:06/25-08-2025 |                |
+| 5680268 | flake updated                              | 21:02:39/23-08-2025 |                |
+| 9976025 | whisperx flake                             | 13:17:59/22-08-2025 |                |
+| 7d728ed | wlr dash ffmpeg                            | 22:51:22/20-08-2025 |                |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 28b0ada | no status bar      | 20:25:11/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -322,14 +322,14 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| e4940d6 | ytdlp-mpv exits properly | 23:53:51/25-08-2025 | HEAD -> master, github/master, github/HEAD |
-| d54f894 | ytdlp-mpv working        | 23:40:39/25-08-2025 |                                            |
-| be09d6e | ytdlp-mpv                | 20:55:59/25-08-2025 |                                            |
-| a3ad41f | ytdlp-mpv                | 19:50:35/25-08-2025 |                                            |
-| 8af2929 | ytdlp-mpv                | 18:17:16/25-08-2025 |                                            |
-| 0ad5e17 | dash-ffmpeg              | 14:32:02/25-08-2025 |                                            |
-| fc022cf | dash-ffmpeg              | 12:20:14/25-08-2025 |                                            |
-| 4ec27c4 | yt-dlp                   | 21:46:51/23-08-2025 |                                            |
-| 4149b62 | dash ffmpeg              | 18:26:31/23-08-2025 |                                            |
-| b9354e3 | dash ffmpeg 720          | 18:21:24/23-08-2025 |                                            |
+| 6fa2584 | yt-dlp                   | 20:47:28/28-08-2025 | HEAD -> master             |
+| 51a8b53 | ytdlp-mpv                | 13:14:49/26-08-2025 | github/master, github/HEAD |
+| e4940d6 | ytdlp-mpv exits properly | 23:53:51/25-08-2025 |                            |
+| d54f894 | ytdlp-mpv working        | 23:40:39/25-08-2025 |                            |
+| be09d6e | ytdlp-mpv                | 20:55:59/25-08-2025 |                            |
+| a3ad41f | ytdlp-mpv                | 19:50:35/25-08-2025 |                            |
+| 8af2929 | ytdlp-mpv                | 18:17:16/25-08-2025 |                            |
+| 0ad5e17 | dash-ffmpeg              | 14:32:02/25-08-2025 |                            |
+| fc022cf | dash-ffmpeg              | 12:20:14/25-08-2025 |                            |
+| 4ec27c4 | yt-dlp                   | 21:46:51/23-08-2025 |                            |
 #+end_quote
