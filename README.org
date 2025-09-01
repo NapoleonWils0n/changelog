@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6d23d5d | emacs elfeed prot common                   | 20:51:13/31-08-2025 | HEAD -> master, github/master |
+| 99d9cbe | removed elfeed                             | 18:10:01/01-09-2025 | HEAD -> master, github/master |
+| 6d23d5d | emacs elfeed prot common                   | 20:51:13/31-08-2025 |                               |
 | e91ea4c | emacs elfeed and prot common               | 20:48:58/31-08-2025 |                               |
 | 7c44e23 | emacs elfeed                               | 18:32:33/31-08-2025 |                               |
 | ea3ec15 | emacs                                      | 23:19:03/28-08-2025 |                               |
@@ -93,7 +94,6 @@ status
 | bd06661 | widevine master todo                       | 16:08:15/26-08-2025 |                               |
 | db78ccc | removed python installed with home-manager | 00:07:26/26-08-2025 |                               |
 | 21272db | ytdlp-mpv wlr-which-key                    | 00:05:09/26-08-2025 |                               |
-| 990aaf4 | python                                     | 17:46:01/25-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 356a064 | emacs elfeed prot common   | 20:57:38/31-08-2025 | HEAD -> master, github/master, github/HEAD |
-| 5010ff7 | emacs elfeed prot common   | 20:52:55/31-08-2025 |                                            |
-| edafd75 | emacs elfeed               | 18:38:16/31-08-2025 |                                            |
-| a6465b7 | flake updated              | 12:25:16/29-08-2025 |                                            |
-| f580a3f | widevine master            | 16:06:36/26-08-2025 |                                            |
-| 0a6cb07 | flake updated              | 15:19:36/26-08-2025 |                                            |
-| f05f8be | ytdlp-mpv wlr-which-key    | 00:05:59/26-08-2025 |                                            |
-| 35e2aaf | python                     | 17:46:17/25-08-2025 |                                            |
-| ede1258 | flake updated              | 10:50:56/24-08-2025 |                                            |
-| 994b41f | removed wireplumber rename | 23:19:04/20-08-2025 |                                            |
+| 796526d | removed elfeed           | 18:11:07/01-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 356a064 | emacs elfeed prot common | 20:57:38/31-08-2025 |                                            |
+| 5010ff7 | emacs elfeed prot common | 20:52:55/31-08-2025 |                                            |
+| edafd75 | emacs elfeed             | 18:38:16/31-08-2025 |                                            |
+| a6465b7 | flake updated            | 12:25:16/29-08-2025 |                                            |
+| f580a3f | widevine master          | 16:06:36/26-08-2025 |                                            |
+| 0a6cb07 | flake updated            | 15:19:36/26-08-2025 |                                            |
+| f05f8be | ytdlp-mpv wlr-which-key  | 00:05:59/26-08-2025 |                                            |
+| 35e2aaf | python                   | 17:46:17/25-08-2025 |                                            |
+| ede1258 | flake updated            | 10:50:56/24-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 4c7d241 | emacs elfeed prot common | 20:56:44/31-08-2025 | HEAD -> master, github/master, github/HEAD |
+| f7e2a5a | removed elfeed           | 18:12:10/01-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 4c7d241 | emacs elfeed prot common | 20:56:44/31-08-2025 |                                            |
 | 1507867 | emacs elfeed             | 18:39:36/31-08-2025 |                                            |
 | fb1074b | mpv                      | 22:54:10/20-08-2025 |                                            |
 | 39a30a9 | emacs gptel tools        | 22:45:10/17-08-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 04fccde | emacs no title bar       | 17:47:39/13-08-2025 |                                            |
 | 7777d12 | alacritty toml           | 17:35:43/13-08-2025 |                                            |
 | c3752dc | emacs init.el            | 13:15:32/11-08-2025 |                                            |
-| 69419f1 | gptel tools              | 23:54:51/09-08-2025 |                                            |
 #+end_quote
 
 *** debian-root
