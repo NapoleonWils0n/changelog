@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 9f321c6 | emacs treesitter             | 22:43:23/01-09-2025 | HEAD -> master, github/master |
+| 1ee0819 | emacs treesitter combobulate | 23:54:43/01-09-2025 | HEAD -> master, github/master |
+| 9f321c6 | emacs treesitter             | 22:43:23/01-09-2025 |                               |
 | 636346c | gcc installed                | 20:20:27/01-09-2025 |                               |
 | 97be446 | gcc                          | 20:09:10/01-09-2025 |                               |
 | 99d9cbe | removed elfeed               | 18:10:01/01-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 7c44e23 | emacs elfeed                 | 18:32:33/31-08-2025 |                               |
 | ea3ec15 | emacs                        | 23:19:03/28-08-2025 |                               |
 | df59d36 | flake updated                | 20:46:04/28-08-2025 |                               |
-| 52fe3fe | widevine master              | 16:27:22/26-08-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
