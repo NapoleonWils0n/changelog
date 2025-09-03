@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 8cd2b92e | combobulate                         | 19:25:51/03-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 30d6c556 | combobulate                         | 20:51:14/03-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 8cd2b92e | combobulate                         | 19:25:51/03-09-2025 |                                            |
 | 73f516ce | emacs combobulate                   | 18:21:48/03-09-2025 |                                            |
 | 4679dbc3 | treesitter combobulate              | 16:19:58/03-09-2025 |                                            |
 | 4a8dbe79 | treesitter                          | 15:52:54/03-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 74b01395 | mpv yt-dlp retry                    | 16:12:42/25-08-2025 |                                            |
 | ed4d36fb | yt-dlp download auto dub videos     | 15:21:42/25-08-2025 |                                            |
 | f7cb0dc4 | download youtube auto dubbed videos | 15:19:26/25-08-2025 |                                            |
-| 5d37155c | dash-mpv                            | 22:42:47/23-08-2025 |                                            |
 #+end_quote
 
 ** nixos
