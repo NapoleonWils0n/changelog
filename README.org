@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 4679dbc3 | treesitter combobulate              | 16:19:58/03-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 73f516ce | emacs combobulate                   | 18:21:48/03-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 4679dbc3 | treesitter combobulate              | 16:19:58/03-09-2025 |                                            |
 | 4a8dbe79 | treesitter                          | 15:52:54/03-09-2025 |                                            |
 | daa1b130 | emacs treesitter combobulate        | 01:21:09/02-09-2025 |                                            |
 | f2c3fe91 | yt-dlp json                         | 01:08:12/26-08-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | f7cb0dc4 | download youtube auto dubbed videos | 15:19:26/25-08-2025 |                                            |
 | 5d37155c | dash-mpv                            | 22:42:47/23-08-2025 |                                            |
 | 154f65f0 | bash-mpv                            | 22:42:28/23-08-2025 |                                            |
-| af602230 | dash mpd                            | 21:37:06/23-08-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6d60496 | emacs combobuulate bash elisp nix | 16:18:07/03-09-2025 | HEAD -> master, github/master |
+| 91ce712 | emacs combobulate c               | 18:20:15/03-09-2025 | HEAD -> master, github/master |
+| 6d60496 | emacs combobuulate bash elisp nix | 16:18:07/03-09-2025 |                               |
 | 9e4743f | emacs combobulate bash elisp      | 15:51:42/03-09-2025 |                               |
 | 2f4aff6 | emacs combobulate bash elisp      | 15:42:25/03-09-2025 |                               |
 | e161a7f | emacs                             | 00:34:06/03-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | fc977ff | combobulate keybindings           | 22:17:47/02-09-2025 |                               |
 | 7cad3db | combobulate                       | 21:45:53/02-09-2025 |                               |
 | ac11077 | combobulate                       | 20:18:01/02-09-2025 |                               |
-| 56fc3c1 | emacs treesitter combobulate bash | 01:15:14/02-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
