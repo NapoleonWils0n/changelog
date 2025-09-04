@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 45374010 | combobulate add new language     | 22:52:37/04-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 10d916f2 | combobulate                      | 23:03:34/04-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 45374010 | combobulate add new language     | 22:52:37/04-09-2025 |                                            |
 | 5a958e11 | Emacs Treesitter and Combobulate | 21:27:00/03-09-2025 |                                            |
 | 52ecc98d | emacs treesitter combobulate     | 21:21:51/03-09-2025 |                                            |
 | 30d6c556 | combobulate                      | 20:51:14/03-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 4679dbc3 | treesitter combobulate           | 16:19:58/03-09-2025 |                                            |
 | 4a8dbe79 | treesitter                       | 15:52:54/03-09-2025 |                                            |
 | daa1b130 | emacs treesitter combobulate     | 01:21:09/02-09-2025 |                                            |
-| f2c3fe91 | yt-dlp json                      | 01:08:12/26-08-2025 |                                            |
 #+end_quote
 
 ** nixos
