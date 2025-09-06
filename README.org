@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d90da882 | combobulate                      | 23:21:30/04-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 10d916f2 | combobulate                      | 23:03:34/04-09-2025 |                                            |
-| 45374010 | combobulate add new language     | 22:52:37/04-09-2025 |                                            |
-| 5a958e11 | Emacs Treesitter and Combobulate | 21:27:00/03-09-2025 |                                            |
-| 52ecc98d | emacs treesitter combobulate     | 21:21:51/03-09-2025 |                                            |
-| 30d6c556 | combobulate                      | 20:51:14/03-09-2025 |                                            |
-| 8cd2b92e | combobulate                      | 19:25:51/03-09-2025 |                                            |
-| 73f516ce | emacs combobulate                | 18:21:48/03-09-2025 |                                            |
-| 4679dbc3 | treesitter combobulate           | 16:19:58/03-09-2025 |                                            |
-| 4a8dbe79 | treesitter                       | 15:52:54/03-09-2025 |                                            |
+| f1277d25 | combobulate              | 20:35:41/05-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 22792ce6 | combobulate bash ielm    | 17:58:36/05-09-2025 |                                            |
+| cceb240b | combobulate bash init.el | 16:08:03/05-09-2025 |                                            |
+| a36150f7 | combobulate bash         | 16:03:31/05-09-2025 |                                            |
+| a842d6a9 | combobulate              | 15:47:35/05-09-2025 |                                            |
+| 4bf38d36 | combobulate              | 15:32:12/05-09-2025 |                                            |
+| a2722357 | combobulate              | 15:16:56/05-09-2025 |                                            |
+| 8d7d222c | combobulate              | 15:06:25/05-09-2025 |                                            |
+| 4f63d55f | combobulate              | 14:34:42/05-09-2025 |                                            |
+| d90da882 | combobulate              | 23:21:30/04-09-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 91ce712 | emacs combobulate c               | 18:20:15/03-09-2025 | HEAD -> master, github/master |
-| 6d60496 | emacs combobuulate bash elisp nix | 16:18:07/03-09-2025 |                               |
-| 9e4743f | emacs combobulate bash elisp      | 15:51:42/03-09-2025 |                               |
-| 2f4aff6 | emacs combobulate bash elisp      | 15:42:25/03-09-2025 |                               |
-| e161a7f | emacs                             | 00:34:06/03-09-2025 |                               |
-| 8449e3f | emacs combobulate bash elisp      | 23:29:54/02-09-2025 |                               |
-| ce47245 | emacs combobulate langs           | 22:27:53/02-09-2025 |                               |
-| fc977ff | combobulate keybindings           | 22:17:47/02-09-2025 |                               |
-| 7cad3db | combobulate                       | 21:45:53/02-09-2025 |                               |
-| ac11077 | combobulate                       | 20:18:01/02-09-2025 |                               |
+| c6fa07e | flake updated                  | 21:44:57/06-09-2025 | HEAD -> master, github/master |
+| a455fd0 | removed combobulate            | 21:36:59/06-09-2025 |                               |
+| 864177e | combobulate bash revert        | 19:43:10/06-09-2025 |                               |
+| 122f6f7 | another fix                    | 19:33:00/06-09-2025 |                               |
+| 455abd8 | combobulate bash case fix      | 19:28:21/06-09-2025 |                               |
+| 01a5eeb | emacs combobulate case sibling | 19:18:28/06-09-2025 |                               |
+| ddf9189 | combobulate bash case sibling  | 19:10:00/06-09-2025 |                               |
+| 2dfacce | combobulate bash case          | 18:41:47/06-09-2025 |                               |
+| 1b382c1 | activation-nodes               | 18:36:44/06-09-2025 |                               |
+| daffa12 | emacs combobulate bash         | 18:07:05/06-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
