@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c6fa07e | flake updated                  | 21:44:57/06-09-2025 | HEAD -> master, github/master |
+| e9ee45d | flake update                   | 13:35:01/07-09-2025 | HEAD -> master, github/master |
+| c6fa07e | flake updated                  | 21:44:57/06-09-2025 |                               |
 | a455fd0 | removed combobulate            | 21:36:59/06-09-2025 |                               |
 | 864177e | combobulate bash revert        | 19:43:10/06-09-2025 |                               |
 | 122f6f7 | another fix                    | 19:33:00/06-09-2025 |                               |
@@ -93,10 +94,9 @@ status
 | ddf9189 | combobulate bash case sibling  | 19:10:00/06-09-2025 |                               |
 | 2dfacce | combobulate bash case          | 18:41:47/06-09-2025 |                               |
 | 1b382c1 | activation-nodes               | 18:36:44/06-09-2025 |                               |
-| daffa12 | emacs combobulate bash         | 18:07:05/06-09-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 45f9dd9 | flake updated      | 14:43:20/20-08-2025 | HEAD -> master, github/master |
+| 560ef40 | flake updated      | 12:39:56/07-09-2025 | HEAD -> master, github/master |
+| 45f9dd9 | flake updated      | 14:43:20/20-08-2025 |                               |
 | a12aa4e | flake updated      | 10:58:45/10-08-2025 |                               |
 | e09a994 | flake updated      | 14:30:09/29-07-2025 |                               |
 | 65cb8e1 | flake updated      | 01:29:11/25-07-2025 |                               |
@@ -127,10 +128,9 @@ status
 | 5b3764e | status bar         | 20:43:02/17-07-2025 |                               |
 | 8b195ee | no status bar      | 20:36:45/17-07-2025 |                               |
 | 16f537e | status bar wrapper | 20:33:20/17-07-2025 |                               |
-| 28b0ada | no status bar      | 20:25:11/17-07-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -164,7 +164,7 @@ status
 | ede1258 | flake updated            | 10:50:56/24-08-2025 |                                            |
 #+end_quote
 
-*** nixos-root-macbook
+*** TODO nixos-root-macbook
 
 github url
 
