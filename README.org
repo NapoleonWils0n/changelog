@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f1277d25 | combobulate              | 20:35:41/05-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 22792ce6 | combobulate bash ielm    | 17:58:36/05-09-2025 |                                            |
-| cceb240b | combobulate bash init.el | 16:08:03/05-09-2025 |                                            |
-| a36150f7 | combobulate bash         | 16:03:31/05-09-2025 |                                            |
-| a842d6a9 | combobulate              | 15:47:35/05-09-2025 |                                            |
-| 4bf38d36 | combobulate              | 15:32:12/05-09-2025 |                                            |
-| a2722357 | combobulate              | 15:16:56/05-09-2025 |                                            |
-| 8d7d222c | combobulate              | 15:06:25/05-09-2025 |                                            |
-| 4f63d55f | combobulate              | 14:34:42/05-09-2025 |                                            |
-| d90da882 | combobulate              | 23:21:30/04-09-2025 |                                            |
+| ba5a5eb0 | combobulate                           | 21:14:19/07-09-2025 | HEAD -> master, github/master, github/HEAD |
+| eba49a76 | package vc install development branch | 21:05:32/07-09-2025 |                                            |
+| f1277d25 | combobulate                           | 20:35:41/05-09-2025 |                                            |
+| 22792ce6 | combobulate bash ielm                 | 17:58:36/05-09-2025 |                                            |
+| cceb240b | combobulate bash init.el              | 16:08:03/05-09-2025 |                                            |
+| a36150f7 | combobulate bash                      | 16:03:31/05-09-2025 |                                            |
+| a842d6a9 | combobulate                           | 15:47:35/05-09-2025 |                                            |
+| 4bf38d36 | combobulate                           | 15:32:12/05-09-2025 |                                            |
+| a2722357 | combobulate                           | 15:16:56/05-09-2025 |                                            |
+| 8d7d222c | combobulate                           | 15:06:25/05-09-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 03689bc | python flake                   | 15:35:54/07-09-2025 | HEAD -> master, github/master |
-| 06f2426 | python                         | 15:35:39/07-09-2025 |                               |
-| e9ee45d | flake update                   | 13:35:01/07-09-2025 |                               |
-| c6fa07e | flake updated                  | 21:44:57/06-09-2025 |                               |
-| a455fd0 | removed combobulate            | 21:36:59/06-09-2025 |                               |
-| 864177e | combobulate bash revert        | 19:43:10/06-09-2025 |                               |
-| 122f6f7 | another fix                    | 19:33:00/06-09-2025 |                               |
-| 455abd8 | combobulate bash case fix      | 19:28:21/06-09-2025 |                               |
-| 01a5eeb | emacs combobulate case sibling | 19:18:28/06-09-2025 |                               |
-| ddf9189 | combobulate bash case sibling  | 19:10:00/06-09-2025 |                               |
+| 0154bb2 | removed combobulate its too flaky                      | 21:23:34/07-09-2025 | HEAD -> master, github/master |
+| 6ab1caa | combobulate using git install                          | 21:15:44/07-09-2025 |                               |
+| 7444913 | reverted code to partially working code                | 20:12:03/07-09-2025 |                               |
+| 8.1e+88 | New rule for function body navigation                  | 19:51:54/07-09-2025 |                               |
+| 2685ba0 | Statement-level navigation inside a compound statement | 19:43:34/07-09-2025 |                               |
+| c69aa60 | combobulate bash partial working                       | 19:22:34/07-09-2025 |                               |
+| 03689bc | python flake                                           | 15:35:54/07-09-2025 |                               |
+| 06f2426 | python                                                 | 15:35:39/07-09-2025 |                               |
+| e9ee45d | flake update                                           | 13:35:01/07-09-2025 |                               |
+| c6fa07e | flake updated                                          | 21:44:57/06-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
