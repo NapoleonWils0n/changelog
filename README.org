@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e9ee45d | flake update                   | 13:35:01/07-09-2025 | HEAD -> master, github/master |
+| 03689bc | python flake                   | 15:35:54/07-09-2025 | HEAD -> master, github/master |
+| 06f2426 | python                         | 15:35:39/07-09-2025 |                               |
+| e9ee45d | flake update                   | 13:35:01/07-09-2025 |                               |
 | c6fa07e | flake updated                  | 21:44:57/06-09-2025 |                               |
 | a455fd0 | removed combobulate            | 21:36:59/06-09-2025 |                               |
 | 864177e | combobulate bash revert        | 19:43:10/06-09-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 455abd8 | combobulate bash case fix      | 19:28:21/06-09-2025 |                               |
 | 01a5eeb | emacs combobulate case sibling | 19:18:28/06-09-2025 |                               |
 | ddf9189 | combobulate bash case sibling  | 19:10:00/06-09-2025 |                               |
-| 2dfacce | combobulate bash case          | 18:41:47/06-09-2025 |                               |
-| 1b382c1 | activation-nodes               | 18:36:44/06-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
