@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d446fb9b | nixos podman                          | 15:46:56/08-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 36c2cb06 | podman                                | 14:43:03/08-09-2025 |                                            |
-| ba5a5eb0 | combobulate                           | 21:14:19/07-09-2025 |                                            |
-| eba49a76 | package vc install development branch | 21:05:32/07-09-2025 |                                            |
-| f1277d25 | combobulate                           | 20:35:41/05-09-2025 |                                            |
-| 22792ce6 | combobulate bash ielm                 | 17:58:36/05-09-2025 |                                            |
-| cceb240b | combobulate bash init.el              | 16:08:03/05-09-2025 |                                            |
-| a36150f7 | combobulate bash                      | 16:03:31/05-09-2025 |                                            |
-| a842d6a9 | combobulate                           | 15:47:35/05-09-2025 |                                            |
-| 4bf38d36 | combobulate                           | 15:32:12/05-09-2025 |                                            |
+| 7ea1be6b | nixos podman searxng search url                  | 21:18:52/08-09-2025 | HEAD -> master, github/master, github/HEAD |
+| a127f5e3 | nixos podman searxng working                     | 20:51:10/08-09-2025 |                                            |
+| 3dca4b88 | podman searxng config files                      | 20:48:49/08-09-2025 |                                            |
+| de60489b | nixos podman searxng needs work for config files | 20:36:13/08-09-2025 |                                            |
+| 7a63af3f | podman searxng                                   | 20:14:01/08-09-2025 |                                            |
+| 61f76e44 | podman                                           | 18:41:37/08-09-2025 |                                            |
+| d446fb9b | nixos podman                                     | 15:46:56/08-09-2025 |                                            |
+| 36c2cb06 | podman                                           | 14:43:03/08-09-2025 |                                            |
+| ba5a5eb0 | combobulate                                      | 21:14:19/07-09-2025 |                                            |
+| eba49a76 | package vc install development branch            | 21:05:32/07-09-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 1ed6eac | podman-compose | 15:43:02/08-09-2025 | HEAD -> master |
-| 5f7b6f3 | podman added   | 15:39:49/08-09-2025 |                |
-| ccc53a4 | podman         | 15:36:00/08-09-2025 |                |
-| 560ef40 | flake updated  | 12:39:56/07-09-2025 | github/master  |
-| 45f9dd9 | flake updated  | 14:43:20/20-08-2025 |                |
-| a12aa4e | flake updated  | 10:58:45/10-08-2025 |                |
-| e09a994 | flake updated  | 14:30:09/29-07-2025 |                |
-| 65cb8e1 | flake updated  | 01:29:11/25-07-2025 |                |
-| 9f243f8 | flake updated  | 13:17:27/23-07-2025 |                |
-| 92597a8 | no status bar  | 20:45:40/17-07-2025 |                |
+| 749d528 | podman fix               | 19:20:12/08-09-2025 | HEAD -> master, github/master |
+| 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
+| 2e9552a | searxng                  | 19:14:25/08-09-2025 |                               |
+| 713c696 | podman                   | 18:16:51/08-09-2025 |                               |
+| e9de2f3 | port 8080                | 18:01:39/08-09-2025 |                               |
+| 1ed6eac | podman-compose           | 15:43:02/08-09-2025 |                               |
+| 5f7b6f3 | podman added             | 15:39:49/08-09-2025 |                               |
+| ccc53a4 | podman                   | 15:36:00/08-09-2025 |                               |
+| 560ef40 | flake updated            | 12:39:56/07-09-2025 |                               |
+| 45f9dd9 | flake updated            | 14:43:20/20-08-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
