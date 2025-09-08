@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 7ea1be6b | nixos podman searxng search url                  | 21:18:52/08-09-2025 | HEAD -> master, github/master, github/HEAD |
+| b374a337 | podman permissions                               | 00:11:35/09-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 4772a00b | nixos podman-compose working                     | 00:05:23/09-09-2025 |                                            |
+| 3aefba4f | podman                                           | 23:36:55/08-09-2025 |                                            |
+| 405acb49 | podman                                           | 23:18:59/08-09-2025 |                                            |
+| 4b082be5 | nixos podman                                     | 23:18:30/08-09-2025 |                                            |
+| bac9b575 | podman                                           | 22:14:28/08-09-2025 |                                            |
+| 7ea1be6b | nixos podman searxng search url                  | 21:18:52/08-09-2025 |                                            |
 | a127f5e3 | nixos podman searxng working                     | 20:51:10/08-09-2025 |                                            |
 | 3dca4b88 | podman searxng config files                      | 20:48:49/08-09-2025 |                                            |
 | de60489b | nixos podman searxng needs work for config files | 20:36:13/08-09-2025 |                                            |
-| 7a63af3f | podman searxng                                   | 20:14:01/08-09-2025 |                                            |
-| 61f76e44 | podman                                           | 18:41:37/08-09-2025 |                                            |
-| d446fb9b | nixos podman                                     | 15:46:56/08-09-2025 |                                            |
-| 36c2cb06 | podman                                           | 14:43:03/08-09-2025 |                                            |
-| ba5a5eb0 | combobulate                                      | 21:14:19/07-09-2025 |                                            |
-| eba49a76 | package vc install development branch            | 21:05:32/07-09-2025 |                                            |
 #+end_quote
 
 ** nixos
