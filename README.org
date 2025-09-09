@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 29ba9c3 | podman searxng                                         | 15:17:08/09-09-2025 | HEAD -> master, github/master |
+| 67cfce8 | searxng categories                                     | 15:40:35/09-09-2025 | HEAD -> master, github/master |
+| 29ba9c3 | podman searxng                                         | 15:17:08/09-09-2025 |                               |
 | 4bf7b8b | openssl                                                | 17:40:26/08-09-2025 |                               |
 | 5f39a1b | openssl                                                | 17:37:04/08-09-2025 |                               |
 | 0154bb2 | removed combobulate its too flaky                      | 21:23:34/07-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 8.1e+88 | New rule for function body navigation                  | 19:51:54/07-09-2025 |                               |
 | 2685ba0 | Statement-level navigation inside a compound statement | 19:43:34/07-09-2025 |                               |
 | c69aa60 | combobulate bash partial working                       | 19:22:34/07-09-2025 |                               |
-| 03689bc | python flake                                           | 15:35:54/07-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
