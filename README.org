@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 749d528 | podman fix               | 19:20:12/08-09-2025 | HEAD -> master, github/master |
+| 3e8b69d | port 3000                | 19:00:08/09-09-2025 | HEAD -> master, github/master |
+| 749d528 | podman fix               | 19:20:12/08-09-2025 |                               |
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 | 2e9552a | searxng                  | 19:14:25/08-09-2025 |                               |
 | 713c696 | podman                   | 18:16:51/08-09-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 5f7b6f3 | podman added             | 15:39:49/08-09-2025 |                               |
 | ccc53a4 | podman                   | 15:36:00/08-09-2025 |                               |
 | 560ef40 | flake updated            | 12:39:56/07-09-2025 |                               |
-| 45f9dd9 | flake updated            | 14:43:20/20-08-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
