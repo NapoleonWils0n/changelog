@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f906616 | podman searxng open-webui            | 23:00:16/10-09-2025 | HEAD -> master, github/master |
+| a9ef50b | podman                               | 23:22:58/10-09-2025 | HEAD -> master, github/master |
+| f906616 | podman searxng open-webui            | 23:00:16/10-09-2025 |                               |
 | 968409c | searxng                              | 21:31:09/10-09-2025 |                               |
 | 20f6e07 | searxng limiter false for open-webui | 21:28:20/10-09-2025 |                               |
 | 8d0eb3a | podman                               | 21:53:33/09-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 4bf7b8b | openssl                              | 17:40:26/08-09-2025 |                               |
 | 5f39a1b | openssl                              | 17:37:04/08-09-2025 |                               |
 | 0154bb2 | removed combobulate its too flaky    | 21:23:34/07-09-2025 |                               |
-| 6ab1caa | combobulate using git install        | 21:15:44/07-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
