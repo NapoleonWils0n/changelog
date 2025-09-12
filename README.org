@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 689ed39d | firefox local llm                    | 17:53:18/12-09-2025 | HEAD -> master, github/master, github/HEAD |
+| fdc9f057 | firefox llm                          | 18:31:14/12-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 689ed39d | firefox local llm                    | 17:53:18/12-09-2025 |                                            |
 | a5201105 | podman                               | 17:49:58/12-09-2025 |                                            |
 | edf0218e | searxng                              | 20:15:08/11-09-2025 |                                            |
 | e72d1e8a | podman                               | 19:04:17/11-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | e6ab8c88 | searxng limiter false for open-webui | 21:29:04/10-09-2025 |                                            |
 | 18c88a76 | firefox local llm                    | 12:48:32/10-09-2025 |                                            |
 | 9069247b | podman                               | 21:54:04/09-09-2025 |                                            |
-| 9e221e46 | searxng                              | 15:44:12/09-09-2025 |                                            |
 #+end_quote
 
 ** nixos
