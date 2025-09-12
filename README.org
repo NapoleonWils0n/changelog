@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| edf0218e | searxng                              | 20:15:08/11-09-2025 | HEAD -> master, github/master, github/HEAD |
+| a5201105 | podman                               | 17:49:58/12-09-2025 | HEAD -> master, github/master, github/HEAD |
+| edf0218e | searxng                              | 20:15:08/11-09-2025 |                                            |
 | e72d1e8a | podman                               | 19:04:17/11-09-2025 |                                            |
 | 142d522c | podman searxng open-webui            | 23:11:02/10-09-2025 |                                            |
 | b9afa04e | open-webui                           | 22:41:41/10-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 9069247b | podman                               | 21:54:04/09-09-2025 |                                            |
 | 9e221e46 | searxng                              | 15:44:12/09-09-2025 |                                            |
 | 6af394e2 | nixos podman searxnng                | 13:27:14/09-09-2025 |                                            |
-| 0e84f17c | nixos podman searxng                 | 13:07:07/09-09-2025 |                                            |
 #+end_quote
 
 ** nixos
