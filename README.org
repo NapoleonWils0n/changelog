@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 5f39a1b | openssl                              | 17:37:04/08-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| db3ef3e | flake updated            | 11:01:45/08-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 581ffac | emacs csv-mode           | 13:25:16/13-09-2025 | HEAD -> master, github/master, github/HEAD |
+| db3ef3e | flake updated            | 11:01:45/08-09-2025 |                                            |
 | 796526d | removed elfeed           | 18:11:07/01-09-2025 |                                            |
 | 356a064 | emacs elfeed prot common | 20:57:38/31-08-2025 |                                            |
 | 5010ff7 | emacs elfeed prot common | 20:52:55/31-08-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | f580a3f | widevine master          | 16:06:36/26-08-2025 |                                            |
 | 0a6cb07 | flake updated            | 15:19:36/26-08-2025 |                                            |
 | f05f8be | ytdlp-mpv wlr-which-key  | 00:05:59/26-08-2025 |                                            |
-| 35e2aaf | python                   | 17:46:17/25-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| f7e2a5a | removed elfeed           | 18:12:10/01-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 27908fc | emacs csv-mode           | 13:26:53/13-09-2025 | HEAD -> master, github/master, github/HEAD |
+| f7e2a5a | removed elfeed           | 18:12:10/01-09-2025 |                                            |
 | 4c7d241 | emacs elfeed prot common | 20:56:44/31-08-2025 |                                            |
 | 1507867 | emacs elfeed             | 18:39:36/31-08-2025 |                                            |
 | fb1074b | mpv                      | 22:54:10/20-08-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 914bb13 | debian 13 treesitter     | 16:06:37/14-08-2025 |                                            |
 | 04fccde | emacs no title bar       | 17:47:39/13-08-2025 |                                            |
 | 7777d12 | alacritty toml           | 17:35:43/13-08-2025 |                                            |
-| c3752dc | emacs init.el            | 13:15:32/11-08-2025 |                                            |
 #+end_quote
 
 *** debian-root
