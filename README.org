@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 9630f9c6 | podman                               | 00:01:42/13-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 3f23b5a7 | open-webui podman update             | 14:49:53/14-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 9630f9c6 | podman                               | 00:01:42/13-09-2025 |                                            |
 | fdc9f057 | firefox llm                          | 18:31:14/12-09-2025 |                                            |
 | 689ed39d | firefox local llm                    | 17:53:18/12-09-2025 |                                            |
 | a5201105 | podman                               | 17:49:58/12-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 142d522c | podman searxng open-webui            | 23:11:02/10-09-2025 |                                            |
 | b9afa04e | open-webui                           | 22:41:41/10-09-2025 |                                            |
 | e6ab8c88 | searxng limiter false for open-webui | 21:29:04/10-09-2025 |                                            |
-| 18c88a76 | firefox local llm                    | 12:48:32/10-09-2025 |                                            |
 #+end_quote
 
 ** nixos
