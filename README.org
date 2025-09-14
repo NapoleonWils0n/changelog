@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 69ac7497 | invidious 2025 working with mpv but not in the browser | 22:57:34/14-09-2025 | HEAD -> master, github/master, github/HEAD |
+| cabbac29 | invidious 2025                                         | 23:12:31/14-09-2025 | HEAD -> master, github/master, github/HEAD |
+| b2bef179 | invidious 2025                                         | 23:10:58/14-09-2025 |                                            |
+| 69ac7497 | invidious 2025 working with mpv but not in the browser | 22:57:34/14-09-2025 |                                            |
 | 2db56f5e | invidious 2025                                         | 18:59:35/14-09-2025 |                                            |
 | 86f1e968 | invidious 2025                                         | 18:26:40/14-09-2025 |                                            |
 | d52be6f7 | searxng json curl                                      | 16:12:06/14-09-2025 |                                            |
@@ -57,8 +59,6 @@ git status
 | 9630f9c6 | podman                                                 | 00:01:42/13-09-2025 |                                            |
 | fdc9f057 | firefox llm                                            | 18:31:14/12-09-2025 |                                            |
 | 689ed39d | firefox local llm                                      | 17:53:18/12-09-2025 |                                            |
-| a5201105 | podman                                                 | 17:49:58/12-09-2025 |                                            |
-| edf0218e | searxng                                                | 20:15:08/11-09-2025 |                                            |
 #+end_quote
 
 ** nixos
