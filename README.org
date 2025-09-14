@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d52be6f7 | searxng json curl         | 16:12:06/14-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 86f1e968 | invidious 2025            | 18:26:40/14-09-2025 | HEAD -> master, github/master, github/HEAD |
+| d52be6f7 | searxng json curl         | 16:12:06/14-09-2025 |                                            |
 | 3f23b5a7 | open-webui podman update  | 14:49:53/14-09-2025 |                                            |
 | 9630f9c6 | podman                    | 00:01:42/13-09-2025 |                                            |
 | fdc9f057 | firefox llm               | 18:31:14/12-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | edf0218e | searxng                   | 20:15:08/11-09-2025 |                                            |
 | e72d1e8a | podman                    | 19:04:17/11-09-2025 |                                            |
 | 142d522c | podman searxng open-webui | 23:11:02/10-09-2025 |                                            |
-| b9afa04e | open-webui                | 22:41:41/10-09-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -96,7 +96,7 @@ status
 | 5f39a1b | openssl                              | 17:37:04/08-09-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 3e8b69d | port 3000                | 19:00:08/09-09-2025 | HEAD -> master, github/master |
+| 18b254a | invidious ports          | 18:25:25/14-09-2025 | HEAD -> master, github/master |
+| 3e8b69d | port 3000                | 19:00:08/09-09-2025 |                               |
 | 749d528 | podman fix               | 19:20:12/08-09-2025 |                               |
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 | 2e9552a | searxng                  | 19:14:25/08-09-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 1ed6eac | podman-compose           | 15:43:02/08-09-2025 |                               |
 | 5f7b6f3 | podman added             | 15:39:49/08-09-2025 |                               |
 | ccc53a4 | podman                   | 15:36:00/08-09-2025 |                               |
-| 560ef40 | flake updated            | 12:39:56/07-09-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
