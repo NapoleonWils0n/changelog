@@ -49,20 +49,20 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 86f1e968 | invidious 2025            | 18:26:40/14-09-2025 | HEAD -> master, github/master, github/HEAD |
-| d52be6f7 | searxng json curl         | 16:12:06/14-09-2025 |                                            |
-| 3f23b5a7 | open-webui podman update  | 14:49:53/14-09-2025 |                                            |
-| 9630f9c6 | podman                    | 00:01:42/13-09-2025 |                                            |
-| fdc9f057 | firefox llm               | 18:31:14/12-09-2025 |                                            |
-| 689ed39d | firefox local llm         | 17:53:18/12-09-2025 |                                            |
-| a5201105 | podman                    | 17:49:58/12-09-2025 |                                            |
-| edf0218e | searxng                   | 20:15:08/11-09-2025 |                                            |
-| e72d1e8a | podman                    | 19:04:17/11-09-2025 |                                            |
-| 142d522c | podman searxng open-webui | 23:11:02/10-09-2025 |                                            |
+| 69ac7497 | invidious 2025 working with mpv but not in the browser | 22:57:34/14-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 2db56f5e | invidious 2025                                         | 18:59:35/14-09-2025 |                                            |
+| 86f1e968 | invidious 2025                                         | 18:26:40/14-09-2025 |                                            |
+| d52be6f7 | searxng json curl                                      | 16:12:06/14-09-2025 |                                            |
+| 3f23b5a7 | open-webui podman update                               | 14:49:53/14-09-2025 |                                            |
+| 9630f9c6 | podman                                                 | 00:01:42/13-09-2025 |                                            |
+| fdc9f057 | firefox llm                                            | 18:31:14/12-09-2025 |                                            |
+| 689ed39d | firefox local llm                                      | 17:53:18/12-09-2025 |                                            |
+| a5201105 | podman                                                 | 17:49:58/12-09-2025 |                                            |
+| edf0218e | searxng                                                | 20:15:08/11-09-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 396ab5d | emacs csv-mode                       | 21:37:56/12-09-2025 | HEAD -> master, github/master |
+| 3e95e9d | pwgen                                | 20:25:46/14-09-2025 | HEAD -> master, github/master |
+| 396ab5d | emacs csv-mode                       | 21:37:56/12-09-2025 |                               |
 | a9ef50b | podman                               | 23:22:58/10-09-2025 |                               |
 | f906616 | podman searxng open-webui            | 23:00:16/10-09-2025 |                               |
 | 968409c | searxng                              | 21:31:09/10-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 67cfce8 | searxng categories                   | 15:40:35/09-09-2025 |                               |
 | 29ba9c3 | podman searxng                       | 15:17:08/09-09-2025 |                               |
 | 4bf7b8b | openssl                              | 17:40:26/08-09-2025 |                               |
-| 5f39a1b | openssl                              | 17:37:04/08-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
