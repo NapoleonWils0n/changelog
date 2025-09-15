@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 148f02ee | invidious working                                      | 17:45:18/15-09-2025 | HEAD -> master, github/master, github/HEAD |
+| d6584506 | invidious podman                                       | 19:20:45/15-09-2025 | HEAD -> master, github/master, github/HEAD |
+| b4e5e304 | invidious podman                                       | 19:20:06/15-09-2025 |                                            |
+| 148f02ee | invidious working                                      | 17:45:18/15-09-2025 |                                            |
 | 164c08b1 | invidious working in the browser                       | 17:43:09/15-09-2025 |                                            |
 | df82def6 | stat                                                   | 23:37:15/14-09-2025 |                                            |
 | cabbac29 | invidious 2025                                         | 23:12:31/14-09-2025 |                                            |
@@ -57,8 +59,6 @@ git status
 | 69ac7497 | invidious 2025 working with mpv but not in the browser | 22:57:34/14-09-2025 |                                            |
 | 2db56f5e | invidious 2025                                         | 18:59:35/14-09-2025 |                                            |
 | 86f1e968 | invidious 2025                                         | 18:26:40/14-09-2025 |                                            |
-| d52be6f7 | searxng json curl                                      | 16:12:06/14-09-2025 |                                            |
-| 3f23b5a7 | open-webui podman update                               | 14:49:53/14-09-2025 |                                            |
 #+end_quote
 
 ** nixos
