@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 184d74b | invidious working                    | 17:44:49/15-09-2025 | HEAD -> master, github/master |
-| c0b28eb | invidious working in the browser     | 17:43:37/15-09-2025 |                               |
-| c9c9273 | ollama-start                         | 15:30:48/15-09-2025 |                               |
-| e003cdf | podmand invidious                    | 23:40:42/14-09-2025 |                               |
-| 3e95e9d | pwgen                                | 20:25:46/14-09-2025 |                               |
-| 396ab5d | emacs csv-mode                       | 21:37:56/12-09-2025 |                               |
-| a9ef50b | podman                               | 23:22:58/10-09-2025 |                               |
-| f906616 | podman searxng open-webui            | 23:00:16/10-09-2025 |                               |
-| 968409c | searxng                              | 21:31:09/10-09-2025 |                               |
-| 20f6e07 | searxng limiter false for open-webui | 21:28:20/10-09-2025 |                               |
+| 1a8da23 | invidious                        | 17:48:32/15-09-2025 | HEAD -> master, github/master |
+| 184d74b | invidious working                | 17:44:49/15-09-2025 |                               |
+| c0b28eb | invidious working in the browser | 17:43:37/15-09-2025 |                               |
+| c9c9273 | ollama-start                     | 15:30:48/15-09-2025 |                               |
+| e003cdf | podmand invidious                | 23:40:42/14-09-2025 |                               |
+| 3e95e9d | pwgen                            | 20:25:46/14-09-2025 |                               |
+| 396ab5d | emacs csv-mode                   | 21:37:56/12-09-2025 |                               |
+| a9ef50b | podman                           | 23:22:58/10-09-2025 |                               |
+| f906616 | podman searxng open-webui        | 23:00:16/10-09-2025 |                               |
+| 968409c | searxng                          | 21:31:09/10-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
