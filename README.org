@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 1a8da23 | invidious                        | 17:48:32/15-09-2025 | HEAD -> master, github/master |
-| 184d74b | invidious working                | 17:44:49/15-09-2025 |                               |
-| c0b28eb | invidious working in the browser | 17:43:37/15-09-2025 |                               |
-| c9c9273 | ollama-start                     | 15:30:48/15-09-2025 |                               |
-| e003cdf | podmand invidious                | 23:40:42/14-09-2025 |                               |
-| 3e95e9d | pwgen                            | 20:25:46/14-09-2025 |                               |
-| 396ab5d | emacs csv-mode                   | 21:37:56/12-09-2025 |                               |
-| a9ef50b | podman                           | 23:22:58/10-09-2025 |                               |
-| f906616 | podman searxng open-webui        | 23:00:16/10-09-2025 |                               |
-| 968409c | searxng                          | 21:31:09/10-09-2025 |                               |
+| b3da874 | kodi                      | 18:49:42/16-09-2025 | HEAD -> master, github/master |
+| 4c3f557 | kodi inputstream adaptive | 18:41:16/16-09-2025 |                               |
+| a70d518 | kodi inputstream ffmpeg   | 18:38:28/16-09-2025 |                               |
+| ec4a4db | kodi                      | 16:09:05/16-09-2025 |                               |
+| a58edad | kodi                      | 15:43:41/16-09-2025 |                               |
+| 7473721 | kodi                      | 15:39:27/16-09-2025 |                               |
+| 458fbb7 | kodi                      | 15:15:17/16-09-2025 |                               |
+| da5c5a3 | kodi                      | 15:05:26/16-09-2025 |                               |
+| 1a8da23 | invidious                 | 17:48:32/15-09-2025 |                               |
+| 184d74b | invidious working         | 17:44:49/15-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
