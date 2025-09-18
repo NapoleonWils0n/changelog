@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b3da874 | kodi                      | 18:49:42/16-09-2025 | HEAD -> master, github/master |
+| 771dac7 | flake updated             | 01:10:52/18-09-2025 | HEAD -> master, github/master |
+| b3da874 | kodi                      | 18:49:42/16-09-2025 |                               |
 | 4c3f557 | kodi inputstream adaptive | 18:41:16/16-09-2025 |                               |
 | a70d518 | kodi inputstream ffmpeg   | 18:38:28/16-09-2025 |                               |
 | ec4a4db | kodi                      | 16:09:05/16-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 458fbb7 | kodi                      | 15:15:17/16-09-2025 |                               |
 | da5c5a3 | kodi                      | 15:05:26/16-09-2025 |                               |
 | 1a8da23 | invidious                 | 17:48:32/15-09-2025 |                               |
-| 184d74b | invidious working         | 17:44:49/15-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
