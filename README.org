@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ade7fcd5 | n8n workflows                    | 22:39:10/20-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 3df855c0 | n8n workflow                     | 13:36:18/21-09-2025 | HEAD -> master, github/master, github/HEAD |
+| ade7fcd5 | n8n workflows                    | 22:39:10/20-09-2025 |                                            |
 | 11ecc81c | ollama modelfiles                | 12:54:26/19-09-2025 |                                            |
 | 1.0e+INF | ollama create modelfile          | 18:49:42/18-09-2025 |                                            |
 | 5fe2c4e8 | kodi nix install addons          | 21:57:31/16-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | b4e5e304 | invidious podman                 | 19:20:06/15-09-2025 |                                            |
 | 148f02ee | invidious working                | 17:45:18/15-09-2025 |                                            |
 | 164c08b1 | invidious working in the browser | 17:43:09/15-09-2025 |                                            |
-| df82def6 | stat                             | 23:37:15/14-09-2025 |                                            |
 #+end_quote
 
 ** nixos
