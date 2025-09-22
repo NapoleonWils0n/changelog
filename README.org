@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 911f16da | n8n workflow            | 14:55:44/22-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 27920cff | n8n workflows           | 14:22:04/22-09-2025 |                                            |
-| 3df855c0 | n8n workflow            | 13:36:18/21-09-2025 |                                            |
-| ade7fcd5 | n8n workflows           | 22:39:10/20-09-2025 |                                            |
-| 11ecc81c | ollama modelfiles       | 12:54:26/19-09-2025 |                                            |
-| 1.0e+INF | ollama create modelfile | 18:49:42/18-09-2025 |                                            |
-| 5fe2c4e8 | kodi nix install addons | 21:57:31/16-09-2025 |                                            |
-| 717ff481 | open-webui              | 21:38:06/15-09-2025 |                                            |
-| d6584506 | invidious podman        | 19:20:45/15-09-2025 |                                            |
-| b4e5e304 | invidious podman        | 19:20:06/15-09-2025 |                                            |
+| 64407cf9 | searxng query ollama      | 19:40:12/22-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 5a052645 | n8n csv searxng workflows | 19:23:27/22-09-2025 |                                            |
+| 911f16da | n8n workflow              | 14:55:44/22-09-2025 |                                            |
+| 27920cff | n8n workflows             | 14:22:04/22-09-2025 |                                            |
+| 3df855c0 | n8n workflow              | 13:36:18/21-09-2025 |                                            |
+| ade7fcd5 | n8n workflows             | 22:39:10/20-09-2025 |                                            |
+| 11ecc81c | ollama modelfiles         | 12:54:26/19-09-2025 |                                            |
+| 1.0e+INF | ollama create modelfile   | 18:49:42/18-09-2025 |                                            |
+| 5fe2c4e8 | kodi nix install addons   | 21:57:31/16-09-2025 |                                            |
+| 717ff481 | open-webui                | 21:38:06/15-09-2025 |                                            |
 #+end_quote
 
 ** nixos
