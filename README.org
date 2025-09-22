@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 04d91b63 | n8n searxng gemini        | 20:07:31/22-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 4da810e7 | n8n csv gemini            | 20:04:31/22-09-2025 |                                            |
-| 64407cf9 | searxng query ollama      | 19:40:12/22-09-2025 |                                            |
-| 5a052645 | n8n csv searxng workflows | 19:23:27/22-09-2025 |                                            |
-| 911f16da | n8n workflow              | 14:55:44/22-09-2025 |                                            |
-| 27920cff | n8n workflows             | 14:22:04/22-09-2025 |                                            |
-| 3df855c0 | n8n workflow              | 13:36:18/21-09-2025 |                                            |
-| ade7fcd5 | n8n workflows             | 22:39:10/20-09-2025 |                                            |
-| 11ecc81c | ollama modelfiles         | 12:54:26/19-09-2025 |                                            |
-| 1.0e+INF | ollama create modelfile   | 18:49:42/18-09-2025 |                                            |
+| 4ecd14a5 | n8n workflows error handling | 20:11:56/22-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 04d91b63 | n8n searxng gemini           | 20:07:31/22-09-2025 |                                            |
+| 4da810e7 | n8n csv gemini               | 20:04:31/22-09-2025 |                                            |
+| 64407cf9 | searxng query ollama         | 19:40:12/22-09-2025 |                                            |
+| 5a052645 | n8n csv searxng workflows    | 19:23:27/22-09-2025 |                                            |
+| 911f16da | n8n workflow                 | 14:55:44/22-09-2025 |                                            |
+| 27920cff | n8n workflows                | 14:22:04/22-09-2025 |                                            |
+| 3df855c0 | n8n workflow                 | 13:36:18/21-09-2025 |                                            |
+| ade7fcd5 | n8n workflows                | 22:39:10/20-09-2025 |                                            |
+| 11ecc81c | ollama modelfiles            | 12:54:26/19-09-2025 |                                            |
 #+end_quote
 
 ** nixos
