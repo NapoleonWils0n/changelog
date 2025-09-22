@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 27920cff | n8n workflows           | 14:22:04/22-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 911f16da | n8n workflow            | 14:55:44/22-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 27920cff | n8n workflows           | 14:22:04/22-09-2025 |                                            |
 | 3df855c0 | n8n workflow            | 13:36:18/21-09-2025 |                                            |
 | ade7fcd5 | n8n workflows           | 22:39:10/20-09-2025 |                                            |
 | 11ecc81c | ollama modelfiles       | 12:54:26/19-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 717ff481 | open-webui              | 21:38:06/15-09-2025 |                                            |
 | d6584506 | invidious podman        | 19:20:45/15-09-2025 |                                            |
 | b4e5e304 | invidious podman        | 19:20:06/15-09-2025 |                                            |
-| 148f02ee | invidious working       | 17:45:18/15-09-2025 |                                            |
 #+end_quote
 
 ** nixos
