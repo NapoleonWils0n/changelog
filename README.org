@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 75483f8a | n8n workflows remove newline      | 14:47:31/24-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 936a8b71 | n8n csv filenames                 | 16:13:32/23-09-2025 |                                            |
-| cc20e24d | n8n csv filenames                 | 16:11:56/23-09-2025 |                                            |
-| 4a407784 | n8n searxng workfllows filenames  | 16:07:49/23-09-2025 |                                            |
-| 11196230 | n8n workflows fixed               | 22:27:59/22-09-2025 |                                            |
-| 1bf9db50 | text html set to fixed            | 22:19:41/22-09-2025 |                                            |
-| b3cc6dfa | n8n searxng gemini ollama         | 22:14:36/22-09-2025 |                                            |
-| 43cc92f9 | n8n searxng ollama error checking | 22:05:39/22-09-2025 |                                            |
-| 240203d9 | n8n searxng gemini error checking | 22:01:21/22-09-2025 |                                            |
-| 4ecd14a5 | n8n workflows error handling      | 20:11:56/22-09-2025 |                                            |
+| 03e89c8b   | readlink get file path            | 15:01:10/24-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 94571500.0 | n8n readlink get filepath         | 15:00:05/24-09-2025 |                                            |
+| 75483f8a   | n8n workflows remove newline      | 14:47:31/24-09-2025 |                                            |
+| 936a8b71   | n8n csv filenames                 | 16:13:32/23-09-2025 |                                            |
+| cc20e24d   | n8n csv filenames                 | 16:11:56/23-09-2025 |                                            |
+| 4a407784   | n8n searxng workfllows filenames  | 16:07:49/23-09-2025 |                                            |
+| 11196230   | n8n workflows fixed               | 22:27:59/22-09-2025 |                                            |
+| 1bf9db50   | text html set to fixed            | 22:19:41/22-09-2025 |                                            |
+| b3cc6dfa   | n8n searxng gemini ollama         | 22:14:36/22-09-2025 |                                            |
+| 43cc92f9   | n8n searxng ollama error checking | 22:05:39/22-09-2025 |                                            |
 #+end_quote
 
 ** nixos
