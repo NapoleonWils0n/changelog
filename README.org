@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0aa34183   | n8n workflow upload csv          | 22:32:57/24-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 03e89c8b   | readlink get file path           | 15:01:10/24-09-2025 |                                            |
-| 94571500.0 | n8n readlink get filepath        | 15:00:05/24-09-2025 |                                            |
-| 75483f8a   | n8n workflows remove newline     | 14:47:31/24-09-2025 |                                            |
-| 936a8b71   | n8n csv filenames                | 16:13:32/23-09-2025 |                                            |
-| cc20e24d   | n8n csv filenames                | 16:11:56/23-09-2025 |                                            |
-| 4a407784   | n8n searxng workfllows filenames | 16:07:49/23-09-2025 |                                            |
-| 11196230   | n8n workflows fixed              | 22:27:59/22-09-2025 |                                            |
-| 1bf9db50   | text html set to fixed           | 22:19:41/22-09-2025 |                                            |
-| b3cc6dfa   | n8n searxng gemini ollama        | 22:14:36/22-09-2025 |                                            |
+| f960e014   | n8n workflows home env       | 23:30:29/24-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 15d8a482   | searxng chat 20 results      | 23:02:29/24-09-2025 |                                            |
+| 4901e9a7   | searxng ollama chat          | 22:59:36/24-09-2025 |                                            |
+| 4adaf07e   | searxng gemini chat          | 22:56:10/24-09-2025 |                                            |
+| abf06d6e   | removed file                 | 22:55:08/24-09-2025 |                                            |
+| 169140db   | searxng chat                 | 22:54:26/24-09-2025 |                                            |
+| 0aa34183   | n8n workflow upload csv      | 22:32:57/24-09-2025 |                                            |
+| 03e89c8b   | readlink get file path       | 15:01:10/24-09-2025 |                                            |
+| 94571500.0 | n8n readlink get filepath    | 15:00:05/24-09-2025 |                                            |
+| 75483f8a   | n8n workflows remove newline | 14:47:31/24-09-2025 |                                            |
 #+end_quote
 
 ** nixos
