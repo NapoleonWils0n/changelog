@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 4ecd14a5 | n8n workflows error handling | 20:11:56/22-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 04d91b63 | n8n searxng gemini           | 20:07:31/22-09-2025 |                                            |
-| 4da810e7 | n8n csv gemini               | 20:04:31/22-09-2025 |                                            |
-| 64407cf9 | searxng query ollama         | 19:40:12/22-09-2025 |                                            |
-| 5a052645 | n8n csv searxng workflows    | 19:23:27/22-09-2025 |                                            |
-| 911f16da | n8n workflow                 | 14:55:44/22-09-2025 |                                            |
-| 27920cff | n8n workflows                | 14:22:04/22-09-2025 |                                            |
-| 3df855c0 | n8n workflow                 | 13:36:18/21-09-2025 |                                            |
-| ade7fcd5 | n8n workflows                | 22:39:10/20-09-2025 |                                            |
-| 11ecc81c | ollama modelfiles            | 12:54:26/19-09-2025 |                                            |
+| 75483f8a | n8n workflows remove newline      | 14:47:31/24-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 936a8b71 | n8n csv filenames                 | 16:13:32/23-09-2025 |                                            |
+| cc20e24d | n8n csv filenames                 | 16:11:56/23-09-2025 |                                            |
+| 4a407784 | n8n searxng workfllows filenames  | 16:07:49/23-09-2025 |                                            |
+| 11196230 | n8n workflows fixed               | 22:27:59/22-09-2025 |                                            |
+| 1bf9db50 | text html set to fixed            | 22:19:41/22-09-2025 |                                            |
+| b3cc6dfa | n8n searxng gemini ollama         | 22:14:36/22-09-2025 |                                            |
+| 43cc92f9 | n8n searxng ollama error checking | 22:05:39/22-09-2025 |                                            |
+| 240203d9 | n8n searxng gemini error checking | 22:01:21/22-09-2025 |                                            |
+| 4ecd14a5 | n8n workflows error handling      | 20:11:56/22-09-2025 |                                            |
 #+end_quote
 
 ** nixos
