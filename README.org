@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 69e4b6d8 | searxng podman debian   | 16:07:02/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| c85c1b38 | searxng home variable   | 21:40:57/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 69e4b6d8 | searxng podman debian   | 16:07:02/25-09-2025 |                                            |
 | 1c37a25e | searxng                 | 15:56:25/25-09-2025 |                                            |
 | ae267502 | n8n workflows renamed   | 00:03:56/25-09-2025 |                                            |
 | 26df784c | n8n searxng chat        | 23:45:56/24-09-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | 4901e9a7 | searxng ollama chat     | 22:59:36/24-09-2025 |                                            |
 | 4adaf07e | searxng gemini chat     | 22:56:10/24-09-2025 |                                            |
 | abf06d6e | removed file            | 22:55:08/24-09-2025 |                                            |
-| 169140db | searxng chat            | 22:54:26/24-09-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 31c3c5e | searxng                   | 15:55:29/25-09-2025 | HEAD -> master, github/master |
-| e1273b8 | whisperx                  | 12:35:44/24-09-2025 |                               |
-| 6255ca1 | python                    | 12:33:05/24-09-2025 |                               |
-| 91e6a06 | n8n                       | 12:31:03/24-09-2025 |                               |
-| 8cea1b3 | ollama                    | 12:17:33/24-09-2025 |                               |
-| da683fb | flake updated             | 11:34:22/24-09-2025 |                               |
-| 903165e | n8n                       | 18:46:55/18-09-2025 |                               |
-| 771dac7 | flake updated             | 01:10:52/18-09-2025 |                               |
-| b3da874 | kodi                      | 18:49:42/16-09-2025 |                               |
-| 4c3f557 | kodi inputstream adaptive | 18:41:16/16-09-2025 |                               |
+| 2e76be5 | searxng home variable | 21:38:26/25-09-2025 | HEAD -> master, github/master |
+| 31c3c5e | searxng               | 15:55:29/25-09-2025 |                               |
+| e1273b8 | whisperx              | 12:35:44/24-09-2025 |                               |
+| 6255ca1 | python                | 12:33:05/24-09-2025 |                               |
+| 91e6a06 | n8n                   | 12:31:03/24-09-2025 |                               |
+| 8cea1b3 | ollama                | 12:17:33/24-09-2025 |                               |
+| da683fb | flake updated         | 11:34:22/24-09-2025 |                               |
+| 903165e | n8n                   | 18:46:55/18-09-2025 |                               |
+| 771dac7 | flake updated         | 01:10:52/18-09-2025 |                               |
+| b3da874 | kodi                  | 18:49:42/16-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 77f166a | podman                   | 17:24:17/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 78b9352 | searxng home variable    | 21:42:06/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 77f166a | podman                   | 17:24:17/25-09-2025 |                                            |
 | 27908fc | emacs csv-mode           | 13:26:53/13-09-2025 |                                            |
 | f7e2a5a | removed elfeed           | 18:12:10/01-09-2025 |                                            |
 | 4c7d241 | emacs elfeed prot common | 20:56:44/31-08-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 39a30a9 | emacs gptel tools        | 22:45:10/17-08-2025 |                                            |
 | 40f827d | removed treesitter       | 11:23:29/17-08-2025 |                                            |
 | 914bb13 | debian 13 treesitter     | 16:06:37/14-08-2025 |                                            |
-| 04fccde | emacs no title bar       | 17:47:39/13-08-2025 |                                            |
 #+end_quote
 
 *** debian-root
