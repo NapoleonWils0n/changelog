@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ae267502 | n8n workflows renamed   | 00:03:56/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 69e4b6d8 | searxng podman debian   | 16:07:02/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 1c37a25e | searxng                 | 15:56:25/25-09-2025 |                                            |
+| ae267502 | n8n workflows renamed   | 00:03:56/25-09-2025 |                                            |
 | 26df784c | n8n searxng chat        | 23:45:56/24-09-2025 |                                            |
 | f960e014 | n8n workflows home env  | 23:30:29/24-09-2025 |                                            |
 | 15d8a482 | searxng chat 20 results | 23:02:29/24-09-2025 |                                            |
@@ -57,8 +59,6 @@ git status
 | 4adaf07e | searxng gemini chat     | 22:56:10/24-09-2025 |                                            |
 | abf06d6e | removed file            | 22:55:08/24-09-2025 |                                            |
 | 169140db | searxng chat            | 22:54:26/24-09-2025 |                                            |
-| 0aa34183 | n8n workflow upload csv | 22:32:57/24-09-2025 |                                            |
-| 03e89c8b | readlink get file path  | 15:01:10/24-09-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e1273b8 | whisperx                  | 12:35:44/24-09-2025 | HEAD -> master, github/master |
+| 31c3c5e | searxng                   | 15:55:29/25-09-2025 | HEAD -> master, github/master |
+| e1273b8 | whisperx                  | 12:35:44/24-09-2025 |                               |
 | 6255ca1 | python                    | 12:33:05/24-09-2025 |                               |
 | 91e6a06 | n8n                       | 12:31:03/24-09-2025 |                               |
 | 8cea1b3 | ollama                    | 12:17:33/24-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 771dac7 | flake updated             | 01:10:52/18-09-2025 |                               |
 | b3da874 | kodi                      | 18:49:42/16-09-2025 |                               |
 | 4c3f557 | kodi inputstream adaptive | 18:41:16/16-09-2025 |                               |
-| a70d518 | kodi inputstream ffmpeg   | 18:38:28/16-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 27908fc | emacs csv-mode           | 13:26:53/13-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 77f166a | podman                   | 17:24:17/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 27908fc | emacs csv-mode           | 13:26:53/13-09-2025 |                                            |
 | f7e2a5a | removed elfeed           | 18:12:10/01-09-2025 |                                            |
 | 4c7d241 | emacs elfeed prot common | 20:56:44/31-08-2025 |                                            |
 | 1507867 | emacs elfeed             | 18:39:36/31-08-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 40f827d | removed treesitter       | 11:23:29/17-08-2025 |                                            |
 | 914bb13 | debian 13 treesitter     | 16:06:37/14-08-2025 |                                            |
 | 04fccde | emacs no title bar       | 17:47:39/13-08-2025 |                                            |
-| 7777d12 | alacritty toml           | 17:35:43/13-08-2025 |                                            |
 #+end_quote
 
 *** debian-root
