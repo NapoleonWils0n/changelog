@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 8f431e73 | n8n podman              | 21:47:03/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 8f94fde7 | n8n podman              | 15:50:02/26-09-2025 | HEAD -> master, github/master, github/HEAD |
+| f33ffe21 | seaxng podman debian    | 15:03:36/26-09-2025 |                                            |
+| 8f431e73 | n8n podman              | 21:47:03/25-09-2025 |                                            |
 | c85c1b38 | searxng home variable   | 21:40:57/25-09-2025 |                                            |
 | 69e4b6d8 | searxng podman debian   | 16:07:02/25-09-2025 |                                            |
 | 1c37a25e | searxng                 | 15:56:25/25-09-2025 |                                            |
@@ -57,12 +59,10 @@ git status
 | 26df784c | n8n searxng chat        | 23:45:56/24-09-2025 |                                            |
 | f960e014 | n8n workflows home env  | 23:30:29/24-09-2025 |                                            |
 | 15d8a482 | searxng chat 20 results | 23:02:29/24-09-2025 |                                            |
-| 4901e9a7 | searxng ollama chat     | 22:59:36/24-09-2025 |                                            |
-| 4adaf07e | searxng gemini chat     | 22:56:10/24-09-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 78b9352 | searxng home variable    | 21:42:06/25-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 4bbf4e0 | n8n podman               | 15:54:58/26-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 78b9352 | searxng home variable    | 21:42:06/25-09-2025 |                                            |
 | 77f166a | podman                   | 17:24:17/25-09-2025 |                                            |
 | 27908fc | emacs csv-mode           | 13:26:53/13-09-2025 |                                            |
 | f7e2a5a | removed elfeed           | 18:12:10/01-09-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | fb1074b | mpv                      | 22:54:10/20-08-2025 |                                            |
 | 39a30a9 | emacs gptel tools        | 22:45:10/17-08-2025 |                                            |
 | 40f827d | removed treesitter       | 11:23:29/17-08-2025 |                                            |
-| 914bb13 | debian 13 treesitter     | 16:06:37/14-08-2025 |                                            |
 #+end_quote
 
 *** debian-root
