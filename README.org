@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 8f94fde7 | n8n podman              | 15:50:02/26-09-2025 | HEAD -> master, github/master, github/HEAD |
-| f33ffe21 | seaxng podman debian    | 15:03:36/26-09-2025 |                                            |
-| 8f431e73 | n8n podman              | 21:47:03/25-09-2025 |                                            |
-| c85c1b38 | searxng home variable   | 21:40:57/25-09-2025 |                                            |
-| 69e4b6d8 | searxng podman debian   | 16:07:02/25-09-2025 |                                            |
-| 1c37a25e | searxng                 | 15:56:25/25-09-2025 |                                            |
-| ae267502 | n8n workflows renamed   | 00:03:56/25-09-2025 |                                            |
-| 26df784c | n8n searxng chat        | 23:45:56/24-09-2025 |                                            |
-| f960e014 | n8n workflows home env  | 23:30:29/24-09-2025 |                                            |
-| 15d8a482 | searxng chat 20 results | 23:02:29/24-09-2025 |                                            |
+| 3e713d4b | n8n searxng chat       | 21:16:00/26-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 8f94fde7 | n8n podman             | 15:50:02/26-09-2025 |                                            |
+| f33ffe21 | seaxng podman debian   | 15:03:36/26-09-2025 |                                            |
+| 8f431e73 | n8n podman             | 21:47:03/25-09-2025 |                                            |
+| c85c1b38 | searxng home variable  | 21:40:57/25-09-2025 |                                            |
+| 69e4b6d8 | searxng podman debian  | 16:07:02/25-09-2025 |                                            |
+| 1c37a25e | searxng                | 15:56:25/25-09-2025 |                                            |
+| ae267502 | n8n workflows renamed  | 00:03:56/25-09-2025 |                                            |
+| 26df784c | n8n searxng chat       | 23:45:56/24-09-2025 |                                            |
+| f960e014 | n8n workflows home env | 23:30:29/24-09-2025 |                                            |
 #+end_quote
 
 ** nixos
