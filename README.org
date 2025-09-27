@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 3e713d4b | n8n searxng chat       | 21:16:00/26-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 8f94fde7 | n8n podman             | 15:50:02/26-09-2025 |                                            |
-| f33ffe21 | seaxng podman debian   | 15:03:36/26-09-2025 |                                            |
-| 8f431e73 | n8n podman             | 21:47:03/25-09-2025 |                                            |
-| c85c1b38 | searxng home variable  | 21:40:57/25-09-2025 |                                            |
-| 69e4b6d8 | searxng podman debian  | 16:07:02/25-09-2025 |                                            |
-| 1c37a25e | searxng                | 15:56:25/25-09-2025 |                                            |
-| ae267502 | n8n workflows renamed  | 00:03:56/25-09-2025 |                                            |
-| 26df784c | n8n searxng chat       | 23:45:56/24-09-2025 |                                            |
-| f960e014 | n8n workflows home env | 23:30:29/24-09-2025 |                                            |
+| a4cee6e6 | n8n podman       | 18:24:17/27-09-2025 | HEAD -> master, github/master, github/HEAD |
+| c8d11505 | n8n podman       | 18:23:08/27-09-2025 |                                            |
+| 00c88671 | n8n              | 17:45:46/27-09-2025 |                                            |
+| 4c6520be | n8n podman       | 15:17:44/27-09-2025 |                                            |
+| ea40be27 | n8n podman       | 15:05:20/27-09-2025 |                                            |
+| aa52ec38 | n8n podman       | 14:58:28/27-09-2025 |                                            |
+| 78841468 | n8n podman       | 14:51:27/27-09-2025 |                                            |
+| 3b1c4e62 | n8n podman       | 14:29:36/27-09-2025 |                                            |
+| edd0c0ad | n8n podman       | 14:14:46/27-09-2025 |                                            |
+| 3e713d4b | n8n searxng chat | 21:16:00/26-09-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f2cd185 | flake updated         | 13:31:18/27-09-2025 | HEAD -> master, github/master |
-| 2e76be5 | searxng home variable | 21:38:26/25-09-2025 |                               |
-| 31c3c5e | searxng               | 15:55:29/25-09-2025 |                               |
-| e1273b8 | whisperx              | 12:35:44/24-09-2025 |                               |
-| 6255ca1 | python                | 12:33:05/24-09-2025 |                               |
-| 91e6a06 | n8n                   | 12:31:03/24-09-2025 |                               |
-| 8cea1b3 | ollama                | 12:17:33/24-09-2025 |                               |
-| da683fb | flake updated         | 11:34:22/24-09-2025 |                               |
-| 903165e | n8n                   | 18:46:55/18-09-2025 |                               |
-| 771dac7 | flake updated         | 01:10:52/18-09-2025 |                               |
+| ef18f44 | n8n podman               | 18:57:51/27-09-2025 | HEAD -> master, github/master |
+| 55a7a4a | n8n removed using podman | 18:03:59/27-09-2025 |                               |
+| f2cd185 | flake updated            | 13:31:18/27-09-2025 |                               |
+| 2e76be5 | searxng home variable    | 21:38:26/25-09-2025 |                               |
+| 31c3c5e | searxng                  | 15:55:29/25-09-2025 |                               |
+| e1273b8 | whisperx                 | 12:35:44/24-09-2025 |                               |
+| 6255ca1 | python                   | 12:33:05/24-09-2025 |                               |
+| 91e6a06 | n8n                      | 12:31:03/24-09-2025 |                               |
+| 8cea1b3 | ollama                   | 12:17:33/24-09-2025 |                               |
+| da683fb | flake updated            | 11:34:22/24-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
