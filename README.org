@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 2e76be5 | searxng home variable | 21:38:26/25-09-2025 | HEAD -> master, github/master |
+| f2cd185 | flake updated         | 13:31:18/27-09-2025 | HEAD -> master, github/master |
+| 2e76be5 | searxng home variable | 21:38:26/25-09-2025 |                               |
 | 31c3c5e | searxng               | 15:55:29/25-09-2025 |                               |
 | e1273b8 | whisperx              | 12:35:44/24-09-2025 |                               |
 | 6255ca1 | python                | 12:33:05/24-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | da683fb | flake updated         | 11:34:22/24-09-2025 |                               |
 | 903165e | n8n                   | 18:46:55/18-09-2025 |                               |
 | 771dac7 | flake updated         | 01:10:52/18-09-2025 |                               |
-| b3da874 | kodi                  | 18:49:42/16-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 5f7b6f3 | podman added             | 15:39:49/08-09-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** TODO debian-dotfiles
 
 github url
 
