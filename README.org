@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 7eb38846 | n8n podman postgres | 20:21:27/27-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 17659710 | n8n data            | 20:35:54/27-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 5c41188c | n8n postgres        | 20:28:40/27-09-2025 |                                            |
+| 7eb38846 | n8n podman postgres | 20:21:27/27-09-2025 |                                            |
 | 469cd9d6 | ollama url          | 19:10:14/27-09-2025 |                                            |
 | a4cee6e6 | n8n podman          | 18:24:17/27-09-2025 |                                            |
 | c8d11505 | n8n podman          | 18:23:08/27-09-2025 |                                            |
@@ -57,8 +59,6 @@ git status
 | 4c6520be | n8n podman          | 15:17:44/27-09-2025 |                                            |
 | ea40be27 | n8n podman          | 15:05:20/27-09-2025 |                                            |
 | aa52ec38 | n8n podman          | 14:58:28/27-09-2025 |                                            |
-| 78841468 | n8n podman          | 14:51:27/27-09-2025 |                                            |
-| 3b1c4e62 | n8n podman          | 14:29:36/27-09-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| ef18f44 | n8n podman               | 18:57:51/27-09-2025 | HEAD -> master, github/master |
+| a9316d9 | n8n data                 | 20:37:01/27-09-2025 | HEAD -> master, github/master |
+| ef18f44 | n8n podman               | 18:57:51/27-09-2025 |                               |
 | 55a7a4a | n8n removed using podman | 18:03:59/27-09-2025 |                               |
 | f2cd185 | flake updated            | 13:31:18/27-09-2025 |                               |
 | 2e76be5 | searxng home variable    | 21:38:26/25-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 6255ca1 | python                   | 12:33:05/24-09-2025 |                               |
 | 91e6a06 | n8n                      | 12:31:03/24-09-2025 |                               |
 | 8cea1b3 | ollama                   | 12:17:33/24-09-2025 |                               |
-| da683fb | flake updated            | 11:34:22/24-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 4e048f5 | n8n podman               | 19:02:40/27-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 1177faa | n8n data                 | 20:38:03/27-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 4e048f5 | n8n podman               | 19:02:40/27-09-2025 |                                            |
 | 4bbf4e0 | n8n podman               | 15:54:58/26-09-2025 |                                            |
 | 78b9352 | searxng home variable    | 21:42:06/25-09-2025 |                                            |
 | 77f166a | podman                   | 17:24:17/25-09-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 4c7d241 | emacs elfeed prot common | 20:56:44/31-08-2025 |                                            |
 | 1507867 | emacs elfeed             | 18:39:36/31-08-2025 |                                            |
 | fb1074b | mpv                      | 22:54:10/20-08-2025 |                                            |
-| 39a30a9 | emacs gptel tools        | 22:45:10/17-08-2025 |                                            |
 #+end_quote
 
 *** debian-root
