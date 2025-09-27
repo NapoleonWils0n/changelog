@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 469cd9d6 | ollama url | 19:10:14/27-09-2025 | HEAD -> master, github/master, github/HEAD |
-| a4cee6e6 | n8n podman | 18:24:17/27-09-2025 |                                            |
-| c8d11505 | n8n podman | 18:23:08/27-09-2025 |                                            |
-| 00c88671 | n8n        | 17:45:46/27-09-2025 |                                            |
-| 4c6520be | n8n podman | 15:17:44/27-09-2025 |                                            |
-| ea40be27 | n8n podman | 15:05:20/27-09-2025 |                                            |
-| aa52ec38 | n8n podman | 14:58:28/27-09-2025 |                                            |
-| 78841468 | n8n podman | 14:51:27/27-09-2025 |                                            |
-| 3b1c4e62 | n8n podman | 14:29:36/27-09-2025 |                                            |
-| edd0c0ad | n8n podman | 14:14:46/27-09-2025 |                                            |
+| 7eb38846 | n8n podman postgres | 20:21:27/27-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 469cd9d6 | ollama url          | 19:10:14/27-09-2025 |                                            |
+| a4cee6e6 | n8n podman          | 18:24:17/27-09-2025 |                                            |
+| c8d11505 | n8n podman          | 18:23:08/27-09-2025 |                                            |
+| 00c88671 | n8n                 | 17:45:46/27-09-2025 |                                            |
+| 4c6520be | n8n podman          | 15:17:44/27-09-2025 |                                            |
+| ea40be27 | n8n podman          | 15:05:20/27-09-2025 |                                            |
+| aa52ec38 | n8n podman          | 14:58:28/27-09-2025 |                                            |
+| 78841468 | n8n podman          | 14:51:27/27-09-2025 |                                            |
+| 3b1c4e62 | n8n podman          | 14:29:36/27-09-2025 |                                            |
 #+end_quote
 
 ** nixos
