@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5b661c8e | n8n podman                  | 17:42:37/28-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 4c69614c | n8n podman file permissions | 17:29:31/28-09-2025 |                                            |
-| ef9ac565 | 777                         | 14:48:18/28-09-2025 |                                            |
-| 045c3409 | n8n                         | 23:33:49/27-09-2025 |                                            |
-| 2412de21 | n8n data permissions        | 21:50:34/27-09-2025 |                                            |
-| e128dd31 | n8n                         | 21:39:09/27-09-2025 |                                            |
-| 83d588e3 | n8n podman data directory   | 21:33:38/27-09-2025 |                                            |
-| 17659710 | n8n data                    | 20:35:54/27-09-2025 |                                            |
-| 5c41188c | n8n postgres                | 20:28:40/27-09-2025 |                                            |
-| 7eb38846 | n8n podman postgres         | 20:21:27/27-09-2025 |                                            |
+| b291775a | n8n podman permission and postgres | 18:03:06/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| c7411b98 | n8n                                | 17:58:32/28-09-2025 |                                            |
+| 0c3b711d | n8n workflows                      | 17:52:54/28-09-2025 |                                            |
+| 5b661c8e | n8n podman                         | 17:42:37/28-09-2025 |                                            |
+| 4c69614c | n8n podman file permissions        | 17:29:31/28-09-2025 |                                            |
+| ef9ac565 | 777                                | 14:48:18/28-09-2025 |                                            |
+| 045c3409 | n8n                                | 23:33:49/27-09-2025 |                                            |
+| 2412de21 | n8n data permissions               | 21:50:34/27-09-2025 |                                            |
+| e128dd31 | n8n                                | 21:39:09/27-09-2025 |                                            |
+| 83d588e3 | n8n podman data directory          | 21:33:38/27-09-2025 |                                            |
 #+end_quote
 
 ** nixos
