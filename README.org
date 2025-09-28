@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b291775a | n8n podman permission and postgres | 18:03:06/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 0a061160 | n8n podman                         | 18:11:35/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| b291775a | n8n podman permission and postgres | 18:03:06/28-09-2025 |                                            |
 | c7411b98 | n8n                                | 17:58:32/28-09-2025 |                                            |
 | 0c3b711d | n8n workflows                      | 17:52:54/28-09-2025 |                                            |
 | 5b661c8e | n8n podman                         | 17:42:37/28-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 045c3409 | n8n                                | 23:33:49/27-09-2025 |                                            |
 | 2412de21 | n8n data permissions               | 21:50:34/27-09-2025 |                                            |
 | e128dd31 | n8n                                | 21:39:09/27-09-2025 |                                            |
-| 83d588e3 | n8n podman data directory          | 21:33:38/27-09-2025 |                                            |
 #+end_quote
 
 ** nixos
