@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 6255ca1 | python                       | 12:33:05/24-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 1ed6eac | podman-compose           | 15:43:02/08-09-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 676237d | flake updated            | 16:11:59/24-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 765dc23 | flake updated            | 22:04:00/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 676237d | flake updated            | 16:11:59/24-09-2025 |                                            |
 | 05eaf11 | flake update             | 18:58:19/18-09-2025 |                                            |
 | 581ffac | emacs csv-mode           | 13:25:16/13-09-2025 |                                            |
 | db3ef3e | flake updated            | 11:01:45/08-09-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 5010ff7 | emacs elfeed prot common | 20:52:55/31-08-2025 |                                            |
 | edafd75 | emacs elfeed             | 18:38:16/31-08-2025 |                                            |
 | a6465b7 | flake updated            | 12:25:16/29-08-2025 |                                            |
-| f580a3f | widevine master          | 16:06:36/26-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 2953f40 | n8n podman file permissions | 17:45:52/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 20634ec | podman registeries          | 22:48:28/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 2953f40 | n8n podman file permissions | 17:45:52/28-09-2025 |                                            |
 | 29e72fc | n8n data file path          | 21:32:55/27-09-2025 |                                            |
 | 1177faa | n8n data                    | 20:38:03/27-09-2025 |                                            |
 | 4e048f5 | n8n podman                  | 19:02:40/27-09-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 77f166a | podman                      | 17:24:17/25-09-2025 |                                            |
 | 27908fc | emacs csv-mode              | 13:26:53/13-09-2025 |                                            |
 | f7e2a5a | removed elfeed              | 18:12:10/01-09-2025 |                                            |
-| 4c7d241 | emacs elfeed prot common    | 20:56:44/31-08-2025 |                                            |
 #+end_quote
 
 *** debian-root
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| e601fbc | yt-dlp                   | 16:40:19/24-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 8cdd539 | yt-dlp                   | 22:28:03/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| e601fbc | yt-dlp                   | 16:40:19/24-09-2025 |                                            |
 | c6d3eb5 | yt-dlp                   | 12:57:11/08-09-2025 |                                            |
 | 6fa2584 | yt-dlp                   | 20:47:28/28-08-2025 |                                            |
 | 51a8b53 | ytdlp-mpv                | 13:14:49/26-08-2025 |                                            |
@@ -331,5 +332,4 @@ status
 | be09d6e | ytdlp-mpv                | 20:55:59/25-08-2025 |                                            |
 | a3ad41f | ytdlp-mpv                | 19:50:35/25-08-2025 |                                            |
 | 8af2929 | ytdlp-mpv                | 18:17:16/25-08-2025 |                                            |
-| 0ad5e17 | dash-ffmpeg              | 14:32:02/25-08-2025 |                                            |
 #+end_quote
