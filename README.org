@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 1d62edc | podman                      | 23:28:56/29-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 68b3153 | podman invidious            | 00:34:00/30-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 1d62edc | podman                      | 23:28:56/29-09-2025 |                                            |
 | c711a2b | podman n8n                  | 13:58:21/29-09-2025 |                                            |
 | 20634ec | podman registeries          | 22:48:28/28-09-2025 |                                            |
 | 2953f40 | n8n podman file permissions | 17:45:52/28-09-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 4e048f5 | n8n podman                  | 19:02:40/27-09-2025 |                                            |
 | 4bbf4e0 | n8n podman                  | 15:54:58/26-09-2025 |                                            |
 | 78b9352 | searxng home variable       | 21:42:06/25-09-2025 |                                            |
-| 77f166a | podman                      | 17:24:17/25-09-2025 |                                            |
 #+end_quote
 
 *** debian-root
