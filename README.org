@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** PRO cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0a061160 | n8n podman                         | 18:11:35/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 6c3cb374 | n8n podman                         | 13:56:01/29-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 0a061160 | n8n podman                         | 18:11:35/28-09-2025 |                                            |
 | b291775a | n8n podman permission and postgres | 18:03:06/28-09-2025 |                                            |
 | c7411b98 | n8n                                | 17:58:32/28-09-2025 |                                            |
 | 0c3b711d | n8n workflows                      | 17:52:54/28-09-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | ef9ac565 | 777                                | 14:48:18/28-09-2025 |                                            |
 | 045c3409 | n8n                                | 23:33:49/27-09-2025 |                                            |
 | 2412de21 | n8n data permissions               | 21:50:34/27-09-2025 |                                            |
-| e128dd31 | n8n                                | 21:39:09/27-09-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** PRO nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8d7cd32 | n8n podmand file permissions | 17:46:21/28-09-2025 | HEAD -> master, github/master |
+| b85b0da | n8n podman env               | 13:57:40/29-09-2025 | HEAD -> master, github/master |
+| 8d7cd32 | n8n podmand file permissions | 17:46:21/28-09-2025 |                               |
 | 6111928 | n8n podman data file path    | 21:32:02/27-09-2025 |                               |
 | a9316d9 | n8n data                     | 20:37:01/27-09-2025 |                               |
 | ef18f44 | n8n podman                   | 18:57:51/27-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 2e76be5 | searxng home variable        | 21:38:26/25-09-2025 |                               |
 | 31c3c5e | searxng                      | 15:55:29/25-09-2025 |                               |
 | e1273b8 | whisperx                     | 12:35:44/24-09-2025 |                               |
-| 6255ca1 | python                       | 12:33:05/24-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** PRO debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 20634ec | podman registeries          | 22:48:28/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| c711a2b | podman n8n                  | 13:58:21/29-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 20634ec | podman registeries          | 22:48:28/28-09-2025 |                                            |
 | 2953f40 | n8n podman file permissions | 17:45:52/28-09-2025 |                                            |
 | 29e72fc | n8n data file path          | 21:32:55/27-09-2025 |                                            |
 | 1177faa | n8n data                    | 20:38:03/27-09-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 78b9352 | searxng home variable       | 21:42:06/25-09-2025 |                                            |
 | 77f166a | podman                      | 17:24:17/25-09-2025 |                                            |
 | 27908fc | emacs csv-mode              | 13:26:53/13-09-2025 |                                            |
-| f7e2a5a | removed elfeed              | 18:12:10/01-09-2025 |                                            |
 #+end_quote
 
 *** debian-root
