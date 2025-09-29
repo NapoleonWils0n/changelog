@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 6bc6dfb3 | podman desktop                     | 18:46:56/29-09-2025 | HEAD -> master, github/master, github/HEAD |
+| e88bbd18 | podman system prune                | 19:01:57/29-09-2025 | HEAD -> master, github/master, github/HEAD |
+| 6bc6dfb3 | podman desktop                     | 18:46:56/29-09-2025 |                                            |
 | 6c3cb374 | n8n podman                         | 13:56:01/29-09-2025 |                                            |
 | 0a061160 | n8n podman                         | 18:11:35/28-09-2025 |                                            |
 | b291775a | n8n podman permission and postgres | 18:03:06/28-09-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 5b661c8e | n8n podman                         | 17:42:37/28-09-2025 |                                            |
 | 4c69614c | n8n podman file permissions        | 17:29:31/28-09-2025 |                                            |
 | ef9ac565 | 777                                | 14:48:18/28-09-2025 |                                            |
-| 045c3409 | n8n                                | 23:33:49/27-09-2025 |                                            |
 #+end_quote
 
 ** nixos
