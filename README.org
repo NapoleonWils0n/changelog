@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 51f59b0c | n8n workflows sticky notes         | 19:07:04/01-10-2025 | HEAD -> master, github/master, github/HEAD |
-| 6db8098e | n8n workflows                      | 19:47:41/30-09-2025 |                                            |
-| f6c5c737 | podman-desktop podman-compose      | 23:37:21/29-09-2025 |                                            |
-| 8244fd7d | n8n podman                         | 23:20:04/29-09-2025 |                                            |
-| 03a155df | searxng podman                     | 23:02:52/29-09-2025 |                                            |
-| e88bbd18 | podman system prune                | 19:01:57/29-09-2025 |                                            |
-| 6bc6dfb3 | podman desktop                     | 18:46:56/29-09-2025 |                                            |
-| 6c3cb374 | n8n podman                         | 13:56:01/29-09-2025 |                                            |
-| 0a061160 | n8n podman                         | 18:11:35/28-09-2025 |                                            |
-| b291775a | n8n podman permission and postgres | 18:03:06/28-09-2025 |                                            |
+| 44e64d32 | n8n workflows csv output      | 20:56:22/01-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 51f59b0c | n8n workflows sticky notes    | 19:07:04/01-10-2025 |                                            |
+| 6db8098e | n8n workflows                 | 19:47:41/30-09-2025 |                                            |
+| f6c5c737 | podman-desktop podman-compose | 23:37:21/29-09-2025 |                                            |
+| 8244fd7d | n8n podman                    | 23:20:04/29-09-2025 |                                            |
+| 03a155df | searxng podman                | 23:02:52/29-09-2025 |                                            |
+| e88bbd18 | podman system prune           | 19:01:57/29-09-2025 |                                            |
+| 6bc6dfb3 | podman desktop                | 18:46:56/29-09-2025 |                                            |
+| 6c3cb374 | n8n podman                    | 13:56:01/29-09-2025 |                                            |
+| 0a061160 | n8n podman                    | 18:11:35/28-09-2025 |                                            |
 #+end_quote
 
 ** nixos
