@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 43806622 | browser console            | 22:38:21/03-10-2025 | HEAD -> master, github/master, github/HEAD |
+| db372b7a | n8n workflows              | 15:13:47/04-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 43806622 | browser console            | 22:38:21/03-10-2025 |                                            |
 | 5b5ec918 | browser console            | 22:27:45/03-10-2025 |                                            |
 | 0b4e65d8 | google                     | 14:21:43/03-10-2025 |                                            |
 | 3c0fe192 | google search operators    | 14:19:12/03-10-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 044fcddf | n8n workflows renamed      | 22:35:03/02-10-2025 |                                            |
 | 44e64d32 | n8n workflows csv output   | 20:56:22/01-10-2025 |                                            |
 | 51f59b0c | n8n workflows sticky notes | 19:07:04/01-10-2025 |                                            |
-| 6db8098e | n8n workflows              | 19:47:41/30-09-2025 |                                            |
 #+end_quote
 
 ** nixos
