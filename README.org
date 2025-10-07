@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e6dac95 | crawl4ai podman              | 18:40:49/07-10-2025 | HEAD -> master, github/master |
+| 233c089 | markdown mode                | 18:58:51/07-10-2025 | HEAD -> master, github/master |
+| e6dac95 | crawl4ai podman              | 18:40:49/07-10-2025 |                               |
 | d87ae7e | podman                       | 23:26:03/29-09-2025 |                               |
 | b85b0da | n8n podman env               | 13:57:40/29-09-2025 |                               |
 | 8d7cd32 | n8n podmand file permissions | 17:46:21/28-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | ef18f44 | n8n podman                   | 18:57:51/27-09-2025 |                               |
 | 55a7a4a | n8n removed using podman     | 18:03:59/27-09-2025 |                               |
 | f2cd185 | flake updated                | 13:31:18/27-09-2025 |                               |
-| 2e76be5 | searxng home variable        | 21:38:26/25-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 7cd58c1 | crawl4ai podman             | 18:42:55/07-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 8c4a9da | markdown mode               | 18:59:50/07-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 7cd58c1 | crawl4ai podman             | 18:42:55/07-10-2025 |                                            |
 | 68b3153 | podman invidious            | 00:34:00/30-09-2025 |                                            |
 | 1d62edc | podman                      | 23:28:56/29-09-2025 |                                            |
 | c711a2b | podman n8n                  | 13:58:21/29-09-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 29e72fc | n8n data file path          | 21:32:55/27-09-2025 |                                            |
 | 1177faa | n8n data                    | 20:38:03/27-09-2025 |                                            |
 | 4e048f5 | n8n podman                  | 19:02:40/27-09-2025 |                                            |
-| 4bbf4e0 | n8n podman                  | 15:54:58/26-09-2025 |                                            |
 #+end_quote
 
 *** debian-root
