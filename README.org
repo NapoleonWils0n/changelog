@@ -96,7 +96,7 @@ status
 | 31c3c5e | searxng                      | 15:55:29/25-09-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 86d5b39 | port 5678 n8n            | 17:48:09/27-09-2025 | HEAD -> master, github/master |
+| 1ba5582 | crawl4ai port            | 16:19:24/07-10-2025 | HEAD -> master, github/master |
+| 86d5b39 | port 5678 n8n            | 17:48:09/27-09-2025 |                               |
 | fa42aa4 | flake updated            | 10:53:36/24-09-2025 |                               |
 | 18b254a | invidious ports          | 18:25:25/14-09-2025 |                               |
 | 3e8b69d | port 3000                | 19:00:08/09-09-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 2e9552a | searxng                  | 19:14:25/08-09-2025 |                               |
 | 713c696 | podman                   | 18:16:51/08-09-2025 |                               |
 | e9de2f3 | port 8080                | 18:01:39/08-09-2025 |                               |
-| 1ed6eac | podman-compose           | 15:43:02/08-09-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
