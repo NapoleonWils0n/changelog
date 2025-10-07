@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b2951b56 | crawl4ai                | 18:08:44/07-10-2025 | HEAD -> master, github/master, github/HEAD |
-| 8333d1b3 | crawl4ai                | 17:50:07/07-10-2025 |                                            |
-| 1d0821f9 | n8n workflows renamed   | 15:52:21/04-10-2025 |                                            |
-| db372b7a | n8n workflows           | 15:13:47/04-10-2025 |                                            |
-| 43806622 | browser console         | 22:38:21/03-10-2025 |                                            |
-| 5b5ec918 | browser console         | 22:27:45/03-10-2025 |                                            |
-| 0b4e65d8 | google                  | 14:21:43/03-10-2025 |                                            |
-| 3c0fe192 | google search operators | 14:19:12/03-10-2025 |                                            |
-| 5194bfa2 | google search operators | 14:18:31/03-10-2025 |                                            |
-| c1d1c599 | google search           | 14:14:40/03-10-2025 |                                            |
+| 0a7665d5 | crawl4ai python markdown | 21:27:46/07-10-2025 | HEAD -> master, github/master, github/HEAD |
+| b2951b56 | crawl4ai                 | 18:08:44/07-10-2025 |                                            |
+| 8333d1b3 | crawl4ai                 | 17:50:07/07-10-2025 |                                            |
+| 1d0821f9 | n8n workflows renamed    | 15:52:21/04-10-2025 |                                            |
+| db372b7a | n8n workflows            | 15:13:47/04-10-2025 |                                            |
+| 43806622 | browser console          | 22:38:21/03-10-2025 |                                            |
+| 5b5ec918 | browser console          | 22:27:45/03-10-2025 |                                            |
+| 0b4e65d8 | google                   | 14:21:43/03-10-2025 |                                            |
+| 3c0fe192 | google search operators  | 14:19:12/03-10-2025 |                                            |
+| 5194bfa2 | google search operators  | 14:18:31/03-10-2025 |                                            |
 #+end_quote
 
 ** nixos
