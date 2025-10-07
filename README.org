@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 765dc23 | flake updated            | 22:04:00/28-09-2025 | HEAD -> master, github/master, github/HEAD |
+| e62fcf6 | markdown mode            | 20:37:59/07-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 765dc23 | flake updated            | 22:04:00/28-09-2025 |                                            |
 | 676237d | flake updated            | 16:11:59/24-09-2025 |                                            |
 | 05eaf11 | flake update             | 18:58:19/18-09-2025 |                                            |
 | 581ffac | emacs csv-mode           | 13:25:16/13-09-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 356a064 | emacs elfeed prot common | 20:57:38/31-08-2025 |                                            |
 | 5010ff7 | emacs elfeed prot common | 20:52:55/31-08-2025 |                                            |
 | edafd75 | emacs elfeed             | 18:38:16/31-08-2025 |                                            |
-| a6465b7 | flake updated            | 12:25:16/29-08-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
