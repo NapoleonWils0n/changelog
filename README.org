@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 233c089 | markdown mode                | 18:58:51/07-10-2025 | HEAD -> master, github/master |
+| 1ed26a4 | python nix httpx             | 20:44:07/07-10-2025 | HEAD -> master, github/master |
+| 233c089 | markdown mode                | 18:58:51/07-10-2025 |                               |
 | e6dac95 | crawl4ai podman              | 18:40:49/07-10-2025 |                               |
 | d87ae7e | podman                       | 23:26:03/29-09-2025 |                               |
 | b85b0da | n8n podman env               | 13:57:40/29-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | a9316d9 | n8n data                     | 20:37:01/27-09-2025 |                               |
 | ef18f44 | n8n podman                   | 18:57:51/27-09-2025 |                               |
 | 55a7a4a | n8n removed using podman     | 18:03:59/27-09-2025 |                               |
-| f2cd185 | flake updated                | 13:31:18/27-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
@@ -130,7 +130,7 @@ status
 | e9de2f3 | port 8080                | 18:01:39/08-09-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
