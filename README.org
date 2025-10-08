@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 1d819270 | n8n workflows directories | 00:35:14/08-10-2025 | HEAD -> master, github/master, github/HEAD |
+| d8347257 | n8n crawl4ai ollama       | 23:05:11/08-10-2025 | HEAD -> master, github/master, github/HEAD |
+| abe81d86 | n8n crawl4ai              | 22:04:50/08-10-2025 |                                            |
+| a11ef0b4 | n8n craw4ai               | 21:36:27/08-10-2025 |                                            |
+| fa920d82 | n8n crawl4ai              | 20:56:57/08-10-2025 |                                            |
+| 1d819270 | n8n workflows directories | 00:35:14/08-10-2025 |                                            |
 | 0a7665d5 | crawl4ai python markdown  | 21:27:46/07-10-2025 |                                            |
 | b2951b56 | crawl4ai                  | 18:08:44/07-10-2025 |                                            |
 | 8333d1b3 | crawl4ai                  | 17:50:07/07-10-2025 |                                            |
 | 1d0821f9 | n8n workflows renamed     | 15:52:21/04-10-2025 |                                            |
 | db372b7a | n8n workflows             | 15:13:47/04-10-2025 |                                            |
-| 43806622 | browser console           | 22:38:21/03-10-2025 |                                            |
-| 5b5ec918 | browser console           | 22:27:45/03-10-2025 |                                            |
-| 0b4e65d8 | google                    | 14:21:43/03-10-2025 |                                            |
-| 3c0fe192 | google search operators   | 14:19:12/03-10-2025 |                                            |
 #+end_quote
 
 ** nixos
