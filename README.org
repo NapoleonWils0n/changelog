@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b936ef46 | n8n crawl4ai              | 14:35:56/09-10-2025 | HEAD -> master, github/master, github/HEAD |
+| fc71bd11 | n8n crawl4ai              | 17:26:35/09-10-2025 | HEAD -> master, github/master, github/HEAD |
+| b936ef46 | n8n crawl4ai              | 14:35:56/09-10-2025 |                                            |
 | d65d5170 | n8n                       | 13:09:38/09-10-2025 |                                            |
 | d8347257 | n8n crawl4ai ollama       | 23:05:11/08-10-2025 |                                            |
 | abe81d86 | n8n crawl4ai              | 22:04:50/08-10-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 1d819270 | n8n workflows directories | 00:35:14/08-10-2025 |                                            |
 | 0a7665d5 | crawl4ai python markdown  | 21:27:46/07-10-2025 |                                            |
 | b2951b56 | crawl4ai                  | 18:08:44/07-10-2025 |                                            |
-| 8333d1b3 | crawl4ai                  | 17:50:07/07-10-2025 |                                            |
 #+end_quote
 
 ** nixos
