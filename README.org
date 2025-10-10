@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 1ed26a4 | python nix httpx             | 20:44:07/07-10-2025 | HEAD -> master, github/master |
+| 6c1f9e0 | markdown mode                | 13:36:15/10-10-2025 | HEAD -> master, github/master |
+| 1ed26a4 | python nix httpx             | 20:44:07/07-10-2025 |                               |
 | 233c089 | markdown mode                | 18:58:51/07-10-2025 |                               |
 | e6dac95 | crawl4ai podman              | 18:40:49/07-10-2025 |                               |
 | d87ae7e | podman                       | 23:26:03/29-09-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 6111928 | n8n podman data file path    | 21:32:02/27-09-2025 |                               |
 | a9316d9 | n8n data                     | 20:37:01/27-09-2025 |                               |
 | ef18f44 | n8n podman                   | 18:57:51/27-09-2025 |                               |
-| 55a7a4a | n8n removed using podman     | 18:03:59/27-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
