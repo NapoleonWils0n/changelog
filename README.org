@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 3fd7ea4 | python ollama flakes         | 23:01:56/14-10-2025 | HEAD -> master, github/master |
+| 5f9ae0c | whisperx flake updated       | 23:48:38/14-10-2025 | HEAD -> master, github/master |
+| 3fd7ea4 | python ollama flakes         | 23:01:56/14-10-2025 |                               |
 | ccc9872 | flake updated                | 22:27:28/14-10-2025 |                               |
 | 6c1f9e0 | markdown mode                | 13:36:15/10-10-2025 |                               |
 | 1ed26a4 | python nix httpx             | 20:44:07/07-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | d87ae7e | podman                       | 23:26:03/29-09-2025 |                               |
 | b85b0da | n8n podman env               | 13:57:40/29-09-2025 |                               |
 | 8d7cd32 | n8n podmand file permissions | 17:46:21/28-09-2025 |                               |
-| 6111928 | n8n podman data file path    | 21:32:02/27-09-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
