@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 7498809  | n8n chat ollama                 | 15:59:08/13-10-2025 | HEAD -> master, github/master, github/HEAD |
-| adc757cc | n8n                             | 14:53:13/13-10-2025 |                                            |
-| 37b39e2e | n8n workflows                   | 13:34:25/13-10-2025 |                                            |
-| f2d999cc | n8n crawl4ai gemini             | 14:02:36/12-10-2025 |                                            |
-| f6a9347c | n8n searxng crawl4ai combined   | 22:26:47/11-10-2025 |                                            |
-| 4adc76c2 | n8n searxng crawl4ai            | 21:55:54/11-10-2025 |                                            |
-| 2ab083c9 | n8n crawl4ai combined           | 21:05:04/11-10-2025 |                                            |
-| 446c1458 | n8n crawl4ai combined           | 20:55:55/11-10-2025 |                                            |
-| 1.0e+INF | n8n crawl4ai combined           | 20:54:41/11-10-2025 |                                            |
-| 5f119df8 | pandoc demote markdown headings | 01:42:25/11-10-2025 |                                            |
+| 7033e3b4 | crawl4ai                      | 17:52:33/14-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 7498809  | n8n chat ollama               | 15:59:08/13-10-2025 |                                            |
+| adc757cc | n8n                           | 14:53:13/13-10-2025 |                                            |
+| 37b39e2e | n8n workflows                 | 13:34:25/13-10-2025 |                                            |
+| f2d999cc | n8n crawl4ai gemini           | 14:02:36/12-10-2025 |                                            |
+| f6a9347c | n8n searxng crawl4ai combined | 22:26:47/11-10-2025 |                                            |
+| 4adc76c2 | n8n searxng crawl4ai          | 21:55:54/11-10-2025 |                                            |
+| 2ab083c9 | n8n crawl4ai combined         | 21:05:04/11-10-2025 |                                            |
+| 446c1458 | n8n crawl4ai combined         | 20:55:55/11-10-2025 |                                            |
+| 1.0e+INF | n8n crawl4ai combined         | 20:54:41/11-10-2025 |                                            |
 #+end_quote
 
 ** nixos
