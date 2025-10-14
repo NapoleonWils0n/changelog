@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6c1f9e0 | markdown mode                | 13:36:15/10-10-2025 | HEAD -> master, github/master |
+| ccc9872 | flake updated                | 22:27:28/14-10-2025 | HEAD -> master, github/master |
+| 6c1f9e0 | markdown mode                | 13:36:15/10-10-2025 |                               |
 | 1ed26a4 | python nix httpx             | 20:44:07/07-10-2025 |                               |
 | 233c089 | markdown mode                | 18:58:51/07-10-2025 |                               |
 | e6dac95 | crawl4ai podman              | 18:40:49/07-10-2025 |                               |
@@ -93,10 +94,9 @@ status
 | 8d7cd32 | n8n podmand file permissions | 17:46:21/28-09-2025 |                               |
 | 6111928 | n8n podman data file path    | 21:32:02/27-09-2025 |                               |
 | a9316d9 | n8n data                     | 20:37:01/27-09-2025 |                               |
-| ef18f44 | n8n podman                   | 18:57:51/27-09-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 1ba5582 | crawl4ai port            | 16:19:24/07-10-2025 | HEAD -> master, github/master |
+| 2edca24 | flake updated            | 21:18:41/14-10-2025 | HEAD -> master, github/master |
+| 1ba5582 | crawl4ai port            | 16:19:24/07-10-2025 |                               |
 | 86d5b39 | port 5678 n8n            | 17:48:09/27-09-2025 |                               |
 | fa42aa4 | flake updated            | 10:53:36/24-09-2025 |                               |
 | 18b254a | invidious ports          | 18:25:25/14-09-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 | 2e9552a | searxng                  | 19:14:25/08-09-2025 |                               |
 | 713c696 | podman                   | 18:16:51/08-09-2025 |                               |
-| e9de2f3 | port 8080                | 18:01:39/08-09-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook
