@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 8d7cd32 | n8n podmand file permissions | 17:46:21/28-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** AIR nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 713c696 | podman                   | 18:16:51/08-09-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| e62fcf6 | markdown mode            | 20:37:59/07-10-2025 | HEAD -> master, github/master, github/HEAD |
+| bd499ef | flake updated            | 10:35:51/15-10-2025 | HEAD -> master, github/master, github/HEAD |
+| e62fcf6 | markdown mode            | 20:37:59/07-10-2025 |                                            |
 | 765dc23 | flake updated            | 22:04:00/28-09-2025 |                                            |
 | 676237d | flake updated            | 16:11:59/24-09-2025 |                                            |
 | 05eaf11 | flake update             | 18:58:19/18-09-2025 |                                            |
@@ -161,10 +162,9 @@ status
 | 796526d | removed elfeed           | 18:11:07/01-09-2025 |                                            |
 | 356a064 | emacs elfeed prot common | 20:57:38/31-08-2025 |                                            |
 | 5010ff7 | emacs elfeed prot common | 20:52:55/31-08-2025 |                                            |
-| edafd75 | emacs elfeed             | 18:38:16/31-08-2025 |                                            |
 #+end_quote
 
-*** TODO nixos-root-macbook
+*** AIR nixos-root-macbook
 
 github url
 
@@ -186,16 +186,16 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| 141ef1d | flake updated      | 15:37:14/24-09-2025 | HEAD -> master, github/master, github/HEAD |
-| 5600b28 | flake updated      | 09:49:40/08-09-2025 |                                            |
-| c592d64 | flake updated      | 16:43:52/20-08-2025 |                                            |
-| e91e042 | flake updated      | 14:34:46/10-08-2025 |                                            |
-| 6bce3c8 | removed comments   | 13:25:43/29-07-2025 |                                            |
-| 84625b8 | flake updated      | 18:29:42/28-07-2025 |                                            |
-| c63ef3a | flake updated      | 18:13:07/28-07-2025 |                                            |
-| bfb380c | broadcom           | 16:02:38/28-07-2025 |                                            |
-| 14e0f20 | flake updated      | 14:14:58/25-07-2025 |                                            |
-| 4bd780d | permitted insecure | 13:51:46/23-07-2025 |                                            |
+| f5cbb85 | flake updated    | 09:48:03/15-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 141ef1d | flake updated    | 15:37:14/24-09-2025 |                                            |
+| 5600b28 | flake updated    | 09:49:40/08-09-2025 |                                            |
+| c592d64 | flake updated    | 16:43:52/20-08-2025 |                                            |
+| e91e042 | flake updated    | 14:34:46/10-08-2025 |                                            |
+| 6bce3c8 | removed comments | 13:25:43/29-07-2025 |                                            |
+| 84625b8 | flake updated    | 18:29:42/28-07-2025 |                                            |
+| c63ef3a | flake updated    | 18:13:07/28-07-2025 |                                            |
+| bfb380c | broadcom         | 16:02:38/28-07-2025 |                                            |
+| 14e0f20 | flake updated    | 14:14:58/25-07-2025 |                                            |
 #+end_quote
 
 *** nixos-bin
