@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0b8671fc | n8n crawl4ai removed upper charcter limit | 17:56:16/15-10-2025 | HEAD -> master, github/master, github/HEAD |
+| f29ace9e | archivebox                                | 23:52:30/16-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 0b8671fc | n8n crawl4ai removed upper charcter limit | 17:56:16/15-10-2025 |                                            |
 | 778a5bc6 | nixos home manager cache permissions fix  | 22:34:11/14-10-2025 |                                            |
 | 739cadb9 | emacs markdown mode                       | 20:34:10/14-10-2025 |                                            |
 | 7033e3b4 | crawl4ai                                  | 17:52:33/14-10-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 37b39e2e | n8n workflows                             | 13:34:25/13-10-2025 |                                            |
 | f2d999cc | n8n crawl4ai gemini                       | 14:02:36/12-10-2025 |                                            |
 | f6a9347c | n8n searxng crawl4ai combined             | 22:26:47/11-10-2025 |                                            |
-| 4adc76c2 | n8n searxng crawl4ai                      | 21:55:54/11-10-2025 |                                            |
 #+end_quote
 
 ** nixos
