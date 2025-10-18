@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 87da8637 | archivebox notes                          | 13:56:46/17-10-2025 | HEAD -> master, github/master, github/HEAD |
+| ead8a060 | crawl4ai screenshot.py                    | 23:38:28/18-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 87da8637 | archivebox notes                          | 13:56:46/17-10-2025 |                                            |
 | d49564f6 | archivebox                                | 13:33:49/17-10-2025 |                                            |
 | f29ace9e | archivebox                                | 23:52:30/16-10-2025 |                                            |
 | 0b8671fc | n8n crawl4ai removed upper charcter limit | 17:56:16/15-10-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | 7033e3b4 | crawl4ai                                  | 17:52:33/14-10-2025 |                                            |
 | 7498809  | n8n chat ollama                           | 15:59:08/13-10-2025 |                                            |
 | adc757cc | n8n                                       | 14:53:13/13-10-2025 |                                            |
-| 37b39e2e | n8n workflows                             | 13:34:25/13-10-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 196764f | flake updated          | 13:26:15/16-10-2025 | HEAD -> master, github/master |
+| 398b9eb | crawl4ai screenshot.py | 23:06:07/18-10-2025 | HEAD -> master, github/master |
+| abc8e3d | crawl4ai screenshot.py | 22:59:18/18-10-2025 |                               |
+| 196764f | flake updated          | 13:26:15/16-10-2025 |                               |
 | 39bddd4 | flake updated          | 18:29:52/15-10-2025 |                               |
 | 5f9ae0c | whisperx flake updated | 23:48:38/14-10-2025 |                               |
 | 3fd7ea4 | python ollama flakes   | 23:01:56/14-10-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 6c1f9e0 | markdown mode          | 13:36:15/10-10-2025 |                               |
 | 1ed26a4 | python nix httpx       | 20:44:07/07-10-2025 |                               |
 | 233c089 | markdown mode          | 18:58:51/07-10-2025 |                               |
-| e6dac95 | crawl4ai podman        | 18:40:49/07-10-2025 |                               |
-| d87ae7e | podman                 | 23:26:03/29-09-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,9 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 8c4a9da | markdown mode               | 18:59:50/07-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 6e89d18 | crawl4ai screenshot.py      | 23:07:19/18-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 5476d13 | crawl4ai screenshot.py      | 23:01:47/18-10-2025 |                                            |
+| 8c4a9da | markdown mode               | 18:59:50/07-10-2025 |                                            |
 | 7cd58c1 | crawl4ai podman             | 18:42:55/07-10-2025 |                                            |
 | 68b3153 | podman invidious            | 00:34:00/30-09-2025 |                                            |
 | 1d62edc | podman                      | 23:28:56/29-09-2025 |                                            |
@@ -263,8 +265,6 @@ status
 | 20634ec | podman registeries          | 22:48:28/28-09-2025 |                                            |
 | 2953f40 | n8n podman file permissions | 17:45:52/28-09-2025 |                                            |
 | 29e72fc | n8n data file path          | 21:32:55/27-09-2025 |                                            |
-| 1177faa | n8n data                    | 20:38:03/27-09-2025 |                                            |
-| 4e048f5 | n8n podman                  | 19:02:40/27-09-2025 |                                            |
 #+end_quote
 
 *** debian-root
