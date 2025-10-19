@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ead8a060 | crawl4ai screenshot.py                    | 23:38:28/18-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 2ffbc393 | emacs lsp server                          | 19:27:02/19-10-2025 | HEAD -> master, github/master, github/HEAD |
+| ead8a060 | crawl4ai screenshot.py                    | 23:38:28/18-10-2025 |                                            |
 | 87da8637 | archivebox notes                          | 13:56:46/17-10-2025 |                                            |
 | d49564f6 | archivebox                                | 13:33:49/17-10-2025 |                                            |
 | f29ace9e | archivebox                                | 23:52:30/16-10-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | 739cadb9 | emacs markdown mode                       | 20:34:10/14-10-2025 |                                            |
 | 7033e3b4 | crawl4ai                                  | 17:52:33/14-10-2025 |                                            |
 | 7498809  | n8n chat ollama                           | 15:59:08/13-10-2025 |                                            |
-| adc757cc | n8n                                       | 14:53:13/13-10-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 398b9eb | crawl4ai screenshot.py | 23:06:07/18-10-2025 | HEAD -> master, github/master |
+| fc9244a | lsp sever              | 19:10:32/19-10-2025 | HEAD -> master, github/master |
+| 398b9eb | crawl4ai screenshot.py | 23:06:07/18-10-2025 |                               |
 | abc8e3d | crawl4ai screenshot.py | 22:59:18/18-10-2025 |                               |
 | 196764f | flake updated          | 13:26:15/16-10-2025 |                               |
 | 39bddd4 | flake updated          | 18:29:52/15-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | ccc9872 | flake updated          | 22:27:28/14-10-2025 |                               |
 | 6c1f9e0 | markdown mode          | 13:36:15/10-10-2025 |                               |
 | 1ed26a4 | python nix httpx       | 20:44:07/07-10-2025 |                               |
-| 233c089 | markdown mode          | 18:58:51/07-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
