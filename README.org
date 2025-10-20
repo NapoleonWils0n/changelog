@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| dfec4f5 | emacs corfu            | 21:12:19/20-10-2025 | HEAD -> master, github/master |
+| 9486d59 | emacs yas snippets     | 22:02:56/20-10-2025 | HEAD -> master, github/master |
+| dfec4f5 | emacs corfu            | 21:12:19/20-10-2025 |                               |
 | a157acf | eglot                  | 20:41:59/20-10-2025 |                               |
 | 7f92517 | flake updated          | 19:40:42/20-10-2025 |                               |
 | d97f006 | lsp servers            | 19:36:36/20-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 398b9eb | crawl4ai screenshot.py | 23:06:07/18-10-2025 |                               |
 | abc8e3d | crawl4ai screenshot.py | 22:59:18/18-10-2025 |                               |
 | 196764f | flake updated          | 13:26:15/16-10-2025 |                               |
-| 39bddd4 | flake updated          | 18:29:52/15-10-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
