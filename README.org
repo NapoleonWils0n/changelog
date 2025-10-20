@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7f92517 | flake updated          | 19:40:42/20-10-2025 | HEAD -> master, github/master |
+| a157acf | eglot                  | 20:41:59/20-10-2025 | HEAD -> master, github/master |
+| 7f92517 | flake updated          | 19:40:42/20-10-2025 |                               |
 | d97f006 | lsp servers            | 19:36:36/20-10-2025 |                               |
 | 8cbe619 | removed lsp            | 21:59:29/19-10-2025 |                               |
 | fc9244a | lsp sever              | 19:10:32/19-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 196764f | flake updated          | 13:26:15/16-10-2025 |                               |
 | 39bddd4 | flake updated          | 18:29:52/15-10-2025 |                               |
 | 5f9ae0c | whisperx flake updated | 23:48:38/14-10-2025 |                               |
-| 3fd7ea4 | python ollama flakes   | 23:01:56/14-10-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
