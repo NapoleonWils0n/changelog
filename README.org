@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-|          fd09ca8 | corfu                   | 22:54:48/20-10-2025 | HEAD -> master, github/master |
+|          5fbdea2 | zshrc prompt            | 17:33:00/21-10-2025 | HEAD -> master, github/master |
+|          fd09ca8 | corfu                   | 22:54:48/20-10-2025 |                               |
 | 77632000000000.0 | emacs corfu complete    | 22:50:43/20-10-2025 |                               |
 |          88f46b9 | cape demand t           | 22:30:36/20-10-2025 |                               |
 |          7d6ed94 | emacs cape fix          | 22:29:07/20-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 |          23708d1 | cape yas snippets       | 22:12:06/20-10-2025 |                               |
 |          3449545 | emacs cape yas snippets | 22:08:29/20-10-2025 |                               |
 |          9486d59 | emacs yas snippets      | 22:02:56/20-10-2025 |                               |
-|          dfec4f5 | emacs corfu             | 21:12:19/20-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 01d813c | flake updated  | 14:05:05/17-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 8683394 | zshrc prompt   | 17:36:15/21-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 01d813c | flake updated  | 14:05:05/17-10-2025 |                                            |
 | 977b5a7 | flake updated  | 18:25:25/15-10-2025 |                                            |
 | bd499ef | flake updated  | 10:35:51/15-10-2025 |                                            |
 | e62fcf6 | markdown mode  | 20:37:59/07-10-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 05eaf11 | flake update   | 18:58:19/18-09-2025 |                                            |
 | 581ffac | emacs csv-mode | 13:25:16/13-09-2025 |                                            |
 | db3ef3e | flake updated  | 11:01:45/08-09-2025 |                                            |
-| 796526d | removed elfeed | 18:11:07/01-09-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 6e89d18 | crawl4ai screenshot.py      | 23:07:19/18-10-2025 | HEAD -> master, github/master, github/HEAD |
+| ee728ba | zshrc prompt                | 17:37:41/21-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 6e89d18 | crawl4ai screenshot.py      | 23:07:19/18-10-2025 |                                            |
 | 5476d13 | crawl4ai screenshot.py      | 23:01:47/18-10-2025 |                                            |
 | 8c4a9da | markdown mode               | 18:59:50/07-10-2025 |                                            |
 | 7cd58c1 | crawl4ai podman             | 18:42:55/07-10-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | c711a2b | podman n8n                  | 13:58:21/29-09-2025 |                                            |
 | 20634ec | podman registeries          | 22:48:28/28-09-2025 |                                            |
 | 2953f40 | n8n podman file permissions | 17:45:52/28-09-2025 |                                            |
-| 29e72fc | n8n data file path          | 21:32:55/27-09-2025 |                                            |
 #+end_quote
 
 *** debian-root
