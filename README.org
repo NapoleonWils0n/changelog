@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 7ea9d77 | emacs lsp      | 17:56:54/21-10-2025 | HEAD -> master, github/master, github/HEAD |
-| 8683394 | zshrc prompt   | 17:36:15/21-10-2025 |                                            |
-| 01d813c | flake updated  | 14:05:05/17-10-2025 |                                            |
-| 977b5a7 | flake updated  | 18:25:25/15-10-2025 |                                            |
-| bd499ef | flake updated  | 10:35:51/15-10-2025 |                                            |
-| e62fcf6 | markdown mode  | 20:37:59/07-10-2025 |                                            |
-| 765dc23 | flake updated  | 22:04:00/28-09-2025 |                                            |
-| 676237d | flake updated  | 16:11:59/24-09-2025 |                                            |
-| 05eaf11 | flake update   | 18:58:19/18-09-2025 |                                            |
-| 581ffac | emacs csv-mode | 13:25:16/13-09-2025 |                                            |
+| a9e8a26 | flake updated | 18:09:41/21-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 7ea9d77 | emacs lsp     | 17:56:54/21-10-2025 |                                            |
+| 8683394 | zshrc prompt  | 17:36:15/21-10-2025 |                                            |
+| 01d813c | flake updated | 14:05:05/17-10-2025 |                                            |
+| 977b5a7 | flake updated | 18:25:25/15-10-2025 |                                            |
+| bd499ef | flake updated | 10:35:51/15-10-2025 |                                            |
+| e62fcf6 | markdown mode | 20:37:59/07-10-2025 |                                            |
+| 765dc23 | flake updated | 22:04:00/28-09-2025 |                                            |
+| 676237d | flake updated | 16:11:59/24-09-2025 |                                            |
+| 05eaf11 | flake update  | 18:58:19/18-09-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
