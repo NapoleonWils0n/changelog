@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 9c842d4          | emacs gptel mcp         | 23:04:51/22-10-2025 | HEAD -> master, github/master |
+| 16e143e          | emacs gptel mcp         | 23:39:13/22-10-2025 | HEAD -> master, github/master |
+| 9c842d4          | emacs gptel mcp         | 23:04:51/22-10-2025 |                               |
 | 01dd4de          | emacs gptel mcp working | 22:10:14/22-10-2025 |                               |
 | 9b1f8e3          | flake updated           | 14:03:49/22-10-2025 |                               |
 | 63cc2a9          | shellcheck minimal      | 14:02:24/22-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 77632000000000.0 | emacs corfu complete    | 22:50:43/20-10-2025 |                               |
 | 88f46b9          | cape demand t           | 22:30:36/20-10-2025 |                               |
 | 7d6ed94          | emacs cape fix          | 22:29:07/20-10-2025 |                               |
-| e98995b          | corfu fix               | 22:26:00/20-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 3470e7b | emacs gptel removed tools | 23:30:53/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| c1996a6 | emacs gptel               | 23:40:08/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 3470e7b | emacs gptel removed tools | 23:30:53/22-10-2025 |                                            |
 | c93721d | flake updated             | 14:39:26/22-10-2025 |                                            |
 | bd22aef | shellcheck minimal        | 14:05:02/22-10-2025 |                                            |
 | a9e8a26 | flake updated             | 18:09:41/21-10-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 01d813c | flake updated             | 14:05:05/17-10-2025 |                                            |
 | 977b5a7 | flake updated             | 18:25:25/15-10-2025 |                                            |
 | bd499ef | flake updated             | 10:35:51/15-10-2025 |                                            |
-| e62fcf6 | markdown mode             | 20:37:59/07-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 36ec4f7 | emacs gptel removed tools | 23:32:09/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| b210d2d | emacs gptel               | 23:41:31/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 36ec4f7 | emacs gptel removed tools | 23:32:09/22-10-2025 |                                            |
 | 959bcd8 | emacs lsp servers         | 14:28:12/22-10-2025 |                                            |
 | ee728ba | zshrc prompt              | 17:37:41/21-10-2025 |                                            |
 | 6e89d18 | crawl4ai screenshot.py    | 23:07:19/18-10-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 7cd58c1 | crawl4ai podman           | 18:42:55/07-10-2025 |                                            |
 | 68b3153 | podman invidious          | 00:34:00/30-09-2025 |                                            |
 | 1d62edc | podman                    | 23:28:56/29-09-2025 |                                            |
-| c711a2b | podman n8n                | 13:58:21/29-09-2025 |                                            |
 #+end_quote
 
 *** debian-root
