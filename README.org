@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 6a4ed761 | emacs gptel mcp servers | 23:29:23/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 405fe6c8 | emacs mcp severs        | 23:48:53/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 6a4ed761 | emacs gptel mcp servers | 23:29:23/22-10-2025 |                                            |
 | 5fede8e5 | emacs mcp servers       | 23:27:31/22-10-2025 |                                            |
 | 5f640b1b | lsp servers             | 14:25:16/22-10-2025 |                                            |
 | fd3e89a4 | emacs lsp servers       | 23:50:54/20-10-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | ead8a060 | crawl4ai screenshot.py  | 23:38:28/18-10-2025 |                                            |
 | 87da8637 | archivebox notes        | 13:56:46/17-10-2025 |                                            |
 | d49564f6 | archivebox              | 13:33:49/17-10-2025 |                                            |
-| f29ace9e | archivebox              | 23:52:30/16-10-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 16e143e          | emacs gptel mcp         | 23:39:13/22-10-2025 | HEAD -> master, github/master |
-| 9c842d4          | emacs gptel mcp         | 23:04:51/22-10-2025 |                               |
-| 01dd4de          | emacs gptel mcp working | 22:10:14/22-10-2025 |                               |
-| 9b1f8e3          | flake updated           | 14:03:49/22-10-2025 |                               |
-| 63cc2a9          | shellcheck minimal      | 14:02:24/22-10-2025 |                               |
-| 5fbdea2          | zshrc prompt            | 17:33:00/21-10-2025 |                               |
-| fd09ca8          | corfu                   | 22:54:48/20-10-2025 |                               |
-| 77632000000000.0 | emacs corfu complete    | 22:50:43/20-10-2025 |                               |
-| 88f46b9          | cape demand t           | 22:30:36/20-10-2025 |                               |
-| 7d6ed94          | emacs cape fix          | 22:29:07/20-10-2025 |                               |
+| a29fe36          | emacs dont start mcp servers automatically | 23:49:11/22-10-2025 | HEAD -> master, github/master |
+| 16e143e          | emacs gptel mcp                            | 23:39:13/22-10-2025 |                               |
+| 9c842d4          | emacs gptel mcp                            | 23:04:51/22-10-2025 |                               |
+| 01dd4de          | emacs gptel mcp working                    | 22:10:14/22-10-2025 |                               |
+| 9b1f8e3          | flake updated                              | 14:03:49/22-10-2025 |                               |
+| 63cc2a9          | shellcheck minimal                         | 14:02:24/22-10-2025 |                               |
+| 5fbdea2          | zshrc prompt                               | 17:33:00/21-10-2025 |                               |
+| fd09ca8          | corfu                                      | 22:54:48/20-10-2025 |                               |
+| 77632000000000.0 | emacs corfu complete                       | 22:50:43/20-10-2025 |                               |
+| 88f46b9          | cape demand t                              | 22:30:36/20-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
