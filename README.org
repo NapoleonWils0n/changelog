@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 01dd4de          | emacs gptel mcp working | 22:10:14/22-10-2025 | HEAD -> master, github/master |
+| 9c842d4          | emacs gptel mcp         | 23:04:51/22-10-2025 | HEAD -> master, github/master |
+| 01dd4de          | emacs gptel mcp working | 22:10:14/22-10-2025 |                               |
 | 9b1f8e3          | flake updated           | 14:03:49/22-10-2025 |                               |
 | 63cc2a9          | shellcheck minimal      | 14:02:24/22-10-2025 |                               |
 | 5fbdea2          | zshrc prompt            | 17:33:00/21-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 88f46b9          | cape demand t           | 22:30:36/20-10-2025 |                               |
 | 7d6ed94          | emacs cape fix          | 22:29:07/20-10-2025 |                               |
 | e98995b          | corfu fix               | 22:26:00/20-10-2025 |                               |
-| 000ab43          | yasnippet-capf          | 22:22:14/20-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
