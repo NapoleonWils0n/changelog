@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 9b1f8e3          | flake updated        | 14:03:49/22-10-2025 | HEAD -> master, github/master |
-| 63cc2a9          | shellcheck minimal   | 14:02:24/22-10-2025 |                               |
-| 5fbdea2          | zshrc prompt         | 17:33:00/21-10-2025 |                               |
-| fd09ca8          | corfu                | 22:54:48/20-10-2025 |                               |
-| 77632000000000.0 | emacs corfu complete | 22:50:43/20-10-2025 |                               |
-| 88f46b9          | cape demand t        | 22:30:36/20-10-2025 |                               |
-| 7d6ed94          | emacs cape fix       | 22:29:07/20-10-2025 |                               |
-| e98995b          | corfu fix            | 22:26:00/20-10-2025 |                               |
-| 000ab43          | yasnippet-capf       | 22:22:14/20-10-2025 |                               |
-| 23708d1          | cape yas snippets    | 22:12:06/20-10-2025 |                               |
+| 01dd4de          | emacs gptel mcp working | 22:10:14/22-10-2025 | HEAD -> master, github/master |
+| 9b1f8e3          | flake updated           | 14:03:49/22-10-2025 |                               |
+| 63cc2a9          | shellcheck minimal      | 14:02:24/22-10-2025 |                               |
+| 5fbdea2          | zshrc prompt            | 17:33:00/21-10-2025 |                               |
+| fd09ca8          | corfu                   | 22:54:48/20-10-2025 |                               |
+| 77632000000000.0 | emacs corfu complete    | 22:50:43/20-10-2025 |                               |
+| 88f46b9          | cape demand t           | 22:30:36/20-10-2025 |                               |
+| 7d6ed94          | emacs cape fix          | 22:29:07/20-10-2025 |                               |
+| e98995b          | corfu fix               | 22:26:00/20-10-2025 |                               |
+| 000ab43          | yasnippet-capf          | 22:22:14/20-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
