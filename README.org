@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5fede8e5 | emacs mcp servers                         | 23:27:31/22-10-2025 | HEAD -> master, github/master, github/HEAD |
-| 5f640b1b | lsp servers                               | 14:25:16/22-10-2025 |                                            |
-| fd3e89a4 | emacs lsp servers                         | 23:50:54/20-10-2025 |                                            |
-| 51b19ffb | removed                                   | 21:58:42/19-10-2025 |                                            |
-| 2ffbc393 | emacs lsp server                          | 19:27:02/19-10-2025 |                                            |
-| ead8a060 | crawl4ai screenshot.py                    | 23:38:28/18-10-2025 |                                            |
-| 87da8637 | archivebox notes                          | 13:56:46/17-10-2025 |                                            |
-| d49564f6 | archivebox                                | 13:33:49/17-10-2025 |                                            |
-| f29ace9e | archivebox                                | 23:52:30/16-10-2025 |                                            |
-| 0b8671fc | n8n crawl4ai removed upper charcter limit | 17:56:16/15-10-2025 |                                            |
+| 6a4ed761 | emacs gptel mcp servers | 23:29:23/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 5fede8e5 | emacs mcp servers       | 23:27:31/22-10-2025 |                                            |
+| 5f640b1b | lsp servers             | 14:25:16/22-10-2025 |                                            |
+| fd3e89a4 | emacs lsp servers       | 23:50:54/20-10-2025 |                                            |
+| 51b19ffb | removed                 | 21:58:42/19-10-2025 |                                            |
+| 2ffbc393 | emacs lsp server        | 19:27:02/19-10-2025 |                                            |
+| ead8a060 | crawl4ai screenshot.py  | 23:38:28/18-10-2025 |                                            |
+| 87da8637 | archivebox notes        | 13:56:46/17-10-2025 |                                            |
+| d49564f6 | archivebox              | 13:33:49/17-10-2025 |                                            |
+| f29ace9e | archivebox              | 23:52:30/16-10-2025 |                                            |
 #+end_quote
 
 ** nixos
