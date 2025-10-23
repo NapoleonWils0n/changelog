@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| c1996a6 | emacs gptel               | 23:40:08/22-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 544a824 | csvkit                    | 15:01:38/23-10-2025 | HEAD -> master, github/master, github/HEAD |
+| c1996a6 | emacs gptel               | 23:40:08/22-10-2025 |                                            |
 | 3470e7b | emacs gptel removed tools | 23:30:53/22-10-2025 |                                            |
 | c93721d | flake updated             | 14:39:26/22-10-2025 |                                            |
 | bd22aef | shellcheck minimal        | 14:05:02/22-10-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 8683394 | zshrc prompt              | 17:36:15/21-10-2025 |                                            |
 | 01d813c | flake updated             | 14:05:05/17-10-2025 |                                            |
 | 977b5a7 | flake updated             | 18:25:25/15-10-2025 |                                            |
-| bd499ef | flake updated             | 10:35:51/15-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
