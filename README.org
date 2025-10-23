@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e5a331f | flake updated                              | 13:00:49/23-10-2025 | HEAD -> master, github/master |
+| 7e1bba9 | emacs docker dockerfile-mode               | 14:57:04/23-10-2025 | HEAD -> master, github/master |
+| e5a331f | flake updated                              | 13:00:49/23-10-2025 |                               |
 | 059a8fb | podman desktop removed                     | 12:59:24/23-10-2025 |                               |
 | 4b27e66 | flake updated                              | 09:50:11/23-10-2025 |                               |
 | abe2598 | podman desktop                             | 09:47:01/23-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 9c842d4 | emacs gptel mcp                            | 23:04:51/22-10-2025 |                               |
 | 01dd4de | emacs gptel mcp working                    | 22:10:14/22-10-2025 |                               |
 | 9b1f8e3 | flake updated                              | 14:03:49/22-10-2025 |                               |
-| 63cc2a9 | shellcheck minimal                         | 14:02:24/22-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
