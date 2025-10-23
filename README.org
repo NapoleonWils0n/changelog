@@ -255,16 +255,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| b210d2d | emacs gptel               | 23:41:31/22-10-2025 | HEAD -> master, github/master, github/HEAD |
-| 36ec4f7 | emacs gptel removed tools | 23:32:09/22-10-2025 |                                            |
-| 959bcd8 | emacs lsp servers         | 14:28:12/22-10-2025 |                                            |
-| ee728ba | zshrc prompt              | 17:37:41/21-10-2025 |                                            |
-| 6e89d18 | crawl4ai screenshot.py    | 23:07:19/18-10-2025 |                                            |
-| 5476d13 | crawl4ai screenshot.py    | 23:01:47/18-10-2025 |                                            |
-| 8c4a9da | markdown mode             | 18:59:50/07-10-2025 |                                            |
-| 7cd58c1 | crawl4ai podman           | 18:42:55/07-10-2025 |                                            |
-| 68b3153 | podman invidious          | 00:34:00/30-09-2025 |                                            |
-| 1d62edc | podman                    | 23:28:56/29-09-2025 |                                            |
+| 8.329e+30 | emacs mcp docker          | 15:06:32/23-10-2025 | HEAD -> master, github/master, github/HEAD |
+| b210d2d   | emacs gptel               | 23:41:31/22-10-2025 |                                            |
+| 36ec4f7   | emacs gptel removed tools | 23:32:09/22-10-2025 |                                            |
+| 959bcd8   | emacs lsp servers         | 14:28:12/22-10-2025 |                                            |
+| ee728ba   | zshrc prompt              | 17:37:41/21-10-2025 |                                            |
+| 6e89d18   | crawl4ai screenshot.py    | 23:07:19/18-10-2025 |                                            |
+| 5476d13   | crawl4ai screenshot.py    | 23:01:47/18-10-2025 |                                            |
+| 8c4a9da   | markdown mode             | 18:59:50/07-10-2025 |                                            |
+| 7cd58c1   | crawl4ai podman           | 18:42:55/07-10-2025 |                                            |
+| 68b3153   | podman invidious          | 00:34:00/30-09-2025 |                                            |
 #+end_quote
 
 *** debian-root
