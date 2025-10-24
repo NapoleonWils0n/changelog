@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 544a824 | csvkit                    | 15:01:38/23-10-2025 | HEAD -> master, github/master, github/HEAD |
+| cfd071b | flake updated             | 14:49:38/24-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 544a824 | csvkit                    | 15:01:38/23-10-2025 |                                            |
 | c1996a6 | emacs gptel               | 23:40:08/22-10-2025 |                                            |
 | 3470e7b | emacs gptel removed tools | 23:30:53/22-10-2025 |                                            |
 | c93721d | flake updated             | 14:39:26/22-10-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 7ea9d77 | emacs lsp                 | 17:56:54/21-10-2025 |                                            |
 | 8683394 | zshrc prompt              | 17:36:15/21-10-2025 |                                            |
 | 01d813c | flake updated             | 14:05:05/17-10-2025 |                                            |
-| 977b5a7 | flake updated             | 18:25:25/15-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** AIR debian-dotfiles
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** AIR debian-bin
 
 github url
 
@@ -322,14 +322,14 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 987d52e | yt-dlp                   | 18:15:00/15-10-2025 | HEAD -> master, github/master, github/HEAD |
-| 8cdd539 | yt-dlp                   | 22:28:03/28-09-2025 |                                            |
-| e601fbc | yt-dlp                   | 16:40:19/24-09-2025 |                                            |
-| c6d3eb5 | yt-dlp                   | 12:57:11/08-09-2025 |                                            |
-| 6fa2584 | yt-dlp                   | 20:47:28/28-08-2025 |                                            |
-| 51a8b53 | ytdlp-mpv                | 13:14:49/26-08-2025 |                                            |
-| e4940d6 | ytdlp-mpv exits properly | 23:53:51/25-08-2025 |                                            |
-| d54f894 | ytdlp-mpv working        | 23:40:39/25-08-2025 |                                            |
-| be09d6e | ytdlp-mpv                | 20:55:59/25-08-2025 |                                            |
-| a3ad41f | ytdlp-mpv                | 19:50:35/25-08-2025 |                                            |
+| 077e0b5 | yt-dlp                   | 14:50:47/24-10-2025 | HEAD -> master             |
+| fe4fff4 | updating yt-dlp          | 14:50:31/24-10-2025 |                            |
+| 987d52e | yt-dlp                   | 18:15:00/15-10-2025 | github/master, github/HEAD |
+| 8cdd539 | yt-dlp                   | 22:28:03/28-09-2025 |                            |
+| e601fbc | yt-dlp                   | 16:40:19/24-09-2025 |                            |
+| c6d3eb5 | yt-dlp                   | 12:57:11/08-09-2025 |                            |
+| 6fa2584 | yt-dlp                   | 20:47:28/28-08-2025 |                            |
+| 51a8b53 | ytdlp-mpv                | 13:14:49/26-08-2025 |                            |
+| e4940d6 | ytdlp-mpv exits properly | 23:53:51/25-08-2025 |                            |
+| d54f894 | ytdlp-mpv working        | 23:40:39/25-08-2025 |                            |
 #+end_quote
