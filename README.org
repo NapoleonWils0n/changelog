@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** PRO cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** PRO nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** PRO nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** PRO debian-dotfiles
+*** debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 68fe0ed   | emacs systemd package     | 15:16:25/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 2c71253   | emacs dict                | 19:36:46/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 68fe0ed   | emacs systemd package     | 15:16:25/26-10-2025 |                                            |
 | 805312d   | emacs man current buffer  | 14:21:58/25-10-2025 |                                            |
 | 2c5e5ca   | emacs mcp-searxng working | 20:13:27/23-10-2025 |                                            |
 | 8.329e+30 | emacs mcp docker          | 15:06:32/23-10-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 959bcd8   | emacs lsp servers         | 14:28:12/22-10-2025 |                                            |
 | ee728ba   | zshrc prompt              | 17:37:41/21-10-2025 |                                            |
 | 6e89d18   | crawl4ai screenshot.py    | 23:07:19/18-10-2025 |                                            |
-| 5476d13   | crawl4ai screenshot.py    | 23:01:47/18-10-2025 |                                            |
 #+end_quote
 
 *** debian-root
