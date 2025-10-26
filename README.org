@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 30c88a1 | dict                           | 14:02:15/26-10-2025 | HEAD -> master, github/master |
+| cd078f5 | emacs systemd package          | 15:14:09/26-10-2025 | HEAD -> master, github/master |
+| 30c88a1 | dict                           | 14:02:15/26-10-2025 |                               |
 | 4f6d265 | emacs dict                     | 16:58:19/25-10-2025 |                               |
 | d35000d | removed dictd server           | 16:52:47/25-10-2025 |                               |
 | 346b862 | dictd                          | 16:45:30/25-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 80c8161 | emacs gptel granite4:tiny-h    | 23:33:19/23-10-2025 |                               |
 | 4d662f3 | emacs mcp-searxng working      | 20:12:33/23-10-2025 |                               |
 | e38aa41 | emac mcp                       | 18:53:54/23-10-2025 |                               |
-| 50c0dcf | emac mcp                       | 18:51:37/23-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 474d169 | emacs man current buffer  | 14:20:34/25-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 5ffcc1e | emacs systemd package     | 15:15:15/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 474d169 | emacs man current buffer  | 14:20:34/25-10-2025 |                                            |
 | cfd071b | flake updated             | 14:49:38/24-10-2025 |                                            |
 | 544a824 | csvkit                    | 15:01:38/23-10-2025 |                                            |
 | c1996a6 | emacs gptel               | 23:40:08/22-10-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | bd22aef | shellcheck minimal        | 14:05:02/22-10-2025 |                                            |
 | a9e8a26 | flake updated             | 18:09:41/21-10-2025 |                                            |
 | 7ea9d77 | emacs lsp                 | 17:56:54/21-10-2025 |                                            |
-| 8683394 | zshrc prompt              | 17:36:15/21-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 805312d   | emacs man current buffer  | 14:21:58/25-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 68fe0ed   | emacs systemd package     | 15:16:25/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 805312d   | emacs man current buffer  | 14:21:58/25-10-2025 |                                            |
 | 2c5e5ca   | emacs mcp-searxng working | 20:13:27/23-10-2025 |                                            |
 | 8.329e+30 | emacs mcp docker          | 15:06:32/23-10-2025 |                                            |
 | b210d2d   | emacs gptel               | 23:41:31/22-10-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | ee728ba   | zshrc prompt              | 17:37:41/21-10-2025 |                                            |
 | 6e89d18   | crawl4ai screenshot.py    | 23:07:19/18-10-2025 |                                            |
 | 5476d13   | crawl4ai screenshot.py    | 23:01:47/18-10-2025 |                                            |
-| 8c4a9da   | markdown mode             | 18:59:50/07-10-2025 |                                            |
 #+end_quote
 
 *** debian-root
