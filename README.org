@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fc1ed97c | emacs gptel             | 01:25:11/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 6aab8cc0 | dict                    | 17:52:08/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| fc1ed97c | emacs gptel             | 01:25:11/26-10-2025 |                                            |
 | 0c1c18fc | emacs gptel mcp         | 23:00:05/23-10-2025 |                                            |
 | 03a4bed9 | emacs mcp servers       | 22:57:32/23-10-2025 |                                            |
 | 1.0e+INF | emacs mcp searxng       | 20:10:55/23-10-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 79da4b79 | emacs mcp               | 15:28:34/23-10-2025 |                                            |
 | 19df787f | mcp-searxng             | 15:24:55/23-10-2025 |                                            |
 | beb8de3d | emacs gptel mcp servers | 00:00:19/23-10-2025 |                                            |
-| c1e9ffc9 | emacs gptel mcp servers | 23:59:19/22-10-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| cd078f5 | emacs systemd package          | 15:14:09/26-10-2025 | HEAD -> master, github/master |
+| 96c9c6a | emacs dict server              | 17:51:09/26-10-2025 | HEAD -> master, github/master |
+| cd078f5 | emacs systemd package          | 15:14:09/26-10-2025 |                               |
 | 30c88a1 | dict                           | 14:02:15/26-10-2025 |                               |
 | 4f6d265 | emacs dict                     | 16:58:19/25-10-2025 |                               |
 | d35000d | removed dictd server           | 16:52:47/25-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | a1e9f6c | emacs man pages current buffer | 14:19:23/25-10-2025 |                               |
 | 80c8161 | emacs gptel granite4:tiny-h    | 23:33:19/23-10-2025 |                               |
 | 4d662f3 | emacs mcp-searxng working      | 20:12:33/23-10-2025 |                               |
-| e38aa41 | emac mcp                       | 18:53:54/23-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
