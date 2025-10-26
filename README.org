@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 5ffcc1e | emacs systemd package     | 15:15:15/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 8321899 | emacs dict                | 17:57:18/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 5ffcc1e | emacs systemd package     | 15:15:15/26-10-2025 |                                            |
 | 474d169 | emacs man current buffer  | 14:20:34/25-10-2025 |                                            |
 | cfd071b | flake updated             | 14:49:38/24-10-2025 |                                            |
 | 544a824 | csvkit                    | 15:01:38/23-10-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | c93721d | flake updated             | 14:39:26/22-10-2025 |                                            |
 | bd22aef | shellcheck minimal        | 14:05:02/22-10-2025 |                                            |
 | a9e8a26 | flake updated             | 18:09:41/21-10-2025 |                                            |
-| 7ea9d77 | emacs lsp                 | 17:56:54/21-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
