@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 4f6d265 | emacs dict                     | 16:58:19/25-10-2025 | HEAD -> master, github/master |
+| 30c88a1 | dict                           | 14:02:15/26-10-2025 | HEAD -> master, github/master |
+| 4f6d265 | emacs dict                     | 16:58:19/25-10-2025 |                               |
 | d35000d | removed dictd server           | 16:52:47/25-10-2025 |                               |
 | 346b862 | dictd                          | 16:45:30/25-10-2025 |                               |
 | 876c7e6 | dict server                    | 16:44:05/25-10-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 4d662f3 | emacs mcp-searxng working      | 20:12:33/23-10-2025 |                               |
 | e38aa41 | emac mcp                       | 18:53:54/23-10-2025 |                               |
 | 50c0dcf | emac mcp                       | 18:51:37/23-10-2025 |                               |
-| e570c60 | emacs mcp-searxng              | 15:41:12/23-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
