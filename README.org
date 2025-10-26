@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 96c9c6a | emacs dict server              | 17:51:09/26-10-2025 | HEAD -> master, github/master |
+| 9db7d88 | emacs                          | 19:20:52/26-10-2025 | HEAD -> master, github/master |
+| 0674ea9 | emacs dict                     | 19:20:31/26-10-2025 |                               |
+| 96c9c6a | emacs dict server              | 17:51:09/26-10-2025 |                               |
 | cd078f5 | emacs systemd package          | 15:14:09/26-10-2025 |                               |
 | 30c88a1 | dict                           | 14:02:15/26-10-2025 |                               |
 | 4f6d265 | emacs dict                     | 16:58:19/25-10-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 346b862 | dictd                          | 16:45:30/25-10-2025 |                               |
 | 876c7e6 | dict server                    | 16:44:05/25-10-2025 |                               |
 | a1e9f6c | emacs man pages current buffer | 14:19:23/25-10-2025 |                               |
-| 80c8161 | emacs gptel granite4:tiny-h    | 23:33:19/23-10-2025 |                               |
-| 4d662f3 | emacs mcp-searxng working      | 20:12:33/23-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 8321899 | emacs dict                | 17:57:18/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 82386f1 | emacs                     | 19:21:18/26-10-2025 | HEAD -> master, github/master, github/HEAD |
+| 939c58a | emacs dict                | 19:18:29/26-10-2025 |                                            |
+| f76421f | emacs dict                | 18:22:23/26-10-2025 |                                            |
+| 8321899 | emacs dict                | 17:57:18/26-10-2025 |                                            |
 | 5ffcc1e | emacs systemd package     | 15:15:15/26-10-2025 |                                            |
 | 474d169 | emacs man current buffer  | 14:20:34/25-10-2025 |                                            |
 | cfd071b | flake updated             | 14:49:38/24-10-2025 |                                            |
 | 544a824 | csvkit                    | 15:01:38/23-10-2025 |                                            |
 | c1996a6 | emacs gptel               | 23:40:08/22-10-2025 |                                            |
 | 3470e7b | emacs gptel removed tools | 23:30:53/22-10-2025 |                                            |
-| c93721d | flake updated             | 14:39:26/22-10-2025 |                                            |
-| bd22aef | shellcheck minimal        | 14:05:02/22-10-2025 |                                            |
-| a9e8a26 | flake updated             | 18:09:41/21-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** AIR debian-dotfiles
 
 github url
 
