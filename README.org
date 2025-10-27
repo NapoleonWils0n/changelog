@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 9db7d88 | emacs                          | 19:20:52/26-10-2025 | HEAD -> master, github/master |
-| 0674ea9 | emacs dict                     | 19:20:31/26-10-2025 |                               |
-| 96c9c6a | emacs dict server              | 17:51:09/26-10-2025 |                               |
-| cd078f5 | emacs systemd package          | 15:14:09/26-10-2025 |                               |
-| 30c88a1 | dict                           | 14:02:15/26-10-2025 |                               |
-| 4f6d265 | emacs dict                     | 16:58:19/25-10-2025 |                               |
-| d35000d | removed dictd server           | 16:52:47/25-10-2025 |                               |
-| 346b862 | dictd                          | 16:45:30/25-10-2025 |                               |
-| 876c7e6 | dict server                    | 16:44:05/25-10-2025 |                               |
-| a1e9f6c | emacs man pages current buffer | 14:19:23/25-10-2025 |                               |
+| 419783f | graphviz              | 14:25:55/27-10-2025 | HEAD -> master, github/master |
+| 9db7d88 | emacs                 | 19:20:52/26-10-2025 |                               |
+| 0674ea9 | emacs dict            | 19:20:31/26-10-2025 |                               |
+| 96c9c6a | emacs dict server     | 17:51:09/26-10-2025 |                               |
+| cd078f5 | emacs systemd package | 15:14:09/26-10-2025 |                               |
+| 30c88a1 | dict                  | 14:02:15/26-10-2025 |                               |
+| 4f6d265 | emacs dict            | 16:58:19/25-10-2025 |                               |
+| d35000d | removed dictd server  | 16:52:47/25-10-2025 |                               |
+| 346b862 | dictd                 | 16:45:30/25-10-2025 |                               |
+| 876c7e6 | dict server           | 16:44:05/25-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
