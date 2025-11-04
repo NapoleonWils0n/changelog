@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| a282e2b | emacs gptel                   | 23:39:25/02-11-2025 | HEAD -> master, github/master |
+| 8ea558f | emacs early-init              | 20:47:00/04-11-2025 | HEAD -> master, github/master |
+| a282e2b | emacs gptel                   | 23:39:25/02-11-2025 |                               |
 | 05cf1a3 | media-thumbnail-dired-mode    | 21:06:58/01-11-2025 |                               |
 | 5723a1d | pkgs-master.ffmpegthumbnailer | 14:47:16/01-11-2025 |                               |
 | 584a1ac | ffmpegthumbnailer             | 14:45:45/01-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 419783f | graphviz                      | 14:25:55/27-10-2025 |                               |
 | 9db7d88 | emacs                         | 19:20:52/26-10-2025 |                               |
 | 0674ea9 | emacs dict                    | 19:20:31/26-10-2025 |                               |
-| 96c9c6a | emacs dict server             | 17:51:09/26-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 7174a47 | emacs gptel                | 23:43:01/02-11-2025 | HEAD -> master, github/master, github/HEAD |
+| e75de45 | emacs early-init           | 20:47:19/04-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 7174a47 | emacs gptel                | 23:43:01/02-11-2025 |                                            |
 | 69b2082 | media-thumbnail-dired-mode | 21:10:05/01-11-2025 |                                            |
 | 548eead | ffmpegthumbnailer          | 14:53:07/01-11-2025 |                                            |
 | 5515b49 | emacs gptel tools          | 20:32:09/31-10-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 939c58a | emacs dict                 | 19:18:29/26-10-2025 |                                            |
 | f76421f | emacs dict                 | 18:22:23/26-10-2025 |                                            |
 | 8321899 | emacs dict                 | 17:57:18/26-10-2025 |                                            |
-| 5ffcc1e | emacs systemd package      | 15:15:15/26-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,16 +255,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 1.0e+INF  | debian dotfiles[           | 14:08:13/03-11-2025 | HEAD -> master, github/master, github/HEAD |
-| 8eb29a5   | emacs gptel                | 23:45:07/02-11-2025 |                                            |
-| b05434b   | media-thumbnail-dired-mode | 21:11:34/01-11-2025 |                                            |
-| 6a1fb02   | gptel tools                | 20:36:37/31-10-2025 |                                            |
-| 1c8655c   | emacs org babel dot        | 15:41:27/27-10-2025 |                                            |
-| 2c71253   | emacs dict                 | 19:36:46/26-10-2025 |                                            |
-| 68fe0ed   | emacs systemd package      | 15:16:25/26-10-2025 |                                            |
-| 805312d   | emacs man current buffer   | 14:21:58/25-10-2025 |                                            |
-| 2c5e5ca   | emacs mcp-searxng working  | 20:13:27/23-10-2025 |                                            |
-| 8.329e+30 | emacs mcp docker           | 15:06:32/23-10-2025 |                                            |
+| 2061c72  | emacs early-init           | 20:48:55/04-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF | debian dotfiles[           | 14:08:13/03-11-2025 |                                            |
+| 8eb29a5  | emacs gptel                | 23:45:07/02-11-2025 |                                            |
+| b05434b  | media-thumbnail-dired-mode | 21:11:34/01-11-2025 |                                            |
+| 6a1fb02  | gptel tools                | 20:36:37/31-10-2025 |                                            |
+| 1c8655c  | emacs org babel dot        | 15:41:27/27-10-2025 |                                            |
+| 2c71253  | emacs dict                 | 19:36:46/26-10-2025 |                                            |
+| 68fe0ed  | emacs systemd package      | 15:16:25/26-10-2025 |                                            |
+| 805312d  | emacs man current buffer   | 14:21:58/25-10-2025 |                                            |
+| 2c5e5ca  | emacs mcp-searxng working  | 20:13:27/23-10-2025 |                                            |
 #+end_quote
 
 *** debian-root
