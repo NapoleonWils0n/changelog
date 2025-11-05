@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b6808bb | dotfiles                      | 14:22:11/05-11-2025 | HEAD -> master, github/master |
+| 830ec8c | emacs                         | 16:19:37/05-11-2025 | HEAD -> master, github/master |
+| b6808bb | dotfiles                      | 14:22:11/05-11-2025 |                               |
 | 8ea558f | emacs early-init              | 20:47:00/04-11-2025 |                               |
 | a282e2b | emacs gptel                   | 23:39:25/02-11-2025 |                               |
 | 05cf1a3 | media-thumbnail-dired-mode    | 21:06:58/01-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | fd46bc4 | emacs gptel tools             | 20:29:26/31-10-2025 |                               |
 | d3c337d | emacs org babel dot           | 15:38:32/27-10-2025 |                               |
 | 419783f | graphviz                      | 14:25:55/27-10-2025 |                               |
-| 9db7d88 | emacs                         | 19:20:52/26-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** AIR nixos-dotfiles-macbook
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** AIR debian-dotfiles
 
 github url
 
