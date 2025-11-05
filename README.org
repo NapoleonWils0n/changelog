@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| ddba52c  | dotfiles                   | 14:23:48/05-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 297b27d  | dotfiles                   | 14:39:54/05-11-2025 | HEAD -> master, github/master, github/HEAD |
+| ddba52c  | dotfiles                   | 14:23:48/05-11-2025 |                                            |
 | 2061c72  | emacs early-init           | 20:48:55/04-11-2025 |                                            |
 | 1.0e+INF | debian dotfiles[           | 14:08:13/03-11-2025 |                                            |
 | 8eb29a5  | emacs gptel                | 23:45:07/02-11-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 1c8655c  | emacs org babel dot        | 15:41:27/27-10-2025 |                                            |
 | 2c71253  | emacs dict                 | 19:36:46/26-10-2025 |                                            |
 | 68fe0ed  | emacs systemd package      | 15:16:25/26-10-2025 |                                            |
-| 805312d  | emacs man current buffer   | 14:21:58/25-10-2025 |                                            |
 #+end_quote
 
 *** debian-root
