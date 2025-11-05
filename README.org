@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8ea558f | emacs early-init              | 20:47:00/04-11-2025 | HEAD -> master, github/master |
+| b6808bb | dotfiles                      | 14:22:11/05-11-2025 | HEAD -> master, github/master |
+| 8ea558f | emacs early-init              | 20:47:00/04-11-2025 |                               |
 | a282e2b | emacs gptel                   | 23:39:25/02-11-2025 |                               |
 | 05cf1a3 | media-thumbnail-dired-mode    | 21:06:58/01-11-2025 |                               |
 | 5723a1d | pkgs-master.ffmpegthumbnailer | 14:47:16/01-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | d3c337d | emacs org babel dot           | 15:38:32/27-10-2025 |                               |
 | 419783f | graphviz                      | 14:25:55/27-10-2025 |                               |
 | 9db7d88 | emacs                         | 19:20:52/26-10-2025 |                               |
-| 0674ea9 | emacs dict                    | 19:20:31/26-10-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| e75de45 | emacs early-init           | 20:47:19/04-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 5a98d51 | dotfiles                   | 14:23:00/05-11-2025 | HEAD -> master, github/master, github/HEAD |
+| e75de45 | emacs early-init           | 20:47:19/04-11-2025 |                                            |
 | 7174a47 | emacs gptel                | 23:43:01/02-11-2025 |                                            |
 | 69b2082 | media-thumbnail-dired-mode | 21:10:05/01-11-2025 |                                            |
 | 548eead | ffmpegthumbnailer          | 14:53:07/01-11-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 82386f1 | emacs                      | 19:21:18/26-10-2025 |                                            |
 | 939c58a | emacs dict                 | 19:18:29/26-10-2025 |                                            |
 | f76421f | emacs dict                 | 18:22:23/26-10-2025 |                                            |
-| 8321899 | emacs dict                 | 17:57:18/26-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 2061c72  | emacs early-init           | 20:48:55/04-11-2025 | HEAD -> master, github/master, github/HEAD |
+| ddba52c  | dotfiles                   | 14:23:48/05-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 2061c72  | emacs early-init           | 20:48:55/04-11-2025 |                                            |
 | 1.0e+INF | debian dotfiles[           | 14:08:13/03-11-2025 |                                            |
 | 8eb29a5  | emacs gptel                | 23:45:07/02-11-2025 |                                            |
 | b05434b  | media-thumbnail-dired-mode | 21:11:34/01-11-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 2c71253  | emacs dict                 | 19:36:46/26-10-2025 |                                            |
 | 68fe0ed  | emacs systemd package      | 15:16:25/26-10-2025 |                                            |
 | 805312d  | emacs man current buffer   | 14:21:58/25-10-2025 |                                            |
-| 2c5e5ca  | emacs mcp-searxng working  | 20:13:27/23-10-2025 |                                            |
 #+end_quote
 
 *** debian-root
