@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 830ec8c | emacs                         | 16:19:37/05-11-2025 | HEAD -> master, github/master |
-| b6808bb | dotfiles                      | 14:22:11/05-11-2025 |                               |
-| 8ea558f | emacs early-init              | 20:47:00/04-11-2025 |                               |
-| a282e2b | emacs gptel                   | 23:39:25/02-11-2025 |                               |
-| 05cf1a3 | media-thumbnail-dired-mode    | 21:06:58/01-11-2025 |                               |
-| 5723a1d | pkgs-master.ffmpegthumbnailer | 14:47:16/01-11-2025 |                               |
-| 584a1ac | ffmpegthumbnailer             | 14:45:45/01-11-2025 |                               |
-| fd46bc4 | emacs gptel tools             | 20:29:26/31-10-2025 |                               |
-| d3c337d | emacs org babel dot           | 15:38:32/27-10-2025 |                               |
-| 419783f | graphviz                      | 14:25:55/27-10-2025 |                               |
+| 77a2982   | emacs literate                               | 16:38:44/06-11-2025 | HEAD -> master, github/master |
+| a5a2019   | emacs literate package links and description | 16:37:33/06-11-2025 |                               |
+| faf3c77   | emacs                                        | 16:31:50/06-11-2025 |                               |
+| 74c0438   | emacs                                        | 16:26:52/06-11-2025 |                               |
+| 858023b   | emacs literate                               | 16:26:00/06-11-2025 |                               |
+| 4b51cd8   | emacs literate                               | 16:24:53/06-11-2025 |                               |
+| 6e51f4b   | emacs literate                               | 16:23:36/06-11-2025 |                               |
+| 0c2ae74   | emacs literate                               | 16:21:47/06-11-2025 |                               |
+| e8dfd3d   | emacs literate                               | 16:19:59/06-11-2025 |                               |
+| 1.389e+67 | emacs literate                               | 16:18:10/06-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
