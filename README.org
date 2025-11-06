@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 770901a | dotfiles changelog                                        | 20:46:55/06-11-2025 | HEAD -> master, github/master |
+| b21b8d8 | dotfiles notes                                            | 20:50:36/06-11-2025 | HEAD -> master, github/master |
+| 00b114d | nixos dotfiles notes                                      | 20:49:46/06-11-2025 |                               |
+| 770901a | dotfiles changelog                                        | 20:46:55/06-11-2025 |                               |
 | 37324aa | tree view of dotfiles                                     | 20:44:57/06-11-2025 |                               |
 | 9285d91 | removed tree                                              | 20:43:52/06-11-2025 |                               |
 | 2a0677d | Merge remote-tracking branch 'refs/remotes/github/master' | 20:43:24/06-11-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 268fe91 | changelog ammend commit                                   | 20:40:56/06-11-2025 |                               |
 | 688ac6b | changelog ammend commit                                   | 20:39:06/06-11-2025 |                               |
 | 69f32bc | changelog                                                 | 20:25:29/06-11-2025 |                               |
-| 8a8dcb9 | emacs                                                     | 20:24:52/06-11-2025 |                               |
-| 787c6e2 | emacs                                                     | 20:22:40/06-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
