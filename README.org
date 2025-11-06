@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b21b8d8 | dotfiles notes                                            | 20:50:36/06-11-2025 | HEAD -> master, github/master |
+| 1debcd0 | nixos changelog link                                      | 20:52:26/06-11-2025 | HEAD -> master, github/master |
+| b21b8d8 | dotfiles notes                                            | 20:50:36/06-11-2025 |                               |
 | 00b114d | nixos dotfiles notes                                      | 20:49:46/06-11-2025 |                               |
 | 770901a | dotfiles changelog                                        | 20:46:55/06-11-2025 |                               |
 | 37324aa | tree view of dotfiles                                     | 20:44:57/06-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 30f6297 | emacs                                                     | 20:42:21/06-11-2025 |                               |
 | 268fe91 | changelog ammend commit                                   | 20:40:56/06-11-2025 |                               |
 | 688ac6b | changelog ammend commit                                   | 20:39:06/06-11-2025 |                               |
-| 69f32bc | changelog                                                 | 20:25:29/06-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
