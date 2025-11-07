@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e19a024 | emacs bookmarks                                           | 22:05:46/06-11-2025 | HEAD -> master, github/master |
+| b3d47f4 | dotfiles tree                                             | 19:55:09/07-11-2025 | HEAD -> master, github/master |
+| 218412  | emacs gptel tools                                         | 19:53:01/07-11-2025 |                               |
+| e19a024 | emacs bookmarks                                           | 22:05:46/06-11-2025 |                               |
 | 1debcd0 | nixos changelog link                                      | 20:52:26/06-11-2025 |                               |
 | b21b8d8 | dotfiles notes                                            | 20:50:36/06-11-2025 |                               |
 | 00b114d | nixos dotfiles notes                                      | 20:49:46/06-11-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 37324aa | tree view of dotfiles                                     | 20:44:57/06-11-2025 |                               |
 | 9285d91 | removed tree                                              | 20:43:52/06-11-2025 |                               |
 | 2a0677d | Merge remote-tracking branch 'refs/remotes/github/master' | 20:43:24/06-11-2025 |                               |
-| 30f6297 | emacs                                                     | 20:42:21/06-11-2025 |                               |
-| 268fe91 | changelog ammend commit                                   | 20:40:56/06-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| be3d99f | bookmarks                  | 14:14:50/07-11-2025 | HEAD -> master, github/master, github/HEAD |
+| fb60df7 | dotfiles tree              | 20:01:51/07-11-2025 | HEAD -> master, github/master, github/HEAD |
+| ffb3a83 | emacs gptel tools          | 20:00:21/07-11-2025 |                                            |
+| be3d99f | bookmarks                  | 14:14:50/07-11-2025 |                                            |
 | 8b4f4b0 | emacs literate             | 23:07:49/06-11-2025 |                                            |
 | 5a98d51 | dotfiles                   | 14:23:00/05-11-2025 |                                            |
 | e75de45 | emacs early-init           | 20:47:19/04-11-2025 |                                            |
@@ -160,8 +162,6 @@ status
 | 69b2082 | media-thumbnail-dired-mode | 21:10:05/01-11-2025 |                                            |
 | 548eead | ffmpegthumbnailer          | 14:53:07/01-11-2025 |                                            |
 | 5515b49 | emacs gptel tools          | 20:32:09/31-10-2025 |                                            |
-| aca2650 | graphviz org babel dot     | 15:40:20/27-10-2025 |                                            |
-| 82386f1 | emacs                      | 19:21:18/26-10-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 06754ac  | bookmarks                  | 14:28:19/07-11-2025 | HEAD -> master, github/master, github/HEAD |
+| d944af8  | emacs gptel tools and tree | 20:06:13/07-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 06754ac  | bookmarks                  | 14:28:19/07-11-2025 |                                            |
 | 052e54a  | emacs literate             | 23:28:18/06-11-2025 |                                            |
 | 924f54f  | emacs literate             | 23:26:17/06-11-2025 |                                            |
 | 297b27d  | dotfiles                   | 14:39:54/05-11-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 1.0e+INF | debian dotfiles[           | 14:08:13/03-11-2025 |                                            |
 | 8eb29a5  | emacs gptel                | 23:45:07/02-11-2025 |                                            |
 | b05434b  | media-thumbnail-dired-mode | 21:11:34/01-11-2025 |                                            |
-| 6a1fb02  | gptel tools                | 20:36:37/31-10-2025 |                                            |
 #+end_quote
 
 *** debian-root
