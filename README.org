@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8c49f9a | dotfiles              | 16:05:08/08-11-2025 | HEAD -> master, github/master |
-| b3d47f4 | dotfiles tree         | 19:55:09/07-11-2025 |                               |
-| 218412  | emacs gptel tools     | 19:53:01/07-11-2025 |                               |
-| e19a024 | emacs bookmarks       | 22:05:46/06-11-2025 |                               |
-| 1debcd0 | nixos changelog link  | 20:52:26/06-11-2025 |                               |
-| b21b8d8 | dotfiles notes        | 20:50:36/06-11-2025 |                               |
-| 00b114d | nixos dotfiles notes  | 20:49:46/06-11-2025 |                               |
-| 770901a | dotfiles changelog    | 20:46:55/06-11-2025 |                               |
-| 37324aa | tree view of dotfiles | 20:44:57/06-11-2025 |                               |
-| 9285d91 | removed tree          | 20:43:52/06-11-2025 |                               |
+| 2af553a | dotfiles org tags    | 22:00:45/08-11-2025 | HEAD -> master, github/master |
+| c7fb2fd | dotfiles tags        | 21:36:30/08-11-2025 |                               |
+| 8c49f9a | dotfiles             | 16:05:08/08-11-2025 |                               |
+| b3d47f4 | dotfiles tree        | 19:55:09/07-11-2025 |                               |
+| 218412  | emacs gptel tools    | 19:53:01/07-11-2025 |                               |
+| e19a024 | emacs bookmarks      | 22:05:46/06-11-2025 |                               |
+| 1debcd0 | nixos changelog link | 20:52:26/06-11-2025 |                               |
+| b21b8d8 | dotfiles notes       | 20:50:36/06-11-2025 |                               |
+| 00b114d | nixos dotfiles notes | 20:49:46/06-11-2025 |                               |
+| 770901a | dotfiles changelog   | 20:46:55/06-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook
+*** TODO nixos-dotfiles-macbook
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** TODO debian-dotfiles
 
 github url
 
