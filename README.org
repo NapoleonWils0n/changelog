@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 4d78347          | noweb moved to header args | 19:31:05/09-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 35d0365          | document structure         | 22:22:33/09-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 4d78347          | noweb moved to header args | 19:31:05/09-11-2025 |                                            |
 | 904f8e5          | dotfiles tags              | 14:41:00/09-11-2025 |                                            |
 | 29864000000000.0 | dotfiles tree              | 16:16:15/08-11-2025 |                                            |
 | d944af8          | emacs gptel tools and tree | 20:06:13/07-11-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 924f54f          | emacs literate             | 23:26:17/06-11-2025 |                                            |
 | 297b27d          | dotfiles                   | 14:39:54/05-11-2025 |                                            |
 | ddba52c          | dotfiles                   | 14:23:48/05-11-2025 |                                            |
-| 2061c72          | emacs early-init           | 20:48:55/04-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
