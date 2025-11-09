@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| dae9e74 | dotfiles tags        | 14:30:47/09-11-2025 | HEAD -> master, github/master |
-| ef31154 | tags                 | 14:11:01/09-11-2025 |                               |
-| 2af553a | dotfiles org tags    | 22:00:45/08-11-2025 |                               |
-| c7fb2fd | dotfiles tags        | 21:36:30/08-11-2025 |                               |
-| 8c49f9a | dotfiles             | 16:05:08/08-11-2025 |                               |
-| b3d47f4 | dotfiles tree        | 19:55:09/07-11-2025 |                               |
-| 218412  | emacs gptel tools    | 19:53:01/07-11-2025 |                               |
-| e19a024 | emacs bookmarks      | 22:05:46/06-11-2025 |                               |
-| 1debcd0 | nixos changelog link | 20:52:26/06-11-2025 |                               |
-| b21b8d8 | dotfiles notes       | 20:50:36/06-11-2025 |                               |
+| a6d56c2 | noweb moved to header args | 19:25:37/09-11-2025 | HEAD -> master, github/master |
+| dae9e74 | dotfiles tags              | 14:30:47/09-11-2025 |                               |
+| ef31154 | tags                       | 14:11:01/09-11-2025 |                               |
+| 2af553a | dotfiles org tags          | 22:00:45/08-11-2025 |                               |
+| c7fb2fd | dotfiles tags              | 21:36:30/08-11-2025 |                               |
+| 8c49f9a | dotfiles                   | 16:05:08/08-11-2025 |                               |
+| b3d47f4 | dotfiles tree              | 19:55:09/07-11-2025 |                               |
+| 218412  | emacs gptel tools          | 19:53:01/07-11-2025 |                               |
+| e19a024 | emacs bookmarks            | 22:05:46/06-11-2025 |                               |
+| 1debcd0 | nixos changelog link       | 20:52:26/06-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| d788c60 | dotfiles tags     | 14:31:27/09-11-2025 | HEAD -> master, github/master, github/HEAD |
-| f7daa70 | dotfiles tags     | 14:22:15/09-11-2025 |                                            |
-| 4f5a683 | dotfiles tree     | 16:15:47/08-11-2025 |                                            |
-| fb60df7 | dotfiles tree     | 20:01:51/07-11-2025 |                                            |
-| ffb3a83 | emacs gptel tools | 20:00:21/07-11-2025 |                                            |
-| be3d99f | bookmarks         | 14:14:50/07-11-2025 |                                            |
-| 8b4f4b0 | emacs literate    | 23:07:49/06-11-2025 |                                            |
-| 5a98d51 | dotfiles          | 14:23:00/05-11-2025 |                                            |
-| e75de45 | emacs early-init  | 20:47:19/04-11-2025 |                                            |
-| 7174a47 | emacs gptel       | 23:43:01/02-11-2025 |                                            |
+| 110fdd7 | noweb moved to header args | 19:30:00/09-11-2025 | HEAD -> master, github/master, github/HEAD |
+| d788c60 | dotfiles tags              | 14:31:27/09-11-2025 |                                            |
+| f7daa70 | dotfiles tags              | 14:22:15/09-11-2025 |                                            |
+| 4f5a683 | dotfiles tree              | 16:15:47/08-11-2025 |                                            |
+| fb60df7 | dotfiles tree              | 20:01:51/07-11-2025 |                                            |
+| ffb3a83 | emacs gptel tools          | 20:00:21/07-11-2025 |                                            |
+| be3d99f | bookmarks                  | 14:14:50/07-11-2025 |                                            |
+| 8b4f4b0 | emacs literate             | 23:07:49/06-11-2025 |                                            |
+| 5a98d51 | dotfiles                   | 14:23:00/05-11-2025 |                                            |
+| e75de45 | emacs early-init           | 20:47:19/04-11-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 904f8e5          | dotfiles tags              | 14:41:00/09-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 4d78347          | noweb moved to header args | 19:31:05/09-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 904f8e5          | dotfiles tags              | 14:41:00/09-11-2025 |                                            |
 | 29864000000000.0 | dotfiles tree              | 16:16:15/08-11-2025 |                                            |
 | d944af8          | emacs gptel tools and tree | 20:06:13/07-11-2025 |                                            |
 | 06754ac          | bookmarks                  | 14:28:19/07-11-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 297b27d          | dotfiles                   | 14:39:54/05-11-2025 |                                            |
 | ddba52c          | dotfiles                   | 14:23:48/05-11-2025 |                                            |
 | 2061c72          | emacs early-init           | 20:48:55/04-11-2025 |                                            |
-| 1.0e+INF         | debian dotfiles[           | 14:08:13/03-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
