@@ -130,7 +130,7 @@ status
 | 681d635 | reverted removed searxng | 19:16:15/08-09-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** XPS nixos-dotfiles-macbook
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| f962de5 | document outline           | 21:42:17/09-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 6bc6c08 | tangle headings            | 00:18:28/10-11-2025 | HEAD -> master, github/master, github/HEAD |
+| f962de5 | document outline           | 21:42:17/09-11-2025 |                                            |
 | 4447c75 | document structure         | 21:31:57/09-11-2025 |                                            |
 | 110fdd7 | noweb moved to header args | 19:30:00/09-11-2025 |                                            |
 | d788c60 | dotfiles tags              | 14:31:27/09-11-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | fb60df7 | dotfiles tree              | 20:01:51/07-11-2025 |                                            |
 | ffb3a83 | emacs gptel tools          | 20:00:21/07-11-2025 |                                            |
 | be3d99f | bookmarks                  | 14:14:50/07-11-2025 |                                            |
-| 8b4f4b0 | emacs literate             | 23:07:49/06-11-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
