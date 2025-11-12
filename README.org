@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 74aa5c7 | fixed typo                 | 00:40:51/10-11-2025 | HEAD -> master, github/master |
+| dc5c350 | emacs gptel phi4-mini:3.8b | 19:34:33/12-11-2025 | HEAD -> master, github/master |
+| 74aa5c7 | fixed typo                 | 00:40:51/10-11-2025 |                               |
 | a87251c | tangle headings            | 23:39:27/09-11-2025 |                               |
 | 09811da | document outline           | 21:39:58/09-11-2025 |                               |
 | 47df25a | document structure         | 21:13:33/09-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | a6d56c2 | noweb moved to header args | 19:25:37/09-11-2025 |                               |
 | dae9e74 | dotfiles tags              | 14:30:47/09-11-2025 |                               |
 | ef31154 | tags                       | 14:11:01/09-11-2025 |                               |
-| 2af553a | dotfiles org tags          | 22:00:45/08-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
