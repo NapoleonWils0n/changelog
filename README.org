@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| ad1f381 | qwen                         | 17:36:30/13-11-2025 | HEAD -> master, github/master |
-| 3cc3cb8 | ollama models                | 16:10:45/13-11-2025 |                               |
-| 5c50a3f | removed unused ollama models | 16:07:25/13-11-2025 |                               |
-| b79dcf7 | hermes3:8b                   | 15:43:09/13-11-2025 |                               |
-| dc5c350 | emacs gptel phi4-mini:3.8b   | 19:34:33/12-11-2025 |                               |
-| 74aa5c7 | fixed typo                   | 00:40:51/10-11-2025 |                               |
-| a87251c | tangle headings              | 23:39:27/09-11-2025 |                               |
-| 09811da | document outline             | 21:39:58/09-11-2025 |                               |
-| 47df25a | document structure           | 21:13:33/09-11-2025 |                               |
-| d87b49a | dotfiles order               | 20:52:46/09-11-2025 |                               |
+| db5d270 | removed tags                                    | 19:25:19/13-11-2025 | HEAD -> master, github/master |
+| 7248847 | removed tree which came up in searches and tags | 19:22:24/13-11-2025 |                               |
+| ad1f381 | qwen                                            | 17:36:30/13-11-2025 |                               |
+| 3cc3cb8 | ollama models                                   | 16:10:45/13-11-2025 |                               |
+| 5c50a3f | removed unused ollama models                    | 16:07:25/13-11-2025 |                               |
+| b79dcf7 | hermes3:8b                                      | 15:43:09/13-11-2025 |                               |
+| dc5c350 | emacs gptel phi4-mini:3.8b                      | 19:34:33/12-11-2025 |                               |
+| 74aa5c7 | fixed typo                                      | 00:40:51/10-11-2025 |                               |
+| a87251c | tangle headings                                 | 23:39:27/09-11-2025 |                               |
+| 09811da | document outline                                | 21:39:58/09-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
