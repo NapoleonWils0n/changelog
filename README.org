@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 9fb0358 | gptel removed models                            | 20:23:56/13-11-2025 | HEAD -> master, github/master |
+| f5efee1 | org show2levels                                 | 20:49:44/13-11-2025 | HEAD -> master, github/master |
+| 2b8ad35 | doc layout                                      | 20:31:52/13-11-2025 |                               |
+| 9fb0358 | gptel removed models                            | 20:23:56/13-11-2025 |                               |
 | 3613001 | dotfiles cleaned up                             | 19:53:36/13-11-2025 |                               |
 | b2dc117 | emacs                                           | 19:29:16/13-11-2025 |                               |
 | db5d270 | removed tags                                    | 19:25:19/13-11-2025 |                               |
@@ -92,8 +94,6 @@ status
 | ad1f381 | qwen                                            | 17:36:30/13-11-2025 |                               |
 | 3cc3cb8 | ollama models                                   | 16:10:45/13-11-2025 |                               |
 | 5c50a3f | removed unused ollama models                    | 16:07:25/13-11-2025 |                               |
-| b79dcf7 | hermes3:8b                                      | 15:43:09/13-11-2025 |                               |
-| dc5c350 | emacs gptel phi4-mini:3.8b                      | 19:34:33/12-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 72ce26a | removed tree and tags      | 20:04:33/13-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 78fdfcd | org show2levels            | 20:55:28/13-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 0b9fedb | doc layout                 | 20:33:54/13-11-2025 |                                            |
+| 72ce26a | removed tree and tags      | 20:04:33/13-11-2025 |                                            |
 | 6bc6c08 | tangle headings            | 00:18:28/10-11-2025 |                                            |
 | f962de5 | document outline           | 21:42:17/09-11-2025 |                                            |
 | 4447c75 | document structure         | 21:31:57/09-11-2025 |                                            |
@@ -160,8 +162,6 @@ status
 | d788c60 | dotfiles tags              | 14:31:27/09-11-2025 |                                            |
 | f7daa70 | dotfiles tags              | 14:22:15/09-11-2025 |                                            |
 | 4f5a683 | dotfiles tree              | 16:15:47/08-11-2025 |                                            |
-| fb60df7 | dotfiles tree              | 20:01:51/07-11-2025 |                                            |
-| ffb3a83 | emacs gptel tools          | 20:00:21/07-11-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,9 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 4619d8f          | removed tree and tags      | 20:16:50/13-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 073fead          | org show2levels            | 20:56:02/13-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 221227f          | doc layout                 | 20:34:45/13-11-2025 |                                            |
+| 4619d8f          | removed tree and tags      | 20:16:50/13-11-2025 |                                            |
 | 6094ff3          | fixed typo                 | 00:40:06/10-11-2025 |                                            |
 | df5956d          | tangle headings            | 00:37:18/10-11-2025 |                                            |
 | 6ffdf34          | tangle headings            | 00:30:03/10-11-2025 |                                            |
@@ -263,8 +265,6 @@ status
 | 4d78347          | noweb moved to header args | 19:31:05/09-11-2025 |                                            |
 | 904f8e5          | dotfiles tags              | 14:41:00/09-11-2025 |                                            |
 | 29864000000000.0 | dotfiles tree              | 16:16:15/08-11-2025 |                                            |
-| d944af8          | emacs gptel tools and tree | 20:06:13/07-11-2025 |                                            |
-| 06754ac          | bookmarks                  | 14:28:19/07-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
