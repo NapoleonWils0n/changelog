@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| db5d270 | removed tags                                    | 19:25:19/13-11-2025 | HEAD -> master, github/master |
+| b2dc117 | emacs                                           | 19:29:16/13-11-2025 | HEAD -> master, github/master |
+| db5d270 | removed tags                                    | 19:25:19/13-11-2025 |                               |
 | 7248847 | removed tree which came up in searches and tags | 19:22:24/13-11-2025 |                               |
 | ad1f381 | qwen                                            | 17:36:30/13-11-2025 |                               |
 | 3cc3cb8 | ollama models                                   | 16:10:45/13-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | dc5c350 | emacs gptel phi4-mini:3.8b                      | 19:34:33/12-11-2025 |                               |
 | 74aa5c7 | fixed typo                                      | 00:40:51/10-11-2025 |                               |
 | a87251c | tangle headings                                 | 23:39:27/09-11-2025 |                               |
-| 09811da | document outline                                | 21:39:58/09-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
