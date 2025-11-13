@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 3613001 | dotfiles cleaned up                             | 19:53:36/13-11-2025 | HEAD -> master, github/master |
+| 9fb0358 | gptel removed models                            | 20:23:56/13-11-2025 | HEAD -> master, github/master |
+| 3613001 | dotfiles cleaned up                             | 19:53:36/13-11-2025 |                               |
 | b2dc117 | emacs                                           | 19:29:16/13-11-2025 |                               |
 | db5d270 | removed tags                                    | 19:25:19/13-11-2025 |                               |
 | 7248847 | removed tree which came up in searches and tags | 19:22:24/13-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 5c50a3f | removed unused ollama models                    | 16:07:25/13-11-2025 |                               |
 | b79dcf7 | hermes3:8b                                      | 15:43:09/13-11-2025 |                               |
 | dc5c350 | emacs gptel phi4-mini:3.8b                      | 19:34:33/12-11-2025 |                               |
-| 74aa5c7 | fixed typo                                      | 00:40:51/10-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
