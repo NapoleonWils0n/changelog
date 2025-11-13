@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b79dcf7 | hermes3:8b                 | 15:43:09/13-11-2025 | HEAD -> master, github/master |
-| dc5c350 | emacs gptel phi4-mini:3.8b | 19:34:33/12-11-2025 |                               |
-| 74aa5c7 | fixed typo                 | 00:40:51/10-11-2025 |                               |
-| a87251c | tangle headings            | 23:39:27/09-11-2025 |                               |
-| 09811da | document outline           | 21:39:58/09-11-2025 |                               |
-| 47df25a | document structure         | 21:13:33/09-11-2025 |                               |
-| d87b49a | dotfiles order             | 20:52:46/09-11-2025 |                               |
-| f45d02c | emacs code block names     | 20:31:47/09-11-2025 |                               |
-| a6d56c2 | noweb moved to header args | 19:25:37/09-11-2025 |                               |
-| dae9e74 | dotfiles tags              | 14:30:47/09-11-2025 |                               |
+| 5c50a3f | removed unused ollama models | 16:07:25/13-11-2025 | HEAD -> master, github/master |
+| b79dcf7 | hermes3:8b                   | 15:43:09/13-11-2025 |                               |
+| dc5c350 | emacs gptel phi4-mini:3.8b   | 19:34:33/12-11-2025 |                               |
+| 74aa5c7 | fixed typo                   | 00:40:51/10-11-2025 |                               |
+| a87251c | tangle headings              | 23:39:27/09-11-2025 |                               |
+| 09811da | document outline             | 21:39:58/09-11-2025 |                               |
+| 47df25a | document structure           | 21:13:33/09-11-2025 |                               |
+| d87b49a | dotfiles order               | 20:52:46/09-11-2025 |                               |
+| f45d02c | emacs code block names       | 20:31:47/09-11-2025 |                               |
+| a6d56c2 | noweb moved to header args   | 19:25:37/09-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
