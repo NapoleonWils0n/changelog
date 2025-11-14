@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7367c33 | llama3.2:3b                                     | 17:14:59/14-11-2025 | HEAD -> master, github/master |
+| d20f047 | nixos dotfiles                                  | 22:18:41/14-11-2025 | HEAD -> master, github/master |
+| 7367c33 | llama3.2:3b                                     | 17:14:59/14-11-2025 |                               |
 | f5efee1 | org show2levels                                 | 20:49:44/13-11-2025 |                               |
 | 2b8ad35 | doc layout                                      | 20:31:52/13-11-2025 |                               |
 | 9fb0358 | gptel removed models                            | 20:23:56/13-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | db5d270 | removed tags                                    | 19:25:19/13-11-2025 |                               |
 | 7248847 | removed tree which came up in searches and tags | 19:22:24/13-11-2025 |                               |
 | ad1f381 | qwen                                            | 17:36:30/13-11-2025 |                               |
-| 3cc3cb8 | ollama models                                   | 16:10:45/13-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
