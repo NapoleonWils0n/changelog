@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -322,14 +322,14 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 999e5e2 | yt-dlp                   | 16:06:42/15-11-2025 | HEAD -> master, github/master, github/HEAD |
-| 077e0b5 | yt-dlp                   | 14:50:47/24-10-2025 |                                            |
-| fe4fff4 | updating yt-dlp          | 14:50:31/24-10-2025 |                                            |
-| 987d52e | yt-dlp                   | 18:15:00/15-10-2025 |                                            |
-| 8cdd539 | yt-dlp                   | 22:28:03/28-09-2025 |                                            |
-| e601fbc | yt-dlp                   | 16:40:19/24-09-2025 |                                            |
-| c6d3eb5 | yt-dlp                   | 12:57:11/08-09-2025 |                                            |
-| 6fa2584 | yt-dlp                   | 20:47:28/28-08-2025 |                                            |
-| 51a8b53 | ytdlp-mpv                | 13:14:49/26-08-2025 |                                            |
-| e4940d6 | ytdlp-mpv exits properly | 23:53:51/25-08-2025 |                                            |
+| e2cbb8c | yt-dlp                                 | 16:02:17/16-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 927239d | removed yt-dlp_linux installing yt-dlp | 16:02:03/16-11-2025 |                                            |
+| 999e5e2 | yt-dlp                                 | 16:06:42/15-11-2025 |                                            |
+| 077e0b5 | yt-dlp                                 | 14:50:47/24-10-2025 |                                            |
+| fe4fff4 | updating yt-dlp                        | 14:50:31/24-10-2025 |                                            |
+| 987d52e | yt-dlp                                 | 18:15:00/15-10-2025 |                                            |
+| 8cdd539 | yt-dlp                                 | 22:28:03/28-09-2025 |                                            |
+| e601fbc | yt-dlp                                 | 16:40:19/24-09-2025 |                                            |
+| c6d3eb5 | yt-dlp                                 | 12:57:11/08-09-2025 |                                            |
+| 6fa2584 | yt-dlp                                 | 20:47:28/28-08-2025 |                                            |
 #+end_quote
