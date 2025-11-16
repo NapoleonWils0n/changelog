@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** INPROGRESS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| db34662 | flake updated        | 16:25:00/16-11-2025 | HEAD -> master |
-| f88b12d | deno                 | 16:21:08/16-11-2025 |                |
-| d20f047 | nixos dotfiles       | 22:18:41/14-11-2025 | github/master  |
-| 7367c33 | llama3.2:3b          | 17:14:59/14-11-2025 |                |
-| f5efee1 | org show2levels      | 20:49:44/13-11-2025 |                |
-| 2b8ad35 | doc layout           | 20:31:52/13-11-2025 |                |
-| 9fb0358 | gptel removed models | 20:23:56/13-11-2025 |                |
-| 3613001 | dotfiles cleaned up  | 19:53:36/13-11-2025 |                |
-| b2dc117 | emacs                | 19:29:16/13-11-2025 |                |
-| db5d270 | removed tags         | 19:25:19/13-11-2025 |                |
+| c003f6f | removed ardour       | 17:17:23/16-11-2025 | HEAD -> master, github/master |
+| 876f4cb | nixos noto fonts     | 16:34:18/16-11-2025 |                               |
+| db34662 | flake updated        | 16:25:00/16-11-2025 |                               |
+| f88b12d | deno                 | 16:21:08/16-11-2025 |                               |
+| d20f047 | nixos dotfiles       | 22:18:41/14-11-2025 |                               |
+| 7367c33 | llama3.2:3b          | 17:14:59/14-11-2025 |                               |
+| f5efee1 | org show2levels      | 20:49:44/13-11-2025 |                               |
+| 2b8ad35 | doc layout           | 20:31:52/13-11-2025 |                               |
+| 9fb0358 | gptel removed models | 20:23:56/13-11-2025 |                               |
+| 3613001 | dotfiles cleaned up  | 19:53:36/13-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 78fdfcd | org show2levels            | 20:55:28/13-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 64d97e2 | nix noto fonts             | 16:35:15/16-11-2025 | HEAD -> master, github/master, github/HEAD |
+| c6e5b3c | deno                       | 16:26:30/16-11-2025 |                                            |
+| 78fdfcd | org show2levels            | 20:55:28/13-11-2025 |                                            |
 | 0b9fedb | doc layout                 | 20:33:54/13-11-2025 |                                            |
 | 72ce26a | removed tree and tags      | 20:04:33/13-11-2025 |                                            |
 | 6bc6c08 | tangle headings            | 00:18:28/10-11-2025 |                                            |
@@ -160,8 +162,6 @@ status
 | 4447c75 | document structure         | 21:31:57/09-11-2025 |                                            |
 | 110fdd7 | noweb moved to header args | 19:30:00/09-11-2025 |                                            |
 | d788c60 | dotfiles tags              | 14:31:27/09-11-2025 |                                            |
-| f7daa70 | dotfiles tags              | 14:22:15/09-11-2025 |                                            |
-| 4f5a683 | dotfiles tree              | 16:15:47/08-11-2025 |                                            |
 #+end_quote
 
 *** nixos-root-macbook
