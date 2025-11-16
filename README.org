@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** TODO nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 3613001 | dotfiles cleaned up  | 19:53:36/13-11-2025 |                               |
 #+end_quote
 
-*** INPROGRESS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | fa42aa4 | flake updated        | 10:53:36/24-09-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook
+*** nixos-dotfiles-macbook
 
 github url
 
@@ -164,7 +164,7 @@ status
 | d788c60 | dotfiles tags              | 14:31:27/09-11-2025 |                                            |
 #+end_quote
 
-*** TODO nixos-root-macbook
+*** nixos-root-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-macbook
 #+begin_quote
-| e2904f1 | nixos root       | 18:24:36/16-11-2025 | HEAD -> master, github/master, github/HEAD |
+| be58b44 | flake updated    | 19:43:03/16-11-2025 | HEAD -> master, github/master, github/HEAD |
+| e2904f1 | nixos root       | 18:24:36/16-11-2025 |                                            |
 | f5cbb85 | flake updated    | 09:48:03/15-10-2025 |                                            |
 | 141ef1d | flake updated    | 15:37:14/24-09-2025 |                                            |
 | 5600b28 | flake updated    | 09:49:40/08-09-2025 |                                            |
@@ -195,10 +196,9 @@ status
 | 6bce3c8 | removed comments | 13:25:43/29-07-2025 |                                            |
 | 84625b8 | flake updated    | 18:29:42/28-07-2025 |                                            |
 | c63ef3a | flake updated    | 18:13:07/28-07-2025 |                                            |
-| bfb380c | broadcom         | 16:02:38/28-07-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
