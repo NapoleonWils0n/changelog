@@ -130,7 +130,7 @@ status
 | fa42aa4 | flake updated        | 10:53:36/24-09-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 9239000000.0 | yt-dlp manual install              | 16:27:39/16-11-2025 | HEAD -> master, github/master |
+| 03d1311      | back up to usb exclude Videos      | 23:23:59/17-11-2025 | HEAD -> master, github/master |
+| 9239000000.0 | yt-dlp manual install              | 16:27:39/16-11-2025 |                               |
 | b7df096      | ytdlp-mpv                          | 13:13:25/26-08-2025 |                               |
 | 17ecf4b      | ytdlp-mpv exits properly           | 23:53:27/25-08-2025 |                               |
 | f2d0372      | ytdlp-mpv working                  | 23:40:00/25-08-2025 |                               |
@@ -161,7 +162,6 @@ status
 | a11d244      | ytdlp-mpv                          | 18:16:44/25-08-2025 |                               |
 | b3fc72d      | dash-ffmpeg                        | 14:31:24/25-08-2025 |                               |
 | f3c6b4e      | dash-ffmpeg                        | 12:19:27/25-08-2025 |                               |
-| a29943f      | removed script                     | 20:49:40/23-08-2025 |                               |
 #+end_quote
 
 ** debian
