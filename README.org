@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 96d69f3 | whisperx flake updated          | 16:10:50/19-11-2025 | HEAD -> master, github/master |
+| 44d77c0 | whsiperx flake updated          | 16:22:58/19-11-2025 | HEAD -> master, github/master |
+| 96d69f3 | whisperx flake updated          | 16:10:50/19-11-2025 |                               |
 | fdf65a8 | removed openweb ui not using it | 15:09:52/19-11-2025 |                               |
 | 406c0e9 | ollama                          | 14:58:24/19-11-2025 |                               |
 | 0ab5ff0 | python flake updated            | 14:23:37/19-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | db34662 | flake updated                   | 16:25:00/16-11-2025 |                               |
 | f88b12d | deno                            | 16:21:08/16-11-2025 |                               |
 | d20f047 | nixos dotfiles                  | 22:18:41/14-11-2025 |                               |
-| 7367c33 | llama3.2:3b                     | 17:14:59/14-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
