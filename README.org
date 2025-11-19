@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 0ab5ff0 | python flake updated | 14:23:37/19-11-2025 | HEAD -> master, github/master |
+| 406c0e9 | ollama               | 14:58:24/19-11-2025 | HEAD -> master, github/master |
+| 0ab5ff0 | python flake updated | 14:23:37/19-11-2025 |                               |
 | c003f6f | removed ardour       | 17:17:23/16-11-2025 |                               |
 | 876f4cb | nixos noto fonts     | 16:34:18/16-11-2025 |                               |
 | db34662 | flake updated        | 16:25:00/16-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 7367c33 | llama3.2:3b          | 17:14:59/14-11-2025 |                               |
 | f5efee1 | org show2levels      | 20:49:44/13-11-2025 |                               |
 | 2b8ad35 | doc layout           | 20:31:52/13-11-2025 |                               |
-| 9fb0358 | gptel removed models | 20:23:56/13-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
