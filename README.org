@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| fad83e7 | flake updated                   | 19:39:25/19-11-2025 | HEAD -> master, github/master |
-| 44d77c0 | whsiperx flake updated          | 16:22:58/19-11-2025 |                               |
-| 96d69f3 | whisperx flake updated          | 16:10:50/19-11-2025 |                               |
-| fdf65a8 | removed openweb ui not using it | 15:09:52/19-11-2025 |                               |
-| 406c0e9 | ollama                          | 14:58:24/19-11-2025 |                               |
-| 0ab5ff0 | python flake updated            | 14:23:37/19-11-2025 |                               |
-| c003f6f | removed ardour                  | 17:17:23/16-11-2025 |                               |
-| 876f4cb | nixos noto fonts                | 16:34:18/16-11-2025 |                               |
-| db34662 | flake updated                   | 16:25:00/16-11-2025 |                               |
-| f88b12d | deno                            | 16:21:08/16-11-2025 |                               |
+| f7e4df6 | deno reinstalled                   | 19:56:59/19-11-2025 | HEAD -> master, github/master |
+| 81884ae | removed deno installed with yt-dlp | 19:55:34/19-11-2025 |                               |
+| fad83e7 | flake updated                      | 19:39:25/19-11-2025 |                               |
+| 44d77c0 | whsiperx flake updated             | 16:22:58/19-11-2025 |                               |
+| 96d69f3 | whisperx flake updated             | 16:10:50/19-11-2025 |                               |
+| fdf65a8 | removed openweb ui not using it    | 15:09:52/19-11-2025 |                               |
+| 406c0e9 | ollama                             | 14:58:24/19-11-2025 |                               |
+| 0ab5ff0 | python flake updated               | 14:23:37/19-11-2025 |                               |
+| c003f6f | removed ardour                     | 17:17:23/16-11-2025 |                               |
+| 876f4cb | nixos noto fonts                   | 16:34:18/16-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
