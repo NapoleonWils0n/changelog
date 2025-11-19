@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c003f6f | removed ardour       | 17:17:23/16-11-2025 | HEAD -> master, github/master |
+| 0ab5ff0 | python flake updated | 14:23:37/19-11-2025 | HEAD -> master, github/master |
+| c003f6f | removed ardour       | 17:17:23/16-11-2025 |                               |
 | 876f4cb | nixos noto fonts     | 16:34:18/16-11-2025 |                               |
 | db34662 | flake updated        | 16:25:00/16-11-2025 |                               |
 | f88b12d | deno                 | 16:21:08/16-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | f5efee1 | org show2levels      | 20:49:44/13-11-2025 |                               |
 | 2b8ad35 | doc layout           | 20:31:52/13-11-2025 |                               |
 | 9fb0358 | gptel removed models | 20:23:56/13-11-2025 |                               |
-| 3613001 | dotfiles cleaned up  | 19:53:36/13-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
