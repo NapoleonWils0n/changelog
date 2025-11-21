@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8189d2e | emacs removed duplicates           | 15:57:53/21-11-2025 | HEAD -> master, github/master |
+| c8328c9 | removed duplicate code             | 21:06:36/21-11-2025 | HEAD -> master, github/master |
+| a82eae8 | removed duplicate code             | 20:52:42/21-11-2025 |                               |
+| 8189d2e | emacs removed duplicates           | 15:57:53/21-11-2025 |                               |
 | f7e4df6 | deno reinstalled                   | 19:56:59/19-11-2025 |                               |
 | 81884ae | removed deno installed with yt-dlp | 19:55:34/19-11-2025 |                               |
 | fad83e7 | flake updated                      | 19:39:25/19-11-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 96d69f3 | whisperx flake updated             | 16:10:50/19-11-2025 |                               |
 | fdf65a8 | removed openweb ui not using it    | 15:09:52/19-11-2025 |                               |
 | 406c0e9 | ollama                             | 14:58:24/19-11-2025 |                               |
-| 0ab5ff0 | python flake updated               | 14:23:37/19-11-2025 |                               |
-| c003f6f | removed ardour                     | 17:17:23/16-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -187,16 +187,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 9716734 | emacs removed duplicates   | 15:59:16/21-11-2025 | HEAD -> master, github/master, github/HEAD |
-| 0daa0c5 | deno zshenv                | 16:41:45/15-11-2025 |                                            |
-| 073fead | org show2levels            | 20:56:02/13-11-2025 |                                            |
-| 221227f | doc layout                 | 20:34:45/13-11-2025 |                                            |
-| 4619d8f | removed tree and tags      | 20:16:50/13-11-2025 |                                            |
-| 6094ff3 | fixed typo                 | 00:40:06/10-11-2025 |                                            |
-| df5956d | tangle headings            | 00:37:18/10-11-2025 |                                            |
-| 6ffdf34 | tangle headings            | 00:30:03/10-11-2025 |                                            |
-| 35d0365 | document structure         | 22:22:33/09-11-2025 |                                            |
-| 4d78347 | noweb moved to header args | 19:31:05/09-11-2025 |                                            |
+| f4cbc02   | removed duplicate code   | 21:08:56/21-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 8.33e+235 | removed duplicate code   | 20:54:31/21-11-2025 |                                            |
+| 9716734   | emacs removed duplicates | 15:59:16/21-11-2025 |                                            |
+| 0daa0c5   | deno zshenv              | 16:41:45/15-11-2025 |                                            |
+| 073fead   | org show2levels          | 20:56:02/13-11-2025 |                                            |
+| 221227f   | doc layout               | 20:34:45/13-11-2025 |                                            |
+| 4619d8f   | removed tree and tags    | 20:16:50/13-11-2025 |                                            |
+| 6094ff3   | fixed typo               | 00:40:06/10-11-2025 |                                            |
+| df5956d   | tangle headings          | 00:37:18/10-11-2025 |                                            |
+| 6ffdf34   | tangle headings          | 00:30:03/10-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
