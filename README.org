@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c8328c9 | removed duplicate code             | 21:06:36/21-11-2025 | HEAD -> master, github/master |
+| 2db97db | mpd socket                         | 14:42:32/23-11-2025 | HEAD -> master, github/master |
+| c8328c9 | removed duplicate code             | 21:06:36/21-11-2025 |                               |
 | a82eae8 | removed duplicate code             | 20:52:42/21-11-2025 |                               |
 | 8189d2e | emacs removed duplicates           | 15:57:53/21-11-2025 |                               |
 | f7e4df6 | deno reinstalled                   | 19:56:59/19-11-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 44d77c0 | whsiperx flake updated             | 16:22:58/19-11-2025 |                               |
 | 96d69f3 | whisperx flake updated             | 16:10:50/19-11-2025 |                               |
 | fdf65a8 | removed openweb ui not using it    | 15:09:52/19-11-2025 |                               |
-| 406c0e9 | ollama                             | 14:58:24/19-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
