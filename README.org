@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f5e87c09 | yt-dlp deno debian      | 14:54:55/29-11-2025 | HEAD -> master, github/master, github/HEAD |
+| c984a1e2 | ssh-agent               | 22:38:05/02-12-2025 | HEAD -> master, github/master, github/HEAD |
+| f5e87c09 | yt-dlp deno debian      | 14:54:55/29-11-2025 |                                            |
 | 91f79857 | nix prefetch url        | 16:25:43/20-11-2025 |                                            |
 | 021c8723 | ubuntu emacs no postfix | 15:40:38/18-11-2025 |                                            |
 | e507dfd9 | debian install          | 20:58:04/16-11-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | 86278bdc | org info                | 19:52:19/08-11-2025 |                                            |
 | 7ce9e67c | emacs                   | 13:45:36/05-11-2025 |                                            |
 | 01e5e8d7 | emacs media-thumbnailer | 20:39:05/03-11-2025 |                                            |
-| dec6cfe8 | emacs media-thumbnail   | 20:38:13/03-11-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,19 +84,19 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 2db97db | mpd socket                         | 14:42:32/23-11-2025 | HEAD -> master, github/master |
-| c8328c9 | removed duplicate code             | 21:06:36/21-11-2025 |                               |
-| a82eae8 | removed duplicate code             | 20:52:42/21-11-2025 |                               |
-| 8189d2e | emacs removed duplicates           | 15:57:53/21-11-2025 |                               |
-| f7e4df6 | deno reinstalled                   | 19:56:59/19-11-2025 |                               |
-| 81884ae | removed deno installed with yt-dlp | 19:55:34/19-11-2025 |                               |
-| fad83e7 | flake updated                      | 19:39:25/19-11-2025 |                               |
-| 44d77c0 | whsiperx flake updated             | 16:22:58/19-11-2025 |                               |
-| 96d69f3 | whisperx flake updated             | 16:10:50/19-11-2025 |                               |
-| fdf65a8 | removed openweb ui not using it    | 15:09:52/19-11-2025 |                               |
+| f91c03c | removed ednc                             | 22:10:33/02-12-2025 | HEAD -> master, github/master |
+| f5bb54d | emacs wayland socket                     | 20:37:31/02-12-2025 |                               |
+| 091363f | removed autostart                        | 20:23:46/02-12-2025 |                               |
+| d694d6c | no cosmic notifications using emacs ednc | 19:53:23/02-12-2025 |                               |
+| 0511a31 | wlr-which-key                            | 19:44:45/02-12-2025 |                               |
+| 56e996f | flake updated                            | 14:12:15/02-12-2025 |                               |
+| 4d82ff2 | cosmic                                   | 14:08:23/02-12-2025 |                               |
+| 2db97db | mpd socket                               | 14:42:32/23-11-2025 |                               |
+| c8328c9 | removed duplicate code                   | 21:06:36/21-11-2025 |                               |
+| a82eae8 | removed duplicate code                   | 20:52:42/21-11-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,19 +118,19 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| d043f19 | nixos root           | 18:16:42/16-11-2025 | HEAD -> master, github/master |
-| f50e644 | driver renamed       | 18:16:07/16-11-2025 |                               |
-| 50450dd | vaapi driver renamed | 18:15:17/16-11-2025 |                               |
-| 6a52a9e | flake updated        | 18:12:10/16-11-2025 |                               |
-| 95b36cd | podman repos         | 22:02:10/19-10-2025 |                               |
-| 9463f69 | podman repos         | 21:28:12/19-10-2025 |                               |
-| 2edca24 | flake updated        | 21:18:41/14-10-2025 |                               |
-| 1ba5582 | crawl4ai port        | 16:19:24/07-10-2025 |                               |
-| 86d5b39 | port 5678 n8n        | 17:48:09/27-09-2025 |                               |
-| fa42aa4 | flake updated        | 10:53:36/24-09-2025 |                               |
+| 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 | HEAD -> master, github/master |
+| bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
+| c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
+| dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                               |
+| 95bad3a | cosmic clipboard                  | 16:13:30/02-12-2025 |                               |
+| c6b245a | cosmic scheduler                  | 15:40:03/02-12-2025 |                               |
+| 2355060 | flake updated                     | 12:42:11/02-12-2025 |                               |
+| 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
+| d043f19 | nixos root                        | 18:16:42/16-11-2025 |                               |
+| f50e644 | driver renamed                    | 18:16:07/16-11-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 03d1311      | back up to usb exclude Videos      | 23:23:59/17-11-2025 | HEAD -> master, github/master |
+| 1abac8f      | removed script                     | 20:24:07/02-12-2025 | HEAD -> master, github/master |
+| c42335d      | no cosmic notifications            | 19:49:55/02-12-2025 |                               |
+| f9f7ee8      | xmpv                               | 19:44:57/02-12-2025 |                               |
+| 03d1311      | back up to usb exclude Videos      | 23:23:59/17-11-2025 |                               |
 | 9239000000.0 | yt-dlp manual install              | 16:27:39/16-11-2025 |                               |
 | b7df096      | ytdlp-mpv                          | 13:13:25/26-08-2025 |                               |
 | 17ecf4b      | ytdlp-mpv exits properly           | 23:53:27/25-08-2025 |                               |
 | f2d0372      | ytdlp-mpv working                  | 23:40:00/25-08-2025 |                               |
 | 4a9e08d      | ytdlp-mpv with mpv terminal output | 20:13:16/25-08-2025 |                               |
 | 2271045      | ytdlp-mpv                          | 19:49:47/25-08-2025 |                               |
-| a11d244      | ytdlp-mpv                          | 18:16:44/25-08-2025 |                               |
-| b3fc72d      | dash-ffmpeg                        | 14:31:24/25-08-2025 |                               |
-| f3c6b4e      | dash-ffmpeg                        | 12:19:27/25-08-2025 |                               |
 #+end_quote
 
 ** debian
