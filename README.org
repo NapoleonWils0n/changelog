@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 95d2a4e | cosmic desktop                           | 16:32:30/03-12-2025 | HEAD -> master, github/master |
+| 56583ef | python flake updated                     | 19:28:57/04-12-2025 | HEAD -> master, github/master |
+| ada09c5 | ollama flake updated                     | 18:02:15/04-12-2025 |                               |
+| 95d2a4e | cosmic desktop                           | 16:32:30/03-12-2025 |                               |
 | f91c03c | removed ednc                             | 22:10:33/02-12-2025 |                               |
 | f5bb54d | emacs wayland socket                     | 20:37:31/02-12-2025 |                               |
 | 091363f | removed autostart                        | 20:23:46/02-12-2025 |                               |
@@ -92,8 +94,6 @@ status
 | 0511a31 | wlr-which-key                            | 19:44:45/02-12-2025 |                               |
 | 56e996f | flake updated                            | 14:12:15/02-12-2025 |                               |
 | 4d82ff2 | cosmic                                   | 14:08:23/02-12-2025 |                               |
-| 2db97db | mpd socket                               | 14:42:32/23-11-2025 |                               |
-| c8328c9 | removed duplicate code                   | 21:06:36/21-11-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
