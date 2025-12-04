@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f91c03c | removed ednc                             | 22:10:33/02-12-2025 | HEAD -> master, github/master |
+| 95d2a4e | cosmic desktop                           | 16:32:30/03-12-2025 | HEAD -> master, github/master |
+| f91c03c | removed ednc                             | 22:10:33/02-12-2025 |                               |
 | f5bb54d | emacs wayland socket                     | 20:37:31/02-12-2025 |                               |
 | 091363f | removed autostart                        | 20:23:46/02-12-2025 |                               |
 | d694d6c | no cosmic notifications using emacs ednc | 19:53:23/02-12-2025 |                               |
@@ -93,10 +94,9 @@ status
 | 4d82ff2 | cosmic                                   | 14:08:23/02-12-2025 |                               |
 | 2db97db | mpd socket                               | 14:42:32/23-11-2025 |                               |
 | c8328c9 | removed duplicate code                   | 21:06:36/21-11-2025 |                               |
-| a82eae8 | removed duplicate code                   | 20:52:42/21-11-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 | HEAD -> master, github/master |
+| 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 | HEAD -> master, github/master |
+| 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
 | bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
 | c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
 | dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                               |
@@ -127,10 +128,9 @@ status
 | 2355060 | flake updated                     | 12:42:11/02-12-2025 |                               |
 | 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
 | d043f19 | nixos root                        | 18:16:42/16-11-2025 |                               |
-| f50e644 | driver renamed                    | 18:16:07/16-11-2025 |                               |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 1abac8f      | removed script                     | 20:24:07/02-12-2025 | HEAD -> master, github/master |
+| 55a9dae      | removed yt-dlp using nix version   | 22:38:23/03-12-2025 | HEAD -> master, github/master |
+| 1abac8f      | removed script                     | 20:24:07/02-12-2025 |                               |
 | c42335d      | no cosmic notifications            | 19:49:55/02-12-2025 |                               |
 | f9f7ee8      | xmpv                               | 19:44:57/02-12-2025 |                               |
 | 03d1311      | back up to usb exclude Videos      | 23:23:59/17-11-2025 |                               |
@@ -161,7 +162,6 @@ status
 | 17ecf4b      | ytdlp-mpv exits properly           | 23:53:27/25-08-2025 |                               |
 | f2d0372      | ytdlp-mpv working                  | 23:40:00/25-08-2025 |                               |
 | 4a9e08d      | ytdlp-mpv with mpv terminal output | 20:13:16/25-08-2025 |                               |
-| 2271045      | ytdlp-mpv                          | 19:49:47/25-08-2025 |                               |
 #+end_quote
 
 ** debian
