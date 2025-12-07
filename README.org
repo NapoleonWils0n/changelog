@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6defafd | flake updated                            | 13:45:07/07-12-2025 | HEAD -> master, github/master |
-| 2fcc8a9 | whisperx flake updated                   | 02:13:11/05-12-2025 |                               |
-| cf3eb3a | flake updated                            | 19:58:50/04-12-2025 |                               |
-| 56583ef | python flake updated                     | 19:28:57/04-12-2025 |                               |
-| ada09c5 | ollama flake updated                     | 18:02:15/04-12-2025 |                               |
-| 95d2a4e | cosmic desktop                           | 16:32:30/03-12-2025 |                               |
-| f91c03c | removed ednc                             | 22:10:33/02-12-2025 |                               |
-| f5bb54d | emacs wayland socket                     | 20:37:31/02-12-2025 |                               |
-| 091363f | removed autostart                        | 20:23:46/02-12-2025 |                               |
-| d694d6c | no cosmic notifications using emacs ednc | 19:53:23/02-12-2025 |                               |
+| de68cd6 | cosmic settings        | 15:26:30/07-12-2025 | HEAD -> master, github/master |
+| 6defafd | flake updated          | 13:45:07/07-12-2025 |                               |
+| 2fcc8a9 | whisperx flake updated | 02:13:11/05-12-2025 |                               |
+| cf3eb3a | flake updated          | 19:58:50/04-12-2025 |                               |
+| 56583ef | python flake updated   | 19:28:57/04-12-2025 |                               |
+| ada09c5 | ollama flake updated   | 18:02:15/04-12-2025 |                               |
+| 95d2a4e | cosmic desktop         | 16:32:30/03-12-2025 |                               |
+| f91c03c | removed ednc           | 22:10:33/02-12-2025 |                               |
+| f5bb54d | emacs wayland socket   | 20:37:31/02-12-2025 |                               |
+| 091363f | removed autostart      | 20:23:46/02-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -128,6 +128,70 @@ status
 | 2355060 | flake updated                     | 12:42:11/02-12-2025 |                               |
 | 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
 | d043f19 | nixos root                        | 18:16:42/16-11-2025 |                               |
+#+end_quote
+
+*** nixos-dotfiles-macbook-air
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-dotfiles-macbook-air]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-dotfiles-macbook-air
+#+end_src
+
+status
+
+#+NAME: nixos-dotfiles-macbook-air
+#+HEADER: :var path="~/git/nixos/nixos-dotfiles-macbook-air"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-dotfiles-macbook-air
+#+begin_quote
+| 25ae256 | cosmic settings            | 15:31:06/07-12-2025 | HEAD -> master, github/master, github/HEAD |
+| a341bd0 | flake updated              | 14:04:19/07-12-2025 |                                            |
+| e17ee93 | wlr-which-key              | 15:08:57/04-12-2025 |                                            |
+| df0a64c | flake updated              | 14:36:57/04-12-2025 |                                            |
+| 6f220c3 | cosmic                     | 14:26:17/04-12-2025 |                                            |
+| 7d757d2 | emacs mpd                  | 13:58:55/24-11-2025 |                                            |
+| 119fd4f | removed duplicate code     | 21:08:04/21-11-2025 |                                            |
+| 17568ed | removed duplicate code     | 20:56:24/21-11-2025 |                                            |
+| b81f87a | emacs removed duplicates   | 15:56:58/21-11-2025 |                                            |
+| 60c5e43 | nixos macbook air dotfiles | 00:12:58/20-11-2025 |                                            |
+#+end_quote
+
+*** nixos-root-cosmic-macbook
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-root-cosmic-macbook]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-root-cosmic-macbook
+#+end_src
+
+status
+
+#+NAME: nixos-root-cosmic-macbook
+#+HEADER: :var path="~/git/nixos/nixos-root-cosmic-macbook"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-root-cosmic-macbook
+#+begin_quote
+| 831e54f | password                  | 14:59:54/04-12-2025 | HEAD -> master, github/master |
+| bd3d99e | cosmic desktop            | 14:31:35/04-12-2025 |                               |
+| a84805a | services                  | 21:22:43/30-11-2025 |                               |
+| 8fd73a7 | nixos session             | 21:21:37/30-11-2025 |                               |
+| 69dee52 | nixos session             | 21:20:36/30-11-2025 |                               |
+| d22ad80 | nixos root cosmic desktop | 20:40:00/30-11-2025 |                               |
 #+end_quote
 
 *** nixos-bin
