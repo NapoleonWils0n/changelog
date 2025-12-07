@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| cf3eb3a | flake updated                            | 19:58:50/04-12-2025 | HEAD -> master, github/master |
+| 6defafd | flake updated                            | 13:45:07/07-12-2025 | HEAD -> master, github/master |
+| 2fcc8a9 | whisperx flake updated                   | 02:13:11/05-12-2025 |                               |
+| cf3eb3a | flake updated                            | 19:58:50/04-12-2025 |                               |
 | 56583ef | python flake updated                     | 19:28:57/04-12-2025 |                               |
 | ada09c5 | ollama flake updated                     | 18:02:15/04-12-2025 |                               |
 | 95d2a4e | cosmic desktop                           | 16:32:30/03-12-2025 |                               |
@@ -92,8 +94,6 @@ status
 | f5bb54d | emacs wayland socket                     | 20:37:31/02-12-2025 |                               |
 | 091363f | removed autostart                        | 20:23:46/02-12-2025 |                               |
 | d694d6c | no cosmic notifications using emacs ednc | 19:53:23/02-12-2025 |                               |
-| 0511a31 | wlr-which-key                            | 19:44:45/02-12-2025 |                               |
-| 56e996f | flake updated                            | 14:12:15/02-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
