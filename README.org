@@ -96,7 +96,7 @@ status
 | 95d2a4e | cosmic desktop         | 16:32:30/03-12-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** AIR nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 | HEAD -> master, github/master |
+| 4744cb8 | cosmic beta 9                     | 16:31:40/09-12-2025 | HEAD -> master, github/master |
+| 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 |                               |
 | 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
 | bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
 | c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
@@ -127,7 +128,6 @@ status
 | c6b245a | cosmic scheduler                  | 15:40:03/02-12-2025 |                               |
 | 2355060 | flake updated                     | 12:42:11/02-12-2025 |                               |
 | 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
-| d043f19 | nixos root                        | 18:16:42/16-11-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
@@ -164,7 +164,7 @@ status
 | b81f87a | emacs removed duplicates | 15:56:58/21-11-2025 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** AIR nixos-root-cosmic-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 831e54f | password                  | 14:59:54/04-12-2025 | HEAD -> master, github/master |
+| 5fabb4b | cosmic beta 9             | 16:42:51/09-12-2025 | HEAD -> master, github/master |
+| 831e54f | password                  | 14:59:54/04-12-2025 |                               |
 | bd3d99e | cosmic desktop            | 14:31:35/04-12-2025 |                               |
 | a84805a | services                  | 21:22:43/30-11-2025 |                               |
 | 8fd73a7 | nixos session             | 21:21:37/30-11-2025 |                               |
