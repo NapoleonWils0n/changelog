@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 25ae256 | cosmic settings            | 15:31:06/07-12-2025 | HEAD -> master, github/master, github/HEAD |
-| a341bd0 | flake updated              | 14:04:19/07-12-2025 |                                            |
-| e17ee93 | wlr-which-key              | 15:08:57/04-12-2025 |                                            |
-| df0a64c | flake updated              | 14:36:57/04-12-2025 |                                            |
-| 6f220c3 | cosmic                     | 14:26:17/04-12-2025 |                                            |
-| 7d757d2 | emacs mpd                  | 13:58:55/24-11-2025 |                                            |
-| 119fd4f | removed duplicate code     | 21:08:04/21-11-2025 |                                            |
-| 17568ed | removed duplicate code     | 20:56:24/21-11-2025 |                                            |
-| b81f87a | emacs removed duplicates   | 15:56:58/21-11-2025 |                                            |
-| 60c5e43 | nixos macbook air dotfiles | 00:12:58/20-11-2025 |                                            |
+| c449c99 | flake updated            | 12:58:19/09-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 25ae256 | cosmic settings          | 15:31:06/07-12-2025 |                                            |
+| a341bd0 | flake updated            | 14:04:19/07-12-2025 |                                            |
+| e17ee93 | wlr-which-key            | 15:08:57/04-12-2025 |                                            |
+| df0a64c | flake updated            | 14:36:57/04-12-2025 |                                            |
+| 6f220c3 | cosmic                   | 14:26:17/04-12-2025 |                                            |
+| 7d757d2 | emacs mpd                | 13:58:55/24-11-2025 |                                            |
+| 119fd4f | removed duplicate code   | 21:08:04/21-11-2025 |                                            |
+| 17568ed | removed duplicate code   | 20:56:24/21-11-2025 |                                            |
+| b81f87a | emacs removed duplicates | 15:56:58/21-11-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -216,16 +216,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 55a9dae      | removed yt-dlp using nix version   | 22:38:23/03-12-2025 | HEAD -> master, github/master |
-| 1abac8f      | removed script                     | 20:24:07/02-12-2025 |                               |
-| c42335d      | no cosmic notifications            | 19:49:55/02-12-2025 |                               |
-| f9f7ee8      | xmpv                               | 19:44:57/02-12-2025 |                               |
-| 03d1311      | back up to usb exclude Videos      | 23:23:59/17-11-2025 |                               |
-| 9239000000.0 | yt-dlp manual install              | 16:27:39/16-11-2025 |                               |
-| b7df096      | ytdlp-mpv                          | 13:13:25/26-08-2025 |                               |
-| 17ecf4b      | ytdlp-mpv exits properly           | 23:53:27/25-08-2025 |                               |
-| f2d0372      | ytdlp-mpv working                  | 23:40:00/25-08-2025 |                               |
-| 4a9e08d      | ytdlp-mpv with mpv terminal output | 20:13:16/25-08-2025 |                               |
+| 969cc95      | removed yt-dlp                   | 13:07:01/09-12-2025 | HEAD -> master, github/master |
+| e33610d      | yt-dlp                           | 13:02:36/09-12-2025 |                               |
+| 55a9dae      | removed yt-dlp using nix version | 22:38:23/03-12-2025 |                               |
+| 1abac8f      | removed script                   | 20:24:07/02-12-2025 |                               |
+| c42335d      | no cosmic notifications          | 19:49:55/02-12-2025 |                               |
+| f9f7ee8      | xmpv                             | 19:44:57/02-12-2025 |                               |
+| 03d1311      | back up to usb exclude Videos    | 23:23:59/17-11-2025 |                               |
+| 9239000000.0 | yt-dlp manual install            | 16:27:39/16-11-2025 |                               |
+| b7df096      | ytdlp-mpv                        | 13:13:25/26-08-2025 |                               |
+| 17ecf4b      | ytdlp-mpv exits properly         | 23:53:27/25-08-2025 |                               |
 #+end_quote
 
 ** debian
@@ -318,7 +318,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| e2cbb8c | yt-dlp                                 | 16:02:17/16-11-2025 | HEAD -> master, github/master, github/HEAD |
+| 793097  | yt-dlp                                 | 12:50:23/09-12-2025 | HEAD -> master, github/master, github/HEAD |
+| e2cbb8c | yt-dlp                                 | 16:02:17/16-11-2025 |                                            |
 | 927239d | removed yt-dlp_linux installing yt-dlp | 16:02:03/16-11-2025 |                                            |
 | 999e5e2 | yt-dlp                                 | 16:06:42/15-11-2025 |                                            |
 | 077e0b5 | yt-dlp                                 | 14:50:47/24-10-2025 |                                            |
@@ -327,5 +328,4 @@ status
 | 8cdd539 | yt-dlp                                 | 22:28:03/28-09-2025 |                                            |
 | e601fbc | yt-dlp                                 | 16:40:19/24-09-2025 |                                            |
 | c6d3eb5 | yt-dlp                                 | 12:57:11/08-09-2025 |                                            |
-| 6fa2584 | yt-dlp                                 | 20:47:28/28-08-2025 |                                            |
 #+end_quote
