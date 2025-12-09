@@ -96,7 +96,7 @@ status
 | 95d2a4e | cosmic desktop         | 16:32:30/03-12-2025 |                               |
 #+end_quote
 
-*** AIR nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -164,7 +164,7 @@ status
 | b81f87a | emacs removed duplicates | 15:56:58/21-11-2025 |                                            |
 #+end_quote
 
-*** AIR nixos-root-cosmic-macbook
+*** nixos-root-cosmic-macbook
 
 github url
 
