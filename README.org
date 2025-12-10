@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d9689eed | ocrmypdf                | 18:32:36/08-12-2025 | HEAD -> master, github/master, github/HEAD |
+| c078c27e | home manager            | 20:42:09/10-12-2025 | HEAD -> master, github/master, github/HEAD |
+| d9689eed | ocrmypdf                | 18:32:36/08-12-2025 |                                            |
 | c984a1e2 | ssh-agent               | 22:38:05/02-12-2025 |                                            |
 | f5e87c09 | yt-dlp deno debian      | 14:54:55/29-11-2025 |                                            |
 | 91f79857 | nix prefetch url        | 16:25:43/20-11-2025 |                                            |
@@ -58,11 +59,10 @@ git status
 | b45b947a | debian 13               | 20:49:03/16-11-2025 |                                            |
 | bbd40e55 | deno debian install     | 16:44:02/15-11-2025 |                                            |
 | 86278bdc | org info                | 19:52:19/08-11-2025 |                                            |
-| 7ce9e67c | emacs                   | 13:45:36/05-11-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8bf799d | removed ocrmypdf       | 18:30:06/08-12-2025 | HEAD -> master, github/master |
-| 43e723d | ocrmypdf               | 14:46:42/08-12-2025 |                               |
-| 4606168 | ocrmypdf               | 14:41:28/08-12-2025 |                               |
-| de68cd6 | cosmic settings        | 15:26:30/07-12-2025 |                               |
-| 6defafd | flake updated          | 13:45:07/07-12-2025 |                               |
-| 2fcc8a9 | whisperx flake updated | 02:13:11/05-12-2025 |                               |
-| cf3eb3a | flake updated          | 19:58:50/04-12-2025 |                               |
-| 56583ef | python flake updated   | 19:28:57/04-12-2025 |                               |
-| ada09c5 | ollama flake updated   | 18:02:15/04-12-2025 |                               |
-| 95d2a4e | cosmic desktop         | 16:32:30/03-12-2025 |                               |
+| 0ef453d          | flake update           | 20:37:34/10-12-2025 | HEAD -> master, github/master |
+| 3fee964          | home-manager update    | 20:19:36/10-12-2025 |                               |
+| 10751000000000.0 | stable url             | 20:15:06/10-12-2025 |                               |
+| 8bf799d          | removed ocrmypdf       | 18:30:06/08-12-2025 |                               |
+| 43e723d          | ocrmypdf               | 14:46:42/08-12-2025 |                               |
+| 4606168          | ocrmypdf               | 14:41:28/08-12-2025 |                               |
+| de68cd6          | cosmic settings        | 15:26:30/07-12-2025 |                               |
+| 6defafd          | flake updated          | 13:45:07/07-12-2025 |                               |
+| 2fcc8a9          | whisperx flake updated | 02:13:11/05-12-2025 |                               |
+| cf3eb3a          | flake updated          | 19:58:50/04-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| c449c99 | flake updated            | 12:58:19/09-12-2025 | HEAD -> master, github/master, github/HEAD |
-| 25ae256 | cosmic settings          | 15:31:06/07-12-2025 |                                            |
-| a341bd0 | flake updated            | 14:04:19/07-12-2025 |                                            |
-| e17ee93 | wlr-which-key            | 15:08:57/04-12-2025 |                                            |
-| df0a64c | flake updated            | 14:36:57/04-12-2025 |                                            |
-| 6f220c3 | cosmic                   | 14:26:17/04-12-2025 |                                            |
-| 7d757d2 | emacs mpd                | 13:58:55/24-11-2025 |                                            |
-| 119fd4f | removed duplicate code   | 21:08:04/21-11-2025 |                                            |
-| 17568ed | removed duplicate code   | 20:56:24/21-11-2025 |                                            |
-| b81f87a | emacs removed duplicates | 15:56:58/21-11-2025 |                                            |
+| 17b0730 | home manager flake     | 20:20:35/10-12-2025 | HEAD -> master, github/master, github/HEAD |
+| c449c99 | flake updated          | 12:58:19/09-12-2025 |                                            |
+| 25ae256 | cosmic settings        | 15:31:06/07-12-2025 |                                            |
+| a341bd0 | flake updated          | 14:04:19/07-12-2025 |                                            |
+| e17ee93 | wlr-which-key          | 15:08:57/04-12-2025 |                                            |
+| df0a64c | flake updated          | 14:36:57/04-12-2025 |                                            |
+| 6f220c3 | cosmic                 | 14:26:17/04-12-2025 |                                            |
+| 7d757d2 | emacs mpd              | 13:58:55/24-11-2025 |                                            |
+| 119fd4f | removed duplicate code | 21:08:04/21-11-2025 |                                            |
+| 17568ed | removed duplicate code | 20:56:24/21-11-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
