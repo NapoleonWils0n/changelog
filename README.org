@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 17b0730 | home manager flake     | 20:20:35/10-12-2025 | HEAD -> master, github/master, github/HEAD |
+| ab56987 | flake updated          | 20:45:47/10-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 17b0730 | home manager flake     | 20:20:35/10-12-2025 |                                            |
 | c449c99 | flake updated          | 12:58:19/09-12-2025 |                                            |
 | 25ae256 | cosmic settings        | 15:31:06/07-12-2025 |                                            |
 | a341bd0 | flake updated          | 14:04:19/07-12-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 6f220c3 | cosmic                 | 14:26:17/04-12-2025 |                                            |
 | 7d757d2 | emacs mpd              | 13:58:55/24-11-2025 |                                            |
 | 119fd4f | removed duplicate code | 21:08:04/21-11-2025 |                                            |
-| 17568ed | removed duplicate code | 20:56:24/21-11-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
