@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,20 +49,20 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c078c27e | home manager            | 20:42:09/10-12-2025 | HEAD -> master, github/master, github/HEAD |
-| d9689eed | ocrmypdf                | 18:32:36/08-12-2025 |                                            |
-| c984a1e2 | ssh-agent               | 22:38:05/02-12-2025 |                                            |
-| f5e87c09 | yt-dlp deno debian      | 14:54:55/29-11-2025 |                                            |
-| 91f79857 | nix prefetch url        | 16:25:43/20-11-2025 |                                            |
-| 021c8723 | ubuntu emacs no postfix | 15:40:38/18-11-2025 |                                            |
-| e507dfd9 | debian install          | 20:58:04/16-11-2025 |                                            |
-| b45b947a | debian 13               | 20:49:03/16-11-2025 |                                            |
-| bbd40e55 | deno debian install     | 16:44:02/15-11-2025 |                                            |
-| 86278bdc | org info                | 19:52:19/08-11-2025 |                                            |
+| 58fbae01 | whisperx working with cuda 13 | 23:42:14/11-12-2025 | HEAD -> master, github/master, github/HEAD |
+| c078c27e | home manager                  | 20:42:09/10-12-2025 |                                            |
+| d9689eed | ocrmypdf                      | 18:32:36/08-12-2025 |                                            |
+| c984a1e2 | ssh-agent                     | 22:38:05/02-12-2025 |                                            |
+| f5e87c09 | yt-dlp deno debian            | 14:54:55/29-11-2025 |                                            |
+| 91f79857 | nix prefetch url              | 16:25:43/20-11-2025 |                                            |
+| 021c8723 | ubuntu emacs no postfix       | 15:40:38/18-11-2025 |                                            |
+| e507dfd9 | debian install                | 20:58:04/16-11-2025 |                                            |
+| b45b947a | debian 13                     | 20:49:03/16-11-2025 |                                            |
+| bbd40e55 | deno debian install           | 16:44:02/15-11-2025 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 5d95182          | whisperx flake updated      | 00:50:25/11-12-2025 | HEAD -> master, github/master |
-| f76436c          | flake updated               | 00:39:31/11-12-2025 |                               |
-| 3323f08          | flake updated               | 23:59:48/10-12-2025 |                               |
-| 6dcfd2a          | reverted home manager state | 23:44:54/10-12-2025 |                               |
-| 42aa904          | ollama flake                | 23:06:57/10-12-2025 |                               |
-| 9cfd9cd          | python flake                | 23:05:34/10-12-2025 |                               |
-| 0ef453d          | flake update                | 20:37:34/10-12-2025 |                               |
-| 3fee964          | home-manager update         | 20:19:36/10-12-2025 |                               |
-| 10751000000000.0 | stable url                  | 20:15:06/10-12-2025 |                               |
-| 8bf799d          | removed ocrmypdf            | 18:30:06/08-12-2025 |                               |
+| ea4f0aa          | whisperx working with cuda 13 | 23:41:53/11-12-2025 | HEAD -> master, github/master |
+| 5d95182          | whisperx flake updated        | 00:50:25/11-12-2025 |                               |
+| f76436c          | flake updated                 | 00:39:31/11-12-2025 |                               |
+| 3323f08          | flake updated                 | 23:59:48/10-12-2025 |                               |
+| 6dcfd2a          | reverted home manager state   | 23:44:54/10-12-2025 |                               |
+| 42aa904          | ollama flake                  | 23:06:57/10-12-2025 |                               |
+| 9cfd9cd          | python flake                  | 23:05:34/10-12-2025 |                               |
+| 0ef453d          | flake update                  | 20:37:34/10-12-2025 |                               |
+| 3fee964          | home-manager update           | 20:19:36/10-12-2025 |                               |
+| 10751000000000.0 | stable url                    | 20:15:06/10-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
