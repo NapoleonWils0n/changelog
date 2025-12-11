@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6dcfd2a          | reverted home manager state | 23:44:54/10-12-2025 | HEAD -> master, github/master |
+| 5d95182          | whisperx flake updated      | 00:50:25/11-12-2025 | HEAD -> master, github/master |
+| f76436c          | flake updated               | 00:39:31/11-12-2025 |                               |
+| 3323f08          | flake updated               | 23:59:48/10-12-2025 |                               |
+| 6dcfd2a          | reverted home manager state | 23:44:54/10-12-2025 |                               |
 | 42aa904          | ollama flake                | 23:06:57/10-12-2025 |                               |
 | 9cfd9cd          | python flake                | 23:05:34/10-12-2025 |                               |
 | 0ef453d          | flake update                | 20:37:34/10-12-2025 |                               |
 | 3fee964          | home-manager update         | 20:19:36/10-12-2025 |                               |
 | 10751000000000.0 | stable url                  | 20:15:06/10-12-2025 |                               |
 | 8bf799d          | removed ocrmypdf            | 18:30:06/08-12-2025 |                               |
-| 43e723d          | ocrmypdf                    | 14:46:42/08-12-2025 |                               |
-| 4606168          | ocrmypdf                    | 14:41:28/08-12-2025 |                               |
-| de68cd6          | cosmic settings             | 15:26:30/07-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 297001a | reverted home manager state | 23:45:45/10-12-2025 | HEAD -> master, github/master, github/HEAD |
-| ab56987 | flake updated               | 20:45:47/10-12-2025 |                                            |
-| 17b0730 | home manager flake          | 20:20:35/10-12-2025 |                                            |
-| c449c99 | flake updated               | 12:58:19/09-12-2025 |                                            |
-| 25ae256 | cosmic settings             | 15:31:06/07-12-2025 |                                            |
-| a341bd0 | flake updated               | 14:04:19/07-12-2025 |                                            |
-| e17ee93 | wlr-which-key               | 15:08:57/04-12-2025 |                                            |
-| df0a64c | flake updated               | 14:36:57/04-12-2025 |                                            |
-| 6f220c3 | cosmic                      | 14:26:17/04-12-2025 |                                            |
-| 7d757d2 | emacs mpd                   | 13:58:55/24-11-2025 |                                            |
+| 52ba739   | nix pkg stable url          | 00:30:52/11-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 98e0eca   | flake update                | 00:19:58/11-12-2025 |                                            |
+| 3.319e+77 | reverted flake              | 00:17:44/11-12-2025 |                                            |
+| 297001a   | reverted home manager state | 23:45:45/10-12-2025 |                                            |
+| ab56987   | flake updated               | 20:45:47/10-12-2025 |                                            |
+| 17b0730   | home manager flake          | 20:20:35/10-12-2025 |                                            |
+| c449c99   | flake updated               | 12:58:19/09-12-2025 |                                            |
+| 25ae256   | cosmic settings             | 15:31:06/07-12-2025 |                                            |
+| a341bd0   | flake updated               | 14:04:19/07-12-2025 |                                            |
+| e17ee93   | wlr-which-key               | 15:08:57/04-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
