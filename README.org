@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| eced639 | deepfilternet flake           | 23:51:24/12-12-2025 | HEAD -> master, github/master |
+| ab6120b | deepfilternet                 | 23:56:27/12-12-2025 | HEAD -> master, github/master |
+| eced639 | deepfilternet flake           | 23:51:24/12-12-2025 |                               |
 | ea4f0aa | whisperx working with cuda 13 | 23:41:53/11-12-2025 |                               |
 | 5d95182 | whisperx flake updated        | 00:50:25/11-12-2025 |                               |
 | f76436c | flake updated                 | 00:39:31/11-12-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 42aa904 | ollama flake                  | 23:06:57/10-12-2025 |                               |
 | 9cfd9cd | python flake                  | 23:05:34/10-12-2025 |                               |
 | 0ef453d | flake update                  | 20:37:34/10-12-2025 |                               |
-| 3fee964 | home-manager update           | 20:19:36/10-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
