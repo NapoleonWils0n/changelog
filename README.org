@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 158cf547 | whisperx                      | 14:18:55/14-12-2025 | HEAD -> master, github/master, github/HEAD |
-| 84c506c0 | doom-modeline-now-playing     | 17:42:50/13-12-2025 |                                            |
-| dadf0d42 | deepfilternet                 | 23:43:22/12-12-2025 |                                            |
-| 58fbae01 | whisperx working with cuda 13 | 23:42:14/11-12-2025 |                                            |
-| c078c27e | home manager                  | 20:42:09/10-12-2025 |                                            |
-| d9689eed | ocrmypdf                      | 18:32:36/08-12-2025 |                                            |
-| c984a1e2 | ssh-agent                     | 22:38:05/02-12-2025 |                                            |
-| f5e87c09 | yt-dlp deno debian            | 14:54:55/29-11-2025 |                                            |
-| 91f79857 | nix prefetch url              | 16:25:43/20-11-2025 |                                            |
-| 021c8723 | ubuntu emacs no postfix       | 15:40:38/18-11-2025 |                                            |
+| f2848d7d | doom modeline now playing invlaid slot fix | 23:18:04/14-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 158cf547 | whisperx                                   | 14:18:55/14-12-2025 |                                            |
+| 84c506c0 | doom-modeline-now-playing                  | 17:42:50/13-12-2025 |                                            |
+| dadf0d42 | deepfilternet                              | 23:43:22/12-12-2025 |                                            |
+| 58fbae01 | whisperx working with cuda 13              | 23:42:14/11-12-2025 |                                            |
+| c078c27e | home manager                               | 20:42:09/10-12-2025 |                                            |
+| d9689eed | ocrmypdf                                   | 18:32:36/08-12-2025 |                                            |
+| c984a1e2 | ssh-agent                                  | 22:38:05/02-12-2025 |                                            |
+| f5e87c09 | yt-dlp deno debian                         | 14:54:55/29-11-2025 |                                            |
+| 91f79857 | nix prefetch url                           | 16:25:43/20-11-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| d6e3063 | emacs now playing                 | 22:25:33/14-12-2025 | HEAD -> master, github/master |
-| b34e299 | whisperx flake no force reinstall | 14:05:42/14-12-2025 |                               |
-| 42fd28e | doom-modeline-now-playing         | 17:44:13/13-12-2025 |                               |
-| ab6120b | deepfilternet                     | 23:56:27/12-12-2025 |                               |
-| eced639 | deepfilternet flake               | 23:51:24/12-12-2025 |                               |
-| ea4f0aa | whisperx working with cuda 13     | 23:41:53/11-12-2025 |                               |
-| 5d95182 | whisperx flake updated            | 00:50:25/11-12-2025 |                               |
-| f76436c | flake updated                     | 00:39:31/11-12-2025 |                               |
-| 3323f08 | flake updated                     | 23:59:48/10-12-2025 |                               |
-| 6dcfd2a | reverted home manager state       | 23:44:54/10-12-2025 |                               |
+| 1.0e+INF | doom modeline now playing fix for invalid slot | 23:10:25/14-12-2025 | HEAD -> master, github/master |
+| d6e3063  | emacs now playing                              | 22:25:33/14-12-2025 |                               |
+| b34e299  | whisperx flake no force reinstall              | 14:05:42/14-12-2025 |                               |
+| 42fd28e  | doom-modeline-now-playing                      | 17:44:13/13-12-2025 |                               |
+| ab6120b  | deepfilternet                                  | 23:56:27/12-12-2025 |                               |
+| eced639  | deepfilternet flake                            | 23:51:24/12-12-2025 |                               |
+| ea4f0aa  | whisperx working with cuda 13                  | 23:41:53/11-12-2025 |                               |
+| 5d95182  | whisperx flake updated                         | 00:50:25/11-12-2025 |                               |
+| f76436c  | flake updated                                  | 00:39:31/11-12-2025 |                               |
+| 3323f08  | flake updated                                  | 23:59:48/10-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 7246f08   | doom-modeline-now-playing   | 17:47:19/13-12-2025 | HEAD -> master, github/master, github/HEAD |
-| 52ba739   | nix pkg stable url          | 00:30:52/11-12-2025 |                                            |
-| 98e0eca   | flake update                | 00:19:58/11-12-2025 |                                            |
-| 3.319e+77 | reverted flake              | 00:17:44/11-12-2025 |                                            |
-| 297001a   | reverted home manager state | 23:45:45/10-12-2025 |                                            |
-| ab56987   | flake updated               | 20:45:47/10-12-2025 |                                            |
-| 17b0730   | home manager flake          | 20:20:35/10-12-2025 |                                            |
-| c449c99   | flake updated               | 12:58:19/09-12-2025 |                                            |
-| 25ae256   | cosmic settings             | 15:31:06/07-12-2025 |                                            |
-| a341bd0   | flake updated               | 14:04:19/07-12-2025 |                                            |
+| 856445a   | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 7246f08   | doom-modeline-now-playing                  | 17:47:19/13-12-2025 |                                            |
+| 52ba739   | nix pkg stable url                         | 00:30:52/11-12-2025 |                                            |
+| 98e0eca   | flake update                               | 00:19:58/11-12-2025 |                                            |
+| 3.319e+77 | reverted flake                             | 00:17:44/11-12-2025 |                                            |
+| 297001a   | reverted home manager state                | 23:45:45/10-12-2025 |                                            |
+| ab56987   | flake updated                              | 20:45:47/10-12-2025 |                                            |
+| 17b0730   | home manager flake                         | 20:20:35/10-12-2025 |                                            |
+| c449c99   | flake updated                              | 12:58:19/09-12-2025 |                                            |
+| 25ae256   | cosmic settings                            | 15:31:06/07-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -230,7 +230,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -252,16 +252,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 835ab61   | doom-modeline-now-playing | 17:49:16/13-12-2025 | HEAD -> master, github/master, github/HEAD |
-| f4cbc02   | removed duplicate code    | 21:08:56/21-11-2025 |                                            |
-| 8.33e+235 | removed duplicate code    | 20:54:31/21-11-2025 |                                            |
-| 9716734   | emacs removed duplicates  | 15:59:16/21-11-2025 |                                            |
-| 0daa0c5   | deno zshenv               | 16:41:45/15-11-2025 |                                            |
-| 073fead   | org show2levels           | 20:56:02/13-11-2025 |                                            |
-| 221227f   | doc layout                | 20:34:45/13-11-2025 |                                            |
-| 4619d8f   | removed tree and tags     | 20:16:50/13-11-2025 |                                            |
-| 6094ff3   | fixed typo                | 00:40:06/10-11-2025 |                                            |
-| df5956d   | tangle headings           | 00:37:18/10-11-2025 |                                            |
+| 700cb76   | doom modeline now playing invalid slot fix | 23:15:21/14-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 835ab61   | doom-modeline-now-playing                  | 17:49:16/13-12-2025 |                                            |
+| f4cbc02   | removed duplicate code                     | 21:08:56/21-11-2025 |                                            |
+| 8.33e+235 | removed duplicate code                     | 20:54:31/21-11-2025 |                                            |
+| 9716734   | emacs removed duplicates                   | 15:59:16/21-11-2025 |                                            |
+| 0daa0c5   | deno zshenv                                | 16:41:45/15-11-2025 |                                            |
+| 073fead   | org show2levels                            | 20:56:02/13-11-2025 |                                            |
+| 221227f   | doc layout                                 | 20:34:45/13-11-2025 |                                            |
+| 4619d8f   | removed tree and tags                      | 20:16:50/13-11-2025 |                                            |
+| 6094ff3   | fixed typo                                 | 00:40:06/10-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
