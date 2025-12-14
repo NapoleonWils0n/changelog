@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 42fd28e | doom-modeline-now-playing     | 17:44:13/13-12-2025 | HEAD -> master, github/master |
-| ab6120b | deepfilternet                 | 23:56:27/12-12-2025 |                               |
-| eced639 | deepfilternet flake           | 23:51:24/12-12-2025 |                               |
-| ea4f0aa | whisperx working with cuda 13 | 23:41:53/11-12-2025 |                               |
-| 5d95182 | whisperx flake updated        | 00:50:25/11-12-2025 |                               |
-| f76436c | flake updated                 | 00:39:31/11-12-2025 |                               |
-| 3323f08 | flake updated                 | 23:59:48/10-12-2025 |                               |
-| 6dcfd2a | reverted home manager state   | 23:44:54/10-12-2025 |                               |
-| 42aa904 | ollama flake                  | 23:06:57/10-12-2025 |                               |
-| 9cfd9cd | python flake                  | 23:05:34/10-12-2025 |                               |
+| b34e299 | whisperx flake no force reinstall | 14:05:42/14-12-2025 | HEAD -> master, github/master |
+| 42fd28e | doom-modeline-now-playing         | 17:44:13/13-12-2025 |                               |
+| ab6120b | deepfilternet                     | 23:56:27/12-12-2025 |                               |
+| eced639 | deepfilternet flake               | 23:51:24/12-12-2025 |                               |
+| ea4f0aa | whisperx working with cuda 13     | 23:41:53/11-12-2025 |                               |
+| 5d95182 | whisperx flake updated            | 00:50:25/11-12-2025 |                               |
+| f76436c | flake updated                     | 00:39:31/11-12-2025 |                               |
+| 3323f08 | flake updated                     | 23:59:48/10-12-2025 |                               |
+| 6dcfd2a | reverted home manager state       | 23:44:54/10-12-2025 |                               |
+| 42aa904 | ollama flake                      | 23:06:57/10-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
