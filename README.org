@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 84c506c0 | doom-modeline-now-playing     | 17:42:50/13-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 158cf547 | whisperx                      | 14:18:55/14-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 84c506c0 | doom-modeline-now-playing     | 17:42:50/13-12-2025 |                                            |
 | dadf0d42 | deepfilternet                 | 23:43:22/12-12-2025 |                                            |
 | 58fbae01 | whisperx working with cuda 13 | 23:42:14/11-12-2025 |                                            |
 | c078c27e | home manager                  | 20:42:09/10-12-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | f5e87c09 | yt-dlp deno debian            | 14:54:55/29-11-2025 |                                            |
 | 91f79857 | nix prefetch url              | 16:25:43/20-11-2025 |                                            |
 | 021c8723 | ubuntu emacs no postfix       | 15:40:38/18-11-2025 |                                            |
-| e507dfd9 | debian install                | 20:58:04/16-11-2025 |                                            |
 #+end_quote
 
 ** nixos
