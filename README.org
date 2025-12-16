@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 2419081  | ollama gptel rnj-1                             | 17:38:23/16-12-2025 | HEAD -> master, github/master |
+| a7cc9c0  | firefox settings                               | 23:17:15/16-12-2025 | HEAD -> master, github/master |
+| 2419081  | ollama gptel rnj-1                             | 17:38:23/16-12-2025 |                               |
 | a134063  | ollama flake                                   | 13:54:54/16-12-2025 |                               |
 | 0674bf2  | flake updated                                  | 12:54:52/16-12-2025 |                               |
 | f8ff396  | doom modeline now playing                      | 22:31:58/15-12-2025 |                               |
@@ -93,7 +94,6 @@ status
 | b34e299  | whisperx flake no force reinstall              | 14:05:42/14-12-2025 |                               |
 | 42fd28e  | doom-modeline-now-playing                      | 17:44:13/13-12-2025 |                               |
 | ab6120b  | deepfilternet                                  | 23:56:27/12-12-2025 |                               |
-| eced639  | deepfilternet flake                            | 23:51:24/12-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| af614f7   | flake updated                              | 13:35:39/16-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 579dd0b   | firefox settings                           | 23:23:53/16-12-2025 | HEAD -> master, github/master, github/HEAD |
+| af614f7   | flake updated                              | 13:35:39/16-12-2025 |                                            |
 | 23f3b6f   | doom modeline nowplaying                   | 22:32:52/15-12-2025 |                                            |
 | 856445a   | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
 | 7246f08   | doom-modeline-now-playing                  | 17:47:19/13-12-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 3.319e+77 | reverted flake                             | 00:17:44/11-12-2025 |                                            |
 | 297001a   | reverted home manager state                | 23:45:45/10-12-2025 |                                            |
 | ab56987   | flake updated                              | 20:45:47/10-12-2025 |                                            |
-| 17b0730   | home manager flake                         | 20:20:35/10-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
