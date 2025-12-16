@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f8ff396  | doom modeline now playing                      | 22:31:58/15-12-2025 | HEAD -> master, github/master |
+| 0674bf2  | flake updated                                  | 12:54:52/16-12-2025 | HEAD -> master, github/master |
+| f8ff396  | doom modeline now playing                      | 22:31:58/15-12-2025 |                               |
 | 1.0e+INF | doom modeline now playing fix for invalid slot | 23:10:25/14-12-2025 |                               |
 | d6e3063  | emacs now playing                              | 22:25:33/14-12-2025 |                               |
 | b34e299  | whisperx flake no force reinstall              | 14:05:42/14-12-2025 |                               |
@@ -93,7 +94,6 @@ status
 | eced639  | deepfilternet flake                            | 23:51:24/12-12-2025 |                               |
 | ea4f0aa  | whisperx working with cuda 13                  | 23:41:53/11-12-2025 |                               |
 | 5d95182  | whisperx flake updated                         | 00:50:25/11-12-2025 |                               |
-| f76436c  | flake updated                                  | 00:39:31/11-12-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
