@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 5d95182  | whisperx flake updated                         | 00:50:25/11-12-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 23f3b6f   | doom modeline nowplaying                   | 22:32:52/15-12-2025 | HEAD -> master, github/master, github/HEAD |
+| af614f7   | flake updated                              | 13:35:39/16-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 23f3b6f   | doom modeline nowplaying                   | 22:32:52/15-12-2025 |                                            |
 | 856445a   | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
 | 7246f08   | doom-modeline-now-playing                  | 17:47:19/13-12-2025 |                                            |
 | 52ba739   | nix pkg stable url                         | 00:30:52/11-12-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 297001a   | reverted home manager state                | 23:45:45/10-12-2025 |                                            |
 | ab56987   | flake updated                              | 20:45:47/10-12-2025 |                                            |
 | 17b0730   | home manager flake                         | 20:20:35/10-12-2025 |                                            |
-| c449c99   | flake updated                              | 12:58:19/09-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 5fabb4b | cosmic beta 9             | 16:42:51/09-12-2025 | HEAD -> master, github/master |
+| ff30304 | flake updated             | 13:18:36/16-12-2025 | HEAD -> master, github/master |
+| 5fabb4b | cosmic beta 9             | 16:42:51/09-12-2025 |                               |
 | 831e54f | password                  | 14:59:54/04-12-2025 |                               |
 | bd3d99e | cosmic desktop            | 14:31:35/04-12-2025 |                               |
 | a84805a | services                  | 21:22:43/30-11-2025 |                               |
