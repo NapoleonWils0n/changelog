@@ -96,7 +96,7 @@ status
 | f76436c  | flake updated                                  | 00:39:31/11-12-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 4744cb8 | cosmic beta 9                     | 16:31:40/09-12-2025 | HEAD -> master, github/master |
-| 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 |                               |
-| 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
-| bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
-| c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
-| dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                               |
-| 95bad3a | cosmic clipboard                  | 16:13:30/02-12-2025 |                               |
-| c6b245a | cosmic scheduler                  | 15:40:03/02-12-2025 |                               |
-| 2355060 | flake updated                     | 12:42:11/02-12-2025 |                               |
-| 39f0393 | cosmic                            | 12:39:48/02-12-2025 |                               |
+| b27185c | cosmic                            | 12:03:40/16-12-2025 | HEAD -> master |
+| 4744cb8 | cosmic beta 9                     | 16:31:40/09-12-2025 | github/master  |
+| 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 |                |
+| 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                |
+| bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                |
+| c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                |
+| dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                |
+| 95bad3a | cosmic clipboard                  | 16:13:30/02-12-2025 |                |
+| c6b245a | cosmic scheduler                  | 15:40:03/02-12-2025 |                |
+| 2355060 | flake updated                     | 12:42:11/02-12-2025 |                |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
