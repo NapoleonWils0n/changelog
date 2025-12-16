@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| a134063  | ollama flake                                   | 13:54:54/16-12-2025 | HEAD -> master, github/master |
+| 2419081  | ollama gptel rnj-1                             | 17:38:23/16-12-2025 | HEAD -> master, github/master |
+| a134063  | ollama flake                                   | 13:54:54/16-12-2025 |                               |
 | 0674bf2  | flake updated                                  | 12:54:52/16-12-2025 |                               |
 | f8ff396  | doom modeline now playing                      | 22:31:58/15-12-2025 |                               |
 | 1.0e+INF | doom modeline now playing fix for invalid slot | 23:10:25/14-12-2025 |                               |
@@ -93,7 +94,6 @@ status
 | 42fd28e  | doom-modeline-now-playing                      | 17:44:13/13-12-2025 |                               |
 | ab6120b  | deepfilternet                                  | 23:56:27/12-12-2025 |                               |
 | eced639  | deepfilternet flake                            | 23:51:24/12-12-2025 |                               |
-| ea4f0aa  | whisperx working with cuda 13                  | 23:41:53/11-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
