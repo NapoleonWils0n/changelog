@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| a7cc9c0  | firefox settings                               | 23:17:15/16-12-2025 | HEAD -> master, github/master |
+| 3d65de4  | emacs gptel gemini 3                           | 20:56:37/17-12-2025 | HEAD -> master, github/master |
+| a7cc9c0  | firefox settings                               | 23:17:15/16-12-2025 |                               |
 | 2419081  | ollama gptel rnj-1                             | 17:38:23/16-12-2025 |                               |
 | a134063  | ollama flake                                   | 13:54:54/16-12-2025 |                               |
 | 0674bf2  | flake updated                                  | 12:54:52/16-12-2025 |                               |
@@ -93,7 +94,6 @@ status
 | d6e3063  | emacs now playing                              | 22:25:33/14-12-2025 |                               |
 | b34e299  | whisperx flake no force reinstall              | 14:05:42/14-12-2025 |                               |
 | 42fd28e  | doom-modeline-now-playing                      | 17:44:13/13-12-2025 |                               |
-| ab6120b  | deepfilternet                                  | 23:56:27/12-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 2355060 | flake updated                     | 12:42:11/02-12-2025 |                |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 579dd0b   | firefox settings                           | 23:23:53/16-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 8ee2492   | emacs gptel gemini 3                       | 20:57:59/17-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 579dd0b   | firefox settings                           | 23:23:53/16-12-2025 |                                            |
 | af614f7   | flake updated                              | 13:35:39/16-12-2025 |                                            |
 | 23f3b6f   | doom modeline nowplaying                   | 22:32:52/15-12-2025 |                                            |
 | 856445a   | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 98e0eca   | flake update                               | 00:19:58/11-12-2025 |                                            |
 | 3.319e+77 | reverted flake                             | 00:17:44/11-12-2025 |                                            |
 | 297001a   | reverted home manager state                | 23:45:45/10-12-2025 |                                            |
-| ab56987   | flake updated                              | 20:45:47/10-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -231,7 +231,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -253,7 +253,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 16a7333   | doom modeline now playing                  | 22:33:37/15-12-2025 | HEAD -> master, github/master, github/HEAD |
+| ef49516   | emacs gptel gemini 3                       | 20:59:06/17-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 16a7333   | doom modeline now playing                  | 22:33:37/15-12-2025 |                                            |
 | 700cb76   | doom modeline now playing invalid slot fix | 23:15:21/14-12-2025 |                                            |
 | 835ab61   | doom-modeline-now-playing                  | 17:49:16/13-12-2025 |                                            |
 | f4cbc02   | removed duplicate code                     | 21:08:56/21-11-2025 |                                            |
@@ -262,7 +263,6 @@ status
 | 0daa0c5   | deno zshenv                                | 16:41:45/15-11-2025 |                                            |
 | 073fead   | org show2levels                            | 20:56:02/13-11-2025 |                                            |
 | 221227f   | doc layout                                 | 20:34:45/13-11-2025 |                                            |
-| 4619d8f   | removed tree and tags                      | 20:16:50/13-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
