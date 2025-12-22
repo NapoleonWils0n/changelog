@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c765ef35 | nixos rust flake                           | 19:36:00/22-12-2025 | HEAD -> master, github/master, github/HEAD |
+| edfb86cb | nixos rust flake                           | 19:43:01/22-12-2025 | HEAD -> master, github/master, github/HEAD |
+| c765ef35 | nixos rust flake                           | 19:36:00/22-12-2025 |                                            |
 | 9a4b5189 | nixos rust flake                           | 18:10:19/22-12-2025 |                                            |
 | 7b5e8d26 | mogrify png to jpg                         | 21:58:23/18-12-2025 |                                            |
 | 1a4fee43 | doom modeline now playing                  | 22:34:09/15-12-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 158cf547 | whisperx                                   | 14:18:55/14-12-2025 |                                            |
 | 84c506c0 | doom-modeline-now-playing                  | 17:42:50/13-12-2025 |                                            |
 | dadf0d42 | deepfilternet                              | 23:43:22/12-12-2025 |                                            |
-| 58fbae01 | whisperx working with cuda 13              | 23:42:14/11-12-2025 |                                            |
 #+end_quote
 
 ** nixos
