@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 37442aa3 | nixos rust bin dir for scripts             | 20:09:30/22-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 01002a82 | dired show hidden files                    | 22:23:12/22-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 37442aa3 | nixos rust bin dir for scripts             | 20:09:30/22-12-2025 |                                            |
 | edfb86cb | nixos rust flake                           | 19:43:01/22-12-2025 |                                            |
 | c765ef35 | nixos rust flake                           | 19:36:00/22-12-2025 |                                            |
 | 9a4b5189 | nixos rust flake                           | 18:10:19/22-12-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 25c64364 | emacs query replace                        | 19:16:04/15-12-2025 |                                            |
 | f2848d7d | doom modeline now playing invlaid slot fix | 23:18:04/14-12-2025 |                                            |
 | 158cf547 | whisperx                                   | 14:18:55/14-12-2025 |                                            |
-| 84c506c0 | doom-modeline-now-playing                  | 17:42:50/13-12-2025 |                                            |
 #+end_quote
 
 ** nixos
