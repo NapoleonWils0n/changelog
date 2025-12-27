@@ -196,7 +196,7 @@ status
 | d22ad80 | nixos root cosmic desktop | 20:40:00/30-11-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -218,16 +218,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 969cc95      | removed yt-dlp                   | 13:07:01/09-12-2025 | HEAD -> master, github/master |
-| e33610d      | yt-dlp                           | 13:02:36/09-12-2025 |                               |
-| 55a9dae      | removed yt-dlp using nix version | 22:38:23/03-12-2025 |                               |
-| 1abac8f      | removed script                   | 20:24:07/02-12-2025 |                               |
-| c42335d      | no cosmic notifications          | 19:49:55/02-12-2025 |                               |
-| f9f7ee8      | xmpv                             | 19:44:57/02-12-2025 |                               |
-| 03d1311      | back up to usb exclude Videos    | 23:23:59/17-11-2025 |                               |
-| 9239000000.0 | yt-dlp manual install            | 16:27:39/16-11-2025 |                               |
-| b7df096      | ytdlp-mpv                        | 13:13:25/26-08-2025 |                               |
-| 17ecf4b      | ytdlp-mpv exits properly         | 23:53:27/25-08-2025 |                               |
+| 4a1218d      | backup to usb dont exclude videos | 15:52:14/27-12-2025 | HEAD -> master, github/master |
+| 969cc95      | removed yt-dlp                    | 13:07:01/09-12-2025 |                               |
+| e33610d      | yt-dlp                            | 13:02:36/09-12-2025 |                               |
+| 55a9dae      | removed yt-dlp using nix version  | 22:38:23/03-12-2025 |                               |
+| 1abac8f      | removed script                    | 20:24:07/02-12-2025 |                               |
+| c42335d      | no cosmic notifications           | 19:49:55/02-12-2025 |                               |
+| f9f7ee8      | xmpv                              | 19:44:57/02-12-2025 |                               |
+| 03d1311      | back up to usb exclude Videos     | 23:23:59/17-11-2025 |                               |
+| 9239000000.0 | yt-dlp manual install             | 16:27:39/16-11-2025 |                               |
+| b7df096      | ytdlp-mpv                         | 13:13:25/26-08-2025 |                               |
 #+end_quote
 
 ** debian
