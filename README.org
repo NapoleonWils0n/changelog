@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 2355060 | flake updated                     | 12:42:11/02-12-2025 |                |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** nixos-dotfiles-macbook-air
 
 github url
 
@@ -196,7 +196,7 @@ status
 | d22ad80 | nixos root cosmic desktop | 20:40:00/30-11-2025 |                               |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -231,7 +231,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
