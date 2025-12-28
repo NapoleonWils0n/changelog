@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 0a6ab5b  | virt manager                                   | 19:23:58/28-12-2025 | HEAD -> master, github/master |
-| bdb6f8d  | export SDL_VIDEODRIVER=wayland for ffplay      | 23:25:54/26-12-2025 |                               |
-| 9fd172a  | emacs rust mode                                | 19:07:34/22-12-2025 |                               |
-| 3d65de4  | emacs gptel gemini 3                           | 20:56:37/17-12-2025 |                               |
-| a7cc9c0  | firefox settings                               | 23:17:15/16-12-2025 |                               |
-| 2419081  | ollama gptel rnj-1                             | 17:38:23/16-12-2025 |                               |
-| a134063  | ollama flake                                   | 13:54:54/16-12-2025 |                               |
-| 0674bf2  | flake updated                                  | 12:54:52/16-12-2025 |                               |
-| f8ff396  | doom modeline now playing                      | 22:31:58/15-12-2025 |                               |
-| 1.0e+INF | doom modeline now playing fix for invalid slot | 23:10:25/14-12-2025 |                               |
+| cf5bdd9 | nix flakes updated                        | 21:34:19/28-12-2025 | HEAD -> master, github/master |
+| 1aa7554 | flake updated                             | 19:51:57/28-12-2025 |                               |
+| 0a6ab5b | virt manager                              | 19:23:58/28-12-2025 |                               |
+| bdb6f8d | export SDL_VIDEODRIVER=wayland for ffplay | 23:25:54/26-12-2025 |                               |
+| 9fd172a | emacs rust mode                           | 19:07:34/22-12-2025 |                               |
+| 3d65de4 | emacs gptel gemini 3                      | 20:56:37/17-12-2025 |                               |
+| a7cc9c0 | firefox settings                          | 23:17:15/16-12-2025 |                               |
+| 2419081 | ollama gptel rnj-1                        | 17:38:23/16-12-2025 |                               |
+| a134063 | ollama flake                              | 13:54:54/16-12-2025 |                               |
+| 0674bf2 | flake updated                             | 12:54:52/16-12-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
