@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b1caac43 | nixos libvirt                  | 21:54:43/28-12-2025 | HEAD -> master, github/master, github/HEAD |
+| a672f01e | nixos libvirt                  | 22:29:46/28-12-2025 | HEAD -> master, github/master, github/HEAD |
+| b1caac43 | nixos libvirt                  | 21:54:43/28-12-2025 |                                            |
 | 504f547b | nixos libvirt                  | 21:53:22/28-12-2025 |                                            |
 | 01002a82 | dired show hidden files        | 22:23:12/22-12-2025 |                                            |
 | 37442aa3 | nixos rust bin dir for scripts | 20:09:30/22-12-2025 |                                            |
@@ -58,7 +59,6 @@ git status
 | 9a4b5189 | nixos rust flake               | 18:10:19/22-12-2025 |                                            |
 | 7b5e8d26 | mogrify png to jpg             | 21:58:23/18-12-2025 |                                            |
 | 1a4fee43 | doom modeline now playing      | 22:34:09/15-12-2025 |                                            |
-| 25c64364 | emacs query replace            | 19:16:04/15-12-2025 |                                            |
 #+end_quote
 
 ** nixos
