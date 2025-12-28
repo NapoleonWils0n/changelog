@@ -130,7 +130,7 @@ status
 | dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** TODO nixos-dotfiles-macbook-air
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 3.319e+77 | reverted flake                             | 00:17:44/11-12-2025 |                                            |
 #+end_quote
 
-*** XPS nixos-root-cosmic-macbook
+*** TODO nixos-root-cosmic-macbook
 
 github url
 
