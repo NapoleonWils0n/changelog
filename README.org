@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| bdb6f8d  | export SDL_VIDEODRIVER=wayland for ffplay      | 23:25:54/26-12-2025 | HEAD -> master, github/master |
+| 0a6ab5b  | virt manager                                   | 19:23:58/28-12-2025 | HEAD -> master, github/master |
+| bdb6f8d  | export SDL_VIDEODRIVER=wayland for ffplay      | 23:25:54/26-12-2025 |                               |
 | 9fd172a  | emacs rust mode                                | 19:07:34/22-12-2025 |                               |
 | 3d65de4  | emacs gptel gemini 3                           | 20:56:37/17-12-2025 |                               |
 | a7cc9c0  | firefox settings                               | 23:17:15/16-12-2025 |                               |
@@ -93,10 +94,9 @@ status
 | 0674bf2  | flake updated                                  | 12:54:52/16-12-2025 |                               |
 | f8ff396  | doom modeline now playing                      | 22:31:58/15-12-2025 |                               |
 | 1.0e+INF | doom modeline now playing fix for invalid slot | 23:10:25/14-12-2025 |                               |
-| d6e3063  | emacs now playing                              | 22:25:33/14-12-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| b27185c | cosmic                            | 12:03:40/16-12-2025 | HEAD -> master |
-| 4744cb8 | cosmic beta 9                     | 16:31:40/09-12-2025 | github/master  |
-| 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 |                |
-| 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                |
-| bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                |
-| c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                |
-| dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                |
-| 95bad3a | cosmic clipboard                  | 16:13:30/02-12-2025 |                |
-| c6b245a | cosmic scheduler                  | 15:40:03/02-12-2025 |                |
-| 2355060 | flake updated                     | 12:42:11/02-12-2025 |                |
+| 39ad023 | ovmf fix                          | 19:18:01/28-12-2025 | HEAD -> master, github/master |
+| b5036fd | flake updated                     | 19:16:22/28-12-2025 |                               |
+| 6f3acad | libvirt                           | 19:14:46/28-12-2025 |                               |
+| b27185c | cosmic                            | 12:03:40/16-12-2025 |                               |
+| 4744cb8 | cosmic beta 9                     | 16:31:40/09-12-2025 |                               |
+| 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 |                               |
+| 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
+| bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
+| c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
+| dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
@@ -164,7 +164,7 @@ status
 | 3.319e+77 | reverted flake                             | 00:17:44/11-12-2025 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** XPS nixos-root-cosmic-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| ff30304 | flake updated             | 13:18:36/16-12-2025 | HEAD -> master, github/master |
+| 9906c23 | extragroups quotes        | 19:26:11/28-12-2025 | HEAD -> master, github/master |
+| ff30304 | flake updated             | 13:18:36/16-12-2025 |                               |
 | 5fabb4b | cosmic beta 9             | 16:42:51/09-12-2025 |                               |
 | 831e54f | password                  | 14:59:54/04-12-2025 |                               |
 | bd3d99e | cosmic desktop            | 14:31:35/04-12-2025 |                               |
