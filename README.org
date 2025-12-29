@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 9e0be36a | nixos windows 11 install       | 16:08:10/29-12-2025 | HEAD -> master, github/master, github/HEAD |
-| 39014af9 | windows 11 installed           | 15:08:23/29-12-2025 |                                            |
-| 0bc5713c | nixos vit manager windows      | 13:40:38/29-12-2025 |                                            |
-| 3cc39a5a | nixos virt manager windows     | 13:29:34/29-12-2025 |                                            |
-| 8424574b | nixos libvirt pool             | 12:03:22/29-12-2025 |                                            |
-| a672f01e | nixos libvirt                  | 22:29:46/28-12-2025 |                                            |
-| b1caac43 | nixos libvirt                  | 21:54:43/28-12-2025 |                                            |
-| 504f547b | nixos libvirt                  | 21:53:22/28-12-2025 |                                            |
-| 01002a82 | dired show hidden files        | 22:23:12/22-12-2025 |                                            |
-| 37442aa3 | nixos rust bin dir for scripts | 20:09:30/22-12-2025 |                                            |
+| 9c75ab36 | nixos windows 11 install   | 16:09:36/29-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 9e0be36a | nixos windows 11 install   | 16:08:10/29-12-2025 |                                            |
+| 39014af9 | windows 11 installed       | 15:08:23/29-12-2025 |                                            |
+| 0bc5713c | nixos vit manager windows  | 13:40:38/29-12-2025 |                                            |
+| 3cc39a5a | nixos virt manager windows | 13:29:34/29-12-2025 |                                            |
+| 8424574b | nixos libvirt pool         | 12:03:22/29-12-2025 |                                            |
+| a672f01e | nixos libvirt              | 22:29:46/28-12-2025 |                                            |
+| b1caac43 | nixos libvirt              | 21:54:43/28-12-2025 |                                            |
+| 504f547b | nixos libvirt              | 21:53:22/28-12-2025 |                                            |
+| 01002a82 | dired show hidden files    | 22:23:12/22-12-2025 |                                            |
 #+end_quote
 
 ** nixos
