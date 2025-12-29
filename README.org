@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 0674bf2 | flake updated                             | 12:54:52/16-12-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** AIR nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook-air
+*** AIR nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,19 +152,19 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| f961b1f   | export SDL_VIDEODRIVER=wayland for ffplay  | 23:27:16/26-12-2025 | HEAD -> master, github/master, github/HEAD |
-| 8ee2492   | emacs gptel gemini 3                       | 20:57:59/17-12-2025 |                                            |
-| 579dd0b   | firefox settings                           | 23:23:53/16-12-2025 |                                            |
-| af614f7   | flake updated                              | 13:35:39/16-12-2025 |                                            |
-| 23f3b6f   | doom modeline nowplaying                   | 22:32:52/15-12-2025 |                                            |
-| 856445a   | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
-| 7246f08   | doom-modeline-now-playing                  | 17:47:19/13-12-2025 |                                            |
-| 52ba739   | nix pkg stable url                         | 00:30:52/11-12-2025 |                                            |
-| 98e0eca   | flake update                               | 00:19:58/11-12-2025 |                                            |
-| 3.319e+77 | reverted flake                             | 00:17:44/11-12-2025 |                                            |
+| 039f213 | flake updated                              | 17:16:19/29-12-2025 | HEAD -> master, github/master, github/HEAD |
+| f961b1f | export SDL_VIDEODRIVER=wayland for ffplay  | 23:27:16/26-12-2025 |                                            |
+| 8ee2492 | emacs gptel gemini 3                       | 20:57:59/17-12-2025 |                                            |
+| 579dd0b | firefox settings                           | 23:23:53/16-12-2025 |                                            |
+| af614f7 | flake updated                              | 13:35:39/16-12-2025 |                                            |
+| 23f3b6f | doom modeline nowplaying                   | 22:32:52/15-12-2025 |                                            |
+| 856445a | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
+| 7246f08 | doom-modeline-now-playing                  | 17:47:19/13-12-2025 |                                            |
+| 52ba739 | nix pkg stable url                         | 00:30:52/11-12-2025 |                                            |
+| 98e0eca | flake update                               | 00:19:58/11-12-2025 |                                            |
 #+end_quote
 
-*** TODO nixos-root-cosmic-macbook
+*** AIR nixos-root-cosmic-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 9906c23 | extragroups quotes        | 19:26:11/28-12-2025 | HEAD -> master, github/master |
+| e26ab02 | flake updated             | 16:36:43/29-12-2025 | HEAD -> master, github/master |
+| 9906c23 | extragroups quotes        | 19:26:11/28-12-2025 |                               |
 | ff30304 | flake updated             | 13:18:36/16-12-2025 |                               |
 | 5fabb4b | cosmic beta 9             | 16:42:51/09-12-2025 |                               |
 | 831e54f | password                  | 14:59:54/04-12-2025 |                               |
@@ -197,7 +198,7 @@ status
 | d22ad80 | nixos root cosmic desktop | 20:40:00/30-11-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** AIR nixos-bin
 
 github url
 
@@ -219,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 4a1218d      | backup to usb dont exclude videos | 15:52:14/27-12-2025 | HEAD -> master, github/master |
-| 969cc95      | removed yt-dlp                    | 13:07:01/09-12-2025 |                               |
-| e33610d      | yt-dlp                            | 13:02:36/09-12-2025 |                               |
-| 55a9dae      | removed yt-dlp using nix version  | 22:38:23/03-12-2025 |                               |
-| 1abac8f      | removed script                    | 20:24:07/02-12-2025 |                               |
-| c42335d      | no cosmic notifications           | 19:49:55/02-12-2025 |                               |
-| f9f7ee8      | xmpv                              | 19:44:57/02-12-2025 |                               |
-| 03d1311      | back up to usb exclude Videos     | 23:23:59/17-11-2025 |                               |
-| 9239000000.0 | yt-dlp manual install             | 16:27:39/16-11-2025 |                               |
-| b7df096      | ytdlp-mpv                         | 13:13:25/26-08-2025 |                               |
+| 2267700000000.0 | backup exclude libvirt            | 17:13:00/29-12-2025 | HEAD -> master, github/master |
+| 4a1218d         | backup to usb dont exclude videos | 15:52:14/27-12-2025 |                               |
+| 969cc95         | removed yt-dlp                    | 13:07:01/09-12-2025 |                               |
+| e33610d         | yt-dlp                            | 13:02:36/09-12-2025 |                               |
+| 55a9dae         | removed yt-dlp using nix version  | 22:38:23/03-12-2025 |                               |
+| 1abac8f         | removed script                    | 20:24:07/02-12-2025 |                               |
+| c42335d         | no cosmic notifications           | 19:49:55/02-12-2025 |                               |
+| f9f7ee8         | xmpv                              | 19:44:57/02-12-2025 |                               |
+| 03d1311         | back up to usb exclude Videos     | 23:23:59/17-11-2025 |                               |
+| 9239000000.0    | yt-dlp manual install             | 16:27:39/16-11-2025 |                               |
 #+end_quote
 
 ** debian
