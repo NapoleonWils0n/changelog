@@ -220,7 +220,9 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 0d91214         | ffmpeg scripts rust               | 19:05:26/05-01-2026 | HEAD -> master, github/master |
+| 9d3d1cf         | ffmpeg rust scripts               | 15:46:30/06-01-2026 | HEAD -> master, github/master |
+| b778364         | removed old files                 | 15:36:09/06-01-2026 |                               |
+| 0d91214         | ffmpeg scripts rust               | 19:05:26/05-01-2026 |                               |
 | 992111e         | removed old scripts               | 19:04:44/05-01-2026 |                               |
 | 3cd160b         | nixos ffmpeg scripts rust         | 19:38:02/01-01-2026 |                               |
 | 8738d75         | ffmpeg shell scripts removed      | 19:37:23/01-01-2026 |                               |
@@ -228,8 +230,6 @@ status
 | 4a1218d         | backup to usb dont exclude videos | 15:52:14/27-12-2025 |                               |
 | 969cc95         | removed yt-dlp                    | 13:07:01/09-12-2025 |                               |
 | e33610d         | yt-dlp                            | 13:02:36/09-12-2025 |                               |
-| 55a9dae         | removed yt-dlp using nix version  | 22:38:23/03-12-2025 |                               |
-| 1abac8f         | removed script                    | 20:24:07/02-12-2025 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,9 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| ad8a8e9 | ffmpeg scripts rust                    | 19:08:51/05-01-2026 | HEAD -> master, github/master, github/HEAD |
+| d32d6f2 | ffmpeg rust scripts                    | 15:47:54/06-01-2026 | HEAD -> master, github/master, github/HEAD |
+| fb11e42 | removed old files                      | 15:37:30/06-01-2026 |                                            |
+| ad8a8e9 | ffmpeg scripts rust                    | 19:08:51/05-01-2026 |                                            |
 | 17b47f9 | removed old scripts                    | 19:08:13/05-01-2026 |                                            |
 | 793097  | yt-dlp                                 | 12:50:23/09-12-2025 |                                            |
 | e2cbb8c | yt-dlp                                 | 16:02:17/16-11-2025 |                                            |
@@ -330,6 +332,4 @@ status
 | 999e5e2 | yt-dlp                                 | 16:06:42/15-11-2025 |                                            |
 | 077e0b5 | yt-dlp                                 | 14:50:47/24-10-2025 |                                            |
 | fe4fff4 | updating yt-dlp                        | 14:50:31/24-10-2025 |                                            |
-| 987d52e | yt-dlp                                 | 18:15:00/15-10-2025 |                                            |
-| 8cdd539 | yt-dlp                                 | 22:28:03/28-09-2025 |                                            |
 #+end_quote
