@@ -220,7 +220,9 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| ac8dcc0 | ffmpeg rust script help fixed  | 14:13:45/08-01-2026 | HEAD -> master, github/master |
+| 5625b4f | ffmpeg rust scripts            | 14:42:56/08-01-2026 | HEAD -> master, github/master |
+| 218745e | removed old scripts            | 14:42:33/08-01-2026 |                               |
+| ac8dcc0 | ffmpeg rust script help fixed  | 14:13:45/08-01-2026 |                               |
 | c630ac9 | removed old scripts            | 14:13:09/08-01-2026 |                               |
 | 3fa7d96 | ffmpeg rust scripts            | 23:12:04/07-01-2026 |                               |
 | 6297b23 | removed scripts                | 23:11:36/07-01-2026 |                               |
@@ -228,8 +230,6 @@ status
 | e5f8d7f | removed scripts                | 21:27:04/07-01-2026 |                               |
 | 9d3d1cf | ffmpeg rust scripts            | 15:46:30/06-01-2026 |                               |
 | b778364 | removed old files              | 15:36:09/06-01-2026 |                               |
-| 0d91214 | ffmpeg scripts rust            | 19:05:26/05-01-2026 |                               |
-| 992111e | removed old scripts            | 19:04:44/05-01-2026 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,9 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| fc23893 | ffmpeg rust scripts help fixed | 14:15:45/08-01-2026 | HEAD -> master, github/master, github/HEAD |
+| af312dc | ffmpeg rust scripts            | 14:45:02/08-01-2026 | HEAD -> master, github/master, github/HEAD |
+| f125afb | removed old scripts            | 14:44:38/08-01-2026 |                                            |
+| fc23893 | ffmpeg rust scripts help fixed | 14:15:45/08-01-2026 |                                            |
 | a8ab21f | removed old scripts            | 14:15:17/08-01-2026 |                                            |
 | e55ac66 | ffmpeg rust scripts            | 23:10:42/07-01-2026 |                                            |
 | fc784f0 | removed scripts                | 23:10:08/07-01-2026 |                                            |
@@ -330,6 +332,4 @@ status
 | 91a720f | removed scripts                | 21:27:14/07-01-2026 |                                            |
 | d32d6f2 | ffmpeg rust scripts            | 15:47:54/06-01-2026 |                                            |
 | fb11e42 | removed old files              | 15:37:30/06-01-2026 |                                            |
-| ad8a8e9 | ffmpeg scripts rust            | 19:08:51/05-01-2026 |                                            |
-| 17b47f9 | removed old scripts            | 19:08:13/05-01-2026 |                                            |
 #+end_quote
