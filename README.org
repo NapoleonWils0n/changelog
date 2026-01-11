@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| cf5bdd9 | nix flakes updated                        | 21:34:19/28-12-2025 | HEAD -> master, github/master |
+| d857dc8 | flake updated                             | 13:47:46/11-01-2026 | HEAD -> master, github/master |
+| cf5bdd9 | nix flakes updated                        | 21:34:19/28-12-2025 |                               |
 | 1aa7554 | flake updated                             | 19:51:57/28-12-2025 |                               |
 | 0a6ab5b | virt manager                              | 19:23:58/28-12-2025 |                               |
 | bdb6f8d | export SDL_VIDEODRIVER=wayland for ffplay | 23:25:54/26-12-2025 |                               |
@@ -93,10 +94,9 @@ status
 | a7cc9c0 | firefox settings                          | 23:17:15/16-12-2025 |                               |
 | 2419081 | ollama gptel rnj-1                        | 17:38:23/16-12-2025 |                               |
 | a134063 | ollama flake                              | 13:54:54/16-12-2025 |                               |
-| 0674bf2 | flake updated                             | 12:54:52/16-12-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 39ad023 | ovmf fix                          | 19:18:01/28-12-2025 | HEAD -> master, github/master |
+| 9a63af4 | flake updated                     | 12:55:37/11-01-2026 | HEAD -> master, github/master |
+| 39ad023 | ovmf fix                          | 19:18:01/28-12-2025 |                               |
 | b5036fd | flake updated                     | 19:16:22/28-12-2025 |                               |
 | 6f3acad | libvirt                           | 19:14:46/28-12-2025 |                               |
 | b27185c | cosmic                            | 12:03:40/16-12-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
 | bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
 | c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
-| dc462dd | cosmic clipboard                  | 16:15:12/02-12-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
