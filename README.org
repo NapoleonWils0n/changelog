@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | a134063 | ollama flake                              | 13:54:54/16-12-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 039f213 | flake updated                              | 17:16:19/29-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 26c1771 | flake updated                              | 15:13:43/11-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 039f213 | flake updated                              | 17:16:19/29-12-2025 |                                            |
 | f961b1f | export SDL_VIDEODRIVER=wayland for ffplay  | 23:27:16/26-12-2025 |                                            |
 | 8ee2492 | emacs gptel gemini 3                       | 20:57:59/17-12-2025 |                                            |
 | 579dd0b | firefox settings                           | 23:23:53/16-12-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 856445a | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
 | 7246f08 | doom-modeline-now-playing                  | 17:47:19/13-12-2025 |                                            |
 | 52ba739 | nix pkg stable url                         | 00:30:52/11-12-2025 |                                            |
-| 98e0eca | flake update                               | 00:19:58/11-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -186,16 +186,16 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| e26ab02 | flake updated             | 16:36:43/29-12-2025 | HEAD -> master, github/master |
-| 9906c23 | extragroups quotes        | 19:26:11/28-12-2025 |                               |
-| ff30304 | flake updated             | 13:18:36/16-12-2025 |                               |
-| 5fabb4b | cosmic beta 9             | 16:42:51/09-12-2025 |                               |
-| 831e54f | password                  | 14:59:54/04-12-2025 |                               |
-| bd3d99e | cosmic desktop            | 14:31:35/04-12-2025 |                               |
-| a84805a | services                  | 21:22:43/30-11-2025 |                               |
-| 8fd73a7 | nixos session             | 21:21:37/30-11-2025 |                               |
-| 69dee52 | nixos session             | 21:20:36/30-11-2025 |                               |
-| d22ad80 | nixos root cosmic desktop | 20:40:00/30-11-2025 |                               |
+| 376b698 | flake updated      | 14:32:23/11-01-2026 | HEAD -> master, github/master |
+| e26ab02 | flake updated      | 16:36:43/29-12-2025 |                               |
+| 9906c23 | extragroups quotes | 19:26:11/28-12-2025 |                               |
+| ff30304 | flake updated      | 13:18:36/16-12-2025 |                               |
+| 5fabb4b | cosmic beta 9      | 16:42:51/09-12-2025 |                               |
+| 831e54f | password           | 14:59:54/04-12-2025 |                               |
+| bd3d99e | cosmic desktop     | 14:31:35/04-12-2025 |                               |
+| a84805a | services           | 21:22:43/30-11-2025 |                               |
+| 8fd73a7 | nixos session      | 21:21:37/30-11-2025 |                               |
+| 69dee52 | nixos session      | 21:20:36/30-11-2025 |                               |
 #+end_quote
 
 *** nixos-bin
