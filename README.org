@@ -198,7 +198,7 @@ status
 | 69dee52 | nixos session      | 21:20:36/30-11-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 99e04e5 | trim-remote-clip               | 19:56:32/08-01-2026 | HEAD -> master, github/master |
-| 0ce501e | removed trim-remote-clip       | 19:56:07/08-01-2026 |                               |
-| 5625b4f | ffmpeg rust scripts            | 14:42:56/08-01-2026 |                               |
-| 218745e | removed old scripts            | 14:42:33/08-01-2026 |                               |
-| ac8dcc0 | ffmpeg rust script help fixed  | 14:13:45/08-01-2026 |                               |
-| c630ac9 | removed old scripts            | 14:13:09/08-01-2026 |                               |
-| 3fa7d96 | ffmpeg rust scripts            | 23:12:04/07-01-2026 |                               |
-| 6297b23 | removed scripts                | 23:11:36/07-01-2026 |                               |
-| 95b7e20 | ffmpeg rust scripts refactored | 21:36:23/07-01-2026 |                               |
-| e5f8d7f | removed scripts                | 21:27:04/07-01-2026 |                               |
+| 4ebc663 | pinch rust script             | 20:20:40/12-01-2026 | HEAD -> master, github/master |
+| d997479 | pinch shell script removed    | 20:20:21/12-01-2026 |                               |
+| 99e04e5 | trim-remote-clip              | 19:56:32/08-01-2026 |                               |
+| 0ce501e | removed trim-remote-clip      | 19:56:07/08-01-2026 |                               |
+| 5625b4f | ffmpeg rust scripts           | 14:42:56/08-01-2026 |                               |
+| 218745e | removed old scripts           | 14:42:33/08-01-2026 |                               |
+| ac8dcc0 | ffmpeg rust script help fixed | 14:13:45/08-01-2026 |                               |
+| c630ac9 | removed old scripts           | 14:13:09/08-01-2026 |                               |
+| 3fa7d96 | ffmpeg rust scripts           | 23:12:04/07-01-2026 |                               |
+| 6297b23 | removed scripts               | 23:11:36/07-01-2026 |                               |
 #+end_quote
 
 ** debian
