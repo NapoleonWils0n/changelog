@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d0d9f58c    | rust                         | 16:24:05/12-01-2026 | HEAD -> master, github/master, github/HEAD |
+| c6697f25    | shell-scripts                | 20:10:13/12-01-2026 | HEAD -> master, github/master, github/HEAD |
+| d0d9f58c    | rust                         | 16:24:05/12-01-2026 |                                            |
 | 9efdc36a    | nixos virt manager mount zfs | 22:00:14/05-01-2026 |                                            |
 | 863930000.0 | nixos virt manager network   | 21:48:25/05-01-2026 |                                            |
 | 7b1bf37b    | nixos rust flake             | 19:15:54/01-01-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 39014af9    | windows 11 installed         | 15:08:23/29-12-2025 |                                            |
 | 0bc5713c    | nixos vit manager windows    | 13:40:38/29-12-2025 |                                            |
 | 3cc39a5a    | nixos virt manager windows   | 13:29:34/29-12-2025 |                                            |
-| 8424574b    | nixos libvirt pool           | 12:03:22/29-12-2025 |                                            |
 #+end_quote
 
 ** nixos
