@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 4ebc663 | pinch rust script             | 20:20:40/12-01-2026 | HEAD -> master, github/master |
-| d997479 | pinch shell script removed    | 20:20:21/12-01-2026 |                               |
-| 99e04e5 | trim-remote-clip              | 19:56:32/08-01-2026 |                               |
-| 0ce501e | removed trim-remote-clip      | 19:56:07/08-01-2026 |                               |
-| 5625b4f | ffmpeg rust scripts           | 14:42:56/08-01-2026 |                               |
-| 218745e | removed old scripts           | 14:42:33/08-01-2026 |                               |
-| ac8dcc0 | ffmpeg rust script help fixed | 14:13:45/08-01-2026 |                               |
-| c630ac9 | removed old scripts           | 14:13:09/08-01-2026 |                               |
-| 3fa7d96 | ffmpeg rust scripts           | 23:12:04/07-01-2026 |                               |
-| 6297b23 | removed scripts               | 23:11:36/07-01-2026 |                               |
+| af75b3c | pinch new version             | 20:59:03/12-01-2026 | HEAD -> master |
+| 3665b4f | adding new version            | 20:58:40/12-01-2026 |                |
+| 4ebc663 | pinch rust script             | 20:20:40/12-01-2026 | github/master  |
+| d997479 | pinch shell script removed    | 20:20:21/12-01-2026 |                |
+| 99e04e5 | trim-remote-clip              | 19:56:32/08-01-2026 |                |
+| 0ce501e | removed trim-remote-clip      | 19:56:07/08-01-2026 |                |
+| 5625b4f | ffmpeg rust scripts           | 14:42:56/08-01-2026 |                |
+| 218745e | removed old scripts           | 14:42:33/08-01-2026 |                |
+| ac8dcc0 | ffmpeg rust script help fixed | 14:13:45/08-01-2026 |                |
+| c630ac9 | removed old scripts           | 14:13:09/08-01-2026 |                |
 #+end_quote
 
 ** debian
@@ -322,7 +322,9 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 3dc8981 | pinch rust script              | 20:36:29/12-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 4d4d910 | pinch new version              | 21:01:05/12-01-2026 | HEAD -> master, github/master, github/HEAD |
+| e35b1ab | adding new version             | 21:00:20/12-01-2026 |                                            |
+| 3dc8981 | pinch rust script              | 20:36:29/12-01-2026 |                                            |
 | 3f37bf7 | pinch removed shell script     | 20:35:55/12-01-2026 |                                            |
 | dd63924 | trim-remote-clip               | 19:57:23/08-01-2026 |                                            |
 | 299c4b9 | removed trim-remote-clip       | 19:57:00/08-01-2026 |                                            |
@@ -330,6 +332,4 @@ status
 | f125afb | removed old scripts            | 14:44:38/08-01-2026 |                                            |
 | fc23893 | ffmpeg rust scripts help fixed | 14:15:45/08-01-2026 |                                            |
 | a8ab21f | removed old scripts            | 14:15:17/08-01-2026 |                                            |
-| e55ac66 | ffmpeg rust scripts            | 23:10:42/07-01-2026 |                                            |
-| fc784f0 | removed scripts                | 23:10:08/07-01-2026 |                                            |
 #+end_quote
