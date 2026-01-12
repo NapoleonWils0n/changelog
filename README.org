@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| d857dc8 | flake updated                             | 13:47:46/11-01-2026 | HEAD -> master, github/master |
-| cf5bdd9 | nix flakes updated                        | 21:34:19/28-12-2025 |                               |
-| 1aa7554 | flake updated                             | 19:51:57/28-12-2025 |                               |
-| 0a6ab5b | virt manager                              | 19:23:58/28-12-2025 |                               |
-| bdb6f8d | export SDL_VIDEODRIVER=wayland for ffplay | 23:25:54/26-12-2025 |                               |
-| 9fd172a | emacs rust mode                           | 19:07:34/22-12-2025 |                               |
-| 3d65de4 | emacs gptel gemini 3                      | 20:56:37/17-12-2025 |                               |
-| a7cc9c0 | firefox settings                          | 23:17:15/16-12-2025 |                               |
-| 2419081 | ollama gptel rnj-1                        | 17:38:23/16-12-2025 |                               |
-| a134063 | ollama flake                              | 13:54:54/16-12-2025 |                               |
+| 1.0e+INF | mpd host                                  | 20:14:30/12-01-2026 | HEAD -> master, github/master |
+| d857dc8  | flake updated                             | 13:47:46/11-01-2026 |                               |
+| cf5bdd9  | nix flakes updated                        | 21:34:19/28-12-2025 |                               |
+| 1aa7554  | flake updated                             | 19:51:57/28-12-2025 |                               |
+| 0a6ab5b  | virt manager                              | 19:23:58/28-12-2025 |                               |
+| bdb6f8d  | export SDL_VIDEODRIVER=wayland for ffplay | 23:25:54/26-12-2025 |                               |
+| 9fd172a  | emacs rust mode                           | 19:07:34/22-12-2025 |                               |
+| 3d65de4  | emacs gptel gemini 3                      | 20:56:37/17-12-2025 |                               |
+| a7cc9c0  | firefox settings                          | 23:17:15/16-12-2025 |                               |
+| 2419081  | ollama gptel rnj-1                        | 17:38:23/16-12-2025 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 26c1771 | flake updated                              | 15:13:43/11-01-2026 | HEAD -> master, github/master, github/HEAD |
+| ab2b77e | mpd host                                   | 20:15:28/12-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 26c1771 | flake updated                              | 15:13:43/11-01-2026 |                                            |
 | 039f213 | flake updated                              | 17:16:19/29-12-2025 |                                            |
 | f961b1f | export SDL_VIDEODRIVER=wayland for ffplay  | 23:27:16/26-12-2025 |                                            |
 | 8ee2492 | emacs gptel gemini 3                       | 20:57:59/17-12-2025 |                                            |
@@ -161,7 +162,6 @@ status
 | 23f3b6f | doom modeline nowplaying                   | 22:32:52/15-12-2025 |                                            |
 | 856445a | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
 | 7246f08 | doom-modeline-now-playing                  | 17:47:19/13-12-2025 |                                            |
-| 52ba739 | nix pkg stable url                         | 00:30:52/11-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
