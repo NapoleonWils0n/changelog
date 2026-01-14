@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| eea3c43   | export SDL_VIDEODRIVER=wayland for ffplay  | 23:28:20/26-12-2025 | HEAD -> master, github/master, github/HEAD |
+| 62ccff1   | emacs alacritty no maximize                | 15:38:54/14-01-2026 | HEAD -> master, github/master, github/HEAD |
+| eea3c43   | export SDL_VIDEODRIVER=wayland for ffplay  | 23:28:20/26-12-2025 |                                            |
 | ef49516   | emacs gptel gemini 3                       | 20:59:06/17-12-2025 |                                            |
 | 16a7333   | doom modeline now playing                  | 22:33:37/15-12-2025 |                                            |
 | 700cb76   | doom modeline now playing invalid slot fix | 23:15:21/14-12-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 8.33e+235 | removed duplicate code                     | 20:54:31/21-11-2025 |                                            |
 | 9716734   | emacs removed duplicates                   | 15:59:16/21-11-2025 |                                            |
 | 0daa0c5   | deno zshenv                                | 16:41:45/15-11-2025 |                                            |
-| 073fead   | org show2levels                            | 20:56:02/13-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
