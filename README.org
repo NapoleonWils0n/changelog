@@ -96,7 +96,7 @@ status
 | 9fd172a  | emacs rust mode                           | 19:07:34/22-12-2025 |                |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 9a63af4 | flake updated                     | 12:55:37/11-01-2026 | HEAD -> master, github/master |
+| e71b2e7 | flake updated                     | 21:53:30/16-01-2026 | HEAD -> master, github/master |
+| 9a63af4 | flake updated                     | 12:55:37/11-01-2026 |                               |
 | 39ad023 | ovmf fix                          | 19:18:01/28-12-2025 |                               |
 | b5036fd | flake updated                     | 19:16:22/28-12-2025 |                               |
 | 6f3acad | libvirt                           | 19:14:46/28-12-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 |                               |
 | 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
 | bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
-| c001982 | cosmic clipboard                  | 16:23:12/02-12-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
