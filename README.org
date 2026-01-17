@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 454fc4e | start-obs fix for nvenc         | 23:59:51/16-01-2026 | HEAD -> master, github/master |
+| 8879788 | start-obs checks host           | 00:22:27/17-01-2026 | HEAD -> master, github/master |
+| 454fc4e | start-obs fix for nvenc         | 23:59:51/16-01-2026 |                               |
 | 49d80f1 | removed ffmpeg scripts          | 19:18:09/16-01-2026 |                               |
 | bdbb1e1 | relay-mpv rust                  | 19:17:21/16-01-2026 |                               |
 | b1cf8b8 | removed relay-mpv shell version | 19:16:54/16-01-2026 |                               |
@@ -229,7 +230,6 @@ status
 | 4ebc663 | pinch rust script               | 20:20:40/12-01-2026 |                               |
 | d997479 | pinch shell script removed      | 20:20:21/12-01-2026 |                               |
 | 99e04e5 | trim-remote-clip                | 19:56:32/08-01-2026 |                               |
-| 0ce501e | removed trim-remote-clip        | 19:56:07/08-01-2026 |                               |
 #+end_quote
 
 ** debian
