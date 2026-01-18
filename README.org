@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | bdb6f8d  | export SDL_VIDEODRIVER=wayland for ffplay | 23:25:54/26-12-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 82b3386 | emacs alacritty no fullscreen              | 11:08:39/14-01-2026 | HEAD -> master, github/master, github/HEAD |
-| ab2b77e | mpd host                                   | 20:15:28/12-01-2026 |                                            |
-| 26c1771 | flake updated                              | 15:13:43/11-01-2026 |                                            |
-| 039f213 | flake updated                              | 17:16:19/29-12-2025 |                                            |
-| f961b1f | export SDL_VIDEODRIVER=wayland for ffplay  | 23:27:16/26-12-2025 |                                            |
-| 8ee2492 | emacs gptel gemini 3                       | 20:57:59/17-12-2025 |                                            |
-| 579dd0b | firefox settings                           | 23:23:53/16-12-2025 |                                            |
-| af614f7 | flake updated                              | 13:35:39/16-12-2025 |                                            |
-| 23f3b6f | doom modeline nowplaying                   | 22:32:52/15-12-2025 |                                            |
-| 856445a | doom modeline now playing invalid slow fix | 23:13:52/14-12-2025 |                                            |
+| 610b0dd | flake updated                             | 13:06:32/18-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 82b3386 | emacs alacritty no fullscreen             | 11:08:39/14-01-2026 |                                            |
+| ab2b77e | mpd host                                  | 20:15:28/12-01-2026 |                                            |
+| 26c1771 | flake updated                             | 15:13:43/11-01-2026 |                                            |
+| 039f213 | flake updated                             | 17:16:19/29-12-2025 |                                            |
+| f961b1f | export SDL_VIDEODRIVER=wayland for ffplay | 23:27:16/26-12-2025 |                                            |
+| 8ee2492 | emacs gptel gemini 3                      | 20:57:59/17-12-2025 |                                            |
+| 579dd0b | firefox settings                          | 23:23:53/16-12-2025 |                                            |
+| af614f7 | flake updated                             | 13:35:39/16-12-2025 |                                            |
+| 23f3b6f | doom modeline nowplaying                  | 22:32:52/15-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 376b698 | flake updated      | 14:32:23/11-01-2026 | HEAD -> master, github/master |
+| f775f04 | flake updated      | 11:08:49/18-01-2026 | HEAD -> master, github/master |
+| 376b698 | flake updated      | 14:32:23/11-01-2026 |                               |
 | e26ab02 | flake updated      | 16:36:43/29-12-2025 |                               |
 | 9906c23 | extragroups quotes | 19:26:11/28-12-2025 |                               |
 | ff30304 | flake updated      | 13:18:36/16-12-2025 |                               |
@@ -195,10 +196,9 @@ status
 | bd3d99e | cosmic desktop     | 14:31:35/04-12-2025 |                               |
 | a84805a | services           | 21:22:43/30-11-2025 |                               |
 | 8fd73a7 | nixos session      | 21:21:37/30-11-2025 |                               |
-| 69dee52 | nixos session      | 21:20:36/30-11-2025 |                               |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
