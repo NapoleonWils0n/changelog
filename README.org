@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b5a3dfe1    | relay-mpv                    | 15:59:35/18-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF    | doas user                    | 20:40:53/20-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF    | relay-mpv about              | 17:41:23/18-01-2026 |                                            |
+| fda27e18    | relay-mpv set up             | 17:28:55/18-01-2026 |                                            |
+| b5a3dfe1    | relay-mpv                    | 15:59:35/18-01-2026 |                                            |
 | 74ed11a4    | old shell scripts            | 20:38:33/16-01-2026 |                                            |
 | c6697f25    | shell-scripts                | 20:10:13/12-01-2026 |                                            |
 | d0d9f58c    | rust                         | 16:24:05/12-01-2026 |                                            |
 | 9efdc36a    | nixos virt manager mount zfs | 22:00:14/05-01-2026 |                                            |
 | 863930000.0 | nixos virt manager network   | 21:48:25/05-01-2026 |                                            |
 | 7b1bf37b    | nixos rust flake             | 19:15:54/01-01-2026 |                                            |
-| 9c75ab36    | nixos windows 11 install     | 16:09:36/29-12-2025 |                                            |
-| 9e0be36a    | nixos windows 11 install     | 16:08:10/29-12-2025 |                                            |
-| 39014af9    | windows 11 installed         | 15:08:23/29-12-2025 |                                            |
 #+end_quote
 
 ** nixos
@@ -198,7 +198,7 @@ status
 | 8fd73a7 | nixos session      | 21:21:37/30-11-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 3a53a8a | relay-mpv pipe fix      | 20:40:52/18-01-2026 | HEAD -> master, github/master |
+| 4273376 | namespace doas user     | 19:56:55/20-01-2026 | HEAD -> master, github/master |
+| 3a53a8a | relay-mpv pipe fix      | 20:40:52/18-01-2026 |                               |
 | 945ee5b | adding new version      | 20:35:01/18-01-2026 |                               |
 | f5fee53 | relay-mpv pipe clean up | 14:59:45/17-01-2026 |                               |
 | 038ee91 | adding new version      | 14:56:53/17-01-2026 |                               |
@@ -229,7 +230,6 @@ status
 | 8879788 | start-obs checks host   | 00:22:27/17-01-2026 |                               |
 | 454fc4e | start-obs fix for nvenc | 23:59:51/16-01-2026 |                               |
 | 49d80f1 | removed ffmpeg scripts  | 19:18:09/16-01-2026 |                               |
-| bdbb1e1 | relay-mpv rust          | 19:17:21/16-01-2026 |                               |
 #+end_quote
 
 ** debian
