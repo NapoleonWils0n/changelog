@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 1.0e+INF    | doas user                    | 20:40:53/20-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 39bc7639    | record-pipewire shell script | 23:14:15/20-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF    | doas user                    | 20:40:53/20-01-2026 |                                            |
 | 1.0e+INF    | relay-mpv about              | 17:41:23/18-01-2026 |                                            |
 | fda27e18    | relay-mpv set up             | 17:28:55/18-01-2026 |                                            |
 | b5a3dfe1    | relay-mpv                    | 15:59:35/18-01-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | d0d9f58c    | rust                         | 16:24:05/12-01-2026 |                                            |
 | 9efdc36a    | nixos virt manager mount zfs | 22:00:14/05-01-2026 |                                            |
 | 863930000.0 | nixos virt manager network   | 21:48:25/05-01-2026 |                                            |
-| 7b1bf37b    | nixos rust flake             | 19:15:54/01-01-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -198,7 +198,7 @@ status
 | 8fd73a7 | nixos session      | 21:21:37/30-11-2025 |                               |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
