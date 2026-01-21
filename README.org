@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 8fb9af12 | old shell scripts            | 12:50:26/21-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 6c5e5b69 | windows declutter            | 15:47:40/21-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 8fb9af12 | old shell scripts            | 12:50:26/21-01-2026 |                                            |
 | dfaba3d1 | old shell scripts            | 12:43:15/21-01-2026 |                                            |
 | 39bc7639 | record-pipewire shell script | 23:14:15/20-01-2026 |                                            |
 | 1.0e+INF | doas user                    | 20:40:53/20-01-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | b5a3dfe1 | relay-mpv                    | 15:59:35/18-01-2026 |                                            |
 | 74ed11a4 | old shell scripts            | 20:38:33/16-01-2026 |                                            |
 | c6697f25 | shell-scripts                | 20:10:13/12-01-2026 |                                            |
-| d0d9f58c | rust                         | 16:24:05/12-01-2026 |                                            |
 #+end_quote
 
 ** nixos
