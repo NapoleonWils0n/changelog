@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f4c444c2          | window spice guest tools     | 16:14:58/21-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 2f8ca00c          | windows super key            | 18:08:33/21-01-2026 | HEAD -> master, github/master, github/HEAD |
+| f4c444c2          | window spice guest tools     | 16:14:58/21-01-2026 |                                            |
 | 584824000000000.0 | windows declutter            | 15:57:09/21-01-2026 |                                            |
 | 4e61b3ee          | windows declutter            | 15:54:03/21-01-2026 |                                            |
 | 6c5e5b69          | windows declutter            | 15:47:40/21-01-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 39bc7639          | record-pipewire shell script | 23:14:15/20-01-2026 |                                            |
 | 1.0e+INF          | doas user                    | 20:40:53/20-01-2026 |                                            |
 | 1.0e+INF          | relay-mpv about              | 17:41:23/18-01-2026 |                                            |
-| fda27e18          | relay-mpv set up             | 17:28:55/18-01-2026 |                                            |
 #+end_quote
 
 ** nixos
