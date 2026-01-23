@@ -96,7 +96,7 @@ status
 | bdb6f8d  | export SDL_VIDEODRIVER=wayland for ffplay | 23:25:54/26-12-2025 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| e71b2e7 | flake updated                     | 21:53:30/16-01-2026 | HEAD -> master, github/master |
+| acdc783 | flake update cosmic 1.0.3         | 15:26:29/23-01-2026 | HEAD -> master, github/master |
+| e71b2e7 | flake updated                     | 21:53:30/16-01-2026 |                               |
 | 9a63af4 | flake updated                     | 12:55:37/11-01-2026 |                               |
 | 39ad023 | ovmf fix                          | 19:18:01/28-12-2025 |                               |
 | b5036fd | flake updated                     | 19:16:22/28-12-2025 |                               |
@@ -127,7 +128,6 @@ status
 | 4744cb8 | cosmic beta 9                     | 16:31:40/09-12-2025 |                               |
 | 8b62a1f | cosmic desktop                    | 16:28:17/03-12-2025 |                               |
 | 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
-| bdec8f6 | exclude cosmic notifications      | 21:07:39/02-12-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
