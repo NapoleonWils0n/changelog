@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -84,19 +84,19 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 07ca830  | flake updated                          | 15:49:56/23-01-2026 | HEAD -> master, github/master |
+| c1d3bd0  | whisperx flake updated                 | 17:15:27/23-01-2026 | HEAD -> master, github/master |
+| 6bfc1b3  | ollama flake updated                   | 16:03:00/23-01-2026 |                               |
+| 67f5dc1  | python flake updated                   | 16:01:42/23-01-2026 |                               |
+| 07ca830  | flake updated                          | 15:49:56/23-01-2026 |                               |
 | 3117446  | removed deepfilter                     | 15:42:10/23-01-2026 |                               |
 | ea71353  | obs desktop entry for start-obs script | 00:07:28/17-01-2026 |                               |
 | 678a26f  | flake updated                          | 20:45:12/16-01-2026 |                               |
 | 7dc77be  | obs-cmd                                | 20:41:37/16-01-2026 |                               |
 | f3900c2  | emacs alacritty no full screen         | 11:06:32/14-01-2026 |                               |
 | 1.0e+INF | mpd host                               | 20:14:30/12-01-2026 |                               |
-| d857dc8  | flake updated                          | 13:47:46/11-01-2026 |                               |
-| cf5bdd9  | nix flakes updated                     | 21:34:19/28-12-2025 |                               |
-| 1aa7554  | flake updated                          | 19:51:57/28-12-2025 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** AIR nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 9a7f476 | cosmic dont exclude notifications | 21:08:47/02-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** AIR nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 610b0dd | flake updated                             | 13:06:32/18-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 74db648 | flake updated                             | 17:13:36/23-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 610b0dd | flake updated                             | 13:06:32/18-01-2026 |                                            |
 | 82b3386 | emacs alacritty no fullscreen             | 11:08:39/14-01-2026 |                                            |
 | ab2b77e | mpd host                                  | 20:15:28/12-01-2026 |                                            |
 | 26c1771 | flake updated                             | 15:13:43/11-01-2026 |                                            |
@@ -161,10 +162,9 @@ status
 | 8ee2492 | emacs gptel gemini 3                      | 20:57:59/17-12-2025 |                                            |
 | 579dd0b | firefox settings                          | 23:23:53/16-12-2025 |                                            |
 | af614f7 | flake updated                             | 13:35:39/16-12-2025 |                                            |
-| 23f3b6f | doom modeline nowplaying                  | 22:32:52/15-12-2025 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** AIR nixos-root-cosmic-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| f775f04 | flake updated      | 11:08:49/18-01-2026 | HEAD -> master, github/master |
+| 03d1ca2 | flake updated      | 16:35:10/23-01-2026 | HEAD -> master, github/master |
+| f775f04 | flake updated      | 11:08:49/18-01-2026 |                               |
 | 376b698 | flake updated      | 14:32:23/11-01-2026 |                               |
 | e26ab02 | flake updated      | 16:36:43/29-12-2025 |                               |
 | 9906c23 | extragroups quotes | 19:26:11/28-12-2025 |                               |
@@ -195,7 +196,6 @@ status
 | 831e54f | password           | 14:59:54/04-12-2025 |                               |
 | bd3d99e | cosmic desktop     | 14:31:35/04-12-2025 |                               |
 | a84805a | services           | 21:22:43/30-11-2025 |                               |
-| 8fd73a7 | nixos session      | 21:21:37/30-11-2025 |                               |
 #+end_quote
 
 *** nixos-bin
