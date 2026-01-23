@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| ea71353  | obs desktop entry for start-obs script    | 00:07:28/17-01-2026 | HEAD -> master, github/master |
-| 678a26f  | flake updated                             | 20:45:12/16-01-2026 |                               |
-| 7dc77be  | obs-cmd                                   | 20:41:37/16-01-2026 |                               |
-| f3900c2  | emacs alacritty no full screen            | 11:06:32/14-01-2026 |                               |
-| 1.0e+INF | mpd host                                  | 20:14:30/12-01-2026 |                               |
-| d857dc8  | flake updated                             | 13:47:46/11-01-2026 |                               |
-| cf5bdd9  | nix flakes updated                        | 21:34:19/28-12-2025 |                               |
-| 1aa7554  | flake updated                             | 19:51:57/28-12-2025 |                               |
-| 0a6ab5b  | virt manager                              | 19:23:58/28-12-2025 |                               |
-| bdb6f8d  | export SDL_VIDEODRIVER=wayland for ffplay | 23:25:54/26-12-2025 |                               |
+| 3117446  | removed deepfilter                     | 15:42:10/23-01-2026 | HEAD -> master, github/master |
+| ea71353  | obs desktop entry for start-obs script | 00:07:28/17-01-2026 |                               |
+| 678a26f  | flake updated                          | 20:45:12/16-01-2026 |                               |
+| 7dc77be  | obs-cmd                                | 20:41:37/16-01-2026 |                               |
+| f3900c2  | emacs alacritty no full screen         | 11:06:32/14-01-2026 |                               |
+| 1.0e+INF | mpd host                               | 20:14:30/12-01-2026 |                               |
+| d857dc8  | flake updated                          | 13:47:46/11-01-2026 |                               |
+| cf5bdd9  | nix flakes updated                     | 21:34:19/28-12-2025 |                               |
+| 1aa7554  | flake updated                          | 19:51:57/28-12-2025 |                               |
+| 0a6ab5b  | virt manager                           | 19:23:58/28-12-2025 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
