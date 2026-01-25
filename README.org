@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 7db6578c          | graphviz                 | 19:55:19/25-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 8dbcbce0          | nix flakes               | 22:25:29/25-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 7db6578c          | graphviz                 | 19:55:19/25-01-2026 |                                            |
 | 366dfaff          | graphviz notebooklm      | 19:34:23/25-01-2026 |                                            |
 | c879227a          | windows                  | 18:14:16/21-01-2026 |                                            |
 | 2f8ca00c          | windows super key        | 18:08:33/21-01-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 4e61b3ee          | windows declutter        | 15:54:03/21-01-2026 |                                            |
 | 6c5e5b69          | windows declutter        | 15:47:40/21-01-2026 |                                            |
 | 8fb9af12          | old shell scripts        | 12:50:26/21-01-2026 |                                            |
-| dfaba3d1          | old shell scripts        | 12:43:15/21-01-2026 |                                            |
 #+end_quote
 
 ** nixos
