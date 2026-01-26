@@ -49,20 +49,20 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fd843048 | dired sort toggle        | 23:17:22/26-01-2026 | HEAD -> master, github/master, github/HEAD |
-| acb4da13 | qwen3-tts                | 22:31:10/26-01-2026 |                                            |
-| 194b2b48 | qwen3-tts                | 21:47:25/26-01-2026 |                                            |
-| 1166e6c9 | qwen3-tts                | 21:30:44/26-01-2026 |                                            |
-| 8dbcbce0 | nix flakes               | 22:25:29/25-01-2026 |                                            |
-| 7db6578c | graphviz                 | 19:55:19/25-01-2026 |                                            |
-| 366dfaff | graphviz notebooklm      | 19:34:23/25-01-2026 |                                            |
-| c879227a | windows                  | 18:14:16/21-01-2026 |                                            |
-| 2f8ca00c | windows super key        | 18:08:33/21-01-2026 |                                            |
-| f4c444c2 | window spice guest tools | 16:14:58/21-01-2026 |                                            |
+| 6e8a0539 | qwen3-tts flake     | 23:53:14/26-01-2026 | HEAD -> master, github/master, github/HEAD |
+| fd843048 | dired sort toggle   | 23:17:22/26-01-2026 |                                            |
+| acb4da13 | qwen3-tts           | 22:31:10/26-01-2026 |                                            |
+| 194b2b48 | qwen3-tts           | 21:47:25/26-01-2026 |                                            |
+| 1166e6c9 | qwen3-tts           | 21:30:44/26-01-2026 |                                            |
+| 8dbcbce0 | nix flakes          | 22:25:29/25-01-2026 |                                            |
+| 7db6578c | graphviz            | 19:55:19/25-01-2026 |                                            |
+| 366dfaff | graphviz notebooklm | 19:34:23/25-01-2026 |                                            |
+| c879227a | windows             | 18:14:16/21-01-2026 |                                            |
+| 2f8ca00c | windows super key   | 18:08:33/21-01-2026 |                                            |
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8fc3935 | deepfilternet                          | 15:06:13/26-01-2026 | HEAD -> master, github/master |
+| 7f2d429 | qwen3-tts                              | 23:52:14/26-01-2026 | HEAD -> master, github/master |
+| 8fc3935 | deepfilternet                          | 15:06:13/26-01-2026 |                               |
 | 587b2db | texlivefull flake                      | 19:48:54/25-01-2026 |                               |
 | c1d3bd0 | whisperx flake updated                 | 17:15:27/23-01-2026 |                               |
 | 6bfc1b3 | ollama flake updated                   | 16:03:00/23-01-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 3117446 | removed deepfilter                     | 15:42:10/23-01-2026 |                               |
 | ea71353 | obs desktop entry for start-obs script | 00:07:28/17-01-2026 |                               |
 | 678a26f | flake updated                          | 20:45:12/16-01-2026 |                               |
-| 7dc77be | obs-cmd                                | 20:41:37/16-01-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
