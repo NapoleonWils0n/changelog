@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 587b2db | texlivefull flake                      | 19:48:54/25-01-2026 | HEAD -> master, github/master |
+| 8fc3935 | deepfilternet                          | 15:06:13/26-01-2026 | HEAD -> master, github/master |
+| 587b2db | texlivefull flake                      | 19:48:54/25-01-2026 |                               |
 | c1d3bd0 | whisperx flake updated                 | 17:15:27/23-01-2026 |                               |
 | 6bfc1b3 | ollama flake updated                   | 16:03:00/23-01-2026 |                               |
 | 67f5dc1 | python flake updated                   | 16:01:42/23-01-2026 |                               |
@@ -93,7 +94,6 @@ status
 | ea71353 | obs desktop entry for start-obs script | 00:07:28/17-01-2026 |                               |
 | 678a26f | flake updated                          | 20:45:12/16-01-2026 |                               |
 | 7dc77be | obs-cmd                                | 20:41:37/16-01-2026 |                               |
-| f3900c2 | emacs alacritty no full screen         | 11:06:32/14-01-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
