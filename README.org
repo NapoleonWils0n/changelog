@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 6e8a0539 | qwen3-tts flake     | 23:53:14/26-01-2026 | HEAD -> master, github/master, github/HEAD |
-| fd843048 | dired sort toggle   | 23:17:22/26-01-2026 |                                            |
-| acb4da13 | qwen3-tts           | 22:31:10/26-01-2026 |                                            |
-| 194b2b48 | qwen3-tts           | 21:47:25/26-01-2026 |                                            |
-| 1166e6c9 | qwen3-tts           | 21:30:44/26-01-2026 |                                            |
-| 8dbcbce0 | nix flakes          | 22:25:29/25-01-2026 |                                            |
-| 7db6578c | graphviz            | 19:55:19/25-01-2026 |                                            |
-| 366dfaff | graphviz notebooklm | 19:34:23/25-01-2026 |                                            |
-| c879227a | windows             | 18:14:16/21-01-2026 |                                            |
-| 2f8ca00c | windows super key   | 18:08:33/21-01-2026 |                                            |
+| 15eef80c | ffmpeg upscale libplacebo | 20:21:12/28-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 6e8a0539 | qwen3-tts flake           | 23:53:14/26-01-2026 |                                            |
+| fd843048 | dired sort toggle         | 23:17:22/26-01-2026 |                                            |
+| acb4da13 | qwen3-tts                 | 22:31:10/26-01-2026 |                                            |
+| 194b2b48 | qwen3-tts                 | 21:47:25/26-01-2026 |                                            |
+| 1166e6c9 | qwen3-tts                 | 21:30:44/26-01-2026 |                                            |
+| 8dbcbce0 | nix flakes                | 22:25:29/25-01-2026 |                                            |
+| 7db6578c | graphviz                  | 19:55:19/25-01-2026 |                                            |
+| 366dfaff | graphviz notebooklm       | 19:34:23/25-01-2026 |                                            |
+| c879227a | windows                   | 18:14:16/21-01-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -198,7 +198,7 @@ status
 | a84805a | services           | 21:22:43/30-11-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 3bc0204 | removed old scripts     | 12:44:05/21-01-2026 | HEAD -> master, github/master |
-| 3df742b | rust scripts v3         | 23:02:28/20-01-2026 |                               |
-| 7a0bb51 | removed old versions    | 23:01:51/20-01-2026 |                               |
-| 4273376 | namespace doas user     | 19:56:55/20-01-2026 |                               |
-| 3a53a8a | relay-mpv pipe fix      | 20:40:52/18-01-2026 |                               |
-| 945ee5b | adding new version      | 20:35:01/18-01-2026 |                               |
-| f5fee53 | relay-mpv pipe clean up | 14:59:45/17-01-2026 |                               |
-| 038ee91 | adding new version      | 14:56:53/17-01-2026 |                               |
-| b3aa311 | relay-mpv clear pipe    | 14:40:32/17-01-2026 |                               |
-| 3aa45f9 | relay-mpv clear pipe    | 14:40:20/17-01-2026 |                               |
+| 61af3fc | ffmpeg upscale libplacebo | 20:20:59/28-01-2026 | HEAD -> master, github/master |
+| 3bc0204 | removed old scripts       | 12:44:05/21-01-2026 |                               |
+| 3df742b | rust scripts v3           | 23:02:28/20-01-2026 |                               |
+| 7a0bb51 | removed old versions      | 23:01:51/20-01-2026 |                               |
+| 4273376 | namespace doas user       | 19:56:55/20-01-2026 |                               |
+| 3a53a8a | relay-mpv pipe fix        | 20:40:52/18-01-2026 |                               |
+| 945ee5b | adding new version        | 20:35:01/18-01-2026 |                               |
+| f5fee53 | relay-mpv pipe clean up   | 14:59:45/17-01-2026 |                               |
+| 038ee91 | adding new version        | 14:56:53/17-01-2026 |                               |
+| b3aa311 | relay-mpv clear pipe      | 14:40:32/17-01-2026 |                               |
 #+end_quote
 
 ** debian
