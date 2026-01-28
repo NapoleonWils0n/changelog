@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d26c403e | upscale-libplacebo        | 21:12:28/28-01-2026 | HEAD -> master, github/master, github/HEAD |
+| feda3cbd | upscale-libplacebo        | 21:13:41/28-01-2026 | HEAD -> master, github/master, github/HEAD |
+| d26c403e | upscale-libplacebo        | 21:12:28/28-01-2026 |                                            |
 | 15eef80c | ffmpeg upscale libplacebo | 20:21:12/28-01-2026 |                                            |
 | 6e8a0539 | qwen3-tts flake           | 23:53:14/26-01-2026 |                                            |
 | fd843048 | dired sort toggle         | 23:17:22/26-01-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 1166e6c9 | qwen3-tts                 | 21:30:44/26-01-2026 |                                            |
 | 8dbcbce0 | nix flakes                | 22:25:29/25-01-2026 |                                            |
 | 7db6578c | graphviz                  | 19:55:19/25-01-2026 |                                            |
-| 366dfaff | graphviz notebooklm       | 19:34:23/25-01-2026 |                                            |
 #+end_quote
 
 ** nixos
