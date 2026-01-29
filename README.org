@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| adbfda4 | removed old scripts       | 12:49:56/21-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 8b1a339 | yt-dlp updated            | 19:13:27/29-01-2026 | HEAD -> master, github/master, github/HEAD |
+| adbfda4 | removed old scripts       | 12:49:56/21-01-2026 |                                            |
 | 7ba7913 | rust scripts v3           | 23:04:04/20-01-2026 |                                            |
 | 13619be | removed old versions      | 23:03:30/20-01-2026 |                                            |
 | 1f533d1 | adding new version        | 20:41:15/18-01-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | c67fc62 | relay-mpv rust            | 20:40:18/16-01-2026 |                                            |
 | 546d587 | removed old shell scripts | 20:39:33/16-01-2026 |                                            |
 | 4d4d910 | pinch new version         | 21:01:05/12-01-2026 |                                            |
-| e35b1ab | adding new version        | 21:00:20/12-01-2026 |                                            |
 #+end_quote
