@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0a19dfff | ffmpeg upscale            | 01:15:25/29-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 2eafec8d | netcat                    | 17:45:59/29-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 0a19dfff | ffmpeg upscale            | 01:15:25/29-01-2026 |                                            |
 | 2b287444 | upscale libplacebo        | 00:54:33/29-01-2026 |                                            |
 | 6c5846b1 | ffmpeg                    | 00:09:24/29-01-2026 |                                            |
 | cfd94b4a | upscale                   | 00:05:40/29-01-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | feda3cbd | upscale-libplacebo        | 21:13:41/28-01-2026 |                                            |
 | d26c403e | upscale-libplacebo        | 21:12:28/28-01-2026 |                                            |
 | 15eef80c | ffmpeg upscale libplacebo | 20:21:12/28-01-2026 |                                            |
-| 6e8a0539 | qwen3-tts flake           | 23:53:14/26-01-2026 |                                            |
 #+end_quote
 
 ** nixos
