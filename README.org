@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0695c9e4 | audacity openvino ffmpeg windows | 19:09:46/29-01-2026 | HEAD -> master, github/master, github/HEAD |
-| d50b49d9 | libvirt windows share            | 18:14:24/29-01-2026 |                                            |
-| e8245c43 | libvirt                          | 17:47:37/29-01-2026 |                                            |
-| 2eafec8d | netcat                           | 17:45:59/29-01-2026 |                                            |
-| 0a19dfff | ffmpeg upscale                   | 01:15:25/29-01-2026 |                                            |
-| 2b287444 | upscale libplacebo               | 00:54:33/29-01-2026 |                                            |
-| 6c5846b1 | ffmpeg                           | 00:09:24/29-01-2026 |                                            |
-| cfd94b4a | upscale                          | 00:05:40/29-01-2026 |                                            |
-| 9945895  | upscale-libplacebo               | 23:37:43/28-01-2026 |                                            |
-| 876997c0 | upscale-libplacebo               | 23:36:18/28-01-2026 |                                            |
+| 67abfdf6 | windows chocolately upgrade packages | 19:23:43/29-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 0695c9e4 | audacity openvino ffmpeg windows     | 19:09:46/29-01-2026 |                                            |
+| d50b49d9 | libvirt windows share                | 18:14:24/29-01-2026 |                                            |
+| e8245c43 | libvirt                              | 17:47:37/29-01-2026 |                                            |
+| 2eafec8d | netcat                               | 17:45:59/29-01-2026 |                                            |
+| 0a19dfff | ffmpeg upscale                       | 01:15:25/29-01-2026 |                                            |
+| 2b287444 | upscale libplacebo                   | 00:54:33/29-01-2026 |                                            |
+| 6c5846b1 | ffmpeg                               | 00:09:24/29-01-2026 |                                            |
+| cfd94b4a | upscale                              | 00:05:40/29-01-2026 |                                            |
+| 9945895  | upscale-libplacebo                   | 23:37:43/28-01-2026 |                                            |
 #+end_quote
 
 ** nixos
