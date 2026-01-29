@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| c5bbf4e | upscale-libplacebo             | 01:14:30/29-01-2026 | HEAD -> master, github/master |
+| 2a2ed20 | upscale-libplacebo             | 21:37:41/29-01-2026 | HEAD -> master, github/master |
+| c5bbf4e | upscale-libplacebo             | 01:14:30/29-01-2026 |                               |
 | c280a0f | upscale-libplacebo             | 00:05:57/29-01-2026 |                               |
 | 7f70a52 | upscale-libplacebo             | 23:35:49/28-01-2026 |                               |
 | b41bc0b | upscale-libplacebo filename 4k | 21:09:20/28-01-2026 |                               |
@@ -229,7 +230,6 @@ status
 | 3df742b | rust scripts v3                | 23:02:28/20-01-2026 |                               |
 | 7a0bb51 | removed old versions           | 23:01:51/20-01-2026 |                               |
 | 4273376 | namespace doas user            | 19:56:55/20-01-2026 |                               |
-| 3a53a8a | relay-mpv pipe fix             | 20:40:52/18-01-2026 |                               |
 #+end_quote
 
 ** debian
