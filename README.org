@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| b620bea | decibel-levels                   | 22:35:46/29-01-2026 | HEAD -> master, github/master |
+| e905541 | decibel-levels                   | 23:40:22/29-01-2026 | HEAD -> master, github/master |
+| b620bea | decibel-levels                   | 22:35:46/29-01-2026 |                               |
 | 49f48ec | decibel levels for deepfilternet | 22:26:13/29-01-2026 |                               |
 | 2a2ed20 | upscale-libplacebo               | 21:37:41/29-01-2026 |                               |
 | c5bbf4e | upscale-libplacebo               | 01:14:30/29-01-2026 |                               |
@@ -229,7 +230,6 @@ status
 | b41bc0b | upscale-libplacebo filename 4k   | 21:09:20/28-01-2026 |                               |
 | 61af3fc | ffmpeg upscale libplacebo        | 20:20:59/28-01-2026 |                               |
 | 3bc0204 | removed old scripts              | 12:44:05/21-01-2026 |                               |
-| 3df742b | rust scripts v3                  | 23:02:28/20-01-2026 |                               |
 #+end_quote
 
 ** debian
