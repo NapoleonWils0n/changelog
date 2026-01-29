@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 9945895  | upscale-libplacebo        | 23:37:43/28-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 0a19dfff | ffmpeg upscale            | 01:15:25/29-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 2b287444 | upscale libplacebo        | 00:54:33/29-01-2026 |                                            |
+| 6c5846b1 | ffmpeg                    | 00:09:24/29-01-2026 |                                            |
+| cfd94b4a | upscale                   | 00:05:40/29-01-2026 |                                            |
+| 9945895  | upscale-libplacebo        | 23:37:43/28-01-2026 |                                            |
 | 876997c0 | upscale-libplacebo        | 23:36:18/28-01-2026 |                                            |
 | feda3cbd | upscale-libplacebo        | 21:13:41/28-01-2026 |                                            |
 | d26c403e | upscale-libplacebo        | 21:12:28/28-01-2026 |                                            |
 | 15eef80c | ffmpeg upscale libplacebo | 20:21:12/28-01-2026 |                                            |
 | 6e8a0539 | qwen3-tts flake           | 23:53:14/26-01-2026 |                                            |
-| fd843048 | dired sort toggle         | 23:17:22/26-01-2026 |                                            |
-| acb4da13 | qwen3-tts                 | 22:31:10/26-01-2026 |                                            |
-| 194b2b48 | qwen3-tts                 | 21:47:25/26-01-2026 |                                            |
-| 1166e6c9 | qwen3-tts                 | 21:30:44/26-01-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -220,7 +220,9 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 7f70a52 | upscale-libplacebo             | 23:35:49/28-01-2026 | HEAD -> master, github/master |
+| c5bbf4e | upscale-libplacebo             | 01:14:30/29-01-2026 | HEAD -> master, github/master |
+| c280a0f | upscale-libplacebo             | 00:05:57/29-01-2026 |                               |
+| 7f70a52 | upscale-libplacebo             | 23:35:49/28-01-2026 |                               |
 | b41bc0b | upscale-libplacebo filename 4k | 21:09:20/28-01-2026 |                               |
 | 61af3fc | ffmpeg upscale libplacebo      | 20:20:59/28-01-2026 |                               |
 | 3bc0204 | removed old scripts            | 12:44:05/21-01-2026 |                               |
@@ -228,8 +230,6 @@ status
 | 7a0bb51 | removed old versions           | 23:01:51/20-01-2026 |                               |
 | 4273376 | namespace doas user            | 19:56:55/20-01-2026 |                               |
 | 3a53a8a | relay-mpv pipe fix             | 20:40:52/18-01-2026 |                               |
-| 945ee5b | adding new version             | 20:35:01/18-01-2026 |                               |
-| f5fee53 | relay-mpv pipe clean up        | 14:59:45/17-01-2026 |                               |
 #+end_quote
 
 ** debian
