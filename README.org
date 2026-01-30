@@ -322,14 +322,14 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 8b1a339 | yt-dlp updated            | 19:13:27/29-01-2026 | HEAD -> master, github/master, github/HEAD |
-| adbfda4 | removed old scripts       | 12:49:56/21-01-2026 |                                            |
-| 7ba7913 | rust scripts v3           | 23:04:04/20-01-2026 |                                            |
-| 13619be | removed old versions      | 23:03:30/20-01-2026 |                                            |
-| 1f533d1 | adding new version        | 20:41:15/18-01-2026 |                                            |
-| 4b6756c | relay-mpv pipe clean up   | 15:00:45/17-01-2026 |                                            |
-| fc3a40c | adding new version        | 15:00:07/17-01-2026 |                                            |
-| c67fc62 | relay-mpv rust            | 20:40:18/16-01-2026 |                                            |
-| 546d587 | removed old shell scripts | 20:39:33/16-01-2026 |                                            |
-| 4d4d910 | pinch new version         | 21:01:05/12-01-2026 |                                            |
+| 7c3b696 | decibel levels and normalize | 02:02:15/30-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 8b1a339 | yt-dlp updated               | 19:13:27/29-01-2026 |                                            |
+| adbfda4 | removed old scripts          | 12:49:56/21-01-2026 |                                            |
+| 7ba7913 | rust scripts v3              | 23:04:04/20-01-2026 |                                            |
+| 13619be | removed old versions         | 23:03:30/20-01-2026 |                                            |
+| 1f533d1 | adding new version           | 20:41:15/18-01-2026 |                                            |
+| 4b6756c | relay-mpv pipe clean up      | 15:00:45/17-01-2026 |                                            |
+| fc3a40c | adding new version           | 15:00:07/17-01-2026 |                                            |
+| c67fc62 | relay-mpv rust               | 20:40:18/16-01-2026 |                                            |
+| 546d587 | removed old shell scripts    | 20:39:33/16-01-2026 |                                            |
 #+end_quote
