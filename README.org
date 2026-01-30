@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| e905541 | decibel-levels                   | 23:40:22/29-01-2026 | HEAD -> master, github/master |
+| 5ea4c7d | normalize                        | 01:36:32/30-01-2026 | HEAD -> master, github/master |
+| b29a70e | decibel-levels                   | 00:53:47/30-01-2026 |                               |
+| 6ffefde | decibel-levels                   | 00:53:15/30-01-2026 |                               |
+| 5281dce | decibel-levels                   | 00:05:17/30-01-2026 |                               |
+| e905541 | decibel-levels                   | 23:40:22/29-01-2026 |                               |
 | b620bea | decibel-levels                   | 22:35:46/29-01-2026 |                               |
 | 49f48ec | decibel levels for deepfilternet | 22:26:13/29-01-2026 |                               |
 | 2a2ed20 | upscale-libplacebo               | 21:37:41/29-01-2026 |                               |
 | c5bbf4e | upscale-libplacebo               | 01:14:30/29-01-2026 |                               |
 | c280a0f | upscale-libplacebo               | 00:05:57/29-01-2026 |                               |
-| 7f70a52 | upscale-libplacebo               | 23:35:49/28-01-2026 |                               |
-| b41bc0b | upscale-libplacebo filename 4k   | 21:09:20/28-01-2026 |                               |
-| 61af3fc | ffmpeg upscale libplacebo        | 20:20:59/28-01-2026 |                               |
-| 3bc0204 | removed old scripts              | 12:44:05/21-01-2026 |                               |
 #+end_quote
 
 ** debian
