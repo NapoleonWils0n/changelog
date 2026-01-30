@@ -130,7 +130,7 @@ status
 | b27185c | cosmic                    | 12:03:40/16-12-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 74db648 | flake updated                             | 17:13:36/23-01-2026 | HEAD -> master, github/master, github/HEAD |
+| e735519 | removed handbrake                         | 22:14:55/30-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 74db648 | flake updated                             | 17:13:36/23-01-2026 |                                            |
 | 610b0dd | flake updated                             | 13:06:32/18-01-2026 |                                            |
 | 82b3386 | emacs alacritty no fullscreen             | 11:08:39/14-01-2026 |                                            |
 | ab2b77e | mpd host                                  | 20:15:28/12-01-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | f961b1f | export SDL_VIDEODRIVER=wayland for ffplay | 23:27:16/26-12-2025 |                                            |
 | 8ee2492 | emacs gptel gemini 3                      | 20:57:59/17-12-2025 |                                            |
 | 579dd0b | firefox settings                          | 23:23:53/16-12-2025 |                                            |
-| af614f7 | flake updated                             | 13:35:39/16-12-2025 |                                            |
 #+end_quote
 
 *** TODO nixos-root-cosmic-macbook
