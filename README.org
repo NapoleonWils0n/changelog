@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 60f6523 | removed qwen3-tts not working on dell xps 15 | 14:57:28/27-01-2026 | HEAD -> master, github/master |
+| af812e3 | flake updated                                | 21:32:11/30-01-2026 | HEAD -> master, github/master |
+| 60f6523 | removed qwen3-tts not working on dell xps 15 | 14:57:28/27-01-2026 |                               |
 | 7f2d429 | qwen3-tts                                    | 23:52:14/26-01-2026 |                               |
 | 8fc3935 | deepfilternet                                | 15:06:13/26-01-2026 |                               |
 | 587b2db | texlivefull flake                            | 19:48:54/25-01-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 67f5dc1 | python flake updated                         | 16:01:42/23-01-2026 |                               |
 | 07ca830 | flake updated                                | 15:49:56/23-01-2026 |                               |
 | 3117446 | removed deepfilter                           | 15:42:10/23-01-2026 |                               |
-| ea71353 | obs desktop entry for start-obs script       | 00:07:28/17-01-2026 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
@@ -130,7 +130,7 @@ status
 | b27185c | cosmic                    | 12:03:40/16-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** TODO nixos-dotfiles-macbook-air
 
 github url
 
@@ -164,7 +164,7 @@ status
 | af614f7 | flake updated                             | 13:35:39/16-12-2025 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** TODO nixos-root-cosmic-macbook
 
 github url
 
