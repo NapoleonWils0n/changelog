@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| d7fc46d | demucs flake                                 | 19:39:22/01-02-2026 | HEAD -> master, github/master |
+| a547147 | yt-dlp flake updated                         | 23:57:29/01-02-2026 | HEAD -> master, github/master |
+| d7fc46d | demucs flake                                 | 19:39:22/01-02-2026 |                               |
 | dcc1119 | flake updated                                | 22:06:54/30-01-2026 |                               |
 | ed9d57e | removed handbrake                            | 22:04:46/30-01-2026 |                               |
 | af812e3 | flake updated                                | 21:32:11/30-01-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 8fc3935 | deepfilternet                                | 15:06:13/26-01-2026 |                               |
 | 587b2db | texlivefull flake                            | 19:48:54/25-01-2026 |                               |
 | c1d3bd0 | whisperx flake updated                       | 17:15:27/23-01-2026 |                               |
-| 6bfc1b3 | ollama flake updated                         | 16:03:00/23-01-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | b27185c | cosmic                    | 12:03:40/16-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** TODO nixos-dotfiles-macbook-air
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| a068e9b | removed decibel levels       | 09:56:15/30-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 0417f51 | yt-dlp                       | 23:57:56/01-02-2026 | HEAD -> master, github/master, github/HEAD |
+| a068e9b | removed decibel levels       | 09:56:15/30-01-2026 |                                            |
 | 7c3b696 | decibel levels and normalize | 02:02:15/30-01-2026 |                                            |
 | 8b1a339 | yt-dlp updated               | 19:13:27/29-01-2026 |                                            |
 | adbfda4 | removed old scripts          | 12:49:56/21-01-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | 1f533d1 | adding new version           | 20:41:15/18-01-2026 |                                            |
 | 4b6756c | relay-mpv pipe clean up      | 15:00:45/17-01-2026 |                                            |
 | fc3a40c | adding new version           | 15:00:07/17-01-2026 |                                            |
-| c67fc62 | relay-mpv rust               | 20:40:18/16-01-2026 |                                            |
 #+end_quote
