@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a7bad685   | comfyui                              | 11:12:08/01-02-2026 | HEAD -> master, github/master, github/HEAD |
-| 0012b16d   | ffmpeg upscale brightness            | 16:30:10/30-01-2026 |                                            |
-| 1bfea78a   | ffmpeg concat safe                   | 15:52:38/30-01-2026 |                                            |
-| 907d1713   | fdkaac                               | 14:22:54/30-01-2026 |                                            |
-| c768b6b5   | fdkacc                               | 13:24:09/30-01-2026 |                                            |
-| 6f817f61   | sabr yt-dlp fix                      | 22:23:44/29-01-2026 |                                            |
-| 3.987e+265 | ffmpeg upscale                       | 22:20:39/29-01-2026 |                                            |
-| cd3513ac   | libvirt                              | 20:26:24/29-01-2026 |                                            |
-| e1f00722   | libvirt                              | 20:23:32/29-01-2026 |                                            |
-| 67abfdf6   | windows chocolately upgrade packages | 19:23:43/29-01-2026 |                                            |
+| 320f423c   | demucs                    | 19:26:38/01-02-2026 | HEAD -> master, github/master, github/HEAD |
+| a7bad685   | comfyui                   | 11:12:08/01-02-2026 |                                            |
+| 0012b16d   | ffmpeg upscale brightness | 16:30:10/30-01-2026 |                                            |
+| 1bfea78a   | ffmpeg concat safe        | 15:52:38/30-01-2026 |                                            |
+| 907d1713   | fdkaac                    | 14:22:54/30-01-2026 |                                            |
+| c768b6b5   | fdkacc                    | 13:24:09/30-01-2026 |                                            |
+| 6f817f61   | sabr yt-dlp fix           | 22:23:44/29-01-2026 |                                            |
+| 3.987e+265 | ffmpeg upscale            | 22:20:39/29-01-2026 |                                            |
+| cd3513ac   | libvirt                   | 20:26:24/29-01-2026 |                                            |
+| e1f00722   | libvirt                   | 20:23:32/29-01-2026 |                                            |
 #+end_quote
 
 ** nixos
