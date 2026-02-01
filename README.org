@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| af812e3 | flake updated                                | 21:32:11/30-01-2026 | HEAD -> master, github/master |
+| d7fc46d | demucs flake                                 | 19:39:22/01-02-2026 | HEAD -> master, github/master |
+| dcc1119 | flake updated                                | 22:06:54/30-01-2026 |                               |
+| ed9d57e | removed handbrake                            | 22:04:46/30-01-2026 |                               |
+| af812e3 | flake updated                                | 21:32:11/30-01-2026 |                               |
 | 60f6523 | removed qwen3-tts not working on dell xps 15 | 14:57:28/27-01-2026 |                               |
 | 7f2d429 | qwen3-tts                                    | 23:52:14/26-01-2026 |                               |
 | 8fc3935 | deepfilternet                                | 15:06:13/26-01-2026 |                               |
 | 587b2db | texlivefull flake                            | 19:48:54/25-01-2026 |                               |
 | c1d3bd0 | whisperx flake updated                       | 17:15:27/23-01-2026 |                               |
 | 6bfc1b3 | ollama flake updated                         | 16:03:00/23-01-2026 |                               |
-| 67f5dc1 | python flake updated                         | 16:01:42/23-01-2026 |                               |
-| 07ca830 | flake updated                                | 15:49:56/23-01-2026 |                               |
-| 3117446 | removed deepfilter                           | 15:42:10/23-01-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
