@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0feff8a4 | real-esrgan-ncnn-vulkan/realesrgan-ncnn-vulkan-video-upscale | 20:00:16/02-02-2026 | HEAD -> master, github/master, github/HEAD |
+| c365f236 | real-esrgan-ncnn-vulkan upscale video                        | 22:22:49/02-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 0feff8a4 | real-esrgan-ncnn-vulkan/realesrgan-ncnn-vulkan-video-upscale | 20:00:16/02-02-2026 |                                            |
 | f844b5c1 | real-esrgan video upscale                                    | 19:42:47/02-02-2026 |                                            |
 | 0f24be26 | realesrgan-ncnn-vulkan video upscale                         | 17:31:15/02-02-2026 |                                            |
 | 9d53f7d8 | upscale libplacebo youtube                                   | 20:13:06/01-02-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | a7bad685 | comfyui                                                      | 11:12:08/01-02-2026 |                                            |
 | 0012b16d | ffmpeg upscale brightness                                    | 16:30:10/30-01-2026 |                                            |
 | 1bfea78a | ffmpeg concat safe                                           | 15:52:38/30-01-2026 |                                            |
-| 907d1713 | fdkaac                                                       | 14:22:54/30-01-2026 |                                            |
 #+end_quote
 
 ** nixos
