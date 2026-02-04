@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fc74d6d1 | duke nukem nixos                                             | 18:26:47/03-02-2026 | HEAD -> master, github/master, github/HEAD |
+| f001b161 | ollama models                                                | 22:14:29/04-02-2026 | HEAD -> master, github/master, github/HEAD |
+| fc74d6d1 | duke nukem nixos                                             | 18:26:47/03-02-2026 |                                            |
 | c365f236 | real-esrgan-ncnn-vulkan upscale video                        | 22:22:49/02-02-2026 |                                            |
 | 0feff8a4 | real-esrgan-ncnn-vulkan/realesrgan-ncnn-vulkan-video-upscale | 20:00:16/02-02-2026 |                                            |
 | f844b5c1 | real-esrgan video upscale                                    | 19:42:47/02-02-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | d9fb12f2 | demucs                                                       | 19:48:31/01-02-2026 |                                            |
 | 320f423c | demucs                                                       | 19:26:38/01-02-2026 |                                            |
 | a7bad685 | comfyui                                                      | 11:12:08/01-02-2026 |                                            |
-| 0012b16d | ffmpeg upscale brightness                                    | 16:30:10/30-01-2026 |                                            |
 #+end_quote
 
 ** nixos
