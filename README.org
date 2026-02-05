@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| d0f8638 | ollama removed modelfiles | 15:18:54/05-02-2026 | HEAD -> master, github/master |
+| 4b8d253 | ollama cloud emacs gptel  | 17:46:30/05-02-2026 | HEAD -> master, github/master |
+| d0f8638 | ollama removed modelfiles | 15:18:54/05-02-2026 |                               |
 | b8791a2 | ollama                    | 14:44:33/05-02-2026 |                               |
 | 3189b78 | ollama model files        | 14:39:05/05-02-2026 |                               |
 | ba19bf7 | ollama mode files dir     | 14:02:45/05-02-2026 |                               |
@@ -93,7 +94,6 @@ status
 | d7fc46d | demucs flake              | 19:39:22/01-02-2026 |                               |
 | dcc1119 | flake updated             | 22:06:54/30-01-2026 |                               |
 | ed9d57e | removed handbrake         | 22:04:46/30-01-2026 |                               |
-| af812e3 | flake updated             | 21:32:11/30-01-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
