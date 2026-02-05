@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8f613be | flake updated             | 17:55:36/05-02-2026 | HEAD -> master, github/master |
+| 59205d5 | emacs ollama cloud fix    | 22:44:13/05-02-2026 | HEAD -> master, github/master |
+| 8f613be | flake updated             | 17:55:36/05-02-2026 |                               |
 | 4b8d253 | ollama cloud emacs gptel  | 17:46:30/05-02-2026 |                               |
 | d0f8638 | ollama removed modelfiles | 15:18:54/05-02-2026 |                               |
 | b8791a2 | ollama                    | 14:44:33/05-02-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 740d76e | ollama model files        | 14:02:29/05-02-2026 |                               |
 | a547147 | yt-dlp flake updated      | 23:57:29/01-02-2026 |                               |
 | d7fc46d | demucs flake              | 19:39:22/01-02-2026 |                               |
-| dcc1119 | flake updated             | 22:06:54/30-01-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | b27185c | cosmic                    | 12:03:40/16-12-2025 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 69dcf48 | flake updated                 | 18:30:04/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 10a9ab1 | emacs ollama cloud fix        | 22:45:30/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 69dcf48 | flake updated                 | 18:30:04/05-02-2026 |                                            |
 | b12381a | ollama cloud                  | 18:06:04/05-02-2026 |                                            |
 | a6c4175 | flake updated                 | 17:44:45/02-02-2026 |                                            |
 | ed9e7e5 | flake updated                 | 09:55:58/31-01-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | 610b0dd | flake updated                 | 13:06:32/18-01-2026 |                                            |
 | 82b3386 | emacs alacritty no fullscreen | 11:08:39/14-01-2026 |                                            |
 | ab2b77e | mpd host                      | 20:15:28/12-01-2026 |                                            |
-| 26c1771 | flake updated                 | 15:13:43/11-01-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 3b6bb8c   | ollama cloud                               | 18:07:55/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 506f553   | emacs ollama cloud fix                     | 22:46:33/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 3b6bb8c   | ollama cloud                               | 18:07:55/05-02-2026 |                                            |
 | 62ccff1   | emacs alacritty no maximize                | 15:38:54/14-01-2026 |                                            |
 | eea3c43   | export SDL_VIDEODRIVER=wayland for ffplay  | 23:28:20/26-12-2025 |                                            |
 | ef49516   | emacs gptel gemini 3                       | 20:59:06/17-12-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | 835ab61   | doom-modeline-now-playing                  | 17:49:16/13-12-2025 |                                            |
 | f4cbc02   | removed duplicate code                     | 21:08:56/21-11-2025 |                                            |
 | 8.33e+235 | removed duplicate code                     | 20:54:31/21-11-2025 |                                            |
-| 9716734   | emacs removed duplicates                   | 15:59:16/21-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
