@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 891ebfa7 | ollama code models                                           | 22:20:07/04-02-2026 | HEAD -> master, github/master, github/HEAD |
-| f001b161 | ollama models                                                | 22:14:29/04-02-2026 |                                            |
-| fc74d6d1 | duke nukem nixos                                             | 18:26:47/03-02-2026 |                                            |
-| c365f236 | real-esrgan-ncnn-vulkan upscale video                        | 22:22:49/02-02-2026 |                                            |
-| 0feff8a4 | real-esrgan-ncnn-vulkan/realesrgan-ncnn-vulkan-video-upscale | 20:00:16/02-02-2026 |                                            |
-| f844b5c1 | real-esrgan video upscale                                    | 19:42:47/02-02-2026 |                                            |
-| 0f24be26 | realesrgan-ncnn-vulkan video upscale                         | 17:31:15/02-02-2026 |                                            |
-| 9d53f7d8 | upscale libplacebo youtube                                   | 20:13:06/01-02-2026 |                                            |
-| d9fb12f2 | demucs                                                       | 19:48:31/01-02-2026 |                                            |
-| 320f423c | demucs                                                       | 19:26:38/01-02-2026 |                                            |
+| 1.237e+227 | ollama custom modelfile                                      | 14:36:02/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 891ebfa7   | ollama code models                                           | 22:20:07/04-02-2026 |                                            |
+| f001b161   | ollama models                                                | 22:14:29/04-02-2026 |                                            |
+| fc74d6d1   | duke nukem nixos                                             | 18:26:47/03-02-2026 |                                            |
+| c365f236   | real-esrgan-ncnn-vulkan upscale video                        | 22:22:49/02-02-2026 |                                            |
+| 0feff8a4   | real-esrgan-ncnn-vulkan/realesrgan-ncnn-vulkan-video-upscale | 20:00:16/02-02-2026 |                                            |
+| f844b5c1   | real-esrgan video upscale                                    | 19:42:47/02-02-2026 |                                            |
+| 0f24be26   | realesrgan-ncnn-vulkan video upscale                         | 17:31:15/02-02-2026 |                                            |
+| 9d53f7d8   | upscale libplacebo youtube                                   | 20:13:06/01-02-2026 |                                            |
+| d9fb12f2   | demucs                                                       | 19:48:31/01-02-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| ba19bf7 | ollama mode files dir                        | 14:02:45/05-02-2026 | HEAD -> master, github/master |
+| 3189b78 | ollama model files                           | 14:39:05/05-02-2026 | HEAD -> master, github/master |
+| ba19bf7 | ollama mode files dir                        | 14:02:45/05-02-2026 |                               |
 | 740d76e | ollama model files                           | 14:02:29/05-02-2026 |                               |
 | a547147 | yt-dlp flake updated                         | 23:57:29/01-02-2026 |                               |
 | d7fc46d | demucs flake                                 | 19:39:22/01-02-2026 |                               |
@@ -93,7 +94,6 @@ status
 | af812e3 | flake updated                                | 21:32:11/30-01-2026 |                               |
 | 60f6523 | removed qwen3-tts not working on dell xps 15 | 14:57:28/27-01-2026 |                               |
 | 7f2d429 | qwen3-tts                                    | 23:52:14/26-01-2026 |                               |
-| 8fc3935 | deepfilternet                                | 15:06:13/26-01-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
