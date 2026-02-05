@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,20 +49,20 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 1.237e+227 | ollama custom modelfile                                      | 14:36:02/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 1ed51fb0   | netcat send file                                             | 18:24:53/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 66026243   | netcat                                                       | 18:22:16/05-02-2026 |                                            |
+| 86babab8   | ollama                                                       | 14:43:18/05-02-2026 |                                            |
+| 1.237e+227 | ollama custom modelfile                                      | 14:36:02/05-02-2026 |                                            |
 | 891ebfa7   | ollama code models                                           | 22:20:07/04-02-2026 |                                            |
 | f001b161   | ollama models                                                | 22:14:29/04-02-2026 |                                            |
 | fc74d6d1   | duke nukem nixos                                             | 18:26:47/03-02-2026 |                                            |
 | c365f236   | real-esrgan-ncnn-vulkan upscale video                        | 22:22:49/02-02-2026 |                                            |
 | 0feff8a4   | real-esrgan-ncnn-vulkan/realesrgan-ncnn-vulkan-video-upscale | 20:00:16/02-02-2026 |                                            |
 | f844b5c1   | real-esrgan video upscale                                    | 19:42:47/02-02-2026 |                                            |
-| 0f24be26   | realesrgan-ncnn-vulkan video upscale                         | 17:31:15/02-02-2026 |                                            |
-| 9d53f7d8   | upscale libplacebo youtube                                   | 20:13:06/01-02-2026 |                                            |
-| d9fb12f2   | demucs                                                       | 19:48:31/01-02-2026 |                                            |
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | b27185c | cosmic                    | 12:03:40/16-12-2025 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| b12381a | ollama cloud                  | 18:06:04/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 69dcf48 | flake updated                 | 18:30:04/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| b12381a | ollama cloud                  | 18:06:04/05-02-2026 |                                            |
 | a6c4175 | flake updated                 | 17:44:45/02-02-2026 |                                            |
 | ed9e7e5 | flake updated                 | 09:55:58/31-01-2026 |                                            |
 | e735519 | removed handbrake             | 22:14:55/30-01-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | 82b3386 | emacs alacritty no fullscreen | 11:08:39/14-01-2026 |                                            |
 | ab2b77e | mpd host                      | 20:15:28/12-01-2026 |                                            |
 | 26c1771 | flake updated                 | 15:13:43/11-01-2026 |                                            |
-| 039f213 | flake updated                 | 17:16:19/29-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
