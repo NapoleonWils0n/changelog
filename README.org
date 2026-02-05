@@ -130,7 +130,7 @@ status
 | b27185c | cosmic                    | 12:03:40/16-12-2025 |                               |
 #+end_quote
 
-*** TODO nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| a6c4175 | flake updated                             | 17:44:45/02-02-2026 | HEAD -> master, github/master, github/HEAD |
-| ed9e7e5 | flake updated                             | 09:55:58/31-01-2026 |                                            |
-| e735519 | removed handbrake                         | 22:14:55/30-01-2026 |                                            |
-| 74db648 | flake updated                             | 17:13:36/23-01-2026 |                                            |
-| 610b0dd | flake updated                             | 13:06:32/18-01-2026 |                                            |
-| 82b3386 | emacs alacritty no fullscreen             | 11:08:39/14-01-2026 |                                            |
-| ab2b77e | mpd host                                  | 20:15:28/12-01-2026 |                                            |
-| 26c1771 | flake updated                             | 15:13:43/11-01-2026 |                                            |
-| 039f213 | flake updated                             | 17:16:19/29-12-2025 |                                            |
-| f961b1f | export SDL_VIDEODRIVER=wayland for ffplay | 23:27:16/26-12-2025 |                                            |
+| b12381a | ollama cloud                  | 18:06:04/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| a6c4175 | flake updated                 | 17:44:45/02-02-2026 |                                            |
+| ed9e7e5 | flake updated                 | 09:55:58/31-01-2026 |                                            |
+| e735519 | removed handbrake             | 22:14:55/30-01-2026 |                                            |
+| 74db648 | flake updated                 | 17:13:36/23-01-2026 |                                            |
+| 610b0dd | flake updated                 | 13:06:32/18-01-2026 |                                            |
+| 82b3386 | emacs alacritty no fullscreen | 11:08:39/14-01-2026 |                                            |
+| ab2b77e | mpd host                      | 20:15:28/12-01-2026 |                                            |
+| 26c1771 | flake updated                 | 15:13:43/11-01-2026 |                                            |
+| 039f213 | flake updated                 | 17:16:19/29-12-2025 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 62ccff1   | emacs alacritty no maximize                | 15:38:54/14-01-2026 | HEAD -> master, github/master, github/HEAD |
+| 3b6bb8c   | ollama cloud                               | 18:07:55/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 62ccff1   | emacs alacritty no maximize                | 15:38:54/14-01-2026 |                                            |
 | eea3c43   | export SDL_VIDEODRIVER=wayland for ffplay  | 23:28:20/26-12-2025 |                                            |
 | ef49516   | emacs gptel gemini 3                       | 20:59:06/17-12-2025 |                                            |
 | 16a7333   | doom modeline now playing                  | 22:33:37/15-12-2025 |                                            |
@@ -264,7 +265,6 @@ status
 | f4cbc02   | removed duplicate code                     | 21:08:56/21-11-2025 |                                            |
 | 8.33e+235 | removed duplicate code                     | 20:54:31/21-11-2025 |                                            |
 | 9716734   | emacs removed duplicates                   | 15:59:16/21-11-2025 |                                            |
-| 0daa0c5   | deno zshenv                                | 16:41:45/15-11-2025 |                                            |
 #+end_quote
 
 *** debian-root
