@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| d584836 | removed old scripts will re add | 22:46:00/08-02-2026 | HEAD -> master, github/master |
+| 7ebbe65 | backup-to-usb                   | 16:27:38/10-02-2026 | HEAD -> master, github/master |
+| fcd8662 | removed scripts                 | 16:48:55/09-02-2026 |                               |
+| 6fc5dd2 | trim                            | 16:40:29/09-02-2026 |                               |
+| d584836 | removed old scripts will re add | 22:46:00/08-02-2026 |                               |
 | a952c23 | trim-clip-to vec stats          | 22:17:25/08-02-2026 |                               |
 | ab3a076 | removed                         | 22:15:43/08-02-2026 |                               |
 | 15c26a2 | trim-clip-to vec                | 22:03:58/08-02-2026 |                               |
 | 7d29368 | removed                         | 22:02:35/08-02-2026 |                               |
 | 6728b67 | trim-clip-to                    | 21:50:58/08-02-2026 |                               |
 | 823de7a | removed                         | 21:49:11/08-02-2026 |                               |
-| 3984edd | trim-clip-to                    | 21:45:12/08-02-2026 |                               |
-| 6267ef1 | trim-clip-to                    | 21:28:49/08-02-2026 |                               |
-| 32cf4ca | trim-clip-to                    | 21:13:38/08-02-2026 |                               |
 #+end_quote
 
 ** debian
