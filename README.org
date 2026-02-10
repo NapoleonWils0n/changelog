@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 7ebbe65 | backup-to-usb                   | 16:27:38/10-02-2026 | HEAD -> master, github/master |
+| 4e11b26 | ffmpeg rust scripts v2 nvenc    | 18:07:17/10-02-2026 | HEAD -> master, github/master |
+| 7ebbe65 | backup-to-usb                   | 16:27:38/10-02-2026 |                               |
 | fcd8662 | removed scripts                 | 16:48:55/09-02-2026 |                               |
 | 6fc5dd2 | trim                            | 16:40:29/09-02-2026 |                               |
 | d584836 | removed old scripts will re add | 22:46:00/08-02-2026 |                               |
@@ -229,7 +230,6 @@ status
 | 15c26a2 | trim-clip-to vec                | 22:03:58/08-02-2026 |                               |
 | 7d29368 | removed                         | 22:02:35/08-02-2026 |                               |
 | 6728b67 | trim-clip-to                    | 21:50:58/08-02-2026 |                               |
-| 823de7a | removed                         | 21:49:11/08-02-2026 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 0c74222  | removed old script will re add when done      | 22:43:49/08-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 75da705  | ffmpeg rust scripts v2 nvenc                  | 18:07:47/10-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 0c74222  | removed old script will re add when done      | 22:43:49/08-02-2026 |                                            |
 | 1.0e+INF | ffmpeg rust scripts v2                        | 19:10:35/08-02-2026 |                                            |
 | 80d2621  | ffmpeg rust script removed adding new version | 18:55:52/08-02-2026 |                                            |
 | 8f1762b  | yt-dlp                                        | 17:56:27/05-02-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | 7c3b696  | decibel levels and normalize                  | 02:02:15/30-01-2026 |                                            |
 | 8b1a339  | yt-dlp updated                                | 19:13:27/29-01-2026 |                                            |
 | adbfda4  | removed old scripts                           | 12:49:56/21-01-2026 |                                            |
-| 7ba7913  | rust scripts v3                               | 23:04:04/20-01-2026 |                                            |
 #+end_quote
