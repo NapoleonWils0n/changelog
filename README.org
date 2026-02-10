@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** AIR cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 59205d5 | emacs ollama cloud fix    | 22:44:13/05-02-2026 | HEAD -> master, github/master |
+| 2caa256 | demucs                    | 21:46:20/10-02-2026 | HEAD -> master, github/master |
+| a28bc71 | deepfilternet             | 21:33:45/10-02-2026 |                               |
+| 118014e | flake updated             | 19:53:33/10-02-2026 |                               |
+| 59205d5 | emacs ollama cloud fix    | 22:44:13/05-02-2026 |                               |
 | 8f613be | flake updated             | 17:55:36/05-02-2026 |                               |
 | 4b8d253 | ollama cloud emacs gptel  | 17:46:30/05-02-2026 |                               |
 | d0f8638 | ollama removed modelfiles | 15:18:54/05-02-2026 |                               |
 | b8791a2 | ollama                    | 14:44:33/05-02-2026 |                               |
 | 3189b78 | ollama model files        | 14:39:05/05-02-2026 |                               |
 | ba19bf7 | ollama mode files dir     | 14:02:45/05-02-2026 |                               |
-| 740d76e | ollama model files        | 14:02:29/05-02-2026 |                               |
-| a547147 | yt-dlp flake updated      | 23:57:29/01-02-2026 |                               |
-| d7fc46d | demucs flake              | 19:39:22/01-02-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| fd01606 | libvirt                   | 20:24:38/29-01-2026 | HEAD -> master, github/master |
+| 01d8dda | flake updated             | 18:45:23/10-02-2026 | HEAD -> master, github/master |
+| fd01606 | libvirt                   | 20:24:38/29-01-2026 |                               |
 | 70dcbdf | flake updated             | 16:33:12/29-01-2026 |                               |
 | c22491b | libvirt shared folder     | 16:31:39/29-01-2026 |                               |
 | acdc783 | flake update cosmic 1.0.3 | 15:26:29/23-01-2026 |                               |
@@ -127,7 +128,6 @@ status
 | 39ad023 | ovmf fix                  | 19:18:01/28-12-2025 |                               |
 | b5036fd | flake updated             | 19:16:22/28-12-2025 |                               |
 | 6f3acad | libvirt                   | 19:14:46/28-12-2025 |                               |
-| b27185c | cosmic                    | 12:03:40/16-12-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 10a9ab1 | emacs ollama cloud fix        | 22:45:30/05-02-2026 | HEAD -> master, github/master, github/HEAD |
+| c42fba1 | flake updated                 | 20:59:12/10-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 10a9ab1 | emacs ollama cloud fix        | 22:45:30/05-02-2026 |                                            |
 | 69dcf48 | flake updated                 | 18:30:04/05-02-2026 |                                            |
 | b12381a | ollama cloud                  | 18:06:04/05-02-2026 |                                            |
 | a6c4175 | flake updated                 | 17:44:45/02-02-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | 74db648 | flake updated                 | 17:13:36/23-01-2026 |                                            |
 | 610b0dd | flake updated                 | 13:06:32/18-01-2026 |                                            |
 | 82b3386 | emacs alacritty no fullscreen | 11:08:39/14-01-2026 |                                            |
-| ab2b77e | mpd host                      | 20:15:28/12-01-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 1a11775 | flake updated      | 09:17:41/31-01-2026 | HEAD -> master, github/master |
+| edf422b | flake updated      | 20:23:46/10-02-2026 | HEAD -> master, github/master |
+| 1a11775 | flake updated      | 09:17:41/31-01-2026 |                               |
 | 03d1ca2 | flake updated      | 16:35:10/23-01-2026 |                               |
 | f775f04 | flake updated      | 11:08:49/18-01-2026 |                               |
 | 376b698 | flake updated      | 14:32:23/11-01-2026 |                               |
@@ -195,10 +196,9 @@ status
 | ff30304 | flake updated      | 13:18:36/16-12-2025 |                               |
 | 5fabb4b | cosmic beta 9      | 16:42:51/09-12-2025 |                               |
 | 831e54f | password           | 14:59:54/04-12-2025 |                               |
-| bd3d99e | cosmic desktop     | 14:31:35/04-12-2025 |                               |
 #+end_quote
 
-*** AIR nixos-bin
+*** nixos-bin
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** AIR debian-bin
+*** debian-bin
 
 github url
 
