@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 77ccc2e | python                    | 22:48:18/10-02-2026 | HEAD -> master, github/master |
+| aaebb45 | texlive                   | 22:54:32/10-02-2026 | HEAD -> master, github/master |
+| 77ccc2e | python                    | 22:48:18/10-02-2026 |                               |
 | 2caa256 | demucs                    | 21:46:20/10-02-2026 |                               |
 | a28bc71 | deepfilternet             | 21:33:45/10-02-2026 |                               |
 | 118014e | flake updated             | 19:53:33/10-02-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 4b8d253 | ollama cloud emacs gptel  | 17:46:30/05-02-2026 |                               |
 | d0f8638 | ollama removed modelfiles | 15:18:54/05-02-2026 |                               |
 | b8791a2 | ollama                    | 14:44:33/05-02-2026 |                               |
-| 3189b78 | ollama model files        | 14:39:05/05-02-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
