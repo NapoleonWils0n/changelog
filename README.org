@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f6692e3 | ollama                    | 23:39:12/10-02-2026 | HEAD -> master, github/master |
-| aaebb45 | texlive                   | 22:54:32/10-02-2026 |                               |
-| 77ccc2e | python                    | 22:48:18/10-02-2026 |                               |
-| 2caa256 | demucs                    | 21:46:20/10-02-2026 |                               |
-| a28bc71 | deepfilternet             | 21:33:45/10-02-2026 |                               |
-| 118014e | flake updated             | 19:53:33/10-02-2026 |                               |
-| 59205d5 | emacs ollama cloud fix    | 22:44:13/05-02-2026 |                               |
-| 8f613be | flake updated             | 17:55:36/05-02-2026 |                               |
-| 4b8d253 | ollama cloud emacs gptel  | 17:46:30/05-02-2026 |                               |
-| d0f8638 | ollama removed modelfiles | 15:18:54/05-02-2026 |                               |
+| 62bd2ec | whisperx                 | 23:51:57/10-02-2026 | HEAD -> master, github/master |
+| f6692e3 | ollama                   | 23:39:12/10-02-2026 |                               |
+| aaebb45 | texlive                  | 22:54:32/10-02-2026 |                               |
+| 77ccc2e | python                   | 22:48:18/10-02-2026 |                               |
+| 2caa256 | demucs                   | 21:46:20/10-02-2026 |                               |
+| a28bc71 | deepfilternet            | 21:33:45/10-02-2026 |                               |
+| 118014e | flake updated            | 19:53:33/10-02-2026 |                               |
+| 59205d5 | emacs ollama cloud fix   | 22:44:13/05-02-2026 |                               |
+| 8f613be | flake updated            | 17:55:36/05-02-2026 |                               |
+| 4b8d253 | ollama cloud emacs gptel | 17:46:30/05-02-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
