@@ -118,7 +118,8 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| eed8108 | mac kvm                   | 13:04:22/12-02-2026 | HEAD -> master, github/master |
+| eda14dc | mac                       | 13:07:15/12-02-2026 | HEAD -> master, github/master |
+| eed8108 | mac kvm                   | 13:04:22/12-02-2026 |                               |
 | 01d8dda | flake updated             | 18:45:23/10-02-2026 |                               |
 | fd01606 | libvirt                   | 20:24:38/29-01-2026 |                               |
 | 70dcbdf | flake updated             | 16:33:12/29-01-2026 |                               |
@@ -127,7 +128,6 @@ status
 | e71b2e7 | flake updated             | 21:53:30/16-01-2026 |                               |
 | 9a63af4 | flake updated             | 12:55:37/11-01-2026 |                               |
 | 39ad023 | ovmf fix                  | 19:18:01/28-12-2025 |                               |
-| b5036fd | flake updated             | 19:16:22/28-12-2025 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
