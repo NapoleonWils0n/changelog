@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 096dd89f   | haldcut lut             | 21:33:18/18-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 12d8a716   | haldcut ffmpeg lut      | 22:18:38/18-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 520012a6   | haldcut lut             | 21:54:14/18-02-2026 |                                            |
+| 096dd89f   | haldcut lut             | 21:33:18/18-02-2026 |                                            |
 | 212f4c21   | libvirt windows         | 22:27:07/16-02-2026 |                                            |
 | 34bbb2f5   | mac osx tahoe           | 15:22:05/14-02-2026 |                                            |
 | 6125b697   | normalize               | 18:53:46/08-02-2026 |                                            |
@@ -57,8 +59,6 @@ git status
 | 66026243   | netcat                  | 18:22:16/05-02-2026 |                                            |
 | 86babab8   | ollama                  | 14:43:18/05-02-2026 |                                            |
 | 1.237e+227 | ollama custom modelfile | 14:36:02/05-02-2026 |                                            |
-| 891ebfa7   | ollama code models      | 22:20:07/04-02-2026 |                                            |
-| f001b161   | ollama models           | 22:14:29/04-02-2026 |                                            |
 #+end_quote
 
 ** nixos
