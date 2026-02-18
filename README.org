@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 212f4c21   | libvirt windows         | 22:27:07/16-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 096dd89f   | haldcut lut             | 21:33:18/18-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 212f4c21   | libvirt windows         | 22:27:07/16-02-2026 |                                            |
 | 34bbb2f5   | mac osx tahoe           | 15:22:05/14-02-2026 |                                            |
 | 6125b697   | normalize               | 18:53:46/08-02-2026 |                                            |
 | 1ed51fb0   | netcat send file        | 18:24:53/05-02-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 1.237e+227 | ollama custom modelfile | 14:36:02/05-02-2026 |                                            |
 | 891ebfa7   | ollama code models      | 22:20:07/04-02-2026 |                                            |
 | f001b161   | ollama models           | 22:14:29/04-02-2026 |                                            |
-| fc74d6d1   | duke nukem nixos        | 18:26:47/03-02-2026 |                                            |
 #+end_quote
 
 ** nixos
