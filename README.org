@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e72b532 | flake updated      | 16:22:05/15-02-2026 | HEAD -> master, github/master |
-| 4141a6e | fllake updated     | 15:03:29/15-02-2026 |                               |
-| 802495f | mpd ffmpeg filters | 15:00:06/15-02-2026 |                               |
-| 62bd2ec | whisperx           | 23:51:57/10-02-2026 |                               |
-| f6692e3 | ollama             | 23:39:12/10-02-2026 |                               |
-| aaebb45 | texlive            | 22:54:32/10-02-2026 |                               |
-| 77ccc2e | python             | 22:48:18/10-02-2026 |                               |
-| 2caa256 | demucs             | 21:46:20/10-02-2026 |                               |
-| a28bc71 | deepfilternet      | 21:33:45/10-02-2026 |                               |
-| 118014e | flake updated      | 19:53:33/10-02-2026 |                               |
+| 473d8f5 | flake gimp with plugins | 19:20:32/18-02-2026 | HEAD -> master, github/master |
+| 835b0bc | gimp with plugins       | 19:16:08/18-02-2026 |                               |
+| e72b532 | flake updated           | 16:22:05/15-02-2026 |                               |
+| 4141a6e | fllake updated          | 15:03:29/15-02-2026 |                               |
+| 802495f | mpd ffmpeg filters      | 15:00:06/15-02-2026 |                               |
+| 62bd2ec | whisperx                | 23:51:57/10-02-2026 |                               |
+| f6692e3 | ollama                  | 23:39:12/10-02-2026 |                               |
+| aaebb45 | texlive                 | 22:54:32/10-02-2026 |                               |
+| 77ccc2e | python                  | 22:48:18/10-02-2026 |                               |
+| 2caa256 | demucs                  | 21:46:20/10-02-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
