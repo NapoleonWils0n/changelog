@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| b669451 | ffmpeg rust scripts v3          | 00:22:59/18-02-2026 | HEAD -> master, github/master |
+| a5bb9de | xfade removed                   | 11:10:18/18-02-2026 | HEAD -> master, github/master |
+| b669451 | ffmpeg rust scripts v3          | 00:22:59/18-02-2026 |                               |
 | b47d45d | removed scripts                 | 00:13:00/18-02-2026 |                               |
 | 4e11b26 | ffmpeg rust scripts v2 nvenc    | 18:07:17/10-02-2026 |                               |
 | 7ebbe65 | backup-to-usb                   | 16:27:38/10-02-2026 |                               |
@@ -229,7 +230,6 @@ status
 | d584836 | removed old scripts will re add | 22:46:00/08-02-2026 |                               |
 | a952c23 | trim-clip-to vec stats          | 22:17:25/08-02-2026 |                               |
 | ab3a076 | removed                         | 22:15:43/08-02-2026 |                               |
-| 15c26a2 | trim-clip-to vec                | 22:03:58/08-02-2026 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| a195924  | ffmpeg rust scripts v3                        | 00:23:25/18-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 59f1688  | xfade removed                                 | 11:10:41/18-02-2026 | HEAD -> master, github/master, github/HEAD |
+| a195924  | ffmpeg rust scripts v3                        | 00:23:25/18-02-2026 |                                            |
 | 89eb891  | removed scripts                               | 00:13:10/18-02-2026 |                                            |
 | 75da705  | ffmpeg rust scripts v2 nvenc                  | 18:07:47/10-02-2026 |                                            |
 | 0c74222  | removed old script will re add when done      | 22:43:49/08-02-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | 8f1762b  | yt-dlp                                        | 17:56:27/05-02-2026 |                                            |
 | 0417f51  | yt-dlp                                        | 23:57:56/01-02-2026 |                                            |
 | a068e9b  | removed decibel levels                        | 09:56:15/30-01-2026 |                                            |
-| 7c3b696  | decibel levels and normalize                  | 02:02:15/30-01-2026 |                                            |
 #+end_quote
