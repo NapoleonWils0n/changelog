@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 2caa256 | demucs                  | 21:46:20/10-02-2026 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 9a63af4 | flake updated             | 12:55:37/11-01-2026 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| aed6c93 | gimp with plugins      | 00:53:55/19-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 62d29ff | flake updated          | 14:09:44/19-02-2026 | HEAD -> master, github/master, github/HEAD |
+| aed6c93 | gimp with plugins      | 00:53:55/19-02-2026 |                                            |
 | c42fba1 | flake updated          | 20:59:12/10-02-2026 |                                            |
 | 10a9ab1 | emacs ollama cloud fix | 22:45:30/05-02-2026 |                                            |
 | 69dcf48 | flake updated          | 18:30:04/05-02-2026 |                                            |
@@ -161,10 +162,9 @@ status
 | ed9e7e5 | flake updated          | 09:55:58/31-01-2026 |                                            |
 | e735519 | removed handbrake      | 22:14:55/30-01-2026 |                                            |
 | 74db648 | flake updated          | 17:13:36/23-01-2026 |                                            |
-| 610b0dd | flake updated          | 13:06:32/18-01-2026 |                                            |
 #+end_quote
 
-*** TODO nixos-root-cosmic-macbook
+*** nixos-root-cosmic-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| edf422b | flake updated      | 20:23:46/10-02-2026 | HEAD -> master, github/master |
+| 8d30cf3 | flake updated      | 13:50:24/19-02-2026 | HEAD -> master, github/master |
+| edf422b | flake updated      | 20:23:46/10-02-2026 |                               |
 | 1a11775 | flake updated      | 09:17:41/31-01-2026 |                               |
 | 03d1ca2 | flake updated      | 16:35:10/23-01-2026 |                               |
 | f775f04 | flake updated      | 11:08:49/18-01-2026 |                               |
@@ -195,7 +196,6 @@ status
 | 9906c23 | extragroups quotes | 19:26:11/28-12-2025 |                               |
 | ff30304 | flake updated      | 13:18:36/16-12-2025 |                               |
 | 5fabb4b | cosmic beta 9      | 16:42:51/09-12-2025 |                               |
-| 831e54f | password           | 14:59:54/04-12-2025 |                               |
 #+end_quote
 
 *** nixos-bin
