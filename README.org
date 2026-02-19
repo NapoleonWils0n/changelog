@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 12d8a716   | haldcut ffmpeg lut      | 22:18:38/18-02-2026 | HEAD -> master, github/master, github/HEAD |
-| 520012a6   | haldcut lut             | 21:54:14/18-02-2026 |                                            |
-| 096dd89f   | haldcut lut             | 21:33:18/18-02-2026 |                                            |
-| 212f4c21   | libvirt windows         | 22:27:07/16-02-2026 |                                            |
-| 34bbb2f5   | mac osx tahoe           | 15:22:05/14-02-2026 |                                            |
-| 6125b697   | normalize               | 18:53:46/08-02-2026 |                                            |
-| 1ed51fb0   | netcat send file        | 18:24:53/05-02-2026 |                                            |
-| 66026243   | netcat                  | 18:22:16/05-02-2026 |                                            |
-| 86babab8   | ollama                  | 14:43:18/05-02-2026 |                                            |
-| 1.237e+227 | ollama custom modelfile | 14:36:02/05-02-2026 |                                            |
+| ec1fd0e2 | windows vm         | 15:58:57/19-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 12d8a716 | haldcut ffmpeg lut | 22:18:38/18-02-2026 |                                            |
+| 520012a6 | haldcut lut        | 21:54:14/18-02-2026 |                                            |
+| 096dd89f | haldcut lut        | 21:33:18/18-02-2026 |                                            |
+| 212f4c21 | libvirt windows    | 22:27:07/16-02-2026 |                                            |
+| 34bbb2f5 | mac osx tahoe      | 15:22:05/14-02-2026 |                                            |
+| 6125b697 | normalize          | 18:53:46/08-02-2026 |                                            |
+| 1ed51fb0 | netcat send file   | 18:24:53/05-02-2026 |                                            |
+| 66026243 | netcat             | 18:22:16/05-02-2026 |                                            |
+| 86babab8 | ollama             | 14:43:18/05-02-2026 |                                            |
 #+end_quote
 
 ** nixos
