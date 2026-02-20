@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 74cb4cab | converting cube files to pngs    | 18:55:30/20-02-2026 | HEAD -> master, github/master, github/HEAD |
+| f8bec9e3 | convert cube file to png         | 19:13:22/20-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 74cb4cab | converting cube files to pngs    | 18:55:30/20-02-2026 |                                            |
 | 5bcbd023 | convert lut cube files to pngs   | 18:53:18/20-02-2026 |                                            |
 | 23b6e888 | lut collection                   | 18:50:19/20-02-2026 |                                            |
 | 3a9e8426 | convert a lut cube file to a png | 18:47:21/20-02-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 12d8a716 | haldcut ffmpeg lut               | 22:18:38/18-02-2026 |                                            |
 | 520012a6 | haldcut lut                      | 21:54:14/18-02-2026 |                                            |
 | 096dd89f | haldcut lut                      | 21:33:18/18-02-2026 |                                            |
-| 212f4c21 | libvirt windows                  | 22:27:07/16-02-2026 |                                            |
 #+end_quote
 
 ** nixos
