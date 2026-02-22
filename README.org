@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| ddfb394  | ffmpeg rust scripts v4                        | 14:09:28/20-02-2026 | HEAD -> master, github/master, github/HEAD |
+| b9ac3b1  | yt-dlp                                        | 22:50:50/22-02-2026 | HEAD -> master, github/master, github/HEAD |
+| ddfb394  | ffmpeg rust scripts v4                        | 14:09:28/20-02-2026 |                                            |
 | 59f1688  | xfade removed                                 | 11:10:41/18-02-2026 |                                            |
 | a195924  | ffmpeg rust scripts v3                        | 00:23:25/18-02-2026 |                                            |
 | 89eb891  | removed scripts                               | 00:13:10/18-02-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | 1.0e+INF | ffmpeg rust scripts v2                        | 19:10:35/08-02-2026 |                                            |
 | 80d2621  | ffmpeg rust script removed adding new version | 18:55:52/08-02-2026 |                                            |
 | 8f1762b  | yt-dlp                                        | 17:56:27/05-02-2026 |                                            |
-| 0417f51  | yt-dlp                                        | 23:57:56/01-02-2026 |                                            |
 #+end_quote
