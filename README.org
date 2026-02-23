@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 473d8f5 | flake gimp with plugins | 19:20:32/18-02-2026 | HEAD -> master, github/master |
+| 453a3b0 | flake updated           | 13:01:42/23-02-2026 | HEAD -> master, github/master |
+| 473d8f5 | flake gimp with plugins | 19:20:32/18-02-2026 |                               |
 | 835b0bc | gimp with plugins       | 19:16:08/18-02-2026 |                               |
 | e72b532 | flake updated           | 16:22:05/15-02-2026 |                               |
 | 4141a6e | fllake updated          | 15:03:29/15-02-2026 |                               |
@@ -93,7 +94,6 @@ status
 | f6692e3 | ollama                  | 23:39:12/10-02-2026 |                               |
 | aaebb45 | texlive                 | 22:54:32/10-02-2026 |                               |
 | 77ccc2e | python                  | 22:48:18/10-02-2026 |                               |
-| 2caa256 | demucs                  | 21:46:20/10-02-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 62d29ff | flake updated          | 14:09:44/19-02-2026 | HEAD -> master, github/master, github/HEAD |
+| ebd15dd | flake updated          | 13:15:45/23-02-2026 | HEAD -> master, github/master, github/HEAD |
+| 62d29ff | flake updated          | 14:09:44/19-02-2026 |                                            |
 | aed6c93 | gimp with plugins      | 00:53:55/19-02-2026 |                                            |
 | c42fba1 | flake updated          | 20:59:12/10-02-2026 |                                            |
 | 10a9ab1 | emacs ollama cloud fix | 22:45:30/05-02-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | a6c4175 | flake updated          | 17:44:45/02-02-2026 |                                            |
 | ed9e7e5 | flake updated          | 09:55:58/31-01-2026 |                                            |
 | e735519 | removed handbrake      | 22:14:55/30-01-2026 |                                            |
-| 74db648 | flake updated          | 17:13:36/23-01-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
