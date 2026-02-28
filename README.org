@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 453a3b0 | flake updated           | 13:01:42/23-02-2026 | HEAD -> master, github/master |
-| 473d8f5 | flake gimp with plugins | 19:20:32/18-02-2026 |                               |
-| 835b0bc | gimp with plugins       | 19:16:08/18-02-2026 |                               |
-| e72b532 | flake updated           | 16:22:05/15-02-2026 |                               |
-| 4141a6e | fllake updated          | 15:03:29/15-02-2026 |                               |
-| 802495f | mpd ffmpeg filters      | 15:00:06/15-02-2026 |                               |
-| 62bd2ec | whisperx                | 23:51:57/10-02-2026 |                               |
-| f6692e3 | ollama                  | 23:39:12/10-02-2026 |                               |
-| aaebb45 | texlive                 | 22:54:32/10-02-2026 |                               |
-| 77ccc2e | python                  | 22:48:18/10-02-2026 |                               |
+| 7b922a3 | texlive flake           | 18:26:09/28-02-2026 | HEAD -> master |
+| 50b0e92 | whisperx flake          | 18:11:15/28-02-2026 |                |
+| 50bc778 | ollama flake            | 16:34:41/28-02-2026 |                |
+| 4645ba6 | flakes updated          | 15:17:38/28-02-2026 | github/master  |
+| 453a3b0 | flake updated           | 13:01:42/23-02-2026 |                |
+| 473d8f5 | flake gimp with plugins | 19:20:32/18-02-2026 |                |
+| 835b0bc | gimp with plugins       | 19:16:08/18-02-2026 |                |
+| e72b532 | flake updated           | 16:22:05/15-02-2026 |                |
+| 4141a6e | fllake updated          | 15:03:29/15-02-2026 |                |
+| 802495f | mpd ffmpeg filters      | 15:00:06/15-02-2026 |                |
 #+end_quote
 
 *** nixos-root-xps
