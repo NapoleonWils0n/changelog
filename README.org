@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 3c1f483 | removed transmission desktop entry | 13:51:17/02-03-2026 | HEAD -> master, github/master |
+| 25ee80e | invidious lan ip                   | 19:25:56/03-03-2026 | HEAD -> master, github/master |
+| 3c1f483 | removed transmission desktop entry | 13:51:17/02-03-2026 |                               |
 | b3b4fc1 | qbittorent                         | 13:07:25/02-03-2026 |                               |
 | bc5f8a4 | qbittorent                         | 13:05:06/02-03-2026 |                               |
 | 4b505f0 | qbittorent                         | 13:03:30/02-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 50b0e92 | whisperx flake                     | 18:11:15/28-02-2026 |                               |
 | 50bc778 | ollama flake                       | 16:34:41/28-02-2026 |                               |
 | 4645ba6 | flakes updated                     | 15:17:38/28-02-2026 |                               |
-| 453a3b0 | flake updated                      | 13:01:42/23-02-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
