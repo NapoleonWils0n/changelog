@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 6edc42f | removed dnsmasq | 21:13:15/04-03-2026 | HEAD -> master, github/master |
-| a6153f7 | dnsmasq         | 20:02:31/04-03-2026 |                               |
-| 9024f28 | removed         | 20:00:47/04-03-2026 |                               |
-| c6c2f42 | dnsmasq         | 19:57:58/04-03-2026 |                               |
-| bbd6967 | gstreamer       | 18:38:38/04-03-2026 |                               |
-| 8341b50 | ios airplay     | 17:43:51/04-03-2026 |                               |
-| a8c4210 | ios airplay     | 17:41:50/04-03-2026 |                               |
-| fce20d0 | flake updated   | 16:42:59/04-03-2026 |                               |
-| 9264320 | flake updated   | 16:39:05/04-03-2026 |                               |
-| 391377f | ios airplay     | 16:37:31/04-03-2026 |                               |
+| d0d6219 | v4l2loopback removed | 23:01:37/04-03-2026 | HEAD -> master, github/master |
+| 6edc42f | removed dnsmasq      | 21:13:15/04-03-2026 |                               |
+| a6153f7 | dnsmasq              | 20:02:31/04-03-2026 |                               |
+| 9024f28 | removed              | 20:00:47/04-03-2026 |                               |
+| c6c2f42 | dnsmasq              | 19:57:58/04-03-2026 |                               |
+| bbd6967 | gstreamer            | 18:38:38/04-03-2026 |                               |
+| 8341b50 | ios airplay          | 17:43:51/04-03-2026 |                               |
+| a8c4210 | ios airplay          | 17:41:50/04-03-2026 |                               |
+| fce20d0 | flake updated        | 16:42:59/04-03-2026 |                               |
+| 9264320 | flake updated        | 16:39:05/04-03-2026 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
