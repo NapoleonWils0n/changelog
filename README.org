@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b9ebb49b | ios ipad dfu linux               | 23:28:36/03-03-2026 | HEAD -> master, github/master, github/HEAD |
+| e5a9242a | uxplay                           | 14:26:08/05-03-2026 | HEAD -> master, github/master, github/HEAD |
+| b9ebb49b | ios ipad dfu linux               | 23:28:36/03-03-2026 |                                            |
 | 3548bdac | imagemagick ghostscript          | 16:18:59/26-02-2026 |                                            |
 | 4b6bc34d | ls cat subshell                  | 14:43:52/24-02-2026 |                                            |
 | f8bec9e3 | convert cube file to png         | 19:13:22/20-02-2026 |                                            |
@@ -58,11 +59,10 @@ git status
 | 23b6e888 | lut collection                   | 18:50:19/20-02-2026 |                                            |
 | 3a9e8426 | convert a lut cube file to a png | 18:47:21/20-02-2026 |                                            |
 | 7409b6f2 | imagemagick crop images          | 18:23:30/20-02-2026 |                                            |
-| ec1fd0e2 | windows vm                       | 15:58:57/19-02-2026 |                                            |
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8e6d72c | mpv invidious                      | 19:59:59/03-03-2026 | HEAD -> master, github/master |
+| ae91d98 | flake updated                      | 13:16:51/05-03-2026 | HEAD -> master, github/master |
+| 8e6d72c | mpv invidious                      | 19:59:59/03-03-2026 |                               |
 | 25ee80e | invidious lan ip                   | 19:25:56/03-03-2026 |                               |
 | 3c1f483 | removed transmission desktop entry | 13:51:17/02-03-2026 |                               |
 | b3b4fc1 | qbittorent                         | 13:07:25/02-03-2026 |                               |
@@ -93,10 +94,9 @@ status
 | 4655f6f | flake updated                      | 11:36:14/01-03-2026 |                               |
 | 7b922a3 | texlive flake                      | 18:26:09/28-02-2026 |                               |
 | 50b0e92 | whisperx flake                     | 18:11:15/28-02-2026 |                               |
-| 50bc778 | ollama flake                       | 16:34:41/28-02-2026 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| d035d1c  | flake updated          | 15:34:13/02-03-2026 | HEAD -> master, github/master, github/HEAD |
+| d32273b  | flake updated          | 14:59:25/05-03-2026 | HEAD -> master, github/master, github/HEAD |
+| d035d1c  | flake updated          | 15:34:13/02-03-2026 |                                            |
 | 1.0e+INF | qbittorrent            | 14:41:07/02-03-2026 |                                            |
 | ec3d771  | flake updated          | 13:47:40/01-03-2026 |                                            |
 | ebd15dd  | flake updated          | 13:15:45/23-02-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | c42fba1  | flake updated          | 20:59:12/10-02-2026 |                                            |
 | 10a9ab1  | emacs ollama cloud fix | 22:45:30/05-02-2026 |                                            |
 | 69dcf48  | flake updated          | 18:30:04/05-02-2026 |                                            |
-| b12381a  | ollama cloud           | 18:06:04/05-02-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 1b28d5e | flake updated      | 13:08:17/01-03-2026 | HEAD -> master, github/master |
+| 3f6e588 | flake updated      | 14:35:56/05-03-2026 | HEAD -> master, github/master |
+| 1b28d5e | flake updated      | 13:08:17/01-03-2026 |                               |
 | 8d30cf3 | flake updated      | 13:50:24/19-02-2026 |                               |
 | edf422b | flake updated      | 20:23:46/10-02-2026 |                               |
 | 1a11775 | flake updated      | 09:17:41/31-01-2026 |                               |
@@ -195,7 +196,6 @@ status
 | 376b698 | flake updated      | 14:32:23/11-01-2026 |                               |
 | e26ab02 | flake updated      | 16:36:43/29-12-2025 |                               |
 | 9906c23 | extragroups quotes | 19:26:11/28-12-2025 |                               |
-| ff30304 | flake updated      | 13:18:36/16-12-2025 |                               |
 #+end_quote
 
 *** nixos-bin
@@ -322,14 +322,14 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| da65e9a  | removed blackrain                             | 14:42:46/02-03-2026 | HEAD -> master, github/master, github/HEAD |
-| b9ac3b1  | yt-dlp                                        | 22:50:50/22-02-2026 |                                            |
-| ddfb394  | ffmpeg rust scripts v4                        | 14:09:28/20-02-2026 |                                            |
-| 59f1688  | xfade removed                                 | 11:10:41/18-02-2026 |                                            |
-| a195924  | ffmpeg rust scripts v3                        | 00:23:25/18-02-2026 |                                            |
-| 89eb891  | removed scripts                               | 00:13:10/18-02-2026 |                                            |
-| 75da705  | ffmpeg rust scripts v2 nvenc                  | 18:07:47/10-02-2026 |                                            |
-| 0c74222  | removed old script will re add when done      | 22:43:49/08-02-2026 |                                            |
-| 1.0e+INF | ffmpeg rust scripts v2                        | 19:10:35/08-02-2026 |                                            |
-| 80d2621  | ffmpeg rust script removed adding new version | 18:55:52/08-02-2026 |                                            |
+| 74373bb  | yt-dlp                                   | 13:23:26/05-03-2026 | HEAD -> master, github/master, github/HEAD |
+| da65e9a  | removed blackrain                        | 14:42:46/02-03-2026 |                                            |
+| b9ac3b1  | yt-dlp                                   | 22:50:50/22-02-2026 |                                            |
+| ddfb394  | ffmpeg rust scripts v4                   | 14:09:28/20-02-2026 |                                            |
+| 59f1688  | xfade removed                            | 11:10:41/18-02-2026 |                                            |
+| a195924  | ffmpeg rust scripts v3                   | 00:23:25/18-02-2026 |                                            |
+| 89eb891  | removed scripts                          | 00:13:10/18-02-2026 |                                            |
+| 75da705  | ffmpeg rust scripts v2 nvenc             | 18:07:47/10-02-2026 |                                            |
+| 0c74222  | removed old script will re add when done | 22:43:49/08-02-2026 |                                            |
+| 1.0e+INF | ffmpeg rust scripts v2                   | 19:10:35/08-02-2026 |                                            |
 #+end_quote
