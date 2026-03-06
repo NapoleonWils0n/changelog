@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a1a868e9 | uxplay debian                    | 16:02:36/05-03-2026 | HEAD -> master, github/master, github/HEAD |
-| e5a9242a | uxplay                           | 14:26:08/05-03-2026 |                                            |
-| b9ebb49b | ios ipad dfu linux               | 23:28:36/03-03-2026 |                                            |
-| 3548bdac | imagemagick ghostscript          | 16:18:59/26-02-2026 |                                            |
-| 4b6bc34d | ls cat subshell                  | 14:43:52/24-02-2026 |                                            |
-| f8bec9e3 | convert cube file to png         | 19:13:22/20-02-2026 |                                            |
-| 74cb4cab | converting cube files to pngs    | 18:55:30/20-02-2026 |                                            |
-| 5bcbd023 | convert lut cube files to pngs   | 18:53:18/20-02-2026 |                                            |
-| 23b6e888 | lut collection                   | 18:50:19/20-02-2026 |                                            |
-| 3a9e8426 | convert a lut cube file to a png | 18:47:21/20-02-2026 |                                            |
+| 9125000000000.0 | unicast                        | 14:10:41/06-03-2026 | HEAD -> master, github/master, github/HEAD |
+| a1a868e9        | uxplay debian                  | 16:02:36/05-03-2026 |                                            |
+| e5a9242a        | uxplay                         | 14:26:08/05-03-2026 |                                            |
+| b9ebb49b        | ios ipad dfu linux             | 23:28:36/03-03-2026 |                                            |
+| 3548bdac        | imagemagick ghostscript        | 16:18:59/26-02-2026 |                                            |
+| 4b6bc34d        | ls cat subshell                | 14:43:52/24-02-2026 |                                            |
+| f8bec9e3        | convert cube file to png       | 19:13:22/20-02-2026 |                                            |
+| 74cb4cab        | converting cube files to pngs  | 18:55:30/20-02-2026 |                                            |
+| 5bcbd023        | convert lut cube files to pngs | 18:53:18/20-02-2026 |                                            |
+| 23b6e888        | lut collection                 | 18:50:19/20-02-2026 |                                            |
 #+end_quote
 
 ** nixos
