@@ -220,7 +220,9 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 87f7c7d | unicast rust script           | 15:56:21/09-03-2026 | HEAD -> master, github/master |
+| 1857289 | unicast                       | 21:28:16/09-03-2026 | HEAD -> master, github/master |
+| 39bf760 | adding new version            | 21:27:27/09-03-2026 |                               |
+| 87f7c7d | unicast rust script           | 15:56:21/09-03-2026 |                               |
 | a7e6e5f | removed                       | 15:37:56/09-03-2026 |                               |
 | d34ec0e | unicast rust                  | 15:34:07/09-03-2026 |                               |
 | ff50af8 | unicast removed shell version | 15:33:43/09-03-2026 |                               |
@@ -228,8 +230,6 @@ status
 | a223d4b | unicast                       | 23:38:00/05-03-2026 |                               |
 | eb6bf84 | removed transmission scripts  | 13:04:14/02-03-2026 |                               |
 | fa7d26f | ffmpeg rust scripts v4        | 14:07:25/20-02-2026 |                               |
-| e4483b3 | ffmpeg rust script v3 removed | 14:03:28/20-02-2026 |                               |
-| a5bb9de | xfade removed                 | 11:10:18/18-02-2026 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| be03c6d | unicast rust script           | 15:57:06/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| ffeaa2f | unicast                       | 21:28:40/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| be03c6d | unicast rust script           | 15:57:06/09-03-2026 |                                            |
 | a536733 | removed unicast               | 15:38:25/09-03-2026 |                                            |
 | 0e2d28e | unicast rust                  | 15:35:03/09-03-2026 |                                            |
 | ac64459 | unicast removed shell version | 15:34:33/09-03-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | b567c86 | unicast                       | 23:38:21/05-03-2026 |                                            |
 | 74373bb | yt-dlp                        | 13:23:26/05-03-2026 |                                            |
 | da65e9a | removed blackrain             | 14:42:46/02-03-2026 |                                            |
-| b9ac3b1 | yt-dlp                        | 22:50:50/22-02-2026 |                                            |
 #+end_quote
