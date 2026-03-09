@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5fa99a16        | unicast streaming       | 17:47:32/06-03-2026 | HEAD -> master, github/master, github/HEAD |
-| 9986d537        | unicast                 | 16:53:34/06-03-2026 |                                            |
-| 03259a28        | adding new version      | 16:52:49/06-03-2026 |                                            |
-| 9f0d7e1e        | uxplay                  | 16:23:09/06-03-2026 |                                            |
-| 1499d828        | unicast                 | 14:15:02/06-03-2026 |                                            |
-| 9125000000000.0 | unicast                 | 14:10:41/06-03-2026 |                                            |
-| a1a868e9        | uxplay debian           | 16:02:36/05-03-2026 |                                            |
-| e5a9242a        | uxplay                  | 14:26:08/05-03-2026 |                                            |
-| b9ebb49b        | ios ipad dfu linux      | 23:28:36/03-03-2026 |                                            |
-| 3548bdac        | imagemagick ghostscript | 16:18:59/26-02-2026 |                                            |
+| 5ba77abe        | reset local repo to head | 14:29:27/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 5fa99a16        | unicast streaming        | 17:47:32/06-03-2026 |                                            |
+| 9986d537        | unicast                  | 16:53:34/06-03-2026 |                                            |
+| 03259a28        | adding new version       | 16:52:49/06-03-2026 |                                            |
+| 9f0d7e1e        | uxplay                   | 16:23:09/06-03-2026 |                                            |
+| 1499d828        | unicast                  | 14:15:02/06-03-2026 |                                            |
+| 9125000000000.0 | unicast                  | 14:10:41/06-03-2026 |                                            |
+| a1a868e9        | uxplay debian            | 16:02:36/05-03-2026 |                                            |
+| e5a9242a        | uxplay                   | 14:26:08/05-03-2026 |                                            |
+| b9ebb49b        | ios ipad dfu linux       | 23:28:36/03-03-2026 |                                            |
 #+end_quote
 
 ** nixos
