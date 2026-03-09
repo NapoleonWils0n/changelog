@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| a7e6e5f | removed                       | 15:37:56/09-03-2026 | HEAD -> master, github/master |
+| 87f7c7d | unicast rust script           | 15:56:21/09-03-2026 | HEAD -> master, github/master |
+| a7e6e5f | removed                       | 15:37:56/09-03-2026 |                               |
 | d34ec0e | unicast rust                  | 15:34:07/09-03-2026 |                               |
 | ff50af8 | unicast removed shell version | 15:33:43/09-03-2026 |                               |
 | e04e3ce | unicast                       | 16:51:26/06-03-2026 |                               |
@@ -229,7 +230,6 @@ status
 | fa7d26f | ffmpeg rust scripts v4        | 14:07:25/20-02-2026 |                               |
 | e4483b3 | ffmpeg rust script v3 removed | 14:03:28/20-02-2026 |                               |
 | a5bb9de | xfade removed                 | 11:10:18/18-02-2026 |                               |
-| b669451 | ffmpeg rust scripts v3        | 00:22:59/18-02-2026 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| a536733 | removed unicast               | 15:38:25/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| be03c6d | unicast rust script           | 15:57:06/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| a536733 | removed unicast               | 15:38:25/09-03-2026 |                                            |
 | 0e2d28e | unicast rust                  | 15:35:03/09-03-2026 |                                            |
 | ac64459 | unicast removed shell version | 15:34:33/09-03-2026 |                                            |
 | b1c0d38 | unicast                       | 16:52:22/06-03-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | 74373bb | yt-dlp                        | 13:23:26/05-03-2026 |                                            |
 | da65e9a | removed blackrain             | 14:42:46/02-03-2026 |                                            |
 | b9ac3b1 | yt-dlp                        | 22:50:50/22-02-2026 |                                            |
-| ddfb394 | ffmpeg rust scripts v4        | 14:09:28/20-02-2026 |                                            |
 #+end_quote
