@@ -198,7 +198,7 @@ status
 | 9906c23 | extragroups quotes | 19:26:11/28-12-2025 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,7 +220,9 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| e04e3ce | unicast                       | 16:51:26/06-03-2026 | HEAD -> master, github/master |
+| d34ec0e | unicast rust                  | 15:34:07/09-03-2026 | HEAD -> master, github/master |
+| ff50af8 | unicast removed shell version | 15:33:43/09-03-2026 |                               |
+| e04e3ce | unicast                       | 16:51:26/06-03-2026 |                               |
 | a223d4b | unicast                       | 23:38:00/05-03-2026 |                               |
 | eb6bf84 | removed transmission scripts  | 13:04:14/02-03-2026 |                               |
 | fa7d26f | ffmpeg rust scripts v4        | 14:07:25/20-02-2026 |                               |
@@ -228,8 +230,6 @@ status
 | a5bb9de | xfade removed                 | 11:10:18/18-02-2026 |                               |
 | b669451 | ffmpeg rust scripts v3        | 00:22:59/18-02-2026 |                               |
 | b47d45d | removed scripts               | 00:13:00/18-02-2026 |                               |
-| 4e11b26 | ffmpeg rust scripts v2 nvenc  | 18:07:17/10-02-2026 |                               |
-| 7ebbe65 | backup-to-usb                 | 16:27:38/10-02-2026 |                               |
 #+end_quote
 
 ** debian
@@ -300,7 +300,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -322,14 +322,14 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| b1c0d38 | unicast                | 16:52:22/06-03-2026 | HEAD -> master, github/master, github/HEAD |
-| a4d2715 | adding new version     | 16:52:07/06-03-2026 |                                            |
-| b567c86 | unicast                | 23:38:21/05-03-2026 |                                            |
-| 74373bb | yt-dlp                 | 13:23:26/05-03-2026 |                                            |
-| da65e9a | removed blackrain      | 14:42:46/02-03-2026 |                                            |
-| b9ac3b1 | yt-dlp                 | 22:50:50/22-02-2026 |                                            |
-| ddfb394 | ffmpeg rust scripts v4 | 14:09:28/20-02-2026 |                                            |
-| 59f1688 | xfade removed          | 11:10:41/18-02-2026 |                                            |
-| a195924 | ffmpeg rust scripts v3 | 00:23:25/18-02-2026 |                                            |
-| 89eb891 | removed scripts        | 00:13:10/18-02-2026 |                                            |
+| 0e2d28e | unicast rust                  | 15:35:03/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| ac64459 | unicast removed shell version | 15:34:33/09-03-2026 |                                            |
+| b1c0d38 | unicast                       | 16:52:22/06-03-2026 |                                            |
+| a4d2715 | adding new version            | 16:52:07/06-03-2026 |                                            |
+| b567c86 | unicast                       | 23:38:21/05-03-2026 |                                            |
+| 74373bb | yt-dlp                        | 13:23:26/05-03-2026 |                                            |
+| da65e9a | removed blackrain             | 14:42:46/02-03-2026 |                                            |
+| b9ac3b1 | yt-dlp                        | 22:50:50/22-02-2026 |                                            |
+| ddfb394 | ffmpeg rust scripts v4        | 14:09:28/20-02-2026 |                                            |
+| 59f1688 | xfade removed                 | 11:10:41/18-02-2026 |                                            |
 #+end_quote
