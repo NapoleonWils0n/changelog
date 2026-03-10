@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5ba77abe        | reset local repo to head | 14:29:27/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 5d972cf3        | obs cmd                  | 20:30:48/10-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 5ba77abe        | reset local repo to head | 14:29:27/09-03-2026 |                                            |
 | 5fa99a16        | unicast streaming        | 17:47:32/06-03-2026 |                                            |
 | 9986d537        | unicast                  | 16:53:34/06-03-2026 |                                            |
 | 03259a28        | adding new version       | 16:52:49/06-03-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 9125000000000.0 | unicast                  | 14:10:41/06-03-2026 |                                            |
 | a1a868e9        | uxplay debian            | 16:02:36/05-03-2026 |                                            |
 | e5a9242a        | uxplay                   | 14:26:08/05-03-2026 |                                            |
-| b9ebb49b        | ios ipad dfu linux       | 23:28:36/03-03-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -96,7 +96,7 @@ status
 | 4655f6f | flake updated                      | 11:36:14/01-03-2026 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 69dcf48  | flake updated          | 18:30:04/05-02-2026 |                                            |
 #+end_quote
 
-*** TODO nixos-root-cosmic-macbook
+*** nixos-root-cosmic-macbook
 
 github url
 
@@ -186,7 +186,8 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 26027f1 | xdg           | 19:49:17/10-03-2026 | HEAD -> master, github/master |
+| 5f65992 | flake updated | 20:35:07/10-03-2026 | HEAD -> master, github/master |
+| 26027f1 | xdg           | 19:49:17/10-03-2026 |                               |
 | 3f6e588 | flake updated | 14:35:56/05-03-2026 |                               |
 | 1b28d5e | flake updated | 13:08:17/01-03-2026 |                               |
 | 8d30cf3 | flake updated | 13:50:24/19-02-2026 |                               |
@@ -195,7 +196,6 @@ status
 | 03d1ca2 | flake updated | 16:35:10/23-01-2026 |                               |
 | f775f04 | flake updated | 11:08:49/18-01-2026 |                               |
 | 376b698 | flake updated | 14:32:23/11-01-2026 |                               |
-| e26ab02 | flake updated | 16:36:43/29-12-2025 |                               |
 #+end_quote
 
 *** nixos-bin
