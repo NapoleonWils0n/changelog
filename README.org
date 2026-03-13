@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 07b0422  | flake updated                     | 15:09:12/12-03-2026 | HEAD -> master, github/master |
-| 29e595e  | darktable                         | 15:05:41/12-03-2026 |                               |
-| 8cbccf2  | tmux grouped session              | 23:21:19/11-03-2026 |                               |
-| 1.0e+INF | tmux grouped session              | 21:02:23/11-03-2026 |                               |
-| ba8895b  | tmux grouped session session name | 20:58:38/11-03-2026 |                               |
-| 72acde4  | tmux grouped session              | 20:43:59/11-03-2026 |                               |
-| 1.0e+INF | no resize                         | 20:22:22/11-03-2026 |                               |
-| d640237  | tmux resize                       | 20:08:34/11-03-2026 |                               |
-| c6221d5  | uxplayrc                          | 15:27:55/05-03-2026 |                               |
-| 5b9607c  | uxplay                            | 15:27:26/05-03-2026 |                               |
+| 40912a6  | tmux                              | 19:50:57/13-03-2026 | HEAD -> master |
+| 17c8af5  | flake updated                     | 19:48:31/13-03-2026 |                |
+| 07b0422  | flake updated                     | 15:09:12/12-03-2026 | github/master  |
+| 29e595e  | darktable                         | 15:05:41/12-03-2026 |                |
+| 8cbccf2  | tmux grouped session              | 23:21:19/11-03-2026 |                |
+| 1.0e+INF | tmux grouped session              | 21:02:23/11-03-2026 |                |
+| ba8895b  | tmux grouped session session name | 20:58:38/11-03-2026 |                |
+| 72acde4  | tmux grouped session              | 20:43:59/11-03-2026 |                |
+| 1.0e+INF | no resize                         | 20:22:22/11-03-2026 |                |
+| d640237  | tmux resize                       | 20:08:34/11-03-2026 |                |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 41c169b  | tmux grouped session   | 23:21:44/11-03-2026 | HEAD -> master, github/master, github/HEAD |
-| d32273b  | flake updated          | 14:59:25/05-03-2026 |                                            |
-| d035d1c  | flake updated          | 15:34:13/02-03-2026 |                                            |
-| 1.0e+INF | qbittorrent            | 14:41:07/02-03-2026 |                                            |
-| ec3d771  | flake updated          | 13:47:40/01-03-2026 |                                            |
-| ebd15dd  | flake updated          | 13:15:45/23-02-2026 |                                            |
-| 62d29ff  | flake updated          | 14:09:44/19-02-2026 |                                            |
-| aed6c93  | gimp with plugins      | 00:53:55/19-02-2026 |                                            |
-| c42fba1  | flake updated          | 20:59:12/10-02-2026 |                                            |
-| 10a9ab1  | emacs ollama cloud fix | 22:45:30/05-02-2026 |                                            |
+| 9f9cf20  | flake updated        | 20:02:58/13-03-2026 | HEAD -> master, github/master, github/HEAD |
+| cc50bfe  | tmux                 | 19:51:51/13-03-2026 |                                            |
+| 41c169b  | tmux grouped session | 23:21:44/11-03-2026 |                                            |
+| d32273b  | flake updated        | 14:59:25/05-03-2026 |                                            |
+| d035d1c  | flake updated        | 15:34:13/02-03-2026 |                                            |
+| 1.0e+INF | qbittorrent          | 14:41:07/02-03-2026 |                                            |
+| ec3d771  | flake updated        | 13:47:40/01-03-2026 |                                            |
+| ebd15dd  | flake updated        | 13:15:45/23-02-2026 |                                            |
+| 62d29ff  | flake updated        | 14:09:44/19-02-2026 |                                            |
+| aed6c93  | gimp with plugins    | 00:53:55/19-02-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 14ed734 | tmux grouped session                       | 23:22:59/11-03-2026 | HEAD -> master, github/master, github/HEAD |
+| e455264 | tmux                                       | 19:52:54/13-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 14ed734 | tmux grouped session                       | 23:22:59/11-03-2026 |                                            |
 | 5c4499e | uxplay debian                              | 16:04:34/05-03-2026 |                                            |
 | 506f553 | emacs ollama cloud fix                     | 22:46:33/05-02-2026 |                                            |
 | 3b6bb8c | ollama cloud                               | 18:07:55/05-02-2026 |                                            |
@@ -264,7 +265,6 @@ status
 | ef49516 | emacs gptel gemini 3                       | 20:59:06/17-12-2025 |                                            |
 | 16a7333 | doom modeline now playing                  | 22:33:37/15-12-2025 |                                            |
 | 700cb76 | doom modeline now playing invalid slot fix | 23:15:21/14-12-2025 |                                            |
-| 835ab61 | doom-modeline-now-playing                  | 17:49:16/13-12-2025 |                                            |
 #+end_quote
 
 *** debian-root
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| ffeaa2f | unicast                       | 21:28:40/09-03-2026 | HEAD -> master, github/master, github/HEAD |
+| f36353b | yt-dlp                        | 19:54:19/13-03-2026 | HEAD -> master, github/master, github/HEAD |
+| ffeaa2f | unicast                       | 21:28:40/09-03-2026 |                                            |
 | be03c6d | unicast rust script           | 15:57:06/09-03-2026 |                                            |
 | a536733 | removed unicast               | 15:38:25/09-03-2026 |                                            |
 | 0e2d28e | unicast rust                  | 15:35:03/09-03-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | a4d2715 | adding new version            | 16:52:07/06-03-2026 |                                            |
 | b567c86 | unicast                       | 23:38:21/05-03-2026 |                                            |
 | 74373bb | yt-dlp                        | 13:23:26/05-03-2026 |                                            |
-| da65e9a | removed blackrain             | 14:42:46/02-03-2026 |                                            |
 #+end_quote
