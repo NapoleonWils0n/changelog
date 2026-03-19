@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 3a667f32 | wayback machine cdx api  | 22:56:25/18-03-2026 | HEAD -> master, github/master, github/HEAD |
+| d08505da | wayback links            | 00:00:44/19-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 3a667f32 | wayback machine cdx api  | 22:56:25/18-03-2026 |                                            |
 | 73b28638 | ipad                     | 19:03:43/13-03-2026 |                                            |
 | 96086746 | tmux grouped session     | 21:08:47/11-03-2026 |                                            |
 | 5d972cf3 | obs cmd                  | 20:30:48/10-03-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 9986d537 | unicast                  | 16:53:34/06-03-2026 |                                            |
 | 03259a28 | adding new version       | 16:52:49/06-03-2026 |                                            |
 | 9f0d7e1e | uxplay                   | 16:23:09/06-03-2026 |                                            |
-| 1499d828 | unicast                  | 14:15:02/06-03-2026 |                                            |
 #+end_quote
 
 ** nixos
