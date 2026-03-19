@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 5c5cb99 | texlive flake               | 17:47:23/18-03-2026 | HEAD -> master, github/master |
+| be452e5 | emacs garbage               | 16:13:57/19-03-2026 | HEAD -> master, github/master |
+| 5c5cb99 | texlive flake               | 17:47:23/18-03-2026 |                               |
 | c49a038 | whisperx flake              | 17:38:13/18-03-2026 |                               |
 | 45ef797 | python flake                | 17:36:57/18-03-2026 |                               |
 | a0f1efc | ollama flake                | 16:42:00/18-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 668e92a | flake updated               | 13:36:12/18-03-2026 |                               |
 | 1cbf92b | mpv rotate                  | 02:01:22/15-03-2026 |                               |
 | 40912a6 | tmux                        | 19:50:57/13-03-2026 |                               |
-| 17c8af5 | flake updated               | 19:48:31/13-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | c6c2f42 | dnsmasq              | 19:57:58/04-03-2026 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| ad2f80b  | Merge branch 'master' of github.com:NapoleonWils0n/nixos-dotfiles-macbook-air | 13:55:57/18-03-2026 | HEAD -> master, github/master, github/HEAD |
+| a6cacb0  | emacs garbage                                                                 | 16:15:11/19-03-2026 | HEAD -> master, github/master, github/HEAD |
+| ad2f80b  | Merge branch 'master' of github.com:NapoleonWils0n/nixos-dotfiles-macbook-air | 13:55:57/18-03-2026 |                                            |
 | 439abde  | flake updated                                                                 | 13:51:40/18-03-2026 |                                            |
 | 379bacd  | mpv rotate                                                                    | 02:02:16/15-03-2026 |                                            |
 | 9f9cf20  | flake updated                                                                 | 20:02:58/13-03-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | d32273b  | flake updated                                                                 | 14:59:25/05-03-2026 |                                            |
 | d035d1c  | flake updated                                                                 | 15:34:13/02-03-2026 |                                            |
 | 1.0e+INF | qbittorrent                                                                   | 14:41:07/02-03-2026 |                                            |
-| ec3d771  | flake updated                                                                 | 13:47:40/01-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,16 +255,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| e455264 | tmux                                       | 19:52:54/13-03-2026 | HEAD -> master, github/master, github/HEAD |
-| 14ed734 | tmux grouped session                       | 23:22:59/11-03-2026 |                                            |
-| 5c4499e | uxplay debian                              | 16:04:34/05-03-2026 |                                            |
-| 506f553 | emacs ollama cloud fix                     | 22:46:33/05-02-2026 |                                            |
-| 3b6bb8c | ollama cloud                               | 18:07:55/05-02-2026 |                                            |
-| 62ccff1 | emacs alacritty no maximize                | 15:38:54/14-01-2026 |                                            |
-| eea3c43 | export SDL_VIDEODRIVER=wayland for ffplay  | 23:28:20/26-12-2025 |                                            |
-| ef49516 | emacs gptel gemini 3                       | 20:59:06/17-12-2025 |                                            |
-| 16a7333 | doom modeline now playing                  | 22:33:37/15-12-2025 |                                            |
-| 700cb76 | doom modeline now playing invalid slot fix | 23:15:21/14-12-2025 |                                            |
+| 1060493 | emacs garbage                             | 16:16:14/19-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 08bc915 | mpv rotate                                | 02:02:51/15-03-2026 |                                            |
+| e455264 | tmux                                      | 19:52:54/13-03-2026 |                                            |
+| 14ed734 | tmux grouped session                      | 23:22:59/11-03-2026 |                                            |
+| 5c4499e | uxplay debian                             | 16:04:34/05-03-2026 |                                            |
+| 506f553 | emacs ollama cloud fix                    | 22:46:33/05-02-2026 |                                            |
+| 3b6bb8c | ollama cloud                              | 18:07:55/05-02-2026 |                                            |
+| 62ccff1 | emacs alacritty no maximize               | 15:38:54/14-01-2026 |                                            |
+| eea3c43 | export SDL_VIDEODRIVER=wayland for ffplay | 23:28:20/26-12-2025 |                                            |
+| ef49516 | emacs gptel gemini 3                      | 20:59:06/17-12-2025 |                                            |
 #+end_quote
 
 *** debian-root
