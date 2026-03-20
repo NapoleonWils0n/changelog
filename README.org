@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 6c63c54a | xargds and fd            | 21:16:00/19-03-2026 | HEAD -> master, github/master, github/HEAD |
+| ad9bc4e3 | softwareupdate macosx    | 18:42:38/20-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 6c63c54a | xargds and fd            | 21:16:00/19-03-2026 |                                            |
 | 408cdaf1 | cdx api                  | 01:18:18/19-03-2026 |                                            |
 | 17419bda | wayback machine cdx api  | 00:24:06/19-03-2026 |                                            |
 | d08505da | wayback links            | 00:00:44/19-03-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 96086746 | tmux grouped session     | 21:08:47/11-03-2026 |                                            |
 | 5d972cf3 | obs cmd                  | 20:30:48/10-03-2026 |                                            |
 | 5ba77abe | reset local repo to head | 14:29:27/09-03-2026 |                                            |
-| 5fa99a16 | unicast streaming        | 17:47:32/06-03-2026 |                                            |
 #+end_quote
 
 ** nixos
