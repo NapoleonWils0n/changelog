@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 9eb913b | nsxiv                       | 16:32:28/21-03-2026 | HEAD -> master, github/master |
-| ef785ee | nsxiv desktop entry         | 16:32:08/21-03-2026 |                               |
-| be452e5 | emacs garbage               | 16:13:57/19-03-2026 |                               |
-| 5c5cb99 | texlive flake               | 17:47:23/18-03-2026 |                               |
-| c49a038 | whisperx flake              | 17:38:13/18-03-2026 |                               |
-| 45ef797 | python flake                | 17:36:57/18-03-2026 |                               |
-| a0f1efc | ollama flake                | 16:42:00/18-03-2026 |                               |
-| e8b7ec5 | demucs flake updated        | 15:30:47/18-03-2026 |                               |
-| ac9f3a8 | deepfilternet flake updated | 15:17:01/18-03-2026 |                               |
-| 668e92a | flake updated               | 13:36:12/18-03-2026 |                               |
+| 561603f | emacs imv           | 20:18:37/21-03-2026 | HEAD -> master, github/master |
+| 5e61d87 | flake updated       | 19:44:44/21-03-2026 |                               |
+| fc49ba0 | imv                 | 19:41:06/21-03-2026 |                               |
+| 9dd0793 | removed nsxiv       | 19:24:52/21-03-2026 |                               |
+| 9eb913b | nsxiv               | 16:32:28/21-03-2026 |                               |
+| ef785ee | nsxiv desktop entry | 16:32:08/21-03-2026 |                               |
+| be452e5 | emacs garbage       | 16:13:57/19-03-2026 |                               |
+| 5c5cb99 | texlive flake       | 17:47:23/18-03-2026 |                               |
+| c49a038 | whisperx flake      | 17:38:13/18-03-2026 |                               |
+| 45ef797 | python flake        | 17:36:57/18-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,9 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| e8f8df3 | nsxiv                                                                         | 16:34:03/21-03-2026 | HEAD -> master, github/master, github/HEAD |
+| c5d8325 | imv                                                                           | 20:34:42/21-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 5b763e1 | removed nsxiv                                                                 | 19:25:40/21-03-2026 |                                            |
+| e8f8df3 | nsxiv                                                                         | 16:34:03/21-03-2026 |                                            |
 | a6cacb0 | emacs garbage                                                                 | 16:15:11/19-03-2026 |                                            |
 | ad2f80b | Merge branch 'master' of github.com:NapoleonWils0n/nixos-dotfiles-macbook-air | 13:55:57/18-03-2026 |                                            |
 | 439abde | flake updated                                                                 | 13:51:40/18-03-2026 |                                            |
@@ -160,8 +162,6 @@ status
 | 9f9cf20 | flake updated                                                                 | 20:02:58/13-03-2026 |                                            |
 | cc50bfe | tmux                                                                          | 19:51:51/13-03-2026 |                                            |
 | 41c169b | tmux grouped session                                                          | 23:21:44/11-03-2026 |                                            |
-| d32273b | flake updated                                                                 | 14:59:25/05-03-2026 |                                            |
-| d035d1c | flake updated                                                                 | 15:34:13/02-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
