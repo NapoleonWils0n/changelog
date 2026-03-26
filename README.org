@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** AIR nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 1.0e+INF | home manager warnnings | 14:43:21/26-03-2026 | HEAD -> master, github/master |
-| 564da1b  | flake updated          | 13:42:52/26-03-2026 |                               |
-| 1.0e+INF | qbittorrent-vpn        | 13:22:12/23-03-2026 |                               |
-| 561603f  | emacs imv              | 20:18:37/21-03-2026 |                               |
-| 5e61d87  | flake updated          | 19:44:44/21-03-2026 |                               |
-| fc49ba0  | imv                    | 19:41:06/21-03-2026 |                               |
-| 9dd0793  | removed nsxiv          | 19:24:52/21-03-2026 |                               |
-| 9eb913b  | nsxiv                  | 16:32:28/21-03-2026 |                               |
-| ef785ee  | nsxiv desktop entry    | 16:32:08/21-03-2026 |                               |
-| be452e5  | emacs garbage          | 16:13:57/19-03-2026 |                               |
+| 5c0ceb7  | firefox                      | 23:51:25/26-03-2026 | HEAD -> master, github/master |
+| 800a87f  | firefox policy               | 23:49:05/26-03-2026 |                               |
+| b5f8ffa  | firefox policy               | 23:47:13/26-03-2026 |                               |
+| 68121c1  | firefox policy               | 23:46:09/26-03-2026 |                               |
+| a8e0d87  | firefox                      | 20:02:24/26-03-2026 |                               |
+| 24908ed  | firefox                      | 19:43:45/26-03-2026 |                               |
+| c084790  | firefox remove extrapolicies | 19:39:00/26-03-2026 |                               |
+| 6d0d81b  | firefox account for vpn      | 15:36:57/26-03-2026 |                               |
+| 1.0e+INF | home manager warnnings       | 14:43:21/26-03-2026 |                               |
+| 564da1b  | flake updated                | 13:42:52/26-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | c6c2f42 | dnsmasq              | 19:57:58/04-03-2026 |                               |
 #+end_quote
 
-*** AIR nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,19 +152,19 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 6ca4651 | flake updated                                                                 | 15:14:03/26-03-2026 | HEAD -> master, github/master, github/HEAD |
-| 875ec55 | home manager warnings                                                         | 14:45:51/26-03-2026 |                                            |
-| 262df59 | qbittorrent vpn desktop                                                       | 13:24:16/23-03-2026 |                                            |
-| abbdf3c | flake updated                                                                 | 21:10:52/21-03-2026 |                                            |
-| c5d8325 | imv                                                                           | 20:34:42/21-03-2026 |                                            |
-| 5b763e1 | removed nsxiv                                                                 | 19:25:40/21-03-2026 |                                            |
-| e8f8df3 | nsxiv                                                                         | 16:34:03/21-03-2026 |                                            |
-| a6cacb0 | emacs garbage                                                                 | 16:15:11/19-03-2026 |                                            |
-| ad2f80b | Merge branch 'master' of github.com:NapoleonWils0n/nixos-dotfiles-macbook-air | 13:55:57/18-03-2026 |                                            |
-| 439abde | flake updated                                                                 | 13:51:40/18-03-2026 |                                            |
+| 1319d86 | disable firefox account | 23:54:11/26-03-2026 | HEAD -> master, github/master, github/HEAD |
+| a0c715e | firefox                 | 20:10:14/26-03-2026 |                                            |
+| 6ca4651 | flake updated           | 15:14:03/26-03-2026 |                                            |
+| 875ec55 | home manager warnings   | 14:45:51/26-03-2026 |                                            |
+| 262df59 | qbittorrent vpn desktop | 13:24:16/23-03-2026 |                                            |
+| abbdf3c | flake updated           | 21:10:52/21-03-2026 |                                            |
+| c5d8325 | imv                     | 20:34:42/21-03-2026 |                                            |
+| 5b763e1 | removed nsxiv           | 19:25:40/21-03-2026 |                                            |
+| e8f8df3 | nsxiv                   | 16:34:03/21-03-2026 |                                            |
+| a6cacb0 | emacs garbage           | 16:15:11/19-03-2026 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** AIR nixos-root-cosmic-macbook
 
 github url
 
@@ -186,16 +186,16 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 5f65992 | flake updated | 20:35:07/10-03-2026 | HEAD -> master, github/master |
-| 26027f1 | xdg           | 19:49:17/10-03-2026 |                               |
-| 3f6e588 | flake updated | 14:35:56/05-03-2026 |                               |
-| 1b28d5e | flake updated | 13:08:17/01-03-2026 |                               |
-| 8d30cf3 | flake updated | 13:50:24/19-02-2026 |                               |
-| edf422b | flake updated | 20:23:46/10-02-2026 |                               |
-| 1a11775 | flake updated | 09:17:41/31-01-2026 |                               |
-| 03d1ca2 | flake updated | 16:35:10/23-01-2026 |                               |
-| f775f04 | flake updated | 11:08:49/18-01-2026 |                               |
-| 376b698 | flake updated | 14:32:23/11-01-2026 |                               |
+| 1.0e+INF | flake updated | 15:56:47/26-03-2026 | HEAD -> master, github/master |
+| 5f65992  | flake updated | 20:35:07/10-03-2026 |                               |
+| 26027f1  | xdg           | 19:49:17/10-03-2026 |                               |
+| 3f6e588  | flake updated | 14:35:56/05-03-2026 |                               |
+| 1b28d5e  | flake updated | 13:08:17/01-03-2026 |                               |
+| 8d30cf3  | flake updated | 13:50:24/19-02-2026 |                               |
+| edf422b  | flake updated | 20:23:46/10-02-2026 |                               |
+| 1a11775  | flake updated | 09:17:41/31-01-2026 |                               |
+| 03d1ca2  | flake updated | 16:35:10/23-01-2026 |                               |
+| f775f04  | flake updated | 11:08:49/18-01-2026 |                               |
 #+end_quote
 
 *** nixos-bin
