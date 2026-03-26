@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 1.0e+INF | qbittorrent-vpn     | 13:22:12/23-03-2026 | HEAD -> master, github/master |
+| 564da1b  | flake updated       | 13:42:52/26-03-2026 | HEAD -> master, github/master |
+| 1.0e+INF | qbittorrent-vpn     | 13:22:12/23-03-2026 |                               |
 | 561603f  | emacs imv           | 20:18:37/21-03-2026 |                               |
 | 5e61d87  | flake updated       | 19:44:44/21-03-2026 |                               |
 | fc49ba0  | imv                 | 19:41:06/21-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | ef785ee  | nsxiv desktop entry | 16:32:08/21-03-2026 |                               |
 | be452e5  | emacs garbage       | 16:13:57/19-03-2026 |                               |
 | 5c5cb99  | texlive flake       | 17:47:23/18-03-2026 |                               |
-| c49a038  | whisperx flake      | 17:38:13/18-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
