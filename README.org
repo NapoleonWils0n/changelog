@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | c6c2f42 | dnsmasq              | 19:57:58/04-03-2026 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** AIR nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 875ec55 | home manager warnings                                                         | 14:45:51/26-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 6ca4651 | flake updated                                                                 | 15:14:03/26-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 875ec55 | home manager warnings                                                         | 14:45:51/26-03-2026 |                                            |
 | 262df59 | qbittorrent vpn desktop                                                       | 13:24:16/23-03-2026 |                                            |
 | abbdf3c | flake updated                                                                 | 21:10:52/21-03-2026 |                                            |
 | c5d8325 | imv                                                                           | 20:34:42/21-03-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | a6cacb0 | emacs garbage                                                                 | 16:15:11/19-03-2026 |                                            |
 | ad2f80b | Merge branch 'master' of github.com:NapoleonWils0n/nixos-dotfiles-macbook-air | 13:55:57/18-03-2026 |                                            |
 | 439abde | flake updated                                                                 | 13:51:40/18-03-2026 |                                            |
-| 379bacd | mpv rotate                                                                    | 02:02:16/15-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
