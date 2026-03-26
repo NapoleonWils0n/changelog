@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 564da1b  | flake updated       | 13:42:52/26-03-2026 | HEAD -> master, github/master |
-| 1.0e+INF | qbittorrent-vpn     | 13:22:12/23-03-2026 |                               |
-| 561603f  | emacs imv           | 20:18:37/21-03-2026 |                               |
-| 5e61d87  | flake updated       | 19:44:44/21-03-2026 |                               |
-| fc49ba0  | imv                 | 19:41:06/21-03-2026 |                               |
-| 9dd0793  | removed nsxiv       | 19:24:52/21-03-2026 |                               |
-| 9eb913b  | nsxiv               | 16:32:28/21-03-2026 |                               |
-| ef785ee  | nsxiv desktop entry | 16:32:08/21-03-2026 |                               |
-| be452e5  | emacs garbage       | 16:13:57/19-03-2026 |                               |
-| 5c5cb99  | texlive flake       | 17:47:23/18-03-2026 |                               |
+| 1.0e+INF | home manager warnnings | 14:43:21/26-03-2026 | HEAD -> master, github/master |
+| 564da1b  | flake updated          | 13:42:52/26-03-2026 |                               |
+| 1.0e+INF | qbittorrent-vpn        | 13:22:12/23-03-2026 |                               |
+| 561603f  | emacs imv              | 20:18:37/21-03-2026 |                               |
+| 5e61d87  | flake updated          | 19:44:44/21-03-2026 |                               |
+| fc49ba0  | imv                    | 19:41:06/21-03-2026 |                               |
+| 9dd0793  | removed nsxiv          | 19:24:52/21-03-2026 |                               |
+| 9eb913b  | nsxiv                  | 16:32:28/21-03-2026 |                               |
+| ef785ee  | nsxiv desktop entry    | 16:32:08/21-03-2026 |                               |
+| be452e5  | emacs garbage          | 16:13:57/19-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 262df59 | qbittorrent vpn desktop                                                       | 13:24:16/23-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 875ec55 | home manager warnings                                                         | 14:45:51/26-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 262df59 | qbittorrent vpn desktop                                                       | 13:24:16/23-03-2026 |                                            |
 | abbdf3c | flake updated                                                                 | 21:10:52/21-03-2026 |                                            |
 | c5d8325 | imv                                                                           | 20:34:42/21-03-2026 |                                            |
 | 5b763e1 | removed nsxiv                                                                 | 19:25:40/21-03-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | ad2f80b | Merge branch 'master' of github.com:NapoleonWils0n/nixos-dotfiles-macbook-air | 13:55:57/18-03-2026 |                                            |
 | 439abde | flake updated                                                                 | 13:51:40/18-03-2026 |                                            |
 | 379bacd | mpv rotate                                                                    | 02:02:16/15-03-2026 |                                            |
-| 9f9cf20 | flake updated                                                                 | 20:02:58/13-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
