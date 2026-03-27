@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 6f33f52 | home manager                 | 14:49:06/27-03-2026 | HEAD -> master, github/master |
-| 3944dce | flake updated                | 13:14:38/27-03-2026 |                               |
-| 55efcce | tor browser                  | 13:11:28/27-03-2026 |                               |
-| 5c0ceb7 | firefox                      | 23:51:25/26-03-2026 |                               |
-| 800a87f | firefox policy               | 23:49:05/26-03-2026 |                               |
-| b5f8ffa | firefox policy               | 23:47:13/26-03-2026 |                               |
-| 68121c1 | firefox policy               | 23:46:09/26-03-2026 |                               |
-| a8e0d87 | firefox                      | 20:02:24/26-03-2026 |                               |
-| 24908ed | firefox                      | 19:43:45/26-03-2026 |                               |
-| c084790 | firefox remove extrapolicies | 19:39:00/26-03-2026 |                               |
+| a24bc03 | emacs and shell | 15:50:33/27-03-2026 | HEAD -> master, github/master |
+| 6f33f52 | home manager    | 14:49:06/27-03-2026 |                               |
+| 3944dce | flake updated   | 13:14:38/27-03-2026 |                               |
+| 55efcce | tor browser     | 13:11:28/27-03-2026 |                               |
+| 5c0ceb7 | firefox         | 23:51:25/26-03-2026 |                               |
+| 800a87f | firefox policy  | 23:49:05/26-03-2026 |                               |
+| b5f8ffa | firefox policy  | 23:47:13/26-03-2026 |                               |
+| 68121c1 | firefox policy  | 23:46:09/26-03-2026 |                               |
+| a8e0d87 | firefox         | 20:02:24/26-03-2026 |                               |
+| 24908ed | firefox         | 19:43:45/26-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 85f5eb7 | emac removed ednc       | 15:08:09/27-03-2026 | HEAD -> master, github/master, github/HEAD |
+| ea5c369 | emacs and shell         | 15:51:29/27-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 85f5eb7 | emac removed ednc       | 15:08:09/27-03-2026 |                                            |
 | 751b5be | home manager and emacs  | 14:47:47/27-03-2026 |                                            |
 | 1319d86 | disable firefox account | 23:54:11/26-03-2026 |                                            |
 | a0c715e | firefox                 | 20:10:14/26-03-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | 262df59 | qbittorrent vpn desktop | 13:24:16/23-03-2026 |                                            |
 | abbdf3c | flake updated           | 21:10:52/21-03-2026 |                                            |
 | c5d8325 | imv                     | 20:34:42/21-03-2026 |                                            |
-| 5b763e1 | removed nsxiv           | 19:25:40/21-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 1060493 | emacs garbage                             | 16:16:14/19-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 269a472 | emacs and shell                           | 15:52:21/27-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 1060493 | emacs garbage                             | 16:16:14/19-03-2026 |                                            |
 | 08bc915 | mpv rotate                                | 02:02:51/15-03-2026 |                                            |
 | e455264 | tmux                                      | 19:52:54/13-03-2026 |                                            |
 | 14ed734 | tmux grouped session                      | 23:22:59/11-03-2026 |                                            |
@@ -264,7 +265,6 @@ status
 | 3b6bb8c | ollama cloud                              | 18:07:55/05-02-2026 |                                            |
 | 62ccff1 | emacs alacritty no maximize               | 15:38:54/14-01-2026 |                                            |
 | eea3c43 | export SDL_VIDEODRIVER=wayland for ffplay | 23:28:20/26-12-2025 |                                            |
-| ef49516 | emacs gptel gemini 3                      | 20:59:06/17-12-2025 |                                            |
 #+end_quote
 
 *** debian-root
