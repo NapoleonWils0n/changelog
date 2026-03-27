@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 55efcce  | tor browser                  | 13:11:28/27-03-2026 | HEAD -> master, github/master |
-| 5c0ceb7  | firefox                      | 23:51:25/26-03-2026 |                               |
-| 800a87f  | firefox policy               | 23:49:05/26-03-2026 |                               |
-| b5f8ffa  | firefox policy               | 23:47:13/26-03-2026 |                               |
-| 68121c1  | firefox policy               | 23:46:09/26-03-2026 |                               |
-| a8e0d87  | firefox                      | 20:02:24/26-03-2026 |                               |
-| 24908ed  | firefox                      | 19:43:45/26-03-2026 |                               |
-| c084790  | firefox remove extrapolicies | 19:39:00/26-03-2026 |                               |
-| 6d0d81b  | firefox account for vpn      | 15:36:57/26-03-2026 |                               |
-| 1.0e+INF | home manager warnnings       | 14:43:21/26-03-2026 |                               |
+| 3944dce | flake updated                | 13:14:38/27-03-2026 | HEAD -> master, github/master |
+| 55efcce | tor browser                  | 13:11:28/27-03-2026 |                               |
+| 5c0ceb7 | firefox                      | 23:51:25/26-03-2026 |                               |
+| 800a87f | firefox policy               | 23:49:05/26-03-2026 |                               |
+| b5f8ffa | firefox policy               | 23:47:13/26-03-2026 |                               |
+| 68121c1 | firefox policy               | 23:46:09/26-03-2026 |                               |
+| a8e0d87 | firefox                      | 20:02:24/26-03-2026 |                               |
+| 24908ed | firefox                      | 19:43:45/26-03-2026 |                               |
+| c084790 | firefox remove extrapolicies | 19:39:00/26-03-2026 |                               |
+| 6d0d81b | firefox account for vpn      | 15:36:57/26-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
