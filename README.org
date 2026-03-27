@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ad9bc4e3 | softwareupdate macosx    | 18:42:38/20-03-2026 | HEAD -> master, github/master, github/HEAD |
-| 6c63c54a | xargds and fd            | 21:16:00/19-03-2026 |                                            |
-| 408cdaf1 | cdx api                  | 01:18:18/19-03-2026 |                                            |
-| 17419bda | wayback machine cdx api  | 00:24:06/19-03-2026 |                                            |
-| d08505da | wayback links            | 00:00:44/19-03-2026 |                                            |
-| 3a667f32 | wayback machine cdx api  | 22:56:25/18-03-2026 |                                            |
-| 73b28638 | ipad                     | 19:03:43/13-03-2026 |                                            |
-| 96086746 | tmux grouped session     | 21:08:47/11-03-2026 |                                            |
-| 5d972cf3 | obs cmd                  | 20:30:48/10-03-2026 |                                            |
-| 5ba77abe | reset local repo to head | 14:29:27/09-03-2026 |                                            |
+| e2ce7a1b | shell tricks            | 14:45:25/27-03-2026 | HEAD -> master, github/master, github/HEAD |
+| ad9bc4e3 | softwareupdate macosx   | 18:42:38/20-03-2026 |                                            |
+| 6c63c54a | xargds and fd           | 21:16:00/19-03-2026 |                                            |
+| 408cdaf1 | cdx api                 | 01:18:18/19-03-2026 |                                            |
+| 17419bda | wayback machine cdx api | 00:24:06/19-03-2026 |                                            |
+| d08505da | wayback links           | 00:00:44/19-03-2026 |                                            |
+| 3a667f32 | wayback machine cdx api | 22:56:25/18-03-2026 |                                            |
+| 73b28638 | ipad                    | 19:03:43/13-03-2026 |                                            |
+| 96086746 | tmux grouped session    | 21:08:47/11-03-2026 |                                            |
+| 5d972cf3 | obs cmd                 | 20:30:48/10-03-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 3944dce | flake updated                | 13:14:38/27-03-2026 | HEAD -> master, github/master |
+| 6f33f52 | home manager                 | 14:49:06/27-03-2026 | HEAD -> master, github/master |
+| 3944dce | flake updated                | 13:14:38/27-03-2026 |                               |
 | 55efcce | tor browser                  | 13:11:28/27-03-2026 |                               |
 | 5c0ceb7 | firefox                      | 23:51:25/26-03-2026 |                               |
 | 800a87f | firefox policy               | 23:49:05/26-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | a8e0d87 | firefox                      | 20:02:24/26-03-2026 |                               |
 | 24908ed | firefox                      | 19:43:45/26-03-2026 |                               |
 | c084790 | firefox remove extrapolicies | 19:39:00/26-03-2026 |                               |
-| 6d0d81b | firefox account for vpn      | 15:36:57/26-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | c6c2f42 | dnsmasq              | 19:57:58/04-03-2026 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 1319d86 | disable firefox account | 23:54:11/26-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 751b5be | home manager and emacs  | 14:47:47/27-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 1319d86 | disable firefox account | 23:54:11/26-03-2026 |                                            |
 | a0c715e | firefox                 | 20:10:14/26-03-2026 |                                            |
 | 6ca4651 | flake updated           | 15:14:03/26-03-2026 |                                            |
 | 875ec55 | home manager warnings   | 14:45:51/26-03-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | c5d8325 | imv                     | 20:34:42/21-03-2026 |                                            |
 | 5b763e1 | removed nsxiv           | 19:25:40/21-03-2026 |                                            |
 | e8f8df3 | nsxiv                   | 16:34:03/21-03-2026 |                                            |
-| a6cacb0 | emacs garbage           | 16:15:11/19-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
