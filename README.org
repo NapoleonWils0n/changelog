@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -130,7 +130,7 @@ status
 | c6c2f42 | dnsmasq              | 19:57:58/04-03-2026 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** nixos-dotfiles-macbook-air
 
 github url
 
@@ -164,7 +164,7 @@ status
 | a6cacb0 | emacs garbage           | 16:15:11/19-03-2026 |                                            |
 #+end_quote
 
-*** AIR nixos-root-cosmic-macbook
+*** nixos-root-cosmic-macbook
 
 github url
 
