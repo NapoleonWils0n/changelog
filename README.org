@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| a2269a5 | flake updated   | 11:18:11/29-03-2026 | HEAD -> master, github/master |
-| b6a25c8 | cryptsetup      | 11:12:22/29-03-2026 |                               |
-| a24bc03 | emacs and shell | 15:50:33/27-03-2026 |                               |
-| 6f33f52 | home manager    | 14:49:06/27-03-2026 |                               |
-| 3944dce | flake updated   | 13:14:38/27-03-2026 |                               |
-| 55efcce | tor browser     | 13:11:28/27-03-2026 |                               |
-| 5c0ceb7 | firefox         | 23:51:25/26-03-2026 |                               |
-| 800a87f | firefox policy  | 23:49:05/26-03-2026 |                               |
-| b5f8ffa | firefox policy  | 23:47:13/26-03-2026 |                               |
-| 68121c1 | firefox policy  | 23:46:09/26-03-2026 |                               |
+| 2ab65e3  | flake updated         | 14:49:48/29-03-2026 | HEAD -> master, github/master |
+| b9931b9  | removed master branch | 14:48:11/29-03-2026 |                               |
+| 1.0e+INF | deno overlay          | 14:20:07/29-03-2026 |                               |
+| a2269a5  | flake updated         | 11:18:11/29-03-2026 |                               |
+| b6a25c8  | cryptsetup            | 11:12:22/29-03-2026 |                               |
+| a24bc03  | emacs and shell       | 15:50:33/27-03-2026 |                               |
+| 6f33f52  | home manager          | 14:49:06/27-03-2026 |                               |
+| 3944dce  | flake updated         | 13:14:38/27-03-2026 |                               |
+| 55efcce  | tor browser           | 13:11:28/27-03-2026 |                               |
+| 5c0ceb7  | firefox               | 23:51:25/26-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 39c1693 | git fix                 | 11:14:52/29-03-2026 | HEAD -> master, github/master, github/HEAD |
+| dbe35b0 | removed master branch   | 14:54:10/29-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 39c1693 | git fix                 | 11:14:52/29-03-2026 |                                            |
 | f2fc04b | cryptsetup              | 11:13:17/29-03-2026 |                                            |
 | 18a8eba | flake updated           | 16:17:30/27-03-2026 |                                            |
 | ea5c369 | emacs and shell         | 15:51:29/27-03-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | 1319d86 | disable firefox account | 23:54:11/26-03-2026 |                                            |
 | a0c715e | firefox                 | 20:10:14/26-03-2026 |                                            |
 | 6ca4651 | flake updated           | 15:14:03/26-03-2026 |                                            |
-| 875ec55 | home manager warnings   | 14:45:51/26-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
