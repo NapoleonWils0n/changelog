@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 2ab65e3  | flake updated         | 14:49:48/29-03-2026 | HEAD -> master, github/master |
+| f038d17  | ollama flake updated  | 16:19:02/30-03-2026 | HEAD -> master, github/master |
+| 2ab65e3  | flake updated         | 14:49:48/29-03-2026 |                               |
 | b9931b9  | removed master branch | 14:48:11/29-03-2026 |                               |
 | 1.0e+INF | deno overlay          | 14:20:07/29-03-2026 |                               |
 | a2269a5  | flake updated         | 11:18:11/29-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 6f33f52  | home manager          | 14:49:06/27-03-2026 |                               |
 | 3944dce  | flake updated         | 13:14:38/27-03-2026 |                               |
 | 55efcce  | tor browser           | 13:11:28/27-03-2026 |                               |
-| 5c0ceb7  | firefox               | 23:51:25/26-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | c6c2f42 | dnsmasq              | 19:57:58/04-03-2026 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| dbe35b0 | removed master branch   | 14:54:10/29-03-2026 | HEAD -> master, github/master, github/HEAD |
+| be154d0 | flake updated           | 15:33:22/29-03-2026 | HEAD -> master, github/master, github/HEAD |
+| dbe35b0 | removed master branch   | 14:54:10/29-03-2026 |                                            |
 | 39c1693 | git fix                 | 11:14:52/29-03-2026 |                                            |
 | f2fc04b | cryptsetup              | 11:13:17/29-03-2026 |                                            |
 | 18a8eba | flake updated           | 16:17:30/27-03-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | 751b5be | home manager and emacs  | 14:47:47/27-03-2026 |                                            |
 | 1319d86 | disable firefox account | 23:54:11/26-03-2026 |                                            |
 | a0c715e | firefox                 | 20:10:14/26-03-2026 |                                            |
-| 6ca4651 | flake updated           | 15:14:03/26-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 6927450 | wayback machine cdx api       | 22:57:56/18-03-2026 | HEAD -> master, github/master |
+| 387316d | ossuary                       | 15:07:39/29-03-2026 | HEAD -> master, github/master |
+| 6927450 | wayback machine cdx api       | 22:57:56/18-03-2026 |                               |
 | 1857289 | unicast                       | 21:28:16/09-03-2026 |                               |
 | 39bf760 | adding new version            | 21:27:27/09-03-2026 |                               |
 | 87f7c7d | unicast rust script           | 15:56:21/09-03-2026 |                               |
@@ -229,7 +230,6 @@ status
 | ff50af8 | unicast removed shell version | 15:33:43/09-03-2026 |                               |
 | e04e3ce | unicast                       | 16:51:26/06-03-2026 |                               |
 | a223d4b | unicast                       | 23:38:00/05-03-2026 |                               |
-| eb6bf84 | removed transmission scripts  | 13:04:14/02-03-2026 |                               |
 #+end_quote
 
 ** debian
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| f77bab0 | wayback machine cdx api       | 22:58:13/18-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 83175c6 | ossuary                       | 15:07:52/29-03-2026 | HEAD -> master, github/master, github/HEAD |
+| f77bab0 | wayback machine cdx api       | 22:58:13/18-03-2026 |                                            |
 | ff295a1 | yt-dlp                        | 13:41:45/18-03-2026 |                                            |
 | f36353b | yt-dlp                        | 19:54:19/13-03-2026 |                                            |
 | ffeaa2f | unicast                       | 21:28:40/09-03-2026 |                                            |
@@ -331,5 +332,4 @@ status
 | 0e2d28e | unicast rust                  | 15:35:03/09-03-2026 |                                            |
 | ac64459 | unicast removed shell version | 15:34:33/09-03-2026 |                                            |
 | b1c0d38 | unicast                       | 16:52:22/06-03-2026 |                                            |
-| a4d2715 | adding new version            | 16:52:07/06-03-2026 |                                            |
 #+end_quote
