@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f038d17  | ollama flake updated  | 16:19:02/30-03-2026 | HEAD -> master, github/master |
+| 0c32ae6  | ollama qwen3.5:9b     | 13:08:24/31-03-2026 | HEAD -> master, github/master |
+| f038d17  | ollama flake updated  | 16:19:02/30-03-2026 |                               |
 | 2ab65e3  | flake updated         | 14:49:48/29-03-2026 |                               |
 | b9931b9  | removed master branch | 14:48:11/29-03-2026 |                               |
 | 1.0e+INF | deno overlay          | 14:20:07/29-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | a24bc03  | emacs and shell       | 15:50:33/27-03-2026 |                               |
 | 6f33f52  | home manager          | 14:49:06/27-03-2026 |                               |
 | 3944dce  | flake updated         | 13:14:38/27-03-2026 |                               |
-| 55efcce  | tor browser           | 13:11:28/27-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
