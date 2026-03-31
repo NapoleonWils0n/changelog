@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 586a1420 | ollama                     | 12:54:24/31-03-2026 | HEAD -> master, github/master, github/HEAD |
+| e552d7d9 | qwen3.5:4b                 | 13:35:40/31-03-2026 | HEAD -> master, github/master, github/HEAD |
+| 586a1420 | ollama                     | 12:54:24/31-03-2026 |                                            |
 | 5475157f | ossuary linux              | 15:13:11/29-03-2026 |                                            |
 | 069e0c18 | ossuary                    | 15:07:23/29-03-2026 |                                            |
 | f6c79a67 | tor browser debian install | 21:25:21/27-03-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 6c63c54a | xargds and fd              | 21:16:00/19-03-2026 |                                            |
 | 408cdaf1 | cdx api                    | 01:18:18/19-03-2026 |                                            |
 | 17419bda | wayback machine cdx api    | 00:24:06/19-03-2026 |                                            |
-| d08505da | wayback links              | 00:00:44/19-03-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 0c32ae6  | ollama qwen3.5:9b     | 13:08:24/31-03-2026 | HEAD -> master, github/master |
+| 323dbf5  | removed qwen3.5:9b    | 13:36:06/31-03-2026 | HEAD -> master, github/master |
+| 0c32ae6  | ollama qwen3.5:9b     | 13:08:24/31-03-2026 |                               |
 | f038d17  | ollama flake updated  | 16:19:02/30-03-2026 |                               |
 | 2ab65e3  | flake updated         | 14:49:48/29-03-2026 |                               |
 | b9931b9  | removed master branch | 14:48:11/29-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | b6a25c8  | cryptsetup            | 11:12:22/29-03-2026 |                               |
 | a24bc03  | emacs and shell       | 15:50:33/27-03-2026 |                               |
 | 6f33f52  | home manager          | 14:49:06/27-03-2026 |                               |
-| 3944dce  | flake updated         | 13:14:38/27-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
