@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 323dbf5  | removed qwen3.5:9b    | 13:36:06/31-03-2026 | HEAD -> master, github/master |
+| 39f6cbc  | qwen3.5:4b            | 14:26:07/31-03-2026 | HEAD -> master, github/master |
+| 323dbf5  | removed qwen3.5:9b    | 13:36:06/31-03-2026 |                               |
 | 0c32ae6  | ollama qwen3.5:9b     | 13:08:24/31-03-2026 |                               |
 | f038d17  | ollama flake updated  | 16:19:02/30-03-2026 |                               |
 | 2ab65e3  | flake updated         | 14:49:48/29-03-2026 |                               |
@@ -93,7 +94,6 @@ status
 | a2269a5  | flake updated         | 11:18:11/29-03-2026 |                               |
 | b6a25c8  | cryptsetup            | 11:12:22/29-03-2026 |                               |
 | a24bc03  | emacs and shell       | 15:50:33/27-03-2026 |                               |
-| 6f33f52  | home manager          | 14:49:06/27-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
