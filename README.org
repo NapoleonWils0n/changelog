@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| c554372  | qwen3.5-abliterated:2b | 20:11:38/31-03-2026 | HEAD -> master, github/master |
-| a1dc346  | qwen3.5:2b             | 17:21:32/31-03-2026 |                               |
-| a601123  | removed qwen3.5        | 14:56:20/31-03-2026 |                               |
-| 39f6cbc  | qwen3.5:4b             | 14:26:07/31-03-2026 |                               |
-| 323dbf5  | removed qwen3.5:9b     | 13:36:06/31-03-2026 |                               |
-| 0c32ae6  | ollama qwen3.5:9b      | 13:08:24/31-03-2026 |                               |
-| f038d17  | ollama flake updated   | 16:19:02/30-03-2026 |                               |
-| 2ab65e3  | flake updated          | 14:49:48/29-03-2026 |                               |
-| b9931b9  | removed master branch  | 14:48:11/29-03-2026 |                               |
-| 1.0e+INF | deno overlay           | 14:20:07/29-03-2026 |                               |
+| 0eafac9 | emacs gptel            | 20:20:39/31-03-2026 | HEAD -> master, github/master |
+| c554372 | qwen3.5-abliterated:2b | 20:11:38/31-03-2026 |                               |
+| a1dc346 | qwen3.5:2b             | 17:21:32/31-03-2026 |                               |
+| a601123 | removed qwen3.5        | 14:56:20/31-03-2026 |                               |
+| 39f6cbc | qwen3.5:4b             | 14:26:07/31-03-2026 |                               |
+| 323dbf5 | removed qwen3.5:9b     | 13:36:06/31-03-2026 |                               |
+| 0c32ae6 | ollama qwen3.5:9b      | 13:08:24/31-03-2026 |                               |
+| f038d17 | ollama flake updated   | 16:19:02/30-03-2026 |                               |
+| 2ab65e3 | flake updated          | 14:49:48/29-03-2026 |                               |
+| b9931b9 | removed master branch  | 14:48:11/29-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
