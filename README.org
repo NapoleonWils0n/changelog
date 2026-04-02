@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| e44b0ce | ollama 0.19.0          | 20:14:19/02-04-2026 | HEAD -> master, github/master |
-| f50eca6 | emacs mcp              | 19:09:32/01-04-2026 |                               |
-| 0eafac9 | emacs gptel            | 20:20:39/31-03-2026 |                               |
-| c554372 | qwen3.5-abliterated:2b | 20:11:38/31-03-2026 |                               |
-| a1dc346 | qwen3.5:2b             | 17:21:32/31-03-2026 |                               |
-| a601123 | removed qwen3.5        | 14:56:20/31-03-2026 |                               |
-| 39f6cbc | qwen3.5:4b             | 14:26:07/31-03-2026 |                               |
-| 323dbf5 | removed qwen3.5:9b     | 13:36:06/31-03-2026 |                               |
-| 0c32ae6 | ollama qwen3.5:9b      | 13:08:24/31-03-2026 |                               |
-| f038d17 | ollama flake updated   | 16:19:02/30-03-2026 |                               |
+| b2a65f1 | ollama removed unused models | 21:24:24/02-04-2026 | HEAD -> master, github/master |
+| e44b0ce | ollama 0.19.0                | 20:14:19/02-04-2026 |                               |
+| f50eca6 | emacs mcp                    | 19:09:32/01-04-2026 |                               |
+| 0eafac9 | emacs gptel                  | 20:20:39/31-03-2026 |                               |
+| c554372 | qwen3.5-abliterated:2b       | 20:11:38/31-03-2026 |                               |
+| a1dc346 | qwen3.5:2b                   | 17:21:32/31-03-2026 |                               |
+| a601123 | removed qwen3.5              | 14:56:20/31-03-2026 |                               |
+| 39f6cbc | qwen3.5:4b                   | 14:26:07/31-03-2026 |                               |
+| 323dbf5 | removed qwen3.5:9b           | 13:36:06/31-03-2026 |                               |
+| 0c32ae6 | ollama qwen3.5:9b            | 13:08:24/31-03-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
