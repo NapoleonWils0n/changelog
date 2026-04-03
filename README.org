@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** AIR cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a452a429 | demucs                     | 10:05:21/03-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 2eba52c6 | nix-flakes                 | 12:34:41/03-04-2026 | HEAD -> master, github/master, github/HEAD |
+| a452a429 | demucs                     | 10:05:21/03-04-2026 |                                            |
 | adcfc664 | emacs mcp-searxng-enhanced | 19:10:48/01-04-2026 |                                            |
 | 7da4723a | emacs mcp                  | 20:00:10/31-03-2026 |                                            |
 | fe83ed52 | qwen uncensored            | 19:57:14/31-03-2026 |                                            |
@@ -58,11 +59,10 @@ git status
 | e552d7d9 | qwen3.5:4b                 | 13:35:40/31-03-2026 |                                            |
 | 586a1420 | ollama                     | 12:54:24/31-03-2026 |                                            |
 | 5475157f | ossuary linux              | 15:13:11/29-03-2026 |                                            |
-| 069e0c18 | ossuary                    | 15:07:23/29-03-2026 |                                            |
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** AIR nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | c554372 | qwen3.5-abliterated:2b       | 20:11:38/31-03-2026 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** AIR nixos-root-xps
 
 github url
 
