@@ -96,7 +96,7 @@ status
 | c554372 | qwen3.5-abliterated:2b       | 20:11:38/31-03-2026 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -164,7 +164,7 @@ status
 | 1319d86 | disable firefox account | 23:54:11/26-03-2026 |                                            |
 #+end_quote
 
-*** XPS nixos-root-cosmic-macbook
+*** nixos-root-cosmic-macbook
 
 github url
 
