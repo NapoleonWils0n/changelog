@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| adcfc664 | emacs mcp-searxng-enhanced | 19:10:48/01-04-2026 | HEAD -> master, github/master, github/HEAD |
+| a452a429 | demucs                     | 10:05:21/03-04-2026 | HEAD -> master, github/master, github/HEAD |
+| adcfc664 | emacs mcp-searxng-enhanced | 19:10:48/01-04-2026 |                                            |
 | 7da4723a | emacs mcp                  | 20:00:10/31-03-2026 |                                            |
 | fe83ed52 | qwen uncensored            | 19:57:14/31-03-2026 |                                            |
 | 48ebbf66 | qwen uncensored            | 19:13:46/31-03-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 586a1420 | ollama                     | 12:54:24/31-03-2026 |                                            |
 | 5475157f | ossuary linux              | 15:13:11/29-03-2026 |                                            |
 | 069e0c18 | ossuary                    | 15:07:23/29-03-2026 |                                            |
-| f6c79a67 | tor browser debian install | 21:25:21/27-03-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b2a65f1 | ollama removed unused models | 21:24:24/02-04-2026 | HEAD -> master, github/master |
+| 1886d95 | flake updated                | 10:15:29/03-04-2026 | HEAD -> master, github/master |
+| 06ff0d0 | removed unused nix flakes    | 10:04:50/03-04-2026 |                               |
+| b2a65f1 | ollama removed unused models | 21:24:24/02-04-2026 |                               |
 | e44b0ce | ollama 0.19.0                | 20:14:19/02-04-2026 |                               |
 | f50eca6 | emacs mcp                    | 19:09:32/01-04-2026 |                               |
 | 0eafac9 | emacs gptel                  | 20:20:39/31-03-2026 |                               |
@@ -92,8 +94,6 @@ status
 | a1dc346 | qwen3.5:2b                   | 17:21:32/31-03-2026 |                               |
 | a601123 | removed qwen3.5              | 14:56:20/31-03-2026 |                               |
 | 39f6cbc | qwen3.5:4b                   | 14:26:07/31-03-2026 |                               |
-| 323dbf5 | removed qwen3.5:9b           | 13:36:06/31-03-2026 |                               |
-| 0c32ae6 | ollama qwen3.5:9b            | 13:08:24/31-03-2026 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
