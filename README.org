@@ -130,7 +130,7 @@ status
 | 9024f28 | removed              | 20:00:47/04-03-2026 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** TODO nixos-dotfiles-macbook-air
 
 github url
 
@@ -164,7 +164,7 @@ status
 | a0c715e | firefox                 | 20:10:14/26-03-2026 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** TODO nixos-root-cosmic-macbook
 
 github url
 
