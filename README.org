@@ -164,7 +164,7 @@ status
 | 1319d86 | disable firefox account | 23:54:11/26-03-2026 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** XPS nixos-root-cosmic-macbook
 
 github url
 
@@ -186,16 +186,16 @@ status
 
 #+RESULTS: nixos-root-cosmic-macbook
 #+begin_quote
-| 4078fac  | flake updated | 13:48:33/03-04-2026 | HEAD -> master, github/master |
-| 1.0e+INF | flake updated | 15:56:47/26-03-2026 |                               |
-| 5f65992  | flake updated | 20:35:07/10-03-2026 |                               |
-| 26027f1  | xdg           | 19:49:17/10-03-2026 |                               |
-| 3f6e588  | flake updated | 14:35:56/05-03-2026 |                               |
-| 1b28d5e  | flake updated | 13:08:17/01-03-2026 |                               |
-| 8d30cf3  | flake updated | 13:50:24/19-02-2026 |                               |
-| edf422b  | flake updated | 20:23:46/10-02-2026 |                               |
-| 1a11775  | flake updated | 09:17:41/31-01-2026 |                               |
-| 03d1ca2  | flake updated | 16:35:10/23-01-2026 |                               |
+| 23198b2  | macbook nixos refactored | 23:19:07/03-04-2026 | HEAD -> master, github/master |
+| 4078fac  | flake updated            | 13:48:33/03-04-2026 |                               |
+| 1.0e+INF | flake updated            | 15:56:47/26-03-2026 |                               |
+| 5f65992  | flake updated            | 20:35:07/10-03-2026 |                               |
+| 26027f1  | xdg                      | 19:49:17/10-03-2026 |                               |
+| 3f6e588  | flake updated            | 14:35:56/05-03-2026 |                               |
+| 1b28d5e  | flake updated            | 13:08:17/01-03-2026 |                               |
+| 8d30cf3  | flake updated            | 13:50:24/19-02-2026 |                               |
+| edf422b  | flake updated            | 20:23:46/10-02-2026 |                               |
+| 1a11775  | flake updated            | 09:17:41/31-01-2026 |                               |
 #+end_quote
 
 *** nixos-bin
