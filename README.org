@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| b18aebb | dnscrypt                              | 16:34:40/04-04-2026 | HEAD -> master, github/master |
+| 209f714 | unbound split vpn with dnssec         | 13:59:32/05-04-2026 | HEAD -> master, github/master |
+| 6e5fd23 | network trust interfaces              | 13:21:15/05-04-2026 |                               |
+| 02fa3f6 | dummy network interface               | 13:08:45/05-04-2026 |                               |
+| 6d74359 | dummy network interface               | 13:05:22/05-04-2026 |                               |
+| e48f310 | dummy network interface               | 13:00:32/05-04-2026 |                               |
+| 30563fd | dummy network interface               | 12:56:05/05-04-2026 |                               |
+| b18aebb | dnscrypt                              | 16:34:40/04-04-2026 |                               |
 | 0884fe3 | unbound forward                       | 15:55:18/04-04-2026 |                               |
 | 9c1f541 | unbound don not query localhost false | 15:52:18/04-04-2026 |                               |
 | 515c453 | unbound dnscrypt forwarder            | 15:47:01/04-04-2026 |                               |
-| 847a857 | unbound dnscrypt                      | 15:30:42/04-04-2026 |                               |
-| 63a7381 | unbound                               | 14:58:47/04-04-2026 |                               |
-| 8e27be6 | nixos refactored                      | 22:31:08/03-04-2026 |                               |
-| 5566c05 | flake updated                         | 09:19:48/03-04-2026 |                               |
-| 6d15775 | dbus cosmic                           | 17:49:28/10-03-2026 |                               |
-| 1635bcb | xdg                                   | 17:37:44/10-03-2026 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
@@ -198,7 +198,7 @@ status
 | 1a11775  | flake updated            | 09:17:41/31-01-2026 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,16 +220,16 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| c470a05 | ossuary                       | 22:59:57/30-03-2026 | HEAD -> master, github/master |
-| 387316d | ossuary                       | 15:07:39/29-03-2026 |                               |
-| 6927450 | wayback machine cdx api       | 22:57:56/18-03-2026 |                               |
-| 1857289 | unicast                       | 21:28:16/09-03-2026 |                               |
-| 39bf760 | adding new version            | 21:27:27/09-03-2026 |                               |
-| 87f7c7d | unicast rust script           | 15:56:21/09-03-2026 |                               |
-| a7e6e5f | removed                       | 15:37:56/09-03-2026 |                               |
-| d34ec0e | unicast rust                  | 15:34:07/09-03-2026 |                               |
-| ff50af8 | unicast removed shell version | 15:33:43/09-03-2026 |                               |
-| e04e3ce | unicast                       | 16:51:26/06-03-2026 |                               |
+| 67c6466 | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 | HEAD -> master, github/master |
+| c470a05 | ossuary                                 | 22:59:57/30-03-2026 |                               |
+| 387316d | ossuary                                 | 15:07:39/29-03-2026 |                               |
+| 6927450 | wayback machine cdx api                 | 22:57:56/18-03-2026 |                               |
+| 1857289 | unicast                                 | 21:28:16/09-03-2026 |                               |
+| 39bf760 | adding new version                      | 21:27:27/09-03-2026 |                               |
+| 87f7c7d | unicast rust script                     | 15:56:21/09-03-2026 |                               |
+| a7e6e5f | removed                                 | 15:37:56/09-03-2026 |                               |
+| d34ec0e | unicast rust                            | 15:34:07/09-03-2026 |                               |
+| ff50af8 | unicast removed shell version           | 15:33:43/09-03-2026 |                               |
 #+end_quote
 
 ** debian
