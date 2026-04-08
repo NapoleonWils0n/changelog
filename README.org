@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 9c56d6e  | gemma4 media                 | 18:03:21/08-04-2026 | HEAD -> master, github/master |
+| 7bbe23c  | ollama gemma4 text models    | 19:34:05/08-04-2026 | HEAD -> master, github/master |
+| 9c56d6e  | gemma4 media                 | 18:03:21/08-04-2026 |                               |
 | 3669fcf  | ollama gemma4 uncensored     | 13:49:06/08-04-2026 |                               |
 | 1.0e+INF | emacs settings               | 17:53:38/07-04-2026 |                               |
 | 976ca9c  | emacs gptel hide tool output | 16:31:32/07-04-2026 |                               |
@@ -93,7 +94,6 @@ status
 | f1b6919  | emacs gptel scroll           | 15:45:08/07-04-2026 |                               |
 | c60274a  | ollama gemma4 text           | 14:59:41/07-04-2026 |                               |
 | 96837d0  | gemma4 media                 | 14:13:12/07-04-2026 |                               |
-| e199aa5  | gptel track media            | 14:05:00/07-04-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
