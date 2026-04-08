@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fc527a61 | gemma4 media                             | 17:11:49/08-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 09fd7c72 | gemma4 media                             | 17:54:59/08-04-2026 | HEAD -> master, github/master, github/HEAD |
+| af5ae8b8 | gemma4 media                             | 17:54:24/08-04-2026 |                                            |
+| fc527a61 | gemma4 media                             | 17:11:49/08-04-2026 |                                            |
 | 98236475 | gemma4 ggufs                             | 13:50:24/08-04-2026 |                                            |
 | 5da4b592 | nixos unbound netorking for virt manager | 17:55:33/06-04-2026 |                                            |
 | a2714d30 | nixos unbound                            | 14:59:13/05-04-2026 |                                            |
@@ -57,8 +59,6 @@ git status
 | e3b269b5 | vpn-netns                                | 14:05:37/05-04-2026 |                                            |
 | 2eba52c6 | nix-flakes                               | 12:34:41/03-04-2026 |                                            |
 | a452a429 | demucs                                   | 10:05:21/03-04-2026 |                                            |
-| adcfc664 | emacs mcp-searxng-enhanced               | 19:10:48/01-04-2026 |                                            |
-| 7da4723a | emacs mcp                                | 20:00:10/31-03-2026 |                                            |
 #+end_quote
 
 ** nixos
