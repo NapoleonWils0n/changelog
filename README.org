@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5da4b592 | nixos unbound netorking for virt manager | 17:55:33/06-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 98236475 | gemma4 ggufs                             | 13:50:24/08-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 5da4b592 | nixos unbound netorking for virt manager | 17:55:33/06-04-2026 |                                            |
 | a2714d30 | nixos unbound                            | 14:59:13/05-04-2026 |                                            |
 | f87ffc03 | unbound dnscrypt proxy                   | 14:40:21/05-04-2026 |                                            |
 | e3b269b5 | vpn-netns                                | 14:05:37/05-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | adcfc664 | emacs mcp-searxng-enhanced               | 19:10:48/01-04-2026 |                                            |
 | 7da4723a | emacs mcp                                | 20:00:10/31-03-2026 |                                            |
 | fe83ed52 | qwen uncensored                          | 19:57:14/31-03-2026 |                                            |
-| 48ebbf66 | qwen uncensored                          | 19:13:46/31-03-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 1.0e+INF | emacs settings               | 17:53:38/07-04-2026 | HEAD -> master, github/master |
+| 3669fcf  | ollama gemma4 uncensored     | 13:49:06/08-04-2026 | HEAD -> master, github/master |
+| 1.0e+INF | emacs settings               | 17:53:38/07-04-2026 |                               |
 | 976ca9c  | emacs gptel hide tool output | 16:31:32/07-04-2026 |                               |
 | db0f664  | emacs gptel force scroll     | 16:25:07/07-04-2026 |                               |
 | 09f4ada  | gptel silence tool output    | 16:06:01/07-04-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 96837d0  | gemma4 media                 | 14:13:12/07-04-2026 |                               |
 | e199aa5  | gptel track media            | 14:05:00/07-04-2026 |                               |
 | 67263be  | gemma4-multimodal            | 13:53:09/07-04-2026 |                               |
-| 6b4c3e4  | gemma4-multimodal            | 13:51:07/07-04-2026 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
