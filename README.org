@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 09fd7c72 | gemma4 media                             | 17:54:59/08-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 8912e1d1 | gemma4-media.modelfile                   | 18:10:59/08-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 09fd7c72 | gemma4 media                             | 17:54:59/08-04-2026 |                                            |
 | af5ae8b8 | gemma4 media                             | 17:54:24/08-04-2026 |                                            |
 | fc527a61 | gemma4 media                             | 17:11:49/08-04-2026 |                                            |
 | 98236475 | gemma4 ggufs                             | 13:50:24/08-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | f87ffc03 | unbound dnscrypt proxy                   | 14:40:21/05-04-2026 |                                            |
 | e3b269b5 | vpn-netns                                | 14:05:37/05-04-2026 |                                            |
 | 2eba52c6 | nix-flakes                               | 12:34:41/03-04-2026 |                                            |
-| a452a429 | demucs                                   | 10:05:21/03-04-2026 |                                            |
 #+end_quote
 
 ** nixos
