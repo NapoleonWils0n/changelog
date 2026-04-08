@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 7bbe23c  | ollama gemma4 text models    | 19:34:05/08-04-2026 | HEAD -> master, github/master |
+| 3f77feb  | emacs setq prot              | 23:28:13/08-04-2026 | HEAD -> master, github/master |
+| 7bbe23c  | ollama gemma4 text models    | 19:34:05/08-04-2026 |                               |
 | 9c56d6e  | gemma4 media                 | 18:03:21/08-04-2026 |                               |
 | 3669fcf  | ollama gemma4 uncensored     | 13:49:06/08-04-2026 |                               |
 | 1.0e+INF | emacs settings               | 17:53:38/07-04-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 09f4ada  | gptel silence tool output    | 16:06:01/07-04-2026 |                               |
 | f1b6919  | emacs gptel scroll           | 15:45:08/07-04-2026 |                               |
 | c60274a  | ollama gemma4 text           | 14:59:41/07-04-2026 |                               |
-| 96837d0  | gemma4 media                 | 14:13:12/07-04-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 0884fe3 | unbound forward               | 15:55:18/04-04-2026 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| bd1120b | emacs settings         | 17:54:34/07-04-2026 | HEAD -> master, github/master, github/HEAD |
-| 36111aa | flake updated          | 14:05:37/03-04-2026 |                                            |
-| be154d0 | flake updated          | 15:33:22/29-03-2026 |                                            |
-| dbe35b0 | removed master branch  | 14:54:10/29-03-2026 |                                            |
-| 39c1693 | git fix                | 11:14:52/29-03-2026 |                                            |
-| f2fc04b | cryptsetup             | 11:13:17/29-03-2026 |                                            |
-| 18a8eba | flake updated          | 16:17:30/27-03-2026 |                                            |
-| ea5c369 | emacs and shell        | 15:51:29/27-03-2026 |                                            |
-| 85f5eb7 | emac removed ednc      | 15:08:09/27-03-2026 |                                            |
-| 751b5be | home manager and emacs | 14:47:47/27-03-2026 |                                            |
+| 4364f65 | emacs setq prot       | 23:26:59/08-04-2026 | HEAD -> master, github/master, github/HEAD |
+| bd1120b | emacs settings        | 17:54:34/07-04-2026 |                                            |
+| 36111aa | flake updated         | 14:05:37/03-04-2026 |                                            |
+| be154d0 | flake updated         | 15:33:22/29-03-2026 |                                            |
+| dbe35b0 | removed master branch | 14:54:10/29-03-2026 |                                            |
+| 39c1693 | git fix               | 11:14:52/29-03-2026 |                                            |
+| f2fc04b | cryptsetup            | 11:13:17/29-03-2026 |                                            |
+| 18a8eba | flake updated         | 16:17:30/27-03-2026 |                                            |
+| ea5c369 | emacs and shell       | 15:51:29/27-03-2026 |                                            |
+| 85f5eb7 | emac removed ednc     | 15:08:09/27-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -255,7 +255,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 9c52d77 | emacs settings         | 17:55:11/07-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 041c4e0 | emacs setq prot        | 23:27:44/08-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 9c52d77 | emacs settings         | 17:55:11/07-04-2026 |                                            |
 | 3fbe9b1 | emacs mcp              | 21:15:27/01-04-2026 |                                            |
 | 269a472 | emacs and shell        | 15:52:21/27-03-2026 |                                            |
 | 1060493 | emacs garbage          | 16:16:14/19-03-2026 |                                            |
@@ -264,7 +265,6 @@ status
 | 14ed734 | tmux grouped session   | 23:22:59/11-03-2026 |                                            |
 | 5c4499e | uxplay debian          | 16:04:34/05-03-2026 |                                            |
 | 506f553 | emacs ollama cloud fix | 22:46:33/05-02-2026 |                                            |
-| 3b6bb8c | ollama cloud           | 18:07:55/05-02-2026 |                                            |
 #+end_quote
 
 *** debian-root
