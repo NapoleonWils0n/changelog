@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| a37b02a  | emacs setq evil hungry       | 23:48:42/08-04-2026 | HEAD -> master, github/master |
+| ac2a2b7  | dconf                        | 19:38:58/09-04-2026 | HEAD -> master, github/master |
+| a37b02a  | emacs setq evil hungry       | 23:48:42/08-04-2026 |                               |
 | 3f77feb  | emacs setq prot              | 23:28:13/08-04-2026 |                               |
 | 7bbe23c  | ollama gemma4 text models    | 19:34:05/08-04-2026 |                               |
 | 9c56d6e  | gemma4 media                 | 18:03:21/08-04-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 976ca9c  | emacs gptel hide tool output | 16:31:32/07-04-2026 |                               |
 | db0f664  | emacs gptel force scroll     | 16:25:07/07-04-2026 |                               |
 | 09f4ada  | gptel silence tool output    | 16:06:01/07-04-2026 |                               |
-| f1b6919  | emacs gptel scroll           | 15:45:08/07-04-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
