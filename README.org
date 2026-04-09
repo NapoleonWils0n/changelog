@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fa809e59 | gemma4 media                             | 20:02:51/08-04-2026 | HEAD -> master, github/master, github/HEAD |
-| 4f8155e0 | gemma4 modelfiles                        | 19:17:04/08-04-2026 |                                            |
-| c26d8355 | ollama gemma4                            | 18:48:59/08-04-2026 |                                            |
-| 8d2739bf | gemma4 modelfile                         | 18:34:58/08-04-2026 |                                            |
-| 8912e1d1 | gemma4-media.modelfile                   | 18:10:59/08-04-2026 |                                            |
-| 09fd7c72 | gemma4 media                             | 17:54:59/08-04-2026 |                                            |
-| af5ae8b8 | gemma4 media                             | 17:54:24/08-04-2026 |                                            |
-| fc527a61 | gemma4 media                             | 17:11:49/08-04-2026 |                                            |
-| 98236475 | gemma4 ggufs                             | 13:50:24/08-04-2026 |                                            |
-| 5da4b592 | nixos unbound netorking for virt manager | 17:55:33/06-04-2026 |                                            |
+| 38c28b37 | searxng                | 16:09:07/09-04-2026 | HEAD -> master, github/master, github/HEAD |
+| fa809e59 | gemma4 media           | 20:02:51/08-04-2026 |                                            |
+| 4f8155e0 | gemma4 modelfiles      | 19:17:04/08-04-2026 |                                            |
+| c26d8355 | ollama gemma4          | 18:48:59/08-04-2026 |                                            |
+| 8d2739bf | gemma4 modelfile       | 18:34:58/08-04-2026 |                                            |
+| 8912e1d1 | gemma4-media.modelfile | 18:10:59/08-04-2026 |                                            |
+| 09fd7c72 | gemma4 media           | 17:54:59/08-04-2026 |                                            |
+| af5ae8b8 | gemma4 media           | 17:54:24/08-04-2026 |                                            |
+| fc527a61 | gemma4 media           | 17:11:49/08-04-2026 |                                            |
+| 98236475 | gemma4 ggufs           | 13:50:24/08-04-2026 |                                            |
 #+end_quote
 
 ** nixos
