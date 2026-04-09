@@ -198,7 +198,7 @@ status
 | edf422b  | flake updated            | 20:23:46/10-02-2026 |                               |
 #+end_quote
 
-*** nixos-bin
+*** XPS nixos-bin
 
 github url
 
@@ -220,7 +220,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 67c6466 | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 | HEAD -> master, github/master |
+| 2e626a2 | removed unused scripts                  | 23:40:47/09-04-2026 | HEAD -> master, github/master |
+| 67c6466 | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 |                               |
 | c470a05 | ossuary                                 | 22:59:57/30-03-2026 |                               |
 | 387316d | ossuary                                 | 15:07:39/29-03-2026 |                               |
 | 6927450 | wayback machine cdx api                 | 22:57:56/18-03-2026 |                               |
@@ -229,7 +230,6 @@ status
 | 87f7c7d | unicast rust script                     | 15:56:21/09-03-2026 |                               |
 | a7e6e5f | removed                                 | 15:37:56/09-03-2026 |                               |
 | d34ec0e | unicast rust                            | 15:34:07/09-03-2026 |                               |
-| ff50af8 | unicast removed shell version           | 15:33:43/09-03-2026 |                               |
 #+end_quote
 
 ** debian
