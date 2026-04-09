@@ -84,19 +84,19 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| ac2a2b7  | dconf                        | 19:38:58/09-04-2026 | HEAD -> master, github/master |
-| a37b02a  | emacs setq evil hungry       | 23:48:42/08-04-2026 |                               |
-| 3f77feb  | emacs setq prot              | 23:28:13/08-04-2026 |                               |
-| 7bbe23c  | ollama gemma4 text models    | 19:34:05/08-04-2026 |                               |
-| 9c56d6e  | gemma4 media                 | 18:03:21/08-04-2026 |                               |
-| 3669fcf  | ollama gemma4 uncensored     | 13:49:06/08-04-2026 |                               |
-| 1.0e+INF | emacs settings               | 17:53:38/07-04-2026 |                               |
-| 976ca9c  | emacs gptel hide tool output | 16:31:32/07-04-2026 |                               |
-| db0f664  | emacs gptel force scroll     | 16:25:07/07-04-2026 |                               |
-| 09f4ada  | gptel silence tool output    | 16:06:01/07-04-2026 |                               |
+| 8083b2c | dwl removed         | 23:35:51/09-04-2026 | HEAD -> master, github/master |
+| 27478b4 | removed dconf       | 22:45:04/09-04-2026 |                               |
+| 7b83f8e | home                | 22:42:13/09-04-2026 |                               |
+| d6daea0 | dwl wayland         | 22:24:09/09-04-2026 |                               |
+| 7587f58 | dwl systemd wayland | 22:15:43/09-04-2026 |                               |
+| cec1e7e | dwl wayland         | 22:10:57/09-04-2026 |                               |
+| 5259742 | home                | 21:32:02/09-04-2026 |                               |
+| c6ed8df | home                | 21:30:10/09-04-2026 |                               |
+| 65e9f6a | home.nix wayland    | 21:23:24/09-04-2026 |                               |
+| ac2a2b7 | dconf               | 19:38:58/09-04-2026 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| 9d4ea7b | firewall for virt manager     | 17:48:25/06-04-2026 | HEAD -> master, github/master |
-| 2741890 | trusted interfaces for vms    | 17:40:36/06-04-2026 |                               |
-| 209f714 | unbound split vpn with dnssec | 13:59:32/05-04-2026 |                               |
-| 6e5fd23 | network trust interfaces      | 13:21:15/05-04-2026 |                               |
-| 02fa3f6 | dummy network interface       | 13:08:45/05-04-2026 |                               |
-| 6d74359 | dummy network interface       | 13:05:22/05-04-2026 |                               |
-| e48f310 | dummy network interface       | 13:00:32/05-04-2026 |                               |
-| 30563fd | dummy network interface       | 12:56:05/05-04-2026 |                               |
-| b18aebb | dnscrypt                      | 16:34:40/04-04-2026 |                               |
-| 0884fe3 | unbound forward               | 15:55:18/04-04-2026 |                               |
+| ee46d0c   | removed dwl              | 23:33:54/09-04-2026 | HEAD -> master, github/master |
+| fb4386c   | removed dwl code         | 22:00:33/09-04-2026 |                               |
+| 642aec6   | dwl                      | 21:55:13/09-04-2026 |                               |
+| 4863b80   | dwl                      | 21:53:13/09-04-2026 |                               |
+| 7.526e+75 | dwl                      | 21:51:07/09-04-2026 |                               |
+| ff6a9e6   | dwl                      | 21:38:56/09-04-2026 |                               |
+| f750c13   | dwl wayland              | 21:35:07/09-04-2026 |                               |
+| 5b0491a   | dwl                      | 20:45:59/09-04-2026 |                               |
+| d5e0864   | dwl wayland display      | 20:42:26/09-04-2026 |                               |
+| 7059903   | dwl wayland and keyboard | 20:30:52/09-04-2026 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
