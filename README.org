@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 8083b2c | dwl removed         | 23:35:51/09-04-2026 | HEAD -> master, github/master |
-| 27478b4 | removed dconf       | 22:45:04/09-04-2026 |                               |
-| 7b83f8e | home                | 22:42:13/09-04-2026 |                               |
-| d6daea0 | dwl wayland         | 22:24:09/09-04-2026 |                               |
-| 7587f58 | dwl systemd wayland | 22:15:43/09-04-2026 |                               |
-| cec1e7e | dwl wayland         | 22:10:57/09-04-2026 |                               |
-| 5259742 | home                | 21:32:02/09-04-2026 |                               |
-| c6ed8df | home                | 21:30:10/09-04-2026 |                               |
-| 65e9f6a | home.nix wayland    | 21:23:24/09-04-2026 |                               |
-| ac2a2b7 | dconf               | 19:38:58/09-04-2026 |                               |
+| 13385f9 | removed systemd services | 01:16:34/10-04-2026 | HEAD -> master, github/master |
+| 8083b2c | dwl removed              | 23:35:51/09-04-2026 |                               |
+| 27478b4 | removed dconf            | 22:45:04/09-04-2026 |                               |
+| 7b83f8e | home                     | 22:42:13/09-04-2026 |                               |
+| d6daea0 | dwl wayland              | 22:24:09/09-04-2026 |                               |
+| 7587f58 | dwl systemd wayland      | 22:15:43/09-04-2026 |                               |
+| cec1e7e | dwl wayland              | 22:10:57/09-04-2026 |                               |
+| 5259742 | home                     | 21:32:02/09-04-2026 |                               |
+| c6ed8df | home                     | 21:30:10/09-04-2026 |                               |
+| 65e9f6a | home.nix wayland         | 21:23:24/09-04-2026 |                               |
 #+end_quote
 
 *** XPS nixos-root-xps
