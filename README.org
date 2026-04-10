@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| e82a5b1b | ollama                 | 12:56:10/10-04-2026 | HEAD -> master, github/master, github/HEAD |
-| f2f23667 | ollama                 | 12:44:51/10-04-2026 |                                            |
-| 38c28b37 | searxng                | 16:09:07/09-04-2026 |                                            |
-| fa809e59 | gemma4 media           | 20:02:51/08-04-2026 |                                            |
-| 4f8155e0 | gemma4 modelfiles      | 19:17:04/08-04-2026 |                                            |
-| c26d8355 | ollama gemma4          | 18:48:59/08-04-2026 |                                            |
-| 8d2739bf | gemma4 modelfile       | 18:34:58/08-04-2026 |                                            |
-| 8912e1d1 | gemma4-media.modelfile | 18:10:59/08-04-2026 |                                            |
-| 09fd7c72 | gemma4 media           | 17:54:59/08-04-2026 |                                            |
-| af5ae8b8 | gemma4 media           | 17:54:24/08-04-2026 |                                            |
+| 1c66f1fd | searxng mcp-searxng-enhanced | 13:59:19/10-04-2026 | HEAD -> master, github/master, github/HEAD |
+| e82a5b1b | ollama                       | 12:56:10/10-04-2026 |                                            |
+| f2f23667 | ollama                       | 12:44:51/10-04-2026 |                                            |
+| 38c28b37 | searxng                      | 16:09:07/09-04-2026 |                                            |
+| fa809e59 | gemma4 media                 | 20:02:51/08-04-2026 |                                            |
+| 4f8155e0 | gemma4 modelfiles            | 19:17:04/08-04-2026 |                                            |
+| c26d8355 | ollama gemma4                | 18:48:59/08-04-2026 |                                            |
+| 8d2739bf | gemma4 modelfile             | 18:34:58/08-04-2026 |                                            |
+| 8912e1d1 | gemma4-media.modelfile       | 18:10:59/08-04-2026 |                                            |
+| 09fd7c72 | gemma4 media                 | 17:54:59/08-04-2026 |                                            |
 #+end_quote
 
 ** nixos
