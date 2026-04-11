@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| b9e8122 | removed unused wayland packages | 15:01:43/11-04-2026 | HEAD -> master, github/master |
+| ac5e414 | removed podman files            | 17:39:01/11-04-2026 | HEAD -> master, github/master |
+| b9e8122 | removed unused wayland packages | 15:01:43/11-04-2026 |                               |
 | e0ddd53 | gptel temprature default        | 18:32:58/10-04-2026 |                               |
 | 7443bd3 | flake updated                   | 16:01:58/10-04-2026 |                               |
 | 9e3b772 | jq                              | 15:59:08/10-04-2026 |                               |
@@ -93,10 +94,9 @@ status
 | 13385f9 | removed systemd services        | 01:16:34/10-04-2026 |                               |
 | 8083b2c | dwl removed                     | 23:35:51/09-04-2026 |                               |
 | 27478b4 | removed dconf                   | 22:45:04/09-04-2026 |                               |
-| 7b83f8e | home                            | 22:42:13/09-04-2026 |                               |
 #+end_quote
 
-*** nixos-root-xps
+*** XPS nixos-root-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: nixos-root-xps15
 #+begin_quote
-| ee46d0c   | removed dwl              | 23:33:54/09-04-2026 | HEAD -> master, github/master |
-| fb4386c   | removed dwl code         | 22:00:33/09-04-2026 |                               |
-| 642aec6   | dwl                      | 21:55:13/09-04-2026 |                               |
-| 4863b80   | dwl                      | 21:53:13/09-04-2026 |                               |
-| 7.526e+75 | dwl                      | 21:51:07/09-04-2026 |                               |
-| ff6a9e6   | dwl                      | 21:38:56/09-04-2026 |                               |
-| f750c13   | dwl wayland              | 21:35:07/09-04-2026 |                               |
-| 5b0491a   | dwl                      | 20:45:59/09-04-2026 |                               |
-| d5e0864   | dwl wayland display      | 20:42:26/09-04-2026 |                               |
-| 7059903   | dwl wayland and keyboard | 20:30:52/09-04-2026 |                               |
+| ddad607   | flake updated           | 17:43:06/11-04-2026 | HEAD -> master, github/master |
+| 8d30001   | removed uxplay not used | 17:42:51/11-04-2026 |                               |
+| ee46d0c   | removed dwl             | 23:33:54/09-04-2026 |                               |
+| fb4386c   | removed dwl code        | 22:00:33/09-04-2026 |                               |
+| 642aec6   | dwl                     | 21:55:13/09-04-2026 |                               |
+| 4863b80   | dwl                     | 21:53:13/09-04-2026 |                               |
+| 7.526e+75 | dwl                     | 21:51:07/09-04-2026 |                               |
+| ff6a9e6   | dwl                     | 21:38:56/09-04-2026 |                               |
+| f750c13   | dwl wayland             | 21:35:07/09-04-2026 |                               |
+| 5b0491a   | dwl                     | 20:45:59/09-04-2026 |                               |
 #+end_quote
 
 *** XPS nixos-dotfiles-macbook-air
