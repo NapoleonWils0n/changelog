@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** XPS nixos-dotfiles
+*** nixos-dotfiles
 
 github url
 
@@ -96,7 +96,7 @@ status
 | d6daea0 | dwl wayland              | 22:24:09/09-04-2026 |                               |
 #+end_quote
 
-*** XPS nixos-root-xps
+*** nixos-root-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 7059903   | dwl wayland and keyboard | 20:30:52/09-04-2026 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 63fbc40 | gptel default temprature | 18:34:06/10-04-2026 | HEAD -> master, github/master, github/HEAD |
+| ab3d4ea | flake updated            | 13:44:01/11-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 63fbc40 | gptel default temprature | 18:34:06/10-04-2026 |                                            |
 | 84ff44b | jq                       | 15:58:58/10-04-2026 |                                            |
 | 666307a | emacs evil hungry        | 23:49:33/08-04-2026 |                                            |
 | 4364f65 | emacs setq prot          | 23:26:59/08-04-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | be154d0 | flake updated            | 15:33:22/29-03-2026 |                                            |
 | dbe35b0 | removed master branch    | 14:54:10/29-03-2026 |                                            |
 | 39c1693 | git fix                  | 11:14:52/29-03-2026 |                                            |
-| f2fc04b | cryptsetup               | 11:13:17/29-03-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
@@ -198,7 +198,7 @@ status
 | edf422b  | flake updated            | 20:23:46/10-02-2026 |                               |
 #+end_quote
 
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -233,7 +233,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
