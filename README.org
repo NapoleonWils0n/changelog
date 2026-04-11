@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** nixos
-*** nixos-dotfiles
+*** XPS nixos-dotfiles
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| ac5e414 | removed podman files            | 17:39:01/11-04-2026 | HEAD -> master, github/master |
+| 705dfe8 | removed old config files        | 22:05:21/11-04-2026 | HEAD -> master, github/master |
+| ac5e414 | removed podman files            | 17:39:01/11-04-2026 |                               |
 | b9e8122 | removed unused wayland packages | 15:01:43/11-04-2026 |                               |
 | e0ddd53 | gptel temprature default        | 18:32:58/10-04-2026 |                               |
 | 7443bd3 | flake updated                   | 16:01:58/10-04-2026 |                               |
@@ -93,7 +94,6 @@ status
 | dfe2287 | ollama 0.20.3                   | 11:04:01/10-04-2026 |                               |
 | 13385f9 | removed systemd services        | 01:16:34/10-04-2026 |                               |
 | 8083b2c | dwl removed                     | 23:35:51/09-04-2026 |                               |
-| 27478b4 | removed dconf                   | 22:45:04/09-04-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
