@@ -130,7 +130,7 @@ status
 | 5b0491a   | dwl                     | 20:45:59/09-04-2026 |                               |
 #+end_quote
 
-*** XPS nixos-dotfiles-macbook-air
+*** TODO nixos-dotfiles-macbook-air
 
 github url
 
@@ -164,7 +164,7 @@ status
 | dbe35b0 | removed master branch          | 14:54:10/29-03-2026 |                                            |
 #+end_quote
 
-*** nixos-root-cosmic-macbook
+*** TODO nixos-root-cosmic-macbook
 
 github url
 
