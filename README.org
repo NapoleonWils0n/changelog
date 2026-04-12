@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 14daf25f | searxng search emacs         | 23:14:33/10-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 0c2dd2a2 | reformat zfs drive as ext4   | 13:42:02/12-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 14daf25f | searxng search emacs         | 23:14:33/10-04-2026 |                                            |
 | dbf38ef3 | searxng                      | 19:22:14/10-04-2026 |                                            |
 | 1c66f1fd | searxng mcp-searxng-enhanced | 13:59:19/10-04-2026 |                                            |
 | e82a5b1b | ollama                       | 12:56:10/10-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | fa809e59 | gemma4 media                 | 20:02:51/08-04-2026 |                                            |
 | 4f8155e0 | gemma4 modelfiles            | 19:17:04/08-04-2026 |                                            |
 | c26d8355 | ollama gemma4                | 18:48:59/08-04-2026 |                                            |
-| 8d2739bf | gemma4 modelfile             | 18:34:58/08-04-2026 |                                            |
 #+end_quote
 
 ** nixos
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| f2b502e | home mannager                   | 12:14:47/12-04-2026 | HEAD -> master, github/master |
-| 705dfe8 | removed old config files        | 22:05:21/11-04-2026 |                               |
-| ac5e414 | removed podman files            | 17:39:01/11-04-2026 |                               |
-| b9e8122 | removed unused wayland packages | 15:01:43/11-04-2026 |                               |
-| e0ddd53 | gptel temprature default        | 18:32:58/10-04-2026 |                               |
-| 7443bd3 | flake updated                   | 16:01:58/10-04-2026 |                               |
-| 9e3b772 | jq                              | 15:59:08/10-04-2026 |                               |
-| 65fbdac | jq                              | 15:56:20/10-04-2026 |                               |
-| dfe2287 | ollama 0.20.3                   | 11:04:01/10-04-2026 |                               |
-| 13385f9 | removed systemd services        | 01:16:34/10-04-2026 |                               |
+| 4faeb2e | flake updated                   | 13:41:30/12-04-2026 | HEAD -> master |
+| 945c717 | parted                          | 13:38:06/12-04-2026 | github/master  |
+| f2b502e | home mannager                   | 12:14:47/12-04-2026 |                |
+| 705dfe8 | removed old config files        | 22:05:21/11-04-2026 |                |
+| ac5e414 | removed podman files            | 17:39:01/11-04-2026 |                |
+| b9e8122 | removed unused wayland packages | 15:01:43/11-04-2026 |                |
+| e0ddd53 | gptel temprature default        | 18:32:58/10-04-2026 |                |
+| 7443bd3 | flake updated                   | 16:01:58/10-04-2026 |                |
+| 9e3b772 | jq                              | 15:59:08/10-04-2026 |                |
+| 65fbdac | jq                              | 15:56:20/10-04-2026 |                |
 #+end_quote
 
 *** nixos-root-xps
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 1.0e+INF | home manager                   | 12:15:23/12-04-2026 | HEAD -> master, github/master, github/HEAD |
+| de2bf5d  | parted                         | 13:38:45/12-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF | home manager                   | 12:15:23/12-04-2026 |                                            |
 | 65f9af0  | flake updated                  | 18:36:26/11-04-2026 |                                            |
 | 5c9a2b0  | removed unused wyalnd packages | 15:01:08/11-04-2026 |                                            |
 | ab3d4ea  | flake updated                  | 13:44:01/11-04-2026 |                                            |
@@ -161,7 +162,6 @@ status
 | 666307a  | emacs evil hungry              | 23:49:33/08-04-2026 |                                            |
 | 4364f65  | emacs setq prot                | 23:26:59/08-04-2026 |                                            |
 | bd1120b  | emacs settings                 | 17:54:34/07-04-2026 |                                            |
-| 36111aa  | flake updated                  | 14:05:37/03-04-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
