@@ -84,7 +84,8 @@ status
 
 #+RESULTS: nixos-dotfiles
 #+begin_quote
-| 705dfe8 | removed old config files        | 22:05:21/11-04-2026 | HEAD -> master, github/master |
+| f2b502e | home mannager                   | 12:14:47/12-04-2026 | HEAD -> master, github/master |
+| 705dfe8 | removed old config files        | 22:05:21/11-04-2026 |                               |
 | ac5e414 | removed podman files            | 17:39:01/11-04-2026 |                               |
 | b9e8122 | removed unused wayland packages | 15:01:43/11-04-2026 |                               |
 | e0ddd53 | gptel temprature default        | 18:32:58/10-04-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 65fbdac | jq                              | 15:56:20/10-04-2026 |                               |
 | dfe2287 | ollama 0.20.3                   | 11:04:01/10-04-2026 |                               |
 | 13385f9 | removed systemd services        | 01:16:34/10-04-2026 |                               |
-| 8083b2c | dwl removed                     | 23:35:51/09-04-2026 |                               |
 #+end_quote
 
 *** nixos-root-xps
@@ -130,7 +130,7 @@ status
 | 5b0491a   | dwl                     | 20:45:59/09-04-2026 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** XPS nixos-dotfiles-macbook-air
 
 github url
 
@@ -152,16 +152,16 @@ status
 
 #+RESULTS: nixos-dotfiles-macbook-air
 #+begin_quote
-| 5c9a2b0 | removed unused wyalnd packages | 15:01:08/11-04-2026 | HEAD -> master, github/master, github/HEAD |
-| ab3d4ea | flake updated                  | 13:44:01/11-04-2026 |                                            |
-| 63fbc40 | gptel default temprature       | 18:34:06/10-04-2026 |                                            |
-| 84ff44b | jq                             | 15:58:58/10-04-2026 |                                            |
-| 666307a | emacs evil hungry              | 23:49:33/08-04-2026 |                                            |
-| 4364f65 | emacs setq prot                | 23:26:59/08-04-2026 |                                            |
-| bd1120b | emacs settings                 | 17:54:34/07-04-2026 |                                            |
-| 36111aa | flake updated                  | 14:05:37/03-04-2026 |                                            |
-| be154d0 | flake updated                  | 15:33:22/29-03-2026 |                                            |
-| dbe35b0 | removed master branch          | 14:54:10/29-03-2026 |                                            |
+| 1.0e+INF | home manager                   | 12:15:23/12-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 65f9af0  | flake updated                  | 18:36:26/11-04-2026 |                                            |
+| 5c9a2b0  | removed unused wyalnd packages | 15:01:08/11-04-2026 |                                            |
+| ab3d4ea  | flake updated                  | 13:44:01/11-04-2026 |                                            |
+| 63fbc40  | gptel default temprature       | 18:34:06/10-04-2026 |                                            |
+| 84ff44b  | jq                             | 15:58:58/10-04-2026 |                                            |
+| 666307a  | emacs evil hungry              | 23:49:33/08-04-2026 |                                            |
+| 4364f65  | emacs setq prot                | 23:26:59/08-04-2026 |                                            |
+| bd1120b  | emacs settings                 | 17:54:34/07-04-2026 |                                            |
+| 36111aa  | flake updated                  | 14:05:37/03-04-2026 |                                            |
 #+end_quote
 
 *** nixos-root-cosmic-macbook
