@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c5359e5b | zfs scrube pool              | 14:09:35/12-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 5e66d7c0 | searxng search emacs         | 21:19:58/13-04-2026 | HEAD -> master, github/master, github/HEAD |
+| c5359e5b | zfs scrube pool              | 14:09:35/12-04-2026 |                                            |
 | 0c2dd2a2 | reformat zfs drive as ext4   | 13:42:02/12-04-2026 |                                            |
 | 14daf25f | searxng search emacs         | 23:14:33/10-04-2026 |                                            |
 | dbf38ef3 | searxng                      | 19:22:14/10-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | f2f23667 | ollama                       | 12:44:51/10-04-2026 |                                            |
 | 38c28b37 | searxng                      | 16:09:07/09-04-2026 |                                            |
 | fa809e59 | gemma4 media                 | 20:02:51/08-04-2026 |                                            |
-| 4f8155e0 | gemma4 modelfiles            | 19:17:04/08-04-2026 |                                            |
 #+end_quote
 
 ** nixos
