@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c21cd460 | searxng emacs it                        | 19:03:31/14-04-2026 | HEAD -> master, github/master, github/HEAD |
+| a961bcef | searxng emacs                           | 20:43:23/14-04-2026 | HEAD -> master, github/master, github/HEAD |
+| c21cd460 | searxng emacs it                        | 19:03:31/14-04-2026 |                                            |
 | 91e581de | searxng emacs                           | 16:26:20/14-04-2026 |                                            |
 | a830749d | searxng                                 | 11:16:43/14-04-2026 |                                            |
 | 166a9277 | searxng search emacs export to markdown | 00:25:02/14-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 0c2dd2a2 | reformat zfs drive as ext4              | 13:42:02/12-04-2026 |                                            |
 | 14daf25f | searxng search emacs                    | 23:14:33/10-04-2026 |                                            |
 | dbf38ef3 | searxng                                 | 19:22:14/10-04-2026 |                                            |
-| 1c66f1fd | searxng mcp-searxng-enhanced            | 13:59:19/10-04-2026 |                                            |
 #+end_quote
 
 ** nixos
