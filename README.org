@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 91e581de | searxng emacs                           | 16:26:20/14-04-2026 | HEAD -> master, github/master, github/HEAD |
+| c21cd460 | searxng emacs it                        | 19:03:31/14-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 91e581de | searxng emacs                           | 16:26:20/14-04-2026 |                                            |
 | a830749d | searxng                                 | 11:16:43/14-04-2026 |                                            |
 | 166a9277 | searxng search emacs export to markdown | 00:25:02/14-04-2026 |                                            |
 | 5e66d7c0 | searxng search emacs                    | 21:19:58/13-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 14daf25f | searxng search emacs                    | 23:14:33/10-04-2026 |                                            |
 | dbf38ef3 | searxng                                 | 19:22:14/10-04-2026 |                                            |
 | 1c66f1fd | searxng mcp-searxng-enhanced            | 13:59:19/10-04-2026 |                                            |
-| e82a5b1b | ollama                                  | 12:56:10/10-04-2026 |                                            |
 #+end_quote
 
 ** nixos
