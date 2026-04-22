@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 9a85727 | freebsd packages              | 21:55:22/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| b20885c | pkg prime-list                | 22:08:57/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 9a85727 | freebsd packages              | 21:55:22/22-04-2026 |                                            |
 | e1f227f | list                          | 19:51:35/22-04-2026 |                                            |
 | a1f8d3d | ouput raw                     | 19:49:22/22-04-2026 |                                            |
 | ca25a6b | table                         | 19:44:26/22-04-2026 |                                            |
@@ -93,7 +94,6 @@ status
 | d93a536 | verse                         | 19:36:45/22-04-2026 |                                            |
 | a829197 | freebsd dotfiles package list | 19:32:36/22-04-2026 |                                            |
 | 7c15cbf | freebsd pkg prime-list        | 18:16:08/22-04-2026 |                                            |
-| 919f452 | firefox disable ai            | 00:45:29/22-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
