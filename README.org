@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,187 +49,131 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d08c2073 | freebsd 15 usb stick                    | 15:34:59/17-04-2026 | HEAD -> master, github/master, github/HEAD |
-| ac313fe2 | freebsd 15                              | 15:27:19/17-04-2026 |                                            |
-| 855108ae | freebsd 15                              | 16:16:16/16-04-2026 |                                            |
-| a482689e | searxng emacs                           | 16:09:13/15-04-2026 |                                            |
-| 77ecfafe | searxng emacs map                       | 15:27:26/15-04-2026 |                                            |
-| a961bcef | searxng emacs                           | 20:43:23/14-04-2026 |                                            |
-| c21cd460 | searxng emacs it                        | 19:03:31/14-04-2026 |                                            |
-| 91e581de | searxng emacs                           | 16:26:20/14-04-2026 |                                            |
-| a830749d | searxng                                 | 11:16:43/14-04-2026 |                                            |
-| 166a9277 | searxng search emacs export to markdown | 00:25:02/14-04-2026 |                                            |
+| 96d25e0d | freebsd mount ext4          | 14:55:00/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 01a18550 | freebsd groups              | 14:16:45/22-04-2026 |                                            |
+| 69d59d1d | dwl install                 | 14:47:36/20-04-2026 |                                            |
+| 470295b3 | dwl                         | 14:45:01/20-04-2026 |                                            |
+| 1936033  | dwl 8                       | 14:36:00/20-04-2026 |                                            |
+| fbb45b5b | poudriere                   | 21:58:08/19-04-2026 |                                            |
+| e4c2c3c6 | poudriere ignore os version | 21:35:15/19-04-2026 |                                            |
+| 84780fea | poudriere freebsd_15-0x64   | 19:13:08/19-04-2026 |                                            |
+| 3cf1d916 | pourriere                   | 18:49:11/19-04-2026 |                                            |
+| def2f5be | poudriere                   | 14:38:53/19-04-2026 |                                            |
 #+end_quote
 
-** nixos
-*** nixos-dotfiles
+** freebsd
+*** freebsd-dotfiles-xps
 
 github url
 
-[[https://github.com/NapoleonWils0n/nixos-dotfiles]]
+[[https://github.com/NapoleonWils0n/freebsd-dotfiles-xps]]
 
 local path
 
 #+begin_src sh
-~/git/nixos/nixos-dotfiles
+~/git/freebsd/freebsd-dotfiles-xps
 #+end_src
 
 status
 
-#+NAME: nixos-dotfiles
-#+HEADER: :var path="~/git/nixos/nixos-dotfiles"
+#+NAME: freebsd-dotfiles-xps
+#+HEADER: :var path="~/git/freebsd/freebsd-dotfiles-xps"
 #+begin_src sh
 <<noweb-block>>
 #+end_src
 
-#+RESULTS: nixos-dotfiles
+#+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 4faeb2e | flake updated                   | 13:41:30/12-04-2026 | HEAD -> master |
-| 945c717 | parted                          | 13:38:06/12-04-2026 | github/master  |
-| f2b502e | home mannager                   | 12:14:47/12-04-2026 |                |
-| 705dfe8 | removed old config files        | 22:05:21/11-04-2026 |                |
-| ac5e414 | removed podman files            | 17:39:01/11-04-2026 |                |
-| b9e8122 | removed unused wayland packages | 15:01:43/11-04-2026 |                |
-| e0ddd53 | gptel temprature default        | 18:32:58/10-04-2026 |                |
-| 7443bd3 | flake updated                   | 16:01:58/10-04-2026 |                |
-| 9e3b772 | jq                              | 15:59:08/10-04-2026 |                |
-| 65fbdac | jq                              | 15:56:20/10-04-2026 |                |
+| 7c15cbf | freebsd pkg prime-list                  | 18:16:08/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 919f452 | firefox disable ai                      | 00:45:29/22-04-2026 |                                            |
+| 210525c | emacs removed doom modeline now playing | 23:09:19/21-04-2026 |                                            |
+| 26fdd75 | emac mpc                                | 22:17:20/21-04-2026 |                                            |
+| 29e5a05 | mpv fix                                 | 20:22:18/21-04-2026 |                                            |
+| 64b36c4 | mpv fix                                 | 20:16:22/21-04-2026 |                                            |
+| 676f9a1 | firefox                                 | 19:30:16/21-04-2026 |                                            |
+| 4dbdf78 | firefox                                 | 19:12:32/21-04-2026 |                                            |
+| 55618d3 | emacs ednc                              | 15:28:54/21-04-2026 |                                            |
+| e11a829 | emacs noweb                             | 14:28:37/21-04-2026 |                                            |
+#+end_quote
+#+begin_quote
+| 919f452 | firefox disable ai                      | 00:45:29/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 210525c | emacs removed doom modeline now playing | 23:09:19/21-04-2026 |                                            |
+| 26fdd75 | emac mpc                                | 22:17:20/21-04-2026 |                                            |
+| 29e5a05 | mpv fix                                 | 20:22:18/21-04-2026 |                                            |
+| 64b36c4 | mpv fix                                 | 20:16:22/21-04-2026 |                                            |
+| 676f9a1 | firefox                                 | 19:30:16/21-04-2026 |                                            |
+| 4dbdf78 | firefox                                 | 19:12:32/21-04-2026 |                                            |
+| 55618d3 | emacs ednc                              | 15:28:54/21-04-2026 |                                            |
+| e11a829 | emacs noweb                             | 14:28:37/21-04-2026 |                                            |
+| 1b2ccf4 | freebsd dotfile emacs lisp              | 14:00:50/21-04-2026 |                                            |
 #+end_quote
 
-*** nixos-root-xps
+*** freebsd-root-xps
 
 github url
 
-[[https://github.com/NapoleonWils0n/nixos-root-xps15]]
+[[https://github.com/NapoleonWils0n/freebsd-root-xps]]
 
 local path
 
 #+begin_src sh
-~/git/nixos/nixos-root-xps15
+~/git/freebsd/freebsd-root-xps
 #+end_src
 
 status
 
-#+NAME: nixos-root-xps15
-#+HEADER: :var path="~/git/nixos/nixos-root-xps15"
+#+NAME: freebsd-root-xps
+#+HEADER: :var path="~/git/freebsd/freebsd-root-xps"
 #+begin_src sh
 <<noweb-block>>
 #+end_src
 
-#+RESULTS: nixos-root-xps15
+#+RESULTS: freebsd-root-xps
 #+begin_quote
-| ddad607   | flake updated           | 17:43:06/11-04-2026 | HEAD -> master, github/master |
-| 8d30001   | removed uxplay not used | 17:42:51/11-04-2026 |                               |
-| ee46d0c   | removed dwl             | 23:33:54/09-04-2026 |                               |
-| fb4386c   | removed dwl code        | 22:00:33/09-04-2026 |                               |
-| 642aec6   | dwl                     | 21:55:13/09-04-2026 |                               |
-| 4863b80   | dwl                     | 21:53:13/09-04-2026 |                               |
-| 7.526e+75 | dwl                     | 21:51:07/09-04-2026 |                               |
-| ff6a9e6   | dwl                     | 21:38:56/09-04-2026 |                               |
-| f750c13   | dwl wayland             | 21:35:07/09-04-2026 |                               |
-| 5b0491a   | dwl                     | 20:45:59/09-04-2026 |                               |
+| d44e23a  | freebsd          | 14:50:46/22-04-2026 | HEAD -> master, github/master |
+| 025fc8d  | freebsd fusefs   | 14:47:32/22-04-2026 |                               |
+| 110cc21  | freebsd doas     | 13:36:44/22-04-2026 |                               |
+| 2859d52  | emacs noweb      | 14:41:35/21-04-2026 |                               |
+| 4.54e+86 | freebsd root xps | 13:04:39/21-04-2026 |                               |
+| d32f200  | poudriere        | 21:58:43/19-04-2026 |                               |
+| fc9d0ee  | poudriere built  | 21:17:36/19-04-2026 |                               |
+| ae994a2  | poudriere        | 18:36:15/19-04-2026 |                               |
+| 04aacc1  | zfs fix          | 00:55:51/19-04-2026 |                               |
+| e880a59  | dns              | 00:50:18/19-04-2026 |                               |
 #+end_quote
 
-*** nixos-dotfiles-macbook-air
+*** freebsd-bin-xps
 
 github url
 
-[[https://github.com/NapoleonWils0n/nixos-dotfiles-macbook-air]]
+[[https://github.com/NapoleonWils0n/freebsd-bin-xps]]
 
 local path
 
 #+begin_src sh
-~/git/nixos/nixos-dotfiles-macbook-air
+~/bin
 #+end_src
 
 status
 
-#+NAME: nixos-dotfiles-macbook-air
-#+HEADER: :var path="~/git/nixos/nixos-dotfiles-macbook-air"
+#+NAME: freebsd-bin-xps
+#+HEADER: :var path="~/bin"
 #+begin_src sh
 <<noweb-block>>
 #+end_src
 
-#+RESULTS: nixos-dotfiles-macbook-air
+#+RESULTS: freebsd-bin-xps
 #+begin_quote
-| fcd80fe  | flake updated                  | 15:52:13/12-04-2026 | HEAD -> master, github/master, github/HEAD |
-| de2bf5d  | parted                         | 13:38:45/12-04-2026 |                                            |
-| 1.0e+INF | home manager                   | 12:15:23/12-04-2026 |                                            |
-| 65f9af0  | flake updated                  | 18:36:26/11-04-2026 |                                            |
-| 5c9a2b0  | removed unused wyalnd packages | 15:01:08/11-04-2026 |                                            |
-| ab3d4ea  | flake updated                  | 13:44:01/11-04-2026 |                                            |
-| 63fbc40  | gptel default temprature       | 18:34:06/10-04-2026 |                                            |
-| 84ff44b  | jq                             | 15:58:58/10-04-2026 |                                            |
-| 666307a  | emacs evil hungry              | 23:49:33/08-04-2026 |                                            |
-| 4364f65  | emacs setq prot                | 23:26:59/08-04-2026 |                                            |
-#+end_quote
-
-*** nixos-root-cosmic-macbook
-
-github url
-
-[[https://github.com/NapoleonWils0n/nixos-root-cosmic-macbook]]
-
-local path
-
-#+begin_src sh
-~/git/nixos/nixos-root-cosmic-macbook
-#+end_src
-
-status
-
-#+NAME: nixos-root-cosmic-macbook
-#+HEADER: :var path="~/git/nixos/nixos-root-cosmic-macbook"
-#+begin_src sh
-<<noweb-block>>
-#+end_src
-
-#+RESULTS: nixos-root-cosmic-macbook
-#+begin_quote
-| c7df178  | flake updated            | 18:19:45/11-04-2026 | HEAD -> master, github/master |
-| e923df6  | unbound dns              | 15:50:17/05-04-2026 |                               |
-| 23198b2  | macbook nixos refactored | 23:19:07/03-04-2026 |                               |
-| 4078fac  | flake updated            | 13:48:33/03-04-2026 |                               |
-| 1.0e+INF | flake updated            | 15:56:47/26-03-2026 |                               |
-| 5f65992  | flake updated            | 20:35:07/10-03-2026 |                               |
-| 26027f1  | xdg                      | 19:49:17/10-03-2026 |                               |
-| 3f6e588  | flake updated            | 14:35:56/05-03-2026 |                               |
-| 1b28d5e  | flake updated            | 13:08:17/01-03-2026 |                               |
-| 8d30cf3  | flake updated            | 13:50:24/19-02-2026 |                               |
-#+end_quote
-
-*** nixos-bin
-
-github url
-
-[[https://github.com/NapoleonWils0n/nixos-bin]]
-
-local path
-
-#+begin_src sh
-~/git/nixos/nixos-bin
-#+end_src
-
-status
-
-#+NAME: nixos-bin
-#+HEADER: :var path="~/git/nixos/nixos-bin"
-#+begin_src sh
-<<noweb-block>>
-#+end_src
-
-#+RESULTS: nixos-bin
-#+begin_quote
-| 2e626a2 | removed unused scripts                  | 23:40:47/09-04-2026 | HEAD -> master, github/master |
-| 67c6466 | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 |                               |
-| c470a05 | ossuary                                 | 22:59:57/30-03-2026 |                               |
-| 387316d | ossuary                                 | 15:07:39/29-03-2026 |                               |
-| 6927450 | wayback machine cdx api                 | 22:57:56/18-03-2026 |                               |
-| 1857289 | unicast                                 | 21:28:16/09-03-2026 |                               |
-| 39bf760 | adding new version                      | 21:27:27/09-03-2026 |                               |
-| 87f7c7d | unicast rust script                     | 15:56:21/09-03-2026 |                               |
-| a7e6e5f | removed                                 | 15:37:56/09-03-2026 |                               |
-| d34ec0e | unicast rust                            | 15:34:07/09-03-2026 |                               |
+| 51b2328 | freebsd bin rust scripts    | 23:35:35/21-04-2026 | HEAD -> master, github/master |
+| ce488b8 | freebsd bin rust scripts    | 23:34:30/21-04-2026 |                               |
+| 4da655a | freebsd bin rust scripts    | 23:33:03/21-04-2026 |                               |
+| f64e664 | yt-dlp removed              | 15:15:11/21-04-2026 |                               |
+| bbbfc90 | firefox removed             | 13:07:15/21-04-2026 |                               |
+| 211fdf3 | freebsd ffmpeg rust scripts | 20:45:40/16-04-2026 |                               |
+| 7890b66 | dash-ffmpeg                 | 14:32:55/25-08-2025 |                               |
+| be59dd8 | dash-ffmpeg                 | 12:23:13/25-08-2025 |                               |
+| 2533070 | dash ffmpeg                 | 18:28:25/23-08-2025 |                               |
+| 2f3f6a7 | dash-ffmpeg                 | 23:34:54/20-08-2025 |                               |
 #+end_quote
 
 ** debian
@@ -296,7 +240,7 @@ status
 | 3a992bd | bin                  | 14:20:00/16-05-2025 |                               |
 | cbc2e05 | bin                  | 14:15:21/16-05-2025 |                               |
 | 7514afb | debian root          | 21:19:24/15-05-2025 |                               |
-| f83c775 | debian dns and dhcp  | 20:58:13/14-03-2017 |                               |
+| f83c775 | debian dns and dhcp  | 20:58:13/14-03-2017 | mac/master                    |
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
@@ -322,14 +266,117 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 519856b | ossuary                       | 23:00:59/30-03-2026 | HEAD -> master, github/master, github/HEAD |
-| 83175c6 | ossuary                       | 15:07:52/29-03-2026 |                                            |
-| f77bab0 | wayback machine cdx api       | 22:58:13/18-03-2026 |                                            |
-| ff295a1 | yt-dlp                        | 13:41:45/18-03-2026 |                                            |
-| f36353b | yt-dlp                        | 19:54:19/13-03-2026 |                                            |
-| ffeaa2f | unicast                       | 21:28:40/09-03-2026 |                                            |
-| be03c6d | unicast rust script           | 15:57:06/09-03-2026 |                                            |
-| a536733 | removed unicast               | 15:38:25/09-03-2026 |                                            |
-| 0e2d28e | unicast rust                  | 15:35:03/09-03-2026 |                                            |
-| ac64459 | unicast removed shell version | 15:34:33/09-03-2026 |                                            |
+| 75f9866 | syncthing               | 17:29:22/20-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 519856b | ossuary                 | 23:00:59/30-03-2026 |                                            |
+| 83175c6 | ossuary                 | 15:07:52/29-03-2026 |                                            |
+| f77bab0 | wayback machine cdx api | 22:58:13/18-03-2026 |                                            |
+| ff295a1 | yt-dlp                  | 13:41:45/18-03-2026 |                                            |
+| f36353b | yt-dlp                  | 19:54:19/13-03-2026 |                                            |
+| ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
+| be03c6d | unicast rust script     | 15:57:06/09-03-2026 |                                            |
+| a536733 | removed unicast         | 15:38:25/09-03-2026 |                                            |
+| 0e2d28e | unicast rust            | 15:35:03/09-03-2026 |                                            |
 #+end_quote
+** nixos
+*** nixos-dotfiles-macbook-air
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-dotfiles-macbook-air]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-dotfiles-macbook-air
+#+end_src
+
+status
+
+#+NAME: nixos-dotfiles-macbook-air
+#+HEADER: :var path="~/git/various-systems/nixos/nixos-dotfiles-macbook-air"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-dotfiles-macbook-air
+#+begin_quote
+| 8e91de9  | flake updated                  | 18:33:48/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| fcd80fe  | flake updated                  | 15:52:13/12-04-2026 |                                            |
+| de2bf5d  | parted                         | 13:38:45/12-04-2026 |                                            |
+| 1.0e+INF | home manager                   | 12:15:23/12-04-2026 |                                            |
+| 65f9af0  | flake updated                  | 18:36:26/11-04-2026 |                                            |
+| 5c9a2b0  | removed unused wyalnd packages | 15:01:08/11-04-2026 |                                            |
+| ab3d4ea  | flake updated                  | 13:44:01/11-04-2026 |                                            |
+| 63fbc40  | gptel default temprature       | 18:34:06/10-04-2026 |                                            |
+| 84ff44b  | jq                             | 15:58:58/10-04-2026 |                                            |
+| 666307a  | emacs evil hungry              | 23:49:33/08-04-2026 |                                            |
+#+end_quote
+
+*** nixos-root-cosmic-macbook
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-root-cosmic-macbook]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-root-cosmic-macbook
+#+end_src
+
+status
+
+#+NAME: nixos-root-cosmic-macbook
+#+HEADER: :var path="~/git/various-systems/nixos/nixos-root-cosmic-macbook/"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-root-cosmic-macbook
+#+begin_quote
+| 7fce498  | flake updated            | 18:00:47/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| c7df178  | flake updated            | 18:19:45/11-04-2026 |                                            |
+| e923df6  | unbound dns              | 15:50:17/05-04-2026 |                                            |
+| 23198b2  | macbook nixos refactored | 23:19:07/03-04-2026 |                                            |
+| 4078fac  | flake updated            | 13:48:33/03-04-2026 |                                            |
+| 1.0e+INF | flake updated            | 15:56:47/26-03-2026 |                                            |
+| 5f65992  | flake updated            | 20:35:07/10-03-2026 |                                            |
+| 26027f1  | xdg                      | 19:49:17/10-03-2026 |                                            |
+| 3f6e588  | flake updated            | 14:35:56/05-03-2026 |                                            |
+| 1b28d5e  | flake updated            | 13:08:17/01-03-2026 |                                            |
+#+end_quote
+
+*** nixos-bin
+
+github url
+
+[[https://github.com/NapoleonWils0n/nixos-bin]]
+
+local path
+
+#+begin_src sh
+~/git/nixos/nixos-bin
+#+end_src
+
+status
+
+#+NAME: nixos-bin
+#+HEADER: :var path="~/git/various-systems/nixos/nixos-bin"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: nixos-bin
+#+begin_quote
+| 2e626a2 | removed unused scripts                  | 23:40:47/09-04-2026 | HEAD -> master, github/master |
+| 67c6466 | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 |                               |
+| c470a05 | ossuary                                 | 22:59:57/30-03-2026 |                               |
+| 387316d | ossuary                                 | 15:07:39/29-03-2026 |                               |
+| 6927450 | wayback machine cdx api                 | 22:57:56/18-03-2026 |                               |
+| 1857289 | unicast                                 | 21:28:16/09-03-2026 |                               |
+| 39bf760 | adding new version                      | 21:27:27/09-03-2026 |                               |
+| 87f7c7d | unicast rust script                     | 15:56:21/09-03-2026 |                               |
+| a7e6e5f | removed                                 | 15:37:56/09-03-2026 |                               |
+| d34ec0e | unicast rust                            | 15:34:07/09-03-2026 |                               |
+#+end_quote
+
