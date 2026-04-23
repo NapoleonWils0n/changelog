@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 08428d3  | removed poudrire | 11:44:30/23-04-2026 | HEAD -> master, github/master |
+| 5954b30  | bhyve directory  | 13:08:19/23-04-2026 | HEAD -> master, github/master |
+| 08428d3  | removed poudrire | 11:44:30/23-04-2026 |                               |
 | d44e23a  | freebsd          | 14:50:46/22-04-2026 |                               |
 | 025fc8d  | freebsd fusefs   | 14:47:32/22-04-2026 |                               |
 | 110cc21  | freebsd doas     | 13:36:44/22-04-2026 |                               |
@@ -127,7 +128,6 @@ status
 | d32f200  | poudriere        | 21:58:43/19-04-2026 |                               |
 | fc9d0ee  | poudriere built  | 21:17:36/19-04-2026 |                               |
 | ae994a2  | poudriere        | 18:36:15/19-04-2026 |                               |
-| 04aacc1  | zfs fix          | 00:55:51/19-04-2026 |                               |
 #+end_quote
 
 *** freebsd-bin-xps
