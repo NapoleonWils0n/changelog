@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 96d25e0d | freebsd mount ext4          | 14:55:00/22-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 4b976315 | bhyve                       | 13:05:53/23-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 96d25e0d | freebsd mount ext4          | 14:55:00/22-04-2026 |                                            |
 | 01a18550 | freebsd groups              | 14:16:45/22-04-2026 |                                            |
 | 69d59d1d | dwl install                 | 14:47:36/20-04-2026 |                                            |
 | 470295b3 | dwl                         | 14:45:01/20-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | e4c2c3c6 | poudriere ignore os version | 21:35:15/19-04-2026 |                                            |
 | 84780fea | poudriere freebsd_15-0x64   | 19:13:08/19-04-2026 |                                            |
 | 3cf1d916 | pourriere                   | 18:49:11/19-04-2026 |                                            |
-| def2f5be | poudriere                   | 14:38:53/19-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
