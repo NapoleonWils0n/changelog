@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5.7037e+49 | bhyve console              | 15:46:57/23-04-2026 | HEAD -> master, github/master, github/HEAD |
+| dfb9fe03   | bhyve debian console       | 15:59:13/23-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 5.7037e+49 | bhyve console              | 15:46:57/23-04-2026 |                                            |
 | 12d6ef9a   | bhyve debian console       | 15:45:20/23-04-2026 |                                            |
 | e162c9b1   | bhyve console              | 15:35:21/23-04-2026 |                                            |
 | a2565bc9   | bhyve debian               | 15:13:40/23-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | ad24cda8   | fetch iso                  | 13:42:14/23-04-2026 |                                            |
 | 5d14f550   | create templates for bhyve | 13:28:28/23-04-2026 |                                            |
 | 09803d81   | bhyve check zfs settings   | 13:16:14/23-04-2026 |                                            |
-| c0b659e5   | bhyve                      | 13:15:23/23-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
