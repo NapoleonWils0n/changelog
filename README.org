@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ad24cda8 | fetch iso                  | 13:42:14/23-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 2cf68346 | bhyve zfs datasets         | 14:15:48/23-04-2026 | HEAD -> master, github/master, github/HEAD |
+| ad24cda8 | fetch iso                  | 13:42:14/23-04-2026 |                                            |
 | 5d14f550 | create templates for bhyve | 13:28:28/23-04-2026 |                                            |
 | 09803d81 | bhyve check zfs settings   | 13:16:14/23-04-2026 |                                            |
 | c0b659e5 | bhyve                      | 13:15:23/23-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 96d25e0d | freebsd mount ext4         | 14:55:00/22-04-2026 |                                            |
 | 01a18550 | freebsd groups             | 14:16:45/22-04-2026 |                                            |
 | 69d59d1d | dwl install                | 14:47:36/20-04-2026 |                                            |
-| 470295b3 | dwl                        | 14:45:01/20-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
