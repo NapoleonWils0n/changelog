@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| cfd3cd5 | qbittorent       | 21:43:33/24-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 2de4c7c | vpn-qbittorrent  | 22:32:43/24-04-2026 | HEAD -> master, github/master, github/HEAD |
+| cfd3cd5 | qbittorent       | 21:43:33/24-04-2026 |                                            |
 | 9b317fe | qt dark theme    | 21:31:50/24-04-2026 |                                            |
 | 6b752d4 | pkg prime-list   | 19:01:27/24-04-2026 |                                            |
 | 82f2056 | pkg prime-list   | 16:31:35/24-04-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | a980bee | desktop entries  | 22:26:38/22-04-2026 |                                            |
 | b20885c | pkg prime-list   | 22:08:57/22-04-2026 |                                            |
 | 9a85727 | freebsd packages | 21:55:22/22-04-2026 |                                            |
-| e1f227f | list             | 19:51:35/22-04-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
