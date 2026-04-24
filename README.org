@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 82f2056 | pkg prime-list   | 16:31:35/24-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 6b752d4 | pkg prime-list   | 19:01:27/24-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 82f2056 | pkg prime-list   | 16:31:35/24-04-2026 |                                            |
 | cdc65ef | pkg prime list   | 15:22:00/23-04-2026 |                                            |
 | 11998f2 | desktop enteries | 22:58:42/22-04-2026 |                                            |
 | a980bee | desktop entries  | 22:26:38/22-04-2026 |                                            |
@@ -93,7 +94,6 @@ status
 | e1f227f | list             | 19:51:35/22-04-2026 |                                            |
 | a1f8d3d | ouput raw        | 19:49:22/22-04-2026 |                                            |
 | ca25a6b | table            | 19:44:26/22-04-2026 |                                            |
-| 5abb68d | raw              | 19:42:42/22-04-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| d2eb123 | vm no            | 13:55:27/24-04-2026 | HEAD -> master, github/master |
+| a3af0a7 | removed bhyve    | 19:00:48/24-04-2026 | HEAD -> master, github/master |
+| d2eb123 | vm no            | 13:55:27/24-04-2026 |                               |
 | 2a1584e | loader           | 11:27:17/24-04-2026 |                               |
 | 4e4fb96 | bhyve fix        | 09:48:23/24-04-2026 |                               |
 | 891a6ce | bhyve rc.conf    | 13:11:32/23-04-2026 |                               |
@@ -127,7 +128,6 @@ status
 | d44e23a | freebsd          | 14:50:46/22-04-2026 |                               |
 | 025fc8d | freebsd fusefs   | 14:47:32/22-04-2026 |                               |
 | 110cc21 | freebsd doas     | 13:36:44/22-04-2026 |                               |
-| 2859d52 | emacs noweb      | 14:41:35/21-04-2026 |                               |
 #+end_quote
 
 *** freebsd-bin-xps
