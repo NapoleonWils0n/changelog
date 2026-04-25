@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 53ba5d3c   | mdconfig             | 19:46:00/25-04-2026 | HEAD -> master, github/master, github/HEAD |
-| bf145faa   | ossuary              | 19:42:39/25-04-2026 |                                            |
-| a1b45356   | ossuary              | 18:49:25/25-04-2026 |                                            |
-| a93657e6   | ossuary              | 18:42:31/25-04-2026 |                                            |
-| eb2bedbf   | ubuntu uefi          | 21:08:30/23-04-2026 |                                            |
-| 8db83b91   | ubuntu uefi          | 21:07:42/23-04-2026 |                                            |
-| 0f1892bc   | ubuntu               | 21:05:12/23-04-2026 |                                            |
-| 7c3721e2   | ubuntu               | 19:34:21/23-04-2026 |                                            |
-| dfb9fe03   | bhyve debian console | 15:59:13/23-04-2026 |                                            |
-| 5.7037e+49 | bhyve console        | 15:46:57/23-04-2026 |                                            |
+| 5555b452 | ossuary              | 19:56:16/25-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 53ba5d3c | mdconfig             | 19:46:00/25-04-2026 |                                            |
+| bf145faa | ossuary              | 19:42:39/25-04-2026 |                                            |
+| a1b45356 | ossuary              | 18:49:25/25-04-2026 |                                            |
+| a93657e6 | ossuary              | 18:42:31/25-04-2026 |                                            |
+| eb2bedbf | ubuntu uefi          | 21:08:30/23-04-2026 |                                            |
+| 8db83b91 | ubuntu uefi          | 21:07:42/23-04-2026 |                                            |
+| 0f1892bc | ubuntu               | 21:05:12/23-04-2026 |                                            |
+| 7c3721e2 | ubuntu               | 19:34:21/23-04-2026 |                                            |
+| dfb9fe03 | bhyve debian console | 15:59:13/23-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
