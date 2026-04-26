@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b72e1862 | ossuary notes         | 20:40:53/25-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 8aea34b0 | podman                | 13:24:48/26-04-2026 | HEAD -> master, github/master, github/HEAD |
+| b72e1862 | ossuary notes         | 20:40:53/25-04-2026 |                                            |
 | 6f6c9432 | ossuary freebsd linux | 20:13:06/25-04-2026 |                                            |
 | 642383a1 | ossuary               | 20:10:41/25-04-2026 |                                            |
 | 5555b452 | ossuary               | 19:56:16/25-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | a1b45356 | ossuary               | 18:49:25/25-04-2026 |                                            |
 | a93657e6 | ossuary               | 18:42:31/25-04-2026 |                                            |
 | eb2bedbf | ubuntu uefi           | 21:08:30/23-04-2026 |                                            |
-| 8db83b91 | ubuntu uefi           | 21:07:42/23-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
