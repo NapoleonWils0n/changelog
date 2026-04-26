@@ -152,16 +152,16 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 09103da | podman           | 14:25:17/26-04-2026 | HEAD -> master, github/master |
-| d0228da | unbound          | 11:36:16/25-04-2026 |                               |
-| a3af0a7 | removed bhyve    | 19:00:48/24-04-2026 |                               |
-| d2eb123 | vm no            | 13:55:27/24-04-2026 |                               |
-| 2a1584e | loader           | 11:27:17/24-04-2026 |                               |
-| 4e4fb96 | bhyve fix        | 09:48:23/24-04-2026 |                               |
-| 891a6ce | bhyve rc.conf    | 13:11:32/23-04-2026 |                               |
-| 5954b30 | bhyve directory  | 13:08:19/23-04-2026 |                               |
-| 08428d3 | removed poudrire | 11:44:30/23-04-2026 |                               |
-| d44e23a | freebsd          | 14:50:46/22-04-2026 |                               |
+| 709e4e4 | podman registries.conf | 14:37:47/26-04-2026 | HEAD -> master, github/master |
+| 09103da | podman                 | 14:25:17/26-04-2026 |                               |
+| d0228da | unbound                | 11:36:16/25-04-2026 |                               |
+| a3af0a7 | removed bhyve          | 19:00:48/24-04-2026 |                               |
+| d2eb123 | vm no                  | 13:55:27/24-04-2026 |                               |
+| 2a1584e | loader                 | 11:27:17/24-04-2026 |                               |
+| 4e4fb96 | bhyve fix              | 09:48:23/24-04-2026 |                               |
+| 891a6ce | bhyve rc.conf          | 13:11:32/23-04-2026 |                               |
+| 5954b30 | bhyve directory        | 13:08:19/23-04-2026 |                               |
+| 08428d3 | removed poudrire       | 11:44:30/23-04-2026 |                               |
 #+end_quote
 
 ** debian
