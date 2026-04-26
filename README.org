@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b9f5cc6f | freebsd searxng       | 15:34:03/26-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 57781957 | debian trixie         | 15:36:51/26-04-2026 | HEAD -> master, github/master, github/HEAD |
+| b9f5cc6f | freebsd searxng       | 15:34:03/26-04-2026 |                                            |
 | ba24129a | freebsd               | 15:15:23/26-04-2026 |                                            |
 | c5bef86d | podman                | 14:56:46/26-04-2026 |                                            |
 | 909f4bd9 | freebsd podman        | 14:25:29/26-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 8aea34b0 | podman                | 13:24:48/26-04-2026 |                                            |
 | b72e1862 | ossuary notes         | 20:40:53/25-04-2026 |                                            |
 | 6f6c9432 | ossuary freebsd linux | 20:13:06/25-04-2026 |                                            |
-| 642383a1 | ossuary               | 20:10:41/25-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
