@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 3099ded | freebsd podman searxng | 19:44:29/26-04-2026 | HEAD -> master, github/master, github/HEAD |
+| bb5f7df | emacs mcp podman       | 20:30:14/26-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 3099ded | freebsd podman searxng | 19:44:29/26-04-2026 |                                            |
 | 00e05a0 | podman-suite           | 13:37:06/26-04-2026 |                                            |
 | ea49fd3 | mpv                    | 19:23:50/25-04-2026 |                                            |
 | a158403 | now playing            | 18:11:31/25-04-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | cfd3cd5 | qbittorent             | 21:43:33/24-04-2026 |                                            |
 | 9b317fe | qt dark theme          | 21:31:50/24-04-2026 |                                            |
 | 6b752d4 | pkg prime-list         | 19:01:27/24-04-2026 |                                            |
-| 82f2056 | pkg prime-list         | 16:31:35/24-04-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
