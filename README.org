@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 57781957 | debian trixie         | 15:36:51/26-04-2026 | HEAD -> master, github/master, github/HEAD |
-| b9f5cc6f | freebsd searxng       | 15:34:03/26-04-2026 |                                            |
-| ba24129a | freebsd               | 15:15:23/26-04-2026 |                                            |
-| c5bef86d | podman                | 14:56:46/26-04-2026 |                                            |
-| 909f4bd9 | freebsd podman        | 14:25:29/26-04-2026 |                                            |
-| 56ec5e0c | podman-compose        | 13:36:35/26-04-2026 |                                            |
-| 1c35be39 | podman suite          | 13:32:01/26-04-2026 |                                            |
-| 8aea34b0 | podman                | 13:24:48/26-04-2026 |                                            |
-| b72e1862 | ossuary notes         | 20:40:53/25-04-2026 |                                            |
-| 6f6c9432 | ossuary freebsd linux | 20:13:06/25-04-2026 |                                            |
+| d8a8ddcc | bookworm        | 15:38:05/26-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 57781957 | debian trixie   | 15:36:51/26-04-2026 |                                            |
+| b9f5cc6f | freebsd searxng | 15:34:03/26-04-2026 |                                            |
+| ba24129a | freebsd         | 15:15:23/26-04-2026 |                                            |
+| c5bef86d | podman          | 14:56:46/26-04-2026 |                                            |
+| 909f4bd9 | freebsd podman  | 14:25:29/26-04-2026 |                                            |
+| 56ec5e0c | podman-compose  | 13:36:35/26-04-2026 |                                            |
+| 1c35be39 | podman suite    | 13:32:01/26-04-2026 |                                            |
+| 8aea34b0 | podman          | 13:24:48/26-04-2026 |                                            |
+| b72e1862 | ossuary notes   | 20:40:53/25-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
