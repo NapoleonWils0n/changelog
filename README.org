@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 5975828 | ossuary new version         | 20:09:44/25-04-2026 | HEAD -> master, github/master |
+| d742994 | whisper-cli                 | 17:40:40/27-04-2026 | HEAD -> master, github/master |
+| 5975828 | ossuary new version         | 20:09:44/25-04-2026 |                               |
 | d0fd4a1 | open vpn script             | 20:31:25/24-04-2026 |                               |
 | 3d55a36 | openvpn script working      | 20:26:38/24-04-2026 |                               |
 | 51b2328 | freebsd bin rust scripts    | 23:35:35/21-04-2026 |                               |
@@ -93,7 +94,6 @@ status
 | f64e664 | yt-dlp removed              | 15:15:11/21-04-2026 |                               |
 | bbbfc90 | firefox removed             | 13:07:15/21-04-2026 |                               |
 | 211fdf3 | freebsd ffmpeg rust scripts | 20:45:40/16-04-2026 |                               |
-| 7890b66 | dash-ffmpeg                 | 14:32:55/25-08-2025 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
