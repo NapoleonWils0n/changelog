@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 58b3198 | ollama                 | 12:59:23/27-04-2026 | HEAD -> master, github/master, github/HEAD |
+| ab36c25 | cmake                  | 16:14:46/27-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 58b3198 | ollama                 | 12:59:23/27-04-2026 |                                            |
 | b866cfb | zshenv ollama vulkan   | 10:05:10/27-04-2026 |                                            |
 | 7335cba | gptel                  | 09:56:48/27-04-2026 |                                            |
 | 205358  | ollama                 | 21:14:04/26-04-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 00e05a0 | podman-suite           | 13:37:06/26-04-2026 |                                            |
 | ea49fd3 | mpv                    | 19:23:50/25-04-2026 |                                            |
 | a158403 | now playing            | 18:11:31/25-04-2026 |                                            |
-| afc865d | vpn-qbittorrent        | 23:29:41/24-04-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
