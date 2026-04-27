@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a0c4359c | ollama qwen                    | 14:07:32/27-04-2026 | HEAD -> master, github/master, github/HEAD |
-| db2e9777 | ollama qwen                    | 14:06:42/27-04-2026 |                                            |
-| 08d58a5c | ollama                         | 12:59:46/27-04-2026 |                                            |
-| 37de7634 | ollama models                  | 10:40:31/27-04-2026 |                                            |
-| 7574e8db | ollama                         | 10:26:21/27-04-2026 |                                            |
-| 5e73c10e | podman compose pull            | 21:09:54/26-04-2026 |                                            |
-| 8ba9f56f | freebsd ollama                 | 20:36:15/26-04-2026 |                                            |
-| 3089cc1f | searxng mcp                    | 20:22:26/26-04-2026 |                                            |
-| 74f0903c | searxng mcp enhanced           | 20:19:52/26-04-2026 |                                            |
-| fd0eb631 | freebsd podman searxng working | 19:26:33/26-04-2026 |                                            |
+| 5cba1b99 | ollama vulkan        | 14:46:40/27-04-2026 | HEAD -> master, github/master, github/HEAD |
+| a0c4359c | ollama qwen          | 14:07:32/27-04-2026 |                                            |
+| db2e9777 | ollama qwen          | 14:06:42/27-04-2026 |                                            |
+| 08d58a5c | ollama               | 12:59:46/27-04-2026 |                                            |
+| 37de7634 | ollama models        | 10:40:31/27-04-2026 |                                            |
+| 7574e8db | ollama               | 10:26:21/27-04-2026 |                                            |
+| 5e73c10e | podman compose pull  | 21:09:54/26-04-2026 |                                            |
+| 8ba9f56f | freebsd ollama       | 20:36:15/26-04-2026 |                                            |
+| 3089cc1f | searxng mcp          | 20:22:26/26-04-2026 |                                            |
+| 74f0903c | searxng mcp enhanced | 20:19:52/26-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
