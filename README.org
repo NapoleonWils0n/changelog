@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 08d58a5c | ollama                         | 12:59:46/27-04-2026 | HEAD -> master, github/master, github/HEAD |
+| db2e9777 | ollama qwen                    | 14:06:42/27-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 08d58a5c | ollama                         | 12:59:46/27-04-2026 |                                            |
 | 37de7634 | ollama models                  | 10:40:31/27-04-2026 |                                            |
 | 7574e8db | ollama                         | 10:26:21/27-04-2026 |                                            |
 | 5e73c10e | podman compose pull            | 21:09:54/26-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 74f0903c | searxng mcp enhanced           | 20:19:52/26-04-2026 |                                            |
 | fd0eb631 | freebsd podman searxng working | 19:26:33/26-04-2026 |                                            |
 | 32d29286 | podman                         | 16:28:48/26-04-2026 |                                            |
-| d8a8ddcc | bookworm                       | 15:38:05/26-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
