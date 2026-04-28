@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f7eec120 | ollama                     | 20:34:05/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 3bf19289 | qwen3.5:2b                 | 22:54:53/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 7bcf8e74 | qwen3.5:2b                 | 22:53:05/28-04-2026 |                                            |
+| f7eec120 | ollama                     | 20:34:05/28-04-2026 |                                            |
 | 9754def9 | ollama qwen3.54b           | 19:26:24/28-04-2026 |                                            |
 | 8850dba9 | pkg prime-list             | 15:34:48/28-04-2026 |                                            |
 | 38e5f23e | dwl                        | 13:07:59/28-04-2026 |                                            |
@@ -57,8 +59,6 @@ git status
 | d06d7335 | whisper cpp vulkan freebsd | 17:49:14/27-04-2026 |                                            |
 | 42b39ce1 | whisper-cpp vulkan freebsd | 17:46:55/27-04-2026 |                                            |
 | 7b9f44df | ollama vulkan zshenv       | 15:30:01/27-04-2026 |                                            |
-| 5cba1b99 | ollama vulkan              | 14:46:40/27-04-2026 |                                            |
-| a0c4359c | ollama qwen                | 14:07:32/27-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 4523d8e | qwen3.5:2b                                   | 22:54:35/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 |                                            |
 | dc04cbc | qwen and gemma4                              | 19:32:45/28-04-2026 |                                            |
 | 2946d79 | pkg prime-list                               | 15:33:05/28-04-2026 |                                            |
 | ab36c25 | cmake                                        | 16:14:46/27-04-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 7335cba | gptel                                        | 09:56:48/27-04-2026 |                                            |
 | 205358  | ollama                                       | 21:14:04/26-04-2026 |                                            |
 | bb5f7df | emacs mcp podman                             | 20:30:14/26-04-2026 |                                            |
-| 3099ded | freebsd podman searxng                       | 19:44:29/26-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
