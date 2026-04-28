@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | f64e664 | yt-dlp removed           | 15:15:11/21-04-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | a158403 | now playing            | 18:11:31/25-04-2026 |                                            |
 #+end_quote
 
-*** XPS freebsd-root-xps
+*** freebsd-root-xps
 
 github url
 
@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
@@ -187,7 +187,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| b1b96bc | adding new version      | 13:13:51/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| de21955 | relay-mpv               | 13:50:34/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| b1b96bc | adding new version      | 13:13:51/28-04-2026 |                                            |
 | 75f9866 | syncthing               | 17:29:22/20-04-2026 |                                            |
 | 519856b | ossuary                 | 23:00:59/30-03-2026 |                                            |
 | 83175c6 | ossuary                 | 15:07:52/29-03-2026 |                                            |
@@ -196,7 +197,6 @@ status
 | f36353b | yt-dlp                  | 19:54:19/13-03-2026 |                                            |
 | ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
 | be03c6d | unicast rust script     | 15:57:06/09-03-2026 |                                            |
-| a536733 | removed unicast         | 15:38:25/09-03-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
@@ -267,7 +267,7 @@ status
 #+end_quote
 
 ** nixos
-*** XPS nixos-bin
+*** nixos-bin
 
 github url
 
@@ -289,7 +289,8 @@ status
 
 #+RESULTS: nixos-bin
 #+begin_quote
-| 1.0e+INF | adding new version                      | 13:14:16/28-04-2026 | HEAD -> master, github/master |
+| 41d492d  | relay-mpv                               | 13:46:50/28-04-2026 | HEAD -> master, github/master |
+| 1.0e+INF | adding new version                      | 13:14:16/28-04-2026 |                               |
 | 2e626a2  | removed unused scripts                  | 23:40:47/09-04-2026 |                               |
 | 67c6466  | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 |                               |
 | c470a05  | ossuary                                 | 22:59:57/30-03-2026 |                               |
@@ -298,7 +299,6 @@ status
 | 1857289  | unicast                                 | 21:28:16/09-03-2026 |                               |
 | 39bf760  | adding new version                      | 21:27:27/09-03-2026 |                               |
 | 87f7c7d  | unicast rust script                     | 15:56:21/09-03-2026 |                               |
-| a7e6e5f  | removed                                 | 15:37:56/09-03-2026 |                               |
 #+end_quote
 
 *** nixos-dotfiles-macbook-air
