@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** PRO cerberus
+** XPS cerberus
 
 github url
 
@@ -48,18 +48,6 @@ git status
 #+end_src
 
 #+RESULTS: cerberus
-#+begin_quote
-| 3bf19289 | qwen3.5:2b                 | 22:54:53/28-04-2026 | HEAD -> master, github/master, github/HEAD |
-| 7bcf8e74 | qwen3.5:2b                 | 22:53:05/28-04-2026 |                                            |
-| f7eec120 | ollama                     | 20:34:05/28-04-2026 |                                            |
-| 9754def9 | ollama qwen3.54b           | 19:26:24/28-04-2026 |                                            |
-| 8850dba9 | pkg prime-list             | 15:34:48/28-04-2026 |                                            |
-| 38e5f23e | dwl                        | 13:07:59/28-04-2026 |                                            |
-| 88a21192 | audio basebane clone       | 00:24:57/28-04-2026 |                                            |
-| d06d7335 | whisper cpp vulkan freebsd | 17:49:14/27-04-2026 |                                            |
-| 42b39ce1 | whisper-cpp vulkan freebsd | 17:46:55/27-04-2026 |                                            |
-| 7b9f44df | ollama vulkan zshenv       | 15:30:01/27-04-2026 |                                            |
-#+end_quote
 
 ** freebsd
 *** freebsd-bin-xps
@@ -96,7 +84,7 @@ status
 | f64e664 | yt-dlp removed           | 15:15:11/21-04-2026 |                               |
 #+end_quote
 
-*** PRO freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +106,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 4523d8e | qwen3.5:2b                                   | 22:54:35/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 8236345 | qwen3.5-abliterated:0.8B                     | 23:42:38/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 4523d8e | qwen3.5:2b                                   | 22:54:35/28-04-2026 |                                            |
 | a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 |                                            |
 | dc04cbc | qwen and gemma4                              | 19:32:45/28-04-2026 |                                            |
 | 2946d79 | pkg prime-list                               | 15:33:05/28-04-2026 |                                            |
@@ -127,7 +116,6 @@ status
 | b866cfb | zshenv ollama vulkan                         | 10:05:10/27-04-2026 |                                            |
 | 7335cba | gptel                                        | 09:56:48/27-04-2026 |                                            |
 | 205358  | ollama                                       | 21:14:04/26-04-2026 |                                            |
-| bb5f7df | emacs mcp podman                             | 20:30:14/26-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
