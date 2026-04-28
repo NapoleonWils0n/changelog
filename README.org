@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 38e5f23e | dwl                        | 13:07:59/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 8850dba9 | pkg prime-list             | 15:34:48/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 38e5f23e | dwl                        | 13:07:59/28-04-2026 |                                            |
 | 88a21192 | audio basebane clone       | 00:24:57/28-04-2026 |                                            |
 | d06d7335 | whisper cpp vulkan freebsd | 17:49:14/27-04-2026 |                                            |
 | 42b39ce1 | whisper-cpp vulkan freebsd | 17:46:55/27-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | a0c4359c | ollama qwen                | 14:07:32/27-04-2026 |                                            |
 | db2e9777 | ollama qwen                | 14:06:42/27-04-2026 |                                            |
 | 08d58a5c | ollama                     | 12:59:46/27-04-2026 |                                            |
-| 37de7634 | ollama models              | 10:40:31/27-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -96,7 +96,7 @@ status
 | f64e664 | yt-dlp removed           | 15:15:11/21-04-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| ab36c25 | cmake                  | 16:14:46/27-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 2946d79 | pkg prime-list         | 15:33:05/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| ab36c25 | cmake                  | 16:14:46/27-04-2026 |                                            |
 | 58b3198 | ollama                 | 12:59:23/27-04-2026 |                                            |
 | b866cfb | zshenv ollama vulkan   | 10:05:10/27-04-2026 |                                            |
 | 7335cba | gptel                  | 09:56:48/27-04-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 3099ded | freebsd podman searxng | 19:44:29/26-04-2026 |                                            |
 | 00e05a0 | podman-suite           | 13:37:06/26-04-2026 |                                            |
 | ea49fd3 | mpv                    | 19:23:50/25-04-2026 |                                            |
-| a158403 | now playing            | 18:11:31/25-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
