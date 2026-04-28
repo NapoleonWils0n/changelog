@@ -165,6 +165,40 @@ status
 #+end_quote
 
 ** debian
+*** XPS debian-bin
+
+github url
+
+[[https://github.com/NapoleonWils0n/debian-bin]]
+
+local path
+
+#+begin_src sh
+~/git/various-systems/debian/debian-bin
+#+end_src
+
+status
+
+#+NAME: debian-bin
+#+HEADER: :var path="~/git/various-systems/debian/debian-bin"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: debian-bin
+#+begin_quote
+| b1b96bc | adding new version      | 13:13:51/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 75f9866 | syncthing               | 17:29:22/20-04-2026 |                                            |
+| 519856b | ossuary                 | 23:00:59/30-03-2026 |                                            |
+| 83175c6 | ossuary                 | 15:07:52/29-03-2026 |                                            |
+| f77bab0 | wayback machine cdx api | 22:58:13/18-03-2026 |                                            |
+| ff295a1 | yt-dlp                  | 13:41:45/18-03-2026 |                                            |
+| f36353b | yt-dlp                  | 19:54:19/13-03-2026 |                                            |
+| ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
+| be03c6d | unicast rust script     | 15:57:06/09-03-2026 |                                            |
+| a536733 | removed unicast         | 15:38:25/09-03-2026 |                                            |
+#+end_quote
+
 *** debian-dotfiles
 
 github url
@@ -232,40 +266,41 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-*** debian-bin
+** nixos
+*** XPS nixos-bin
 
 github url
 
-[[https://github.com/NapoleonWils0n/debian-bin]]
+[[https://github.com/NapoleonWils0n/nixos-bin]]
 
 local path
 
 #+begin_src sh
-~/git/various-systems/debian/debian-bin
+~/git/nixos/nixos-bin
 #+end_src
 
 status
 
-#+NAME: debian-bin
-#+HEADER: :var path="~/git/various-systems/debian/debian-bin"
+#+NAME: nixos-bin
+#+HEADER: :var path="~/git/various-systems/nixos/nixos-bin"
 #+begin_src sh
 <<noweb-block>>
 #+end_src
 
-#+RESULTS: debian-bin
+#+RESULTS: nixos-bin
 #+begin_quote
-| 75f9866 | syncthing               | 17:29:22/20-04-2026 | HEAD -> master, github/master, github/HEAD |
-| 519856b | ossuary                 | 23:00:59/30-03-2026 |                                            |
-| 83175c6 | ossuary                 | 15:07:52/29-03-2026 |                                            |
-| f77bab0 | wayback machine cdx api | 22:58:13/18-03-2026 |                                            |
-| ff295a1 | yt-dlp                  | 13:41:45/18-03-2026 |                                            |
-| f36353b | yt-dlp                  | 19:54:19/13-03-2026 |                                            |
-| ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
-| be03c6d | unicast rust script     | 15:57:06/09-03-2026 |                                            |
-| a536733 | removed unicast         | 15:38:25/09-03-2026 |                                            |
-| 0e2d28e | unicast rust            | 15:35:03/09-03-2026 |                                            |
+| 1.0e+INF | adding new version                      | 13:14:16/28-04-2026 | HEAD -> master, github/master |
+| 2e626a2  | removed unused scripts                  | 23:40:47/09-04-2026 |                               |
+| 67c6466  | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 |                               |
+| c470a05  | ossuary                                 | 22:59:57/30-03-2026 |                               |
+| 387316d  | ossuary                                 | 15:07:39/29-03-2026 |                               |
+| 6927450  | wayback machine cdx api                 | 22:57:56/18-03-2026 |                               |
+| 1857289  | unicast                                 | 21:28:16/09-03-2026 |                               |
+| 39bf760  | adding new version                      | 21:27:27/09-03-2026 |                               |
+| 87f7c7d  | unicast rust script                     | 15:56:21/09-03-2026 |                               |
+| a7e6e5f  | removed                                 | 15:37:56/09-03-2026 |                               |
 #+end_quote
-** nixos
+
 *** nixos-dotfiles-macbook-air
 
 github url
@@ -332,39 +367,5 @@ status
 | 26027f1  | xdg                      | 19:49:17/10-03-2026 |                                            |
 | 3f6e588  | flake updated            | 14:35:56/05-03-2026 |                                            |
 | 1b28d5e  | flake updated            | 13:08:17/01-03-2026 |                                            |
-#+end_quote
-
-*** nixos-bin
-
-github url
-
-[[https://github.com/NapoleonWils0n/nixos-bin]]
-
-local path
-
-#+begin_src sh
-~/git/nixos/nixos-bin
-#+end_src
-
-status
-
-#+NAME: nixos-bin
-#+HEADER: :var path="~/git/various-systems/nixos/nixos-bin"
-#+begin_src sh
-<<noweb-block>>
-#+end_src
-
-#+RESULTS: nixos-bin
-#+begin_quote
-| 2e626a2 | removed unused scripts                  | 23:40:47/09-04-2026 | HEAD -> master, github/master |
-| 67c6466 | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 |                               |
-| c470a05 | ossuary                                 | 22:59:57/30-03-2026 |                               |
-| 387316d | ossuary                                 | 15:07:39/29-03-2026 |                               |
-| 6927450 | wayback machine cdx api                 | 22:57:56/18-03-2026 |                               |
-| 1857289 | unicast                                 | 21:28:16/09-03-2026 |                               |
-| 39bf760 | adding new version                      | 21:27:27/09-03-2026 |                               |
-| 87f7c7d | unicast rust script                     | 15:56:21/09-03-2026 |                               |
-| a7e6e5f | removed                                 | 15:37:56/09-03-2026 |                               |
-| d34ec0e | unicast rust                            | 15:34:07/09-03-2026 |                               |
 #+end_quote
 
