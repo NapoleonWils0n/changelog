@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** PRO cerberus
 
 github url
 
@@ -96,7 +96,7 @@ status
 | f64e664 | yt-dlp removed           | 15:15:11/21-04-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** PRO freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| dc04cbc | qwen and gemma4        | 19:32:45/28-04-2026 | HEAD -> master, github/master, github/HEAD |
-| 2946d79 | pkg prime-list         | 15:33:05/28-04-2026 |                                            |
-| ab36c25 | cmake                  | 16:14:46/27-04-2026 |                                            |
-| 58b3198 | ollama                 | 12:59:23/27-04-2026 |                                            |
-| b866cfb | zshenv ollama vulkan   | 10:05:10/27-04-2026 |                                            |
-| 7335cba | gptel                  | 09:56:48/27-04-2026 |                                            |
-| 205358  | ollama                 | 21:14:04/26-04-2026 |                                            |
-| bb5f7df | emacs mcp podman       | 20:30:14/26-04-2026 |                                            |
-| 3099ded | freebsd podman searxng | 19:44:29/26-04-2026 |                                            |
-| 00e05a0 | podman-suite           | 13:37:06/26-04-2026 |                                            |
+| a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| dc04cbc | qwen and gemma4                              | 19:32:45/28-04-2026 |                                            |
+| 2946d79 | pkg prime-list                               | 15:33:05/28-04-2026 |                                            |
+| ab36c25 | cmake                                        | 16:14:46/27-04-2026 |                                            |
+| 58b3198 | ollama                                       | 12:59:23/27-04-2026 |                                            |
+| b866cfb | zshenv ollama vulkan                         | 10:05:10/27-04-2026 |                                            |
+| 7335cba | gptel                                        | 09:56:48/27-04-2026 |                                            |
+| 205358  | ollama                                       | 21:14:04/26-04-2026 |                                            |
+| bb5f7df | emacs mcp podman                             | 20:30:14/26-04-2026 |                                            |
+| 3099ded | freebsd podman searxng                       | 19:44:29/26-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
