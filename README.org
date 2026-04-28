@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 88a21192 | audio basebane clone       | 00:24:57/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 38e5f23e | dwl                        | 13:07:59/28-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 88a21192 | audio basebane clone       | 00:24:57/28-04-2026 |                                            |
 | d06d7335 | whisper cpp vulkan freebsd | 17:49:14/27-04-2026 |                                            |
 | 42b39ce1 | whisper-cpp vulkan freebsd | 17:46:55/27-04-2026 |                                            |
 | 7b9f44df | ollama vulkan zshenv       | 15:30:01/27-04-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | db2e9777 | ollama qwen                | 14:06:42/27-04-2026 |                                            |
 | 08d58a5c | ollama                     | 12:59:46/27-04-2026 |                                            |
 | 37de7634 | ollama models              | 10:40:31/27-04-2026 |                                            |
-| 7574e8db | ollama                     | 10:26:21/27-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
