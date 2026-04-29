@@ -106,7 +106,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 12d9e82 | qwen                                         | 00:40:44/29-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 0199e0d | aria2                                        | 01:00:38/29-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 12d9e82 | qwen                                         | 00:40:44/29-04-2026 |                                            |
 | 8236345 | qwen3.5-abliterated:0.8B                     | 23:42:38/28-04-2026 |                                            |
 | 4523d8e | qwen3.5:2b                                   | 22:54:35/28-04-2026 |                                            |
 | a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 |                                            |
@@ -115,7 +116,6 @@ status
 | ab36c25 | cmake                                        | 16:14:46/27-04-2026 |                                            |
 | 58b3198 | ollama                                       | 12:59:23/27-04-2026 |                                            |
 | b866cfb | zshenv ollama vulkan                         | 10:05:10/27-04-2026 |                                            |
-| 7335cba | gptel                                        | 09:56:48/27-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
