@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** PRO cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c4112569 | unbound dnsccrypt quad9              | 20:54:45/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 69f33f51 | pkg prime-list                       | 23:02:35/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 1a13c55d | pkg prime list                       | 23:01:44/30-04-2026 |                                            |
+| c4112569 | unbound dnsccrypt quad9              | 20:54:45/30-04-2026 |                                            |
 | 78b3ea44 | debian reset root password with grub | 15:58:47/30-04-2026 |                                            |
 | 3967143c | debian reset root password with grub | 15:58:11/30-04-2026 |                                            |
 | 39567d46 | zfs mount dataset                    | 18:39:04/29-04-2026 |                                            |
@@ -57,12 +59,10 @@ git status
 | d2aa02a5 | dwl                                  | 15:19:50/29-04-2026 |                                            |
 | 4d880c6c | qwen3.5-abliterated:0.8B             | 23:40:59/28-04-2026 |                                            |
 | 3bf19289 | qwen3.5:2b                           | 22:54:53/28-04-2026 |                                            |
-| 7bcf8e74 | qwen3.5:2b                           | 22:53:05/28-04-2026 |                                            |
-| f7eec120 | ollama                               | 20:34:05/28-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
-*** PRO freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 4da655a | freebsd bin rust scripts          | 23:33:03/21-04-2026 |                               |
 #+end_quote
 
-*** PRO freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c91852c | grpahviz                                     | 14:03:54/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 80bb6bd | pkg prime-list                               | 23:01:04/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| c91852c | grpahviz                                     | 14:03:54/30-04-2026 |                                            |
 | 10dbc3b | emacs ssh agent                              | 19:36:26/29-04-2026 |                                            |
 | 9a6bce0 | zshenv tmux and ssh                          | 19:29:39/29-04-2026 |                                            |
 | 0199e0d | aria2                                        | 01:00:38/29-04-2026 |                                            |
@@ -127,10 +128,9 @@ status
 | 4523d8e | qwen3.5:2b                                   | 22:54:35/28-04-2026 |                                            |
 | a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 |                                            |
 | dc04cbc | qwen and gemma4                              | 19:32:45/28-04-2026 |                                            |
-| 2946d79 | pkg prime-list                               | 15:33:05/28-04-2026 |                                            |
 #+end_quote
 
-*** PRO freebsd-root-xps
+*** freebsd-root-xps
 
 github url
 
@@ -199,7 +199,7 @@ status
 | be03c6d | unicast rust script     | 15:57:06/09-03-2026 |                                            |
 #+end_quote
 
-*** PRO debian-dotfiles
+*** debian-dotfiles
 
 github url
 
