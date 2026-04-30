@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** PRO cerberus
 
 github url
 
@@ -96,7 +96,7 @@ status
 | f64e664 | yt-dlp removed           | 15:15:11/21-04-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** PRO freebsd-dotfiles-xps
 
 github url
 
@@ -264,108 +264,5 @@ status
 | 7514afb | debian root          | 21:19:24/15-05-2025 |                               |
 | f83c775 | debian dns and dhcp  | 20:58:13/14-03-2017 | mac/master                    |
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
-#+end_quote
-
-** nixos
-*** nixos-bin
-
-github url
-
-[[https://github.com/NapoleonWils0n/nixos-bin]]
-
-local path
-
-#+begin_src sh
-~/git/nixos/nixos-bin
-#+end_src
-
-status
-
-#+NAME: nixos-bin
-#+HEADER: :var path="~/git/various-systems/nixos/nixos-bin"
-#+begin_src sh
-<<noweb-block>>
-#+end_src
-
-#+RESULTS: nixos-bin
-#+begin_quote
-| 41d492d  | relay-mpv                               | 13:46:50/28-04-2026 | HEAD -> master, github/master |
-| 1.0e+INF | adding new version                      | 13:14:16/28-04-2026 |                               |
-| 2e626a2  | removed unused scripts                  | 23:40:47/09-04-2026 |                               |
-| 67c6466  | vpn split route with unbound and dnssec | 13:58:15/05-04-2026 |                               |
-| c470a05  | ossuary                                 | 22:59:57/30-03-2026 |                               |
-| 387316d  | ossuary                                 | 15:07:39/29-03-2026 |                               |
-| 6927450  | wayback machine cdx api                 | 22:57:56/18-03-2026 |                               |
-| 1857289  | unicast                                 | 21:28:16/09-03-2026 |                               |
-| 39bf760  | adding new version                      | 21:27:27/09-03-2026 |                               |
-| 87f7c7d  | unicast rust script                     | 15:56:21/09-03-2026 |                               |
-#+end_quote
-
-*** nixos-dotfiles-macbook-air
-
-github url
-
-[[https://github.com/NapoleonWils0n/nixos-dotfiles-macbook-air]]
-
-local path
-
-#+begin_src sh
-~/git/nixos/nixos-dotfiles-macbook-air
-#+end_src
-
-status
-
-#+NAME: nixos-dotfiles-macbook-air
-#+HEADER: :var path="~/git/various-systems/nixos/nixos-dotfiles-macbook-air"
-#+begin_src sh
-<<noweb-block>>
-#+end_src
-
-#+RESULTS: nixos-dotfiles-macbook-air
-#+begin_quote
-| 8e91de9  | flake updated                  | 18:33:48/22-04-2026 | HEAD -> master, github/master, github/HEAD |
-| fcd80fe  | flake updated                  | 15:52:13/12-04-2026 |                                            |
-| de2bf5d  | parted                         | 13:38:45/12-04-2026 |                                            |
-| 1.0e+INF | home manager                   | 12:15:23/12-04-2026 |                                            |
-| 65f9af0  | flake updated                  | 18:36:26/11-04-2026 |                                            |
-| 5c9a2b0  | removed unused wyalnd packages | 15:01:08/11-04-2026 |                                            |
-| ab3d4ea  | flake updated                  | 13:44:01/11-04-2026 |                                            |
-| 63fbc40  | gptel default temprature       | 18:34:06/10-04-2026 |                                            |
-| 84ff44b  | jq                             | 15:58:58/10-04-2026 |                                            |
-| 666307a  | emacs evil hungry              | 23:49:33/08-04-2026 |                                            |
-#+end_quote
-
-*** nixos-root-cosmic-macbook
-
-github url
-
-[[https://github.com/NapoleonWils0n/nixos-root-cosmic-macbook]]
-
-local path
-
-#+begin_src sh
-~/git/nixos/nixos-root-cosmic-macbook
-#+end_src
-
-status
-
-#+NAME: nixos-root-cosmic-macbook
-#+HEADER: :var path="~/git/various-systems/nixos/nixos-root-cosmic-macbook/"
-#+begin_src sh
-<<noweb-block>>
-#+end_src
-
-#+RESULTS: nixos-root-cosmic-macbook
-#+begin_quote
-| 7fce498  | flake updated            | 18:00:47/22-04-2026 | HEAD -> master, github/master, github/HEAD |
-| c7df178  | flake updated            | 18:19:45/11-04-2026 |                                            |
-| e923df6  | unbound dns              | 15:50:17/05-04-2026 |                                            |
-| 23198b2  | macbook nixos refactored | 23:19:07/03-04-2026 |                                            |
-| 4078fac  | flake updated            | 13:48:33/03-04-2026 |                                            |
-| 1.0e+INF | flake updated            | 15:56:47/26-03-2026 |                                            |
-| 5f65992  | flake updated            | 20:35:07/10-03-2026 |                                            |
-| 26027f1  | xdg                      | 19:49:17/10-03-2026 |                                            |
-| 3f6e588  | flake updated            | 14:35:56/05-03-2026 |                                            |
-| 1b28d5e  | flake updated            | 13:08:17/01-03-2026 |                                            |
 #+end_quote
 
