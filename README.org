@@ -199,7 +199,7 @@ status
 | be03c6d | unicast rust script     | 15:57:06/09-03-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** PRO debian-dotfiles
 
 github url
 
@@ -221,7 +221,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 4f215c2 | podman removed n8n craw4ai | 18:33:32/11-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 7e7f83d | removed weechat            | 12:27:08/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 4f215c2 | podman removed n8n craw4ai | 18:33:32/11-04-2026 |                                            |
 | 399361  | gptel temprature default   | 18:35:07/10-04-2026 |                                            |
 | c0e824b | emacs evil hungry          | 23:50:55/08-04-2026 |                                            |
 | 041c4e0 | emacs setq prot            | 23:27:44/08-04-2026 |                                            |
@@ -230,7 +231,6 @@ status
 | 269a472 | emacs and shell            | 15:52:21/27-03-2026 |                                            |
 | 1060493 | emacs garbage              | 16:16:14/19-03-2026 |                                            |
 | 08bc915 | mpv rotate                 | 02:02:51/15-03-2026 |                                            |
-| e455264 | tmux                       | 19:52:54/13-03-2026 |                                            |
 #+end_quote
 
 *** debian-root
