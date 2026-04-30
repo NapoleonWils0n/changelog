@@ -96,7 +96,7 @@ status
 | f64e664 | yt-dlp removed           | 15:15:11/21-04-2026 |                               |
 #+end_quote
 
-*** PRO freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 10dbc3b | emacs ssh agent                              | 19:36:26/29-04-2026 | HEAD -> master, github/master, github/HEAD |
+| c91852c | grpahviz                                     | 14:03:54/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 10dbc3b | emacs ssh agent                              | 19:36:26/29-04-2026 |                                            |
 | 9a6bce0 | zshenv tmux and ssh                          | 19:29:39/29-04-2026 |                                            |
 | 0199e0d | aria2                                        | 01:00:38/29-04-2026 |                                            |
 | 12d9e82 | qwen                                         | 00:40:44/29-04-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 |                                            |
 | dc04cbc | qwen and gemma4                              | 19:32:45/28-04-2026 |                                            |
 | 2946d79 | pkg prime-list                               | 15:33:05/28-04-2026 |                                            |
-| ab36c25 | cmake                                        | 16:14:46/27-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
