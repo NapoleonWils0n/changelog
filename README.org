@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| a591ad3 | zprofile for ssh         | 19:15:50/01-05-2026 | HEAD -> master, github/master, github/HEAD |
+| aaa2505 | shellcheck               | 23:56:01/01-05-2026 | HEAD -> master, github/master, github/HEAD |
+| a591ad3 | zprofile for ssh         | 19:15:50/01-05-2026 |                                            |
 | 710b69b | mcp-searxng-enhanced     | 14:08:14/01-05-2026 |                                            |
 | 80bb6bd | pkg prime-list           | 23:01:04/30-04-2026 |                                            |
 | c91852c | grpahviz                 | 14:03:54/30-04-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 0199e0d | aria2                    | 01:00:38/29-04-2026 |                                            |
 | 12d9e82 | qwen                     | 00:40:44/29-04-2026 |                                            |
 | 8236345 | qwen3.5-abliterated:0.8B | 23:42:38/28-04-2026 |                                            |
-| 4523d8e | qwen3.5:2b               | 22:54:35/28-04-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
