@@ -152,7 +152,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 8d6664c | dump                       | 23:33:02/01-05-2026 | HEAD -> master, github/master |
+| 0a94dea | disable core dumps         | 23:35:03/01-05-2026 | HEAD -> master, github/master |
+| 8d6664c | dump                       | 23:33:02/01-05-2026 |                               |
 | a7f151c | disable coredumps          | 23:21:50/01-05-2026 |                               |
 | 7a68e70 | root                       | 22:59:42/01-05-2026 |                               |
 | 0345f3e | unbound                    | 21:38:35/01-05-2026 |                               |
@@ -161,7 +162,6 @@ status
 | a8a6fc0 | unbound                    | 20:16:01/01-05-2026 |                               |
 | 6d4aa8d | unbound dnsscrypt quad dns | 20:46:13/30-04-2026 |                               |
 | b6cada2 | podman pf                  | 15:15:06/26-04-2026 |                               |
-| 709e4e4 | podman registries.conf     | 14:37:47/26-04-2026 |                               |
 #+end_quote
 
 ** debian
