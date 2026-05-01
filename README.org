@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| e812d2bd | bectl          | 21:58:16/01-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 5f2b28c4 | bectl          | 21:59:39/01-05-2026 | HEAD -> master, github/master, github/HEAD |
+| e812d2bd | bectl          | 21:58:16/01-05-2026 |                                            |
 | cd84c593 | dwl            | 21:47:40/01-05-2026 |                                            |
 | a9ea1039 | unbound        | 21:42:02/01-05-2026 |                                            |
 | b5ce3dc4 | unbound        | 21:37:30/01-05-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | d8333629 | dwl            | 19:10:49/01-05-2026 |                                            |
 | b7016405 | apt-mark       | 14:51:03/01-05-2026 |                                            |
 | 69f33f51 | pkg prime-list | 23:02:35/30-04-2026 |                                            |
-| 1a13c55d | pkg prime list | 23:01:44/30-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
