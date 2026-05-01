@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 69f33f51 | pkg prime-list                       | 23:02:35/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 5d657144 | dwl                                  | 19:11:19/01-05-2026 | HEAD -> master, github/master, github/HEAD |
+| d8333629 | dwl                                  | 19:10:49/01-05-2026 |                                            |
+| b7016405 | apt-mark                             | 14:51:03/01-05-2026 |                                            |
+| 69f33f51 | pkg prime-list                       | 23:02:35/30-04-2026 |                                            |
 | 1a13c55d | pkg prime list                       | 23:01:44/30-04-2026 |                                            |
 | c4112569 | unbound dnsccrypt quad9              | 20:54:45/30-04-2026 |                                            |
 | 78b3ea44 | debian reset root password with grub | 15:58:47/30-04-2026 |                                            |
 | 3967143c | debian reset root password with grub | 15:58:11/30-04-2026 |                                            |
 | 39567d46 | zfs mount dataset                    | 18:39:04/29-04-2026 |                                            |
 | 92544421 | freebsd mount zfs datasets           | 18:16:24/29-04-2026 |                                            |
-| d2aa02a5 | dwl                                  | 15:19:50/29-04-2026 |                                            |
-| 4d880c6c | qwen3.5-abliterated:0.8B             | 23:40:59/28-04-2026 |                                            |
-| 3bf19289 | qwen3.5:2b                           | 22:54:53/28-04-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -96,7 +96,7 @@ status
 | 4da655a | freebsd bin rust scripts          | 23:33:03/21-04-2026 |                               |
 #+end_quote
 
-*** PRO freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 710b69b | mcp-searxng-enhanced                         | 14:08:14/01-05-2026 | HEAD -> master, github/master, github/HEAD |
-| 80bb6bd | pkg prime-list                               | 23:01:04/30-04-2026 |                                            |
-| c91852c | grpahviz                                     | 14:03:54/30-04-2026 |                                            |
-| 10dbc3b | emacs ssh agent                              | 19:36:26/29-04-2026 |                                            |
-| 9a6bce0 | zshenv tmux and ssh                          | 19:29:39/29-04-2026 |                                            |
-| 0199e0d | aria2                                        | 01:00:38/29-04-2026 |                                            |
-| 12d9e82 | qwen                                         | 00:40:44/29-04-2026 |                                            |
-| 8236345 | qwen3.5-abliterated:0.8B                     | 23:42:38/28-04-2026 |                                            |
-| 4523d8e | qwen3.5:2b                                   | 22:54:35/28-04-2026 |                                            |
-| a8d17d2 | removed gemma gguf cant run with ollama 0.19 | 22:38:07/28-04-2026 |                                            |
+| a591ad3 | zprofile for ssh         | 19:15:50/01-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 710b69b | mcp-searxng-enhanced     | 14:08:14/01-05-2026 |                                            |
+| 80bb6bd | pkg prime-list           | 23:01:04/30-04-2026 |                                            |
+| c91852c | grpahviz                 | 14:03:54/30-04-2026 |                                            |
+| 10dbc3b | emacs ssh agent          | 19:36:26/29-04-2026 |                                            |
+| 9a6bce0 | zshenv tmux and ssh      | 19:29:39/29-04-2026 |                                            |
+| 0199e0d | aria2                    | 01:00:38/29-04-2026 |                                            |
+| 12d9e82 | qwen                     | 00:40:44/29-04-2026 |                                            |
+| 8236345 | qwen3.5-abliterated:0.8B | 23:42:38/28-04-2026 |                                            |
+| 4523d8e | qwen3.5:2b               | 22:54:35/28-04-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
