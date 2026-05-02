@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** PRO cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 8.2999e+89 | poudriere ffmpeg     | 16:29:19/02-05-2026 | HEAD -> master, github/master, github/HEAD |
-| ef8c1f74   | poudriere            | 16:26:38/02-05-2026 |                                            |
-| d69021e5   | poudriere            | 15:54:23/02-05-2026 |                                            |
-| bd8a2f7c   | poudriere            | 15:48:38/02-05-2026 |                                            |
-| a9dfd1e4   | poudriere            | 15:48:07/02-05-2026 |                                            |
-| 35e89ce0   | mixer mic            | 14:45:29/02-05-2026 |                                            |
-| de8a8b01   | bash language server | 14:43:34/02-05-2026 |                                            |
-| 06dca0fa   | bash-language-server | 13:19:09/02-05-2026 |                                            |
-| 5f2b28c4   | bectl                | 21:59:39/01-05-2026 |                                            |
-| e812d2bd   | bectl                | 21:58:16/01-05-2026 |                                            |
+| b723ff61   | zfs back up usb drive | 20:01:32/02-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 8.2999e+89 | poudriere ffmpeg      | 16:29:19/02-05-2026 |                                            |
+| ef8c1f74   | poudriere             | 16:26:38/02-05-2026 |                                            |
+| d69021e5   | poudriere             | 15:54:23/02-05-2026 |                                            |
+| bd8a2f7c   | poudriere             | 15:48:38/02-05-2026 |                                            |
+| a9dfd1e4   | poudriere             | 15:48:07/02-05-2026 |                                            |
+| 35e89ce0   | mixer mic             | 14:45:29/02-05-2026 |                                            |
+| de8a8b01   | bash language server  | 14:43:34/02-05-2026 |                                            |
+| 06dca0fa   | bash-language-server  | 13:19:09/02-05-2026 |                                            |
+| 5f2b28c4   | bectl                 | 21:59:39/01-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
