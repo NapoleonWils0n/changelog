@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 06dca0fa | bash-language-server | 13:19:09/02-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 35e89ce0 | mixer mic            | 14:45:29/02-05-2026 | HEAD -> master, github/master, github/HEAD |
+| de8a8b01 | bash language server | 14:43:34/02-05-2026 |                                            |
+| 06dca0fa | bash-language-server | 13:19:09/02-05-2026 |                                            |
 | 5f2b28c4 | bectl                | 21:59:39/01-05-2026 |                                            |
 | e812d2bd | bectl                | 21:58:16/01-05-2026 |                                            |
 | cd84c593 | dwl                  | 21:47:40/01-05-2026 |                                            |
@@ -57,8 +59,6 @@ git status
 | b5ce3dc4 | unbound              | 21:37:30/01-05-2026 |                                            |
 | 6d0ab775 | unbound quad9        | 21:04:36/01-05-2026 |                                            |
 | 5d657144 | dwl                  | 19:11:19/01-05-2026 |                                            |
-| d8333629 | dwl                  | 19:10:49/01-05-2026 |                                            |
-| b7016405 | apt-mark             | 14:51:03/01-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 7f9db14 | eglot                | 13:08:17/02-05-2026 | HEAD -> master, github/master, github/HEAD |
+| a0e3362 | obs vaapi h264       | 14:44:28/02-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 7f9db14 | eglot                | 13:08:17/02-05-2026 |                                            |
 | 9ea91f3 | zshenv path for node | 12:07:06/02-05-2026 |                                            |
 | aaa2505 | shellcheck           | 23:56:01/01-05-2026 |                                            |
 | a591ad3 | zprofile for ssh     | 19:15:50/01-05-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | c91852c | grpahviz             | 14:03:54/30-04-2026 |                                            |
 | 10dbc3b | emacs ssh agent      | 19:36:26/29-04-2026 |                                            |
 | 9a6bce0 | zshenv tmux and ssh  | 19:29:39/29-04-2026 |                                            |
-| 0199e0d | aria2                | 01:00:38/29-04-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
