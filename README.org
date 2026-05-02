@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 173434c8   | unbound               | 21:07:29/02-05-2026 | HEAD -> master, github/master, github/HEAD |
-| b723ff61   | zfs back up usb drive | 20:01:32/02-05-2026 |                                            |
-| 8.2999e+89 | poudriere ffmpeg      | 16:29:19/02-05-2026 |                                            |
-| ef8c1f74   | poudriere             | 16:26:38/02-05-2026 |                                            |
-| d69021e5   | poudriere             | 15:54:23/02-05-2026 |                                            |
-| bd8a2f7c   | poudriere             | 15:48:38/02-05-2026 |                                            |
-| a9dfd1e4   | poudriere             | 15:48:07/02-05-2026 |                                            |
-| 35e89ce0   | mixer mic             | 14:45:29/02-05-2026 |                                            |
-| de8a8b01   | bash language server  | 14:43:34/02-05-2026 |                                            |
-| 06dca0fa   | bash-language-server  | 13:19:09/02-05-2026 |                                            |
+| 3efa044f   | unbound dnscrypt-proxy quad9 | 22:44:06/02-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c6f63a3b   | unbound quad9                | 22:41:30/02-05-2026 |                                            |
+| d04e2c3d   | unbound dnscrypt-proxy       | 22:38:30/02-05-2026 |                                            |
+| 173434c8   | unbound                      | 21:07:29/02-05-2026 |                                            |
+| b723ff61   | zfs back up usb drive        | 20:01:32/02-05-2026 |                                            |
+| 8.2999e+89 | poudriere ffmpeg             | 16:29:19/02-05-2026 |                                            |
+| ef8c1f74   | poudriere                    | 16:26:38/02-05-2026 |                                            |
+| d69021e5   | poudriere                    | 15:54:23/02-05-2026 |                                            |
+| bd8a2f7c   | poudriere                    | 15:48:38/02-05-2026 |                                            |
+| a9dfd1e4   | poudriere                    | 15:48:07/02-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
