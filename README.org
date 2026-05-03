@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| e39864e | vertico compat fix   | 14:12:14/03-05-2026 | HEAD -> master, github/master, github/HEAD |
+| b5d006e | wget                 | 14:42:22/03-05-2026 | HEAD -> master, github/master, github/HEAD |
+| e39864e | vertico compat fix   | 14:12:14/03-05-2026 |                                            |
 | a0e3362 | obs vaapi h264       | 14:44:28/02-05-2026 |                                            |
 | 7f9db14 | eglot                | 13:08:17/02-05-2026 |                                            |
 | 9ea91f3 | zshenv path for node | 12:07:06/02-05-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 710b69b | mcp-searxng-enhanced | 14:08:14/01-05-2026 |                                            |
 | 80bb6bd | pkg prime-list       | 23:01:04/30-04-2026 |                                            |
 | c91852c | grpahviz             | 14:03:54/30-04-2026 |                                            |
-| 10dbc3b | emacs ssh agent      | 19:36:26/29-04-2026 |                                            |
 #+end_quote
 
 *** PRO freebsd-root-xps
