@@ -96,7 +96,7 @@ status
 | ce488b8 | freebsd bin rust scripts          | 23:34:30/21-04-2026 |                               |
 #+end_quote
 
-*** PRO freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| e6f3e1a | gemma4               | 21:34:30/03-05-2026 | HEAD -> master, github/master, github/HEAD |
-| b5d006e | wget                 | 14:42:22/03-05-2026 |                                            |
-| e39864e | vertico compat fix   | 14:12:14/03-05-2026 |                                            |
-| a0e3362 | obs vaapi h264       | 14:44:28/02-05-2026 |                                            |
-| 7f9db14 | eglot                | 13:08:17/02-05-2026 |                                            |
-| 9ea91f3 | zshenv path for node | 12:07:06/02-05-2026 |                                            |
-| aaa2505 | shellcheck           | 23:56:01/01-05-2026 |                                            |
-| a591ad3 | zprofile for ssh     | 19:15:50/01-05-2026 |                                            |
-| 710b69b | mcp-searxng-enhanced | 14:08:14/01-05-2026 |                                            |
-| 80bb6bd | pkg prime-list       | 23:01:04/30-04-2026 |                                            |
+| bcb884f | emacs gptel ollama cloud | 22:38:26/03-05-2026 | HEAD -> master, github/master, github/HEAD |
+| e6f3e1a | gemma4                   | 21:34:30/03-05-2026 |                                            |
+| b5d006e | wget                     | 14:42:22/03-05-2026 |                                            |
+| e39864e | vertico compat fix       | 14:12:14/03-05-2026 |                                            |
+| a0e3362 | obs vaapi h264           | 14:44:28/02-05-2026 |                                            |
+| 7f9db14 | eglot                    | 13:08:17/02-05-2026 |                                            |
+| 9ea91f3 | zshenv path for node     | 12:07:06/02-05-2026 |                                            |
+| aaa2505 | shellcheck               | 23:56:01/01-05-2026 |                                            |
+| a591ad3 | zprofile for ssh         | 19:15:50/01-05-2026 |                                            |
+| 710b69b | mcp-searxng-enhanced     | 14:08:14/01-05-2026 |                                            |
 #+end_quote
 
 *** PRO freebsd-root-xps
@@ -199,7 +199,7 @@ status
 | ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -221,7 +221,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 7e7f83d | removed weechat            | 12:27:08/30-04-2026 | HEAD -> master, github/master, github/HEAD |
+| 29efee5 | emacs gptel gemma4         | 22:40:11/03-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 7e7f83d | removed weechat            | 12:27:08/30-04-2026 |                                            |
 | 4f215c2 | podman removed n8n craw4ai | 18:33:32/11-04-2026 |                                            |
 | 399361  | gptel temprature default   | 18:35:07/10-04-2026 |                                            |
 | c0e824b | emacs evil hungry          | 23:50:55/08-04-2026 |                                            |
@@ -230,7 +231,6 @@ status
 | 3fbe9b1 | emacs mcp                  | 21:15:27/01-04-2026 |                                            |
 | 269a472 | emacs and shell            | 15:52:21/27-03-2026 |                                            |
 | 1060493 | emacs garbage              | 16:16:14/19-03-2026 |                                            |
-| 08bc915 | mpv rotate                 | 02:02:51/15-03-2026 |                                            |
 #+end_quote
 
 *** debian-root
