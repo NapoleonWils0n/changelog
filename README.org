@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 397014c7   | freebsd dd                   | 18:40:10/03-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 073cc449   | ollama debian                | 22:52:24/04-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 397014c7   | freebsd dd                   | 18:40:10/03-05-2026 |                                            |
 | 3efa044f   | unbound dnscrypt-proxy quad9 | 22:44:06/02-05-2026 |                                            |
 | c6f63a3b   | unbound quad9                | 22:41:30/02-05-2026 |                                            |
 | d04e2c3d   | unbound dnscrypt-proxy       | 22:38:30/02-05-2026 |                                            |
@@ -58,11 +59,10 @@ git status
 | 8.2999e+89 | poudriere ffmpeg             | 16:29:19/02-05-2026 |                                            |
 | ef8c1f74   | poudriere                    | 16:26:38/02-05-2026 |                                            |
 | d69021e5   | poudriere                    | 15:54:23/02-05-2026 |                                            |
-| bd8a2f7c   | poudriere                    | 15:48:38/02-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** PRO freebsd-bin-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c8fd2da | mcp                      | 17:08:29/04-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 5cf8702 | emacs mcp                | 21:47:18/04-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c8fd2da | mcp                      | 17:08:29/04-05-2026 |                                            |
 | 2da7f0f | emacs gptel              | 12:26:46/04-05-2026 |                                            |
 | bcb884f | emacs gptel ollama cloud | 22:38:26/03-05-2026 |                                            |
 | e6f3e1a | gemma4                   | 21:34:30/03-05-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | a0e3362 | obs vaapi h264           | 14:44:28/02-05-2026 |                                            |
 | 7f9db14 | eglot                    | 13:08:17/02-05-2026 |                                            |
 | 9ea91f3 | zshenv path for node     | 12:07:06/02-05-2026 |                                            |
-| aaa2505 | shellcheck               | 23:56:01/01-05-2026 |                                            |
 #+end_quote
 
 *** PRO freebsd-root-xps
@@ -199,7 +199,7 @@ status
 | ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
 #+end_quote
 
-*** XPS debian-dotfiles
+*** PRO debian-dotfiles
 
 github url
 
