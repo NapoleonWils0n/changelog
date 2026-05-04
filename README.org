@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 2da7f0f | emacs gptel              | 12:26:46/04-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c8fd2da | mcp                      | 17:08:29/04-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 2da7f0f | emacs gptel              | 12:26:46/04-05-2026 |                                            |
 | bcb884f | emacs gptel ollama cloud | 22:38:26/03-05-2026 |                                            |
 | e6f3e1a | gemma4                   | 21:34:30/03-05-2026 |                                            |
 | b5d006e | wget                     | 14:42:22/03-05-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 7f9db14 | eglot                    | 13:08:17/02-05-2026 |                                            |
 | 9ea91f3 | zshenv path for node     | 12:07:06/02-05-2026 |                                            |
 | aaa2505 | shellcheck               | 23:56:01/01-05-2026 |                                            |
-| a591ad3 | zprofile for ssh         | 19:15:50/01-05-2026 |                                            |
 #+end_quote
 
 *** PRO freebsd-root-xps
