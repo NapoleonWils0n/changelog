@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 7347347 | emacs mcp                | 15:54:57/05-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c77c07f | emacs                    | 23:40:25/05-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 7347347 | emacs mcp                | 15:54:57/05-05-2026 |                                            |
 | 2108425 | emacs mcp                | 15:18:08/05-05-2026 |                                            |
 | 5cf8702 | emacs mcp                | 21:47:18/04-05-2026 |                                            |
 | c8fd2da | mcp                      | 17:08:29/04-05-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | e6f3e1a | gemma4                   | 21:34:30/03-05-2026 |                                            |
 | b5d006e | wget                     | 14:42:22/03-05-2026 |                                            |
 | e39864e | vertico compat fix       | 14:12:14/03-05-2026 |                                            |
-| a0e3362 | obs vaapi h264           | 14:44:28/02-05-2026 |                                            |
 #+end_quote
 
 *** PRO freebsd-root-xps
