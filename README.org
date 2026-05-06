@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 3d55a36 | openvpn script working            | 20:26:38/24-04-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | b5d006e | wget                     | 14:42:22/03-05-2026 |                                            |
 #+end_quote
 
-*** PRO freebsd-root-xps
+*** freebsd-root-xps
 
 github url
 
@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** debian
-*** PRO debian-bin
+*** debian-bin
 
 github url
 
@@ -199,7 +199,7 @@ status
 | ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
 #+end_quote
 
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
