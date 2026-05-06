@@ -199,7 +199,7 @@ status
 | ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
 #+end_quote
 
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
