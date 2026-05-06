@@ -62,7 +62,8 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** dell-xps
+**** freebsd-bin-xps
 
 github url
 
@@ -96,7 +97,7 @@ status
 | 3d55a36 | openvpn script working            | 20:26:38/24-04-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+**** freebsd-dotfiles-xps
 
 github url
 
@@ -130,7 +131,7 @@ status
 | b5d006e | wget                     | 14:42:22/03-05-2026 |                                            |
 #+end_quote
 
-*** freebsd-root-xps
+**** XPS freebsd-root-xps
 
 github url
 
@@ -152,17 +153,84 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 0a94dea | disable core dumps         | 23:35:03/01-05-2026 | HEAD -> master, github/master |
-| 8d6664c | dump                       | 23:33:02/01-05-2026 |                               |
-| a7f151c | disable coredumps          | 23:21:50/01-05-2026 |                               |
-| 7a68e70 | root                       | 22:59:42/01-05-2026 |                               |
-| 0345f3e | unbound                    | 21:38:35/01-05-2026 |                               |
-| e2b845c | unbound quad9              | 21:31:04/01-05-2026 |                               |
-| 1195602 | unbound quad9              | 21:01:46/01-05-2026 |                               |
-| a8a6fc0 | unbound                    | 20:16:01/01-05-2026 |                               |
-| 6d4aa8d | unbound dnsscrypt quad dns | 20:46:13/30-04-2026 |                               |
-| b6cada2 | podman pf                  | 15:15:06/26-04-2026 |                               |
+| 7718054 | freebsd-root-xps refactored | 21:56:52/06-05-2026 | HEAD -> master, github/master |
+| 18a2561 | doas podman                 | 15:58:49/05-05-2026 |                               |
+| 0a94dea | disable core dumps          | 23:35:03/01-05-2026 |                               |
+| 8d6664c | dump                        | 23:33:02/01-05-2026 |                               |
+| a7f151c | disable coredumps           | 23:21:50/01-05-2026 |                               |
+| 7a68e70 | root                        | 22:59:42/01-05-2026 |                               |
+| 0345f3e | unbound                     | 21:38:35/01-05-2026 |                               |
+| e2b845c | unbound quad9               | 21:31:04/01-05-2026 |                               |
+| 1195602 | unbound quad9               | 21:01:46/01-05-2026 |                               |
+| a8a6fc0 | unbound                     | 20:16:01/01-05-2026 |                               |
 #+end_quote
+
+*** macbook-air
+**** freebsd-bin-macbook-air
+
+github url
+
+[[https://github.com/NapoleonWils0n/freebsd-bin]]
+
+local path
+
+#+begin_src sh
+~/git/freebsd/freebsd-bin
+#+end_src
+
+status
+
+#+NAME: freebsd-bin-macbook-air
+#+HEADER: :var path="~/git/freebsd/freebsd-bin"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: freebsd-bin-macbook-air
+
+**** freebsd-dotfiles-macbook-air
+
+github url
+
+[[https://github.com/NapoleonWils0n/freebsd-dotfiles]]
+
+local path
+
+#+begin_src sh
+~/git/freebsd/freebsd-dotfiles
+#+end_src
+
+status
+
+#+NAME: freebsd-dotfiles-macbook-air
+#+HEADER: :var path="~/git/freebsd/freebsd-dotfiles"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: freebsd-dotfiles-macbook-air
+
+**** freebsd-root-macbook-air
+
+github url
+
+[[https://github.com/NapoleonWils0n/freebsd-root]]
+
+local path
+
+#+begin_src sh
+~/git/freebsd/freebsd-root
+#+end_src
+
+status
+
+#+NAME: freebsd-root-macbook-air
+#+HEADER: :var path="~/git/freebsd/freebsd-root"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: freebsd-root-macbook-air
 
 ** debian
 *** debian-bin
