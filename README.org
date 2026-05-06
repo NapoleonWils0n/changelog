@@ -153,7 +153,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 7718054 | freebsd-root-xps refactored | 21:56:52/06-05-2026 | HEAD -> master, github/master |
+| 7386de0 | refactored                  | 22:10:14/06-05-2026 | HEAD -> master, github/master |
+| 7718054 | freebsd-root-xps refactored | 21:56:52/06-05-2026 |                               |
 | 18a2561 | doas podman                 | 15:58:49/05-05-2026 |                               |
 | 0a94dea | disable core dumps          | 23:35:03/01-05-2026 |                               |
 | 8d6664c | dump                        | 23:33:02/01-05-2026 |                               |
@@ -162,7 +163,6 @@ status
 | 0345f3e | unbound                     | 21:38:35/01-05-2026 |                               |
 | e2b845c | unbound quad9               | 21:31:04/01-05-2026 |                               |
 | 1195602 | unbound quad9               | 21:01:46/01-05-2026 |                               |
-| a8a6fc0 | unbound                     | 20:16:01/01-05-2026 |                               |
 #+end_quote
 
 *** macbook-air
