@@ -221,7 +221,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| f25ba12 | debian dotfiles            | 18:17:27/06-05-2026 | HEAD -> master, github/master, github/HEAD |
+| a8bfc61 | debian                     | 18:40:07/06-05-2026 | HEAD -> master, github/master, github/HEAD |
+| f25ba12 | debian dotfiles            | 18:17:27/06-05-2026 |                                            |
 | 17768cb | ollama                     | 11:36:52/06-05-2026 |                                            |
 | 06372fe | ollama                     | 17:08:14/04-05-2026 |                                            |
 | 9bc0fa1 | emacs gptel                | 12:27:54/04-05-2026 |                                            |
@@ -230,7 +231,6 @@ status
 | 4f215c2 | podman removed n8n craw4ai | 18:33:32/11-04-2026 |                                            |
 | 399361  | gptel temprature default   | 18:35:07/10-04-2026 |                                            |
 | c0e824b | emacs evil hungry          | 23:50:55/08-04-2026 |                                            |
-| 041c4e0 | emacs setq prot            | 23:27:44/08-04-2026 |                                            |
 #+end_quote
 
 *** debian-root
