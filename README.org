@@ -166,7 +166,7 @@ status
 #+end_quote
 
 *** macbook-air
-**** freebsd-bin-macbook-air
+**** XPS freebsd-bin-macbook-air
 
 github url
 
@@ -187,6 +187,18 @@ status
 #+end_src
 
 #+RESULTS: freebsd-bin-macbook-air
+#+begin_quote
+| ffb5673         | freebsd bin macbook air | 23:44:11/06-05-2026 | HEAD -> master, github/master, github/HEAD |
+| cb19519         | freebsd bin macbook air | 23:43:45/06-05-2026 |                                            |
+| 1692412         | freebsd bin             | 21:10:25/25-04-2026 |                                            |
+| acd4e27         | dash-ffmpeg             | 14:33:20/25-08-2025 |                                            |
+| 13c1660         | dash-ffmpeg             | 12:22:30/25-08-2025 |                                            |
+| 2598300000000.0 | dash ffmpeg             | 18:28:13/23-08-2025 |                                            |
+| 6bc803f         | dash-ffmpeg             | 23:34:40/20-08-2025 |                                            |
+| b06855e         | scene-cut-to            | 20:54:37/06-08-2025 |                                            |
+| 0bb9905         | trim-clip-to            | 15:24:35/03-08-2025 |                                            |
+| 70d9038         | trim-clip-to            | 18:09:53/27-07-2025 |                                            |
+#+end_quote
 
 **** freebsd-dotfiles-macbook-air
 
@@ -210,7 +222,7 @@ status
 
 #+RESULTS: freebsd-dotfiles-macbook-air
 
-**** freebsd-root-macbook-air
+**** XPS freebsd-root-macbook-air
 
 github url
 
@@ -231,6 +243,18 @@ status
 #+end_src
 
 #+RESULTS: freebsd-root-macbook-air
+#+begin_quote
+| 1b81685 | freebsd macbook air                      | 23:39:56/06-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c4a94d2 | rc.conf                                  | 14:46:36/17-04-2025 |                                            |
+| 06c4ab5 | virtual oss                              | 20:18:57/04-01-2025 |                                            |
+| ac39e53 | lagg tangle permissions                  | 19:46:46/28-11-2024 |                                            |
+| b43d579 | laggpf                                   | 18:56:56/28-11-2024 |                                            |
+| d8fa1b8 | loader.conf                              | 20:23:06/24-11-2024 |                                            |
+| 7d0766c | broadcom wifi working with lagg failover | 19:07:31/24-11-2024 |                                            |
+| ce9effa | rc.conf                                  | 19:06:43/22-11-2024 |                                            |
+| 45e6f5b | wifi lagg0                               | 23:27:08/17-11-2024 |                                            |
+| b07ac8c | linux                                    | 19:13:11/26-10-2024 |                                            |
+#+end_quote
 
 ** debian
 *** debian-bin
