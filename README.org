@@ -221,7 +221,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 06372fe | ollama                     | 17:08:14/04-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 17768cb | ollama                     | 11:36:52/06-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 06372fe | ollama                     | 17:08:14/04-05-2026 |                                            |
 | 9bc0fa1 | emacs gptel                | 12:27:54/04-05-2026 |                                            |
 | 29efee5 | emacs gptel gemma4         | 22:40:11/03-05-2026 |                                            |
 | 7e7f83d | removed weechat            | 12:27:08/30-04-2026 |                                            |
@@ -230,7 +231,6 @@ status
 | c0e824b | emacs evil hungry          | 23:50:55/08-04-2026 |                                            |
 | 041c4e0 | emacs setq prot            | 23:27:44/08-04-2026 |                                            |
 | 9c52d77 | emacs settings             | 17:55:11/07-04-2026 |                                            |
-| 3fbe9b1 | emacs mcp                  | 21:15:27/01-04-2026 |                                            |
 #+end_quote
 
 *** debian-root
