@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 073cc449   | ollama debian                | 22:52:24/04-05-2026 | HEAD -> master, github/master, github/HEAD |
-| 397014c7   | freebsd dd                   | 18:40:10/03-05-2026 |                                            |
-| 3efa044f   | unbound dnscrypt-proxy quad9 | 22:44:06/02-05-2026 |                                            |
-| c6f63a3b   | unbound quad9                | 22:41:30/02-05-2026 |                                            |
-| d04e2c3d   | unbound dnscrypt-proxy       | 22:38:30/02-05-2026 |                                            |
-| 173434c8   | unbound                      | 21:07:29/02-05-2026 |                                            |
-| b723ff61   | zfs back up usb drive        | 20:01:32/02-05-2026 |                                            |
-| 8.2999e+89 | poudriere ffmpeg             | 16:29:19/02-05-2026 |                                            |
-| ef8c1f74   | poudriere                    | 16:26:38/02-05-2026 |                                            |
-| d69021e5   | poudriere                    | 15:54:23/02-05-2026 |                                            |
+| d21d7f65 | zfs backup                   | 13:51:39/06-05-2026 | HEAD -> master, github/master, github/HEAD |
+| f5950978 | podman ubuntu                | 11:35:24/06-05-2026 |                                            |
+| 783ef7cd | freebsd mcp-searxng-enhanced | 18:28:28/05-05-2026 |                                            |
+| 52cee970 | emacs mcp                    | 15:56:56/05-05-2026 |                                            |
+| 073cc449 | ollama debian                | 22:52:24/04-05-2026 |                                            |
+| 397014c7 | freebsd dd                   | 18:40:10/03-05-2026 |                                            |
+| 3efa044f | unbound dnscrypt-proxy quad9 | 22:44:06/02-05-2026 |                                            |
+| c6f63a3b | unbound quad9                | 22:41:30/02-05-2026 |                                            |
+| d04e2c3d | unbound dnscrypt-proxy       | 22:38:30/02-05-2026 |                                            |
+| 173434c8 | unbound                      | 21:07:29/02-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
