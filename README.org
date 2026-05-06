@@ -97,7 +97,7 @@ status
 | 3d55a36 | openvpn script working            | 20:26:38/24-04-2026 |                               |
 #+end_quote
 
-**** freebsd-dotfiles-xps
+**** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -119,16 +119,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 9f01628 | obs nvenc                | 23:52:10/05-05-2026 | HEAD -> master, github/master, github/HEAD |
-| c77c07f | emacs                    | 23:40:25/05-05-2026 |                                            |
-| 7347347 | emacs mcp                | 15:54:57/05-05-2026 |                                            |
-| 2108425 | emacs mcp                | 15:18:08/05-05-2026 |                                            |
-| 5cf8702 | emacs mcp                | 21:47:18/04-05-2026 |                                            |
-| c8fd2da | mcp                      | 17:08:29/04-05-2026 |                                            |
-| 2da7f0f | emacs gptel              | 12:26:46/04-05-2026 |                                            |
-| bcb884f | emacs gptel ollama cloud | 22:38:26/03-05-2026 |                                            |
-| e6f3e1a | gemma4                   | 21:34:30/03-05-2026 |                                            |
-| b5d006e | wget                     | 14:42:22/03-05-2026 |                                            |
+| 1a1c6c5 | freebsd xps org refactored | 00:26:17/07-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 9f01628 | obs nvenc                  | 23:52:10/05-05-2026 |                                            |
+| c77c07f | emacs                      | 23:40:25/05-05-2026 |                                            |
+| 7347347 | emacs mcp                  | 15:54:57/05-05-2026 |                                            |
+| 2108425 | emacs mcp                  | 15:18:08/05-05-2026 |                                            |
+| 5cf8702 | emacs mcp                  | 21:47:18/04-05-2026 |                                            |
+| c8fd2da | mcp                        | 17:08:29/04-05-2026 |                                            |
+| 2da7f0f | emacs gptel                | 12:26:46/04-05-2026 |                                            |
+| bcb884f | emacs gptel ollama cloud   | 22:38:26/03-05-2026 |                                            |
+| e6f3e1a | gemma4                     | 21:34:30/03-05-2026 |                                            |
 #+end_quote
 
 **** XPS freebsd-root-xps
@@ -200,7 +200,7 @@ status
 | 70d9038         | trim-clip-to            | 18:09:53/27-07-2025 |                                            |
 #+end_quote
 
-**** freebsd-dotfiles-macbook-air
+**** XPS freebsd-dotfiles-macbook-air
 
 github url
 
@@ -221,6 +221,18 @@ status
 #+end_src
 
 #+RESULTS: freebsd-dotfiles-macbook-air
+#+begin_quote
+| a837876 | freebsd dotfiles macbook air | 00:38:41/07-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c530460 | removed now playing          | 14:15:43/03-07-2025 |                                            |
+| c6f3d9f | emacs exec-path ~/bin        | 23:33:40/17-06-2025 |                                            |
+| a360c60 | dired side window            | 18:31:47/31-05-2025 |                                            |
+| ac2b270 | dired side window            | 14:46:35/31-05-2025 |                                            |
+| e0b4547 | update                       | 14:51:13/28-03-2025 |                                            |
+| b59fbe3 | emacs                        | 20:09:01/15-03-2025 |                                            |
+| 0b55db7 | emacs removed gemini         | 20:01:39/15-03-2025 |                                            |
+| b63c722 | emacs removed yank async     | 17:50:15/09-03-2025 |                                            |
+| e51ecb3 | yt-dlp template              | 21:08:14/03-03-2025 |                                            |
+#+end_quote
 
 **** XPS freebsd-root-macbook-air
 
