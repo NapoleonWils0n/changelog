@@ -188,16 +188,16 @@ status
 
 #+RESULTS: freebsd-bin-macbook-air
 #+begin_quote
-| 3.891e+51       | removed be back up script | 14:41:21/07-05-2026 | HEAD -> master, github/master, github/HEAD |
-| ffb5673         | freebsd bin macbook air   | 23:44:11/06-05-2026 |                                            |
-| cb19519         | freebsd bin macbook air   | 23:43:45/06-05-2026 |                                            |
-| 1692412         | freebsd bin               | 21:10:25/25-04-2026 |                                            |
-| acd4e27         | dash-ffmpeg               | 14:33:20/25-08-2025 |                                            |
-| 13c1660         | dash-ffmpeg               | 12:22:30/25-08-2025 |                                            |
-| 2598300000000.0 | dash ffmpeg               | 18:28:13/23-08-2025 |                                            |
-| 6bc803f         | dash-ffmpeg               | 23:34:40/20-08-2025 |                                            |
-| b06855e         | scene-cut-to              | 20:54:37/06-08-2025 |                                            |
-| 0bb9905         | trim-clip-to              | 15:24:35/03-08-2025 |                                            |
+| 13ed476         | removed dwl rebuild on other machine | 14:44:32/07-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 3.891e+51       | removed be back up script            | 14:41:21/07-05-2026 |                                            |
+| ffb5673         | freebsd bin macbook air              | 23:44:11/06-05-2026 |                                            |
+| cb19519         | freebsd bin macbook air              | 23:43:45/06-05-2026 |                                            |
+| 1692412         | freebsd bin                          | 21:10:25/25-04-2026 |                                            |
+| acd4e27         | dash-ffmpeg                          | 14:33:20/25-08-2025 |                                            |
+| 13c1660         | dash-ffmpeg                          | 12:22:30/25-08-2025 |                                            |
+| 2598300000000.0 | dash ffmpeg                          | 18:28:13/23-08-2025 |                                            |
+| 6bc803f         | dash-ffmpeg                          | 23:34:40/20-08-2025 |                                            |
+| b06855e         | scene-cut-to                         | 20:54:37/06-08-2025 |                                            |
 #+end_quote
 
 **** freebsd-dotfiles-macbook-air
