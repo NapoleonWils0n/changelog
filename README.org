@@ -222,7 +222,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-macbook-air
 #+begin_quote
-| a837876 | freebsd dotfiles macbook air | 00:38:41/07-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 320374c | mpv                          | 01:12:36/07-05-2026 | HEAD -> master, github/master, github/HEAD |
+| a837876 | freebsd dotfiles macbook air | 00:38:41/07-05-2026 |                                            |
 | c530460 | removed now playing          | 14:15:43/03-07-2025 |                                            |
 | c6f3d9f | emacs exec-path ~/bin        | 23:33:40/17-06-2025 |                                            |
 | a360c60 | dired side window            | 18:31:47/31-05-2025 |                                            |
@@ -231,7 +232,6 @@ status
 | b59fbe3 | emacs                        | 20:09:01/15-03-2025 |                                            |
 | 0b55db7 | emacs removed gemini         | 20:01:39/15-03-2025 |                                            |
 | b63c722 | emacs removed yank async     | 17:50:15/09-03-2025 |                                            |
-| e51ecb3 | yt-dlp template              | 21:08:14/03-03-2025 |                                            |
 #+end_quote
 
 **** XPS freebsd-root-macbook-air
