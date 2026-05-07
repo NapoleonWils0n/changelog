@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -97,7 +97,7 @@ status
 | 3d55a36 | openvpn script working            | 20:26:38/24-04-2026 |                               |
 #+end_quote
 
-**** XPS freebsd-dotfiles-xps
+**** freebsd-dotfiles-xps
 
 github url
 
@@ -131,7 +131,7 @@ status
 | e6f3e1a | gemma4                     | 21:34:30/03-05-2026 |                                            |
 #+end_quote
 
-**** XPS freebsd-root-xps
+**** freebsd-root-xps
 
 github url
 
@@ -166,7 +166,7 @@ status
 #+end_quote
 
 *** macbook-air
-**** XPS freebsd-bin-macbook-air
+**** freebsd-bin-macbook-air
 
 github url
 
@@ -200,7 +200,7 @@ status
 | 70d9038         | trim-clip-to            | 18:09:53/27-07-2025 |                                            |
 #+end_quote
 
-**** XPS freebsd-dotfiles-macbook-air
+**** freebsd-dotfiles-macbook-air
 
 github url
 
@@ -234,7 +234,7 @@ status
 | b63c722 | emacs removed yank async     | 17:50:15/09-03-2025 |                                            |
 #+end_quote
 
-**** XPS freebsd-root-macbook-air
+**** freebsd-root-macbook-air
 
 github url
 
