@@ -256,7 +256,8 @@ status
 
 #+RESULTS: freebsd-root-macbook-air
 #+begin_quote
-| add6d0b | mac                          | 14:40:43/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| aa3ba60 | lcd                          | 15:42:11/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| add6d0b | mac                          | 14:40:43/08-05-2026 |                                            |
 | 7138dc1 | mac                          | 23:15:17/07-05-2026 |                                            |
 | 9a9f9fa | macbook air touchpad working | 20:41:13/07-05-2026 |                                            |
 | 6dc8195 | removed pkg repo             | 18:12:49/07-05-2026 |                                            |
@@ -265,7 +266,6 @@ status
 | 1b81685 | freebsd macbook air          | 23:39:56/06-05-2026 |                                            |
 | c4a94d2 | rc.conf                      | 14:46:36/17-04-2025 |                                            |
 | 06c4ab5 | virtual oss                  | 20:18:57/04-01-2025 |                                            |
-| ac39e53 | lagg tangle permissions      | 19:46:46/28-11-2024 |                                            |
 #+end_quote
 
 ** debian
