@@ -303,7 +303,7 @@ status
 | ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -325,16 +325,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| a8bfc61 | debian                     | 18:40:07/06-05-2026 | HEAD -> master, github/master, github/HEAD |
-| f25ba12 | debian dotfiles            | 18:17:27/06-05-2026 |                                            |
-| 17768cb | ollama                     | 11:36:52/06-05-2026 |                                            |
-| 06372fe | ollama                     | 17:08:14/04-05-2026 |                                            |
-| 9bc0fa1 | emacs gptel                | 12:27:54/04-05-2026 |                                            |
-| 29efee5 | emacs gptel gemma4         | 22:40:11/03-05-2026 |                                            |
-| 7e7f83d | removed weechat            | 12:27:08/30-04-2026 |                                            |
-| 4f215c2 | podman removed n8n craw4ai | 18:33:32/11-04-2026 |                                            |
-| 399361  | gptel temprature default   | 18:35:07/10-04-2026 |                                            |
-| c0e824b | emacs evil hungry          | 23:50:55/08-04-2026 |                                            |
+| 8602158 | debian doomode line now playing slot fix | 22:03:34/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| a8bfc61 | debian                                   | 18:40:07/06-05-2026 |                                            |
+| f25ba12 | debian dotfiles                          | 18:17:27/06-05-2026 |                                            |
+| 17768cb | ollama                                   | 11:36:52/06-05-2026 |                                            |
+| 06372fe | ollama                                   | 17:08:14/04-05-2026 |                                            |
+| 9bc0fa1 | emacs gptel                              | 12:27:54/04-05-2026 |                                            |
+| 29efee5 | emacs gptel gemma4                       | 22:40:11/03-05-2026 |                                            |
+| 7e7f83d | removed weechat                          | 12:27:08/30-04-2026 |                                            |
+| 4f215c2 | podman removed n8n craw4ai               | 18:33:32/11-04-2026 |                                            |
+| 399361  | gptel temprature default                 | 18:35:07/10-04-2026 |                                            |
 #+end_quote
 
 *** debian-root
