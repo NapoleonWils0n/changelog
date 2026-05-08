@@ -325,7 +325,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 8602158 | debian doomode line now playing slot fix | 22:03:34/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 7cc1a73 | xdg-open                                 | 22:38:22/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 8602158 | debian doomode line now playing slot fix | 22:03:34/08-05-2026 |                                            |
 | a8bfc61 | debian                                   | 18:40:07/06-05-2026 |                                            |
 | f25ba12 | debian dotfiles                          | 18:17:27/06-05-2026 |                                            |
 | 17768cb | ollama                                   | 11:36:52/06-05-2026 |                                            |
@@ -334,7 +335,6 @@ status
 | 29efee5 | emacs gptel gemma4                       | 22:40:11/03-05-2026 |                                            |
 | 7e7f83d | removed weechat                          | 12:27:08/30-04-2026 |                                            |
 | 4f215c2 | podman removed n8n craw4ai               | 18:33:32/11-04-2026 |                                            |
-| 399361  | gptel temprature default                 | 18:35:07/10-04-2026 |                                            |
 #+end_quote
 
 *** debian-root
