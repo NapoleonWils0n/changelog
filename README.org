@@ -119,7 +119,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 1.0e+INF | chromium vpn desktop                       | 22:14:37/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c29790f  | org mode xdg open                          | 22:31:43/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 1.0e+INF | chromium vpn desktop                       | 22:14:37/08-05-2026 |                                            |
 | 311866e  | doom-modeline now playing invalid slot fix | 18:34:51/08-05-2026 |                                            |
 | 000ab57  | dwl                                        | 17:54:13/08-05-2026 |                                            |
 | 1a1c6c5  | freebsd xps org refactored                 | 00:26:17/07-05-2026 |                                            |
@@ -128,7 +129,6 @@ status
 | 7347347  | emacs mcp                                  | 15:54:57/05-05-2026 |                                            |
 | 2108425  | emacs mcp                                  | 15:18:08/05-05-2026 |                                            |
 | 5cf8702  | emacs mcp                                  | 21:47:18/04-05-2026 |                                            |
-| c8fd2da  | mcp                                        | 17:08:29/04-05-2026 |                                            |
 #+end_quote
 
 **** freebsd-root-xps
@@ -222,7 +222,9 @@ status
 
 #+RESULTS: freebsd-dotfiles-macbook-air
 #+begin_quote
-| 90d44a5 | doom-modeline now-playing invalid slot fix | 18:35:49/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 72cf10c | vpn chromium                               | 22:34:05/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| f0e099c | org mode xdg open                          | 22:32:33/08-05-2026 |                                            |
+| 90d44a5 | doom-modeline now-playing invalid slot fix | 18:35:49/08-05-2026 |                                            |
 | d4e8304 | mpv dwl                                    | 18:09:08/08-05-2026 |                                            |
 | e225354 | gptel-tools                                | 16:00:56/08-05-2026 |                                            |
 | 0e47d11 | tangled files                              | 16:01:17/07-05-2026 |                                            |
@@ -230,8 +232,6 @@ status
 | a837876 | freebsd dotfiles macbook air               | 00:38:41/07-05-2026 |                                            |
 | c530460 | removed now playing                        | 14:15:43/03-07-2025 |                                            |
 | c6f3d9f | emacs exec-path ~/bin                      | 23:33:40/17-06-2025 |                                            |
-| a360c60 | dired side window                          | 18:31:47/31-05-2025 |                                            |
-| ac2b270 | dired side window                          | 14:46:35/31-05-2025 |                                            |
 #+end_quote
 
 **** XPS freebsd-root-macbook-air
