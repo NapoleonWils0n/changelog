@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -63,7 +63,7 @@ git status
 
 ** freebsd
 *** dell-xps
-**** XPS freebsd-bin-xps
+**** freebsd-bin-xps
 
 github url
 
@@ -97,7 +97,7 @@ status
 | d0fd4a1 | open vpn script                   | 20:31:25/24-04-2026 |                               |
 #+end_quote
 
-**** XPS freebsd-dotfiles-xps
+**** freebsd-dotfiles-xps
 
 github url
 
@@ -131,7 +131,7 @@ status
 | 2108425  | emacs mcp                                  | 15:18:08/05-05-2026 |                                            |
 #+end_quote
 
-**** XPS freebsd-root-xps
+**** freebsd-root-xps
 
 github url
 
@@ -166,7 +166,7 @@ status
 #+end_quote
 
 *** macbook-air
-**** XPS freebsd-bin-macbook-air
+**** freebsd-bin-macbook-air
 
 github url
 
@@ -200,7 +200,7 @@ status
 | 6bc803f         | dash-ffmpeg                          | 23:34:40/20-08-2025 |                                            |
 #+end_quote
 
-**** XPS freebsd-dotfiles-macbook-air
+**** freebsd-dotfiles-macbook-air
 
 github url
 
@@ -234,7 +234,7 @@ status
 | c6f3d9f | emacs exec-path ~/bin                      | 23:33:40/17-06-2025 |                                            |
 #+end_quote
 
-**** XPS freebsd-root-macbook-air
+**** freebsd-root-macbook-air
 
 github url
 
@@ -303,7 +303,7 @@ status
 | ffeaa2f | unicast                 | 21:28:40/09-03-2026 |                                            |
 #+end_quote
 
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
