@@ -119,7 +119,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c29790f  | org mode xdg open                          | 22:31:43/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 577d669  | granite4                                   | 10:49:44/09-05-2026 | HEAD -> master, github/master, github/HEAD |
+| c29790f  | org mode xdg open                          | 22:31:43/08-05-2026 |                                            |
 | 1.0e+INF | chromium vpn desktop                       | 22:14:37/08-05-2026 |                                            |
 | 311866e  | doom-modeline now playing invalid slot fix | 18:34:51/08-05-2026 |                                            |
 | 000ab57  | dwl                                        | 17:54:13/08-05-2026 |                                            |
@@ -128,10 +129,9 @@ status
 | c77c07f  | emacs                                      | 23:40:25/05-05-2026 |                                            |
 | 7347347  | emacs mcp                                  | 15:54:57/05-05-2026 |                                            |
 | 2108425  | emacs mcp                                  | 15:18:08/05-05-2026 |                                            |
-| 5cf8702  | emacs mcp                                  | 21:47:18/04-05-2026 |                                            |
 #+end_quote
 
-**** freebsd-root-xps
+**** XPS freebsd-root-xps
 
 github url
 
@@ -153,7 +153,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 7386de0 | refactored                  | 22:10:14/06-05-2026 | HEAD -> master, github/master |
+| 9cecedc | dns                         | 10:51:43/09-05-2026 | HEAD -> master, github/master |
+| 7386de0 | refactored                  | 22:10:14/06-05-2026 |                               |
 | 7718054 | freebsd-root-xps refactored | 21:56:52/06-05-2026 |                               |
 | 18a2561 | doas podman                 | 15:58:49/05-05-2026 |                               |
 | 0a94dea | disable core dumps          | 23:35:03/01-05-2026 |                               |
@@ -162,7 +163,6 @@ status
 | 7a68e70 | root                        | 22:59:42/01-05-2026 |                               |
 | 0345f3e | unbound                     | 21:38:35/01-05-2026 |                               |
 | e2b845c | unbound quad9               | 21:31:04/01-05-2026 |                               |
-| 1195602 | unbound quad9               | 21:01:46/01-05-2026 |                               |
 #+end_quote
 
 *** macbook-air
@@ -256,7 +256,8 @@ status
 
 #+RESULTS: freebsd-root-macbook-air
 #+begin_quote
-| aa3ba60 | lcd                          | 15:42:11/08-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 2d72d43 | cache                        | 10:52:35/09-05-2026 | HEAD -> master, github/master, github/HEAD |
+| aa3ba60 | lcd                          | 15:42:11/08-05-2026 |                                            |
 | add6d0b | mac                          | 14:40:43/08-05-2026 |                                            |
 | 7138dc1 | mac                          | 23:15:17/07-05-2026 |                                            |
 | 9a9f9fa | macbook air touchpad working | 20:41:13/07-05-2026 |                                            |
@@ -265,7 +266,6 @@ status
 | 6dec498 | alfa address                 | 14:30:16/07-05-2026 |                                            |
 | 1b81685 | freebsd macbook air          | 23:39:56/06-05-2026 |                                            |
 | c4a94d2 | rc.conf                      | 14:46:36/17-04-2025 |                                            |
-| 06c4ab5 | virtual oss                  | 20:18:57/04-01-2025 |                                            |
 #+end_quote
 
 ** debian
