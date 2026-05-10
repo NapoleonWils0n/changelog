@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| a91cd0f | removed back up script            | 14:40:50/07-05-2026 | HEAD -> master, github/master |
+| 155b614 | mcp                               | 18:51:13/10-05-2026 | HEAD -> master, github/master |
+| a91cd0f | removed back up script            | 14:40:50/07-05-2026 |                               |
 | 0f3faf3 | mcp-searxng-enhanced              | 15:19:48/05-05-2026 |                               |
 | 4d8e450 | loopback-oss                      | 22:48:12/03-05-2026 |                               |
 | 22e0ed1 | dwl                               | 21:48:08/01-05-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 2ac21ce | adding new version                | 20:05:01/27-04-2026 |                               |
 | d742994 | whisper-cli                       | 17:40:40/27-04-2026 |                               |
 | 5975828 | ossuary new version               | 20:09:44/25-04-2026 |                               |
-| d0fd4a1 | open vpn script                   | 20:31:25/24-04-2026 |                               |
 #+end_quote
 
 *** freebsd-dotfiles-xps
