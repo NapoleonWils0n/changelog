@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0cd151ac | unound root.key              | 18:41:53/07-05-2026 | HEAD -> master, github/master, github/HEAD |
-| 5e3de8da | unbound                      | 18:26:36/07-05-2026 |                                            |
-| 1fede344 | prime list macbook air       | 19:45:31/06-05-2026 |                                            |
-| 0ec4f6af | kld list                     | 19:40:32/06-05-2026 |                                            |
-| 3ebd9d00 | freebsd macbook air          | 19:29:54/06-05-2026 |                                            |
-| 8a80a14f | debian swappiness            | 16:08:00/06-05-2026 |                                            |
-| e4b42238 | debian wifi                  | 16:03:16/06-05-2026 |                                            |
-| d21d7f65 | zfs backup                   | 13:51:39/06-05-2026 |                                            |
-| f5950978 | podman ubuntu                | 11:35:24/06-05-2026 |                                            |
-| 783ef7cd | freebsd mcp-searxng-enhanced | 18:28:28/05-05-2026 |                                            |
+| c5bb88ad | transribe-audio        | 00:11:54/11-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 0cd151ac | unound root.key        | 18:41:53/07-05-2026 |                                            |
+| 5e3de8da | unbound                | 18:26:36/07-05-2026 |                                            |
+| 1fede344 | prime list macbook air | 19:45:31/06-05-2026 |                                            |
+| 0ec4f6af | kld list               | 19:40:32/06-05-2026 |                                            |
+| 3ebd9d00 | freebsd macbook air    | 19:29:54/06-05-2026 |                                            |
+| 8a80a14f | debian swappiness      | 16:08:00/06-05-2026 |                                            |
+| e4b42238 | debian wifi            | 16:03:16/06-05-2026 |                                            |
+| d21d7f65 | zfs backup             | 13:51:39/06-05-2026 |                                            |
+| f5950978 | podman ubuntu          | 11:35:24/06-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
