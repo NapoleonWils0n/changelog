@@ -152,7 +152,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| f792c25 | devfs.rules                 | 22:14:57/12-05-2026 | HEAD -> master, github/master |
+| 1d1df53 | podman devfs.rules          | 22:23:33/12-05-2026 | HEAD -> master, github/master |
+| f792c25 | devfs.rules                 | 22:14:57/12-05-2026 |                               |
 | fe0405a | removed wsp                 | 16:04:35/10-05-2026 |                               |
 | 9cecedc | dns                         | 10:51:43/09-05-2026 |                               |
 | 7386de0 | refactored                  | 22:10:14/06-05-2026 |                               |
@@ -161,7 +162,6 @@ status
 | 0a94dea | disable core dumps          | 23:35:03/01-05-2026 |                               |
 | 8d6664c | dump                        | 23:33:02/01-05-2026 |                               |
 | a7f151c | disable coredumps           | 23:21:50/01-05-2026 |                               |
-| 7a68e70 | root                        | 22:59:42/01-05-2026 |                               |
 #+end_quote
 
 ** debian
