@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c98ee946 | freebsd rocky linux podman cuda | 19:00:26/13-05-2026 | HEAD -> master, github/master, github/HEAD |
+| a508b2b2 | freebsd podman ffmpeg nvenc     | 21:50:45/14-05-2026 | HEAD -> master, github/master, github/HEAD |
+| e9f601ff | freebsd podman nvenc encoding   | 21:44:30/14-05-2026 |                                            |
+| c98ee946 | freebsd rocky linux podman cuda | 19:00:26/13-05-2026 |                                            |
 | 825a15b5 | whisper-cpp                     | 00:19:05/12-05-2026 |                                            |
 | 8bf3e5e3 | whisper-cpp                     | 22:26:22/11-05-2026 |                                            |
 | 335eb055 | whisper-cli                     | 22:25:28/11-05-2026 |                                            |
@@ -57,8 +59,6 @@ git status
 | 1961cbd0 | whisper-cli                     | 22:09:46/11-05-2026 |                                            |
 | 33c5ad60 | whisper-cpp                     | 19:01:43/11-05-2026 |                                            |
 | d5967d13 | whisper-cpp                     | 17:35:29/11-05-2026 |                                            |
-| c5bb88ad | transribe-audio                 | 00:11:54/11-05-2026 |                                            |
-| 0cd151ac | unound root.key                 | 18:41:53/07-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
