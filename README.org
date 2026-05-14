@@ -96,7 +96,7 @@ status
 | 31cfc9a  | whisper                   | 00:10:25/11-05-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 577d669  | granite4                                   | 10:49:44/09-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 6304a09  | pulseaudio                                 | 22:00:48/14-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 577d669  | granite4                                   | 10:49:44/09-05-2026 |                                            |
 | c29790f  | org mode xdg open                          | 22:31:43/08-05-2026 |                                            |
 | 1.0e+INF | chromium vpn desktop                       | 22:14:37/08-05-2026 |                                            |
 | 311866e  | doom-modeline now playing invalid slot fix | 18:34:51/08-05-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 9f01628  | obs nvenc                                  | 23:52:10/05-05-2026 |                                            |
 | c77c07f  | emacs                                      | 23:40:25/05-05-2026 |                                            |
 | 7347347  | emacs mcp                                  | 15:54:57/05-05-2026 |                                            |
-| 2108425  | emacs mcp                                  | 15:18:08/05-05-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
