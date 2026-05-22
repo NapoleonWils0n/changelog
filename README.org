@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a508b2b2 | freebsd podman ffmpeg nvenc     | 21:50:45/14-05-2026 | HEAD -> master, github/master, github/HEAD |
+| 8184dfe7 | zfs snapshot                    | 15:00:50/17-05-2026 | HEAD -> master, github/master, github/HEAD |
+| a508b2b2 | freebsd podman ffmpeg nvenc     | 21:50:45/14-05-2026 |                                            |
 | e9f601ff | freebsd podman nvenc encoding   | 21:44:30/14-05-2026 |                                            |
 | c98ee946 | freebsd rocky linux podman cuda | 19:00:26/13-05-2026 |                                            |
 | 825a15b5 | whisper-cpp                     | 00:19:05/12-05-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 947172ef | whisper-cli                     | 22:23:12/11-05-2026 |                                            |
 | 1961cbd0 | whisper-cli                     | 22:09:46/11-05-2026 |                                            |
 | 33c5ad60 | whisper-cpp                     | 19:01:43/11-05-2026 |                                            |
-| d5967d13 | whisper-cpp                     | 17:35:29/11-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -96,7 +96,7 @@ status
 | 31cfc9a  | whisper                   | 00:10:25/11-05-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 000ab57  | dwl                                        | 17:54:13/08-05-2026 |                                            |
 #+end_quote
 
-*** XPS freebsd-root-xps
+*** freebsd-root-xps
 
 github url
 
