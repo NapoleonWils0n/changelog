@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 083a9c4  | wrapper-freebsd podman    | 17:24:31/26-05-2026 | HEAD -> master, github/master |
+| bbe49ce  | kokoro                    | 23:38:56/02-06-2026 | HEAD -> master, github/master |
+| 083a9c4  | wrapper-freebsd podman    | 17:24:31/26-05-2026 |                               |
 | 0c44a23  | mcp                       | 13:23:11/12-05-2026 |                               |
 | 6cc060e  | transcribe-audio          | 00:19:20/12-05-2026 |                               |
 | 6.89e+21 | transcribe-audio          | 22:25:57/11-05-2026 |                               |
@@ -93,7 +94,6 @@ status
 | ebfda58  | gitignore                 | 17:41:16/11-05-2026 |                               |
 | 4ae6c42  | ignore whisper-cli binary | 17:40:26/11-05-2026 |                               |
 | 9b230c2  | removed                   | 17:31:05/11-05-2026 |                               |
-| d7381d7  | whisper                   | 16:04:20/11-05-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
