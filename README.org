@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 06ea8b43 | unbound adblocking              | 12:27:36/08-06-2026 | HEAD -> master, github/master, github/HEAD |
-| 1447dc36 | comfyui                         | 16:18:31/04-06-2026 |                                            |
-| 125ea9b7 | ollama                          | 16:02:41/29-05-2026 |                                            |
-| 73cadcd9 | gemma4                          | 16:01:58/29-05-2026 |                                            |
-| de15030a | podman volumes                  | 22:57:48/25-05-2026 |                                            |
-| 8184dfe7 | zfs snapshot                    | 15:00:50/17-05-2026 |                                            |
-| a508b2b2 | freebsd podman ffmpeg nvenc     | 21:50:45/14-05-2026 |                                            |
-| e9f601ff | freebsd podman nvenc encoding   | 21:44:30/14-05-2026 |                                            |
-| c98ee946 | freebsd rocky linux podman cuda | 19:00:26/13-05-2026 |                                            |
-| 825a15b5 | whisper-cpp                     | 00:19:05/12-05-2026 |                                            |
+| 0eaa0681 | bhyve                 | 21:04:41/08-06-2026 | HEAD -> master, github/master, github/HEAD |
+| ab6f0c38 | invidious             | 17:22:19/08-06-2026 |                                            |
+| 8095b6f7 | invidious             | 17:21:55/08-06-2026 |                                            |
+| aafba9a3 | invidious channel fix | 17:03:17/08-06-2026 |                                            |
+| f3618f60 | port                  | 16:48:34/08-06-2026 |                                            |
+| cf054d75 | invidious             | 15:40:04/08-06-2026 |                                            |
+| 1.0e+INF | invidious             | 15:38:52/08-06-2026 |                                            |
+| 06ea8b43 | unbound adblocking    | 12:27:36/08-06-2026 |                                            |
+| 1447dc36 | comfyui               | 16:18:31/04-06-2026 |                                            |
+| 125ea9b7 | ollama                | 16:02:41/29-05-2026 |                                            |
 #+end_quote
 
 ** freebsd
