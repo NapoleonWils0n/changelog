@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 4a94a06 | mpv                         | 16:21:46/08-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 1d9b6f0 | mpv                         | 16:23:14/08-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 4a94a06 | mpv                         | 16:21:46/08-06-2026 |                                            |
 | f32a900 | zshenv                      | 15:52:32/29-05-2026 |                                            |
 | d6e8f7f | gemma4-text                 | 15:46:36/29-05-2026 |                                            |
 | b60686f | ollma commented out         | 14:22:12/27-05-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | e843012 | pulse                       | 13:24:57/16-05-2026 |                                            |
 | 6a405be | pulseaudio                  | 13:15:27/16-05-2026 |                                            |
 | 6304a09 | pulseaudio                  | 22:00:48/14-05-2026 |                                            |
-| 577d669 | granite4                    | 10:49:44/09-05-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
