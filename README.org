@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| af33f51 | tramp               | 23:31:56/10-06-2026 | HEAD -> master, github/master, github/HEAD |
-| 425a743 | emacs docker        | 23:03:38/10-06-2026 |                                            |
-| 668817a | compile             | 19:56:24/10-06-2026 |                                            |
-| 5bbc81d | ollama              | 15:17:56/10-06-2026 |                                            |
-| d54e9cb | searxng             | 21:58:10/08-06-2026 |                                            |
-| 1d9b6f0 | mpv                 | 16:23:14/08-06-2026 |                                            |
-| 4a94a06 | mpv                 | 16:21:46/08-06-2026 |                                            |
-| f32a900 | zshenv              | 15:52:32/29-05-2026 |                                            |
-| d6e8f7f | gemma4-text         | 15:46:36/29-05-2026 |                                            |
-| b60686f | ollma commented out | 14:22:12/27-05-2026 |                                            |
+| 16fb131 | bookmarks    | 00:24:25/11-06-2026 | HEAD -> master, github/master, github/HEAD |
+| af33f51 | tramp        | 23:31:56/10-06-2026 |                                            |
+| 425a743 | emacs docker | 23:03:38/10-06-2026 |                                            |
+| 668817a | compile      | 19:56:24/10-06-2026 |                                            |
+| 5bbc81d | ollama       | 15:17:56/10-06-2026 |                                            |
+| d54e9cb | searxng      | 21:58:10/08-06-2026 |                                            |
+| 1d9b6f0 | mpv          | 16:23:14/08-06-2026 |                                            |
+| 4a94a06 | mpv          | 16:21:46/08-06-2026 |                                            |
+| f32a900 | zshenv       | 15:52:32/29-05-2026 |                                            |
+| d6e8f7f | gemma4-text  | 15:46:36/29-05-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
