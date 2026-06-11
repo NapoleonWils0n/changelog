@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b3e85c6c | ollama                 | 20:37:01/11-06-2026 | HEAD -> master, github/master, github/HEAD |
+| c1ef2789 | ollama unsloth         | 23:19:39/11-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 78083708 | ollama                 | 22:54:31/11-06-2026 |                                            |
+| de19e300 | ollama                 | 22:42:51/11-06-2026 |                                            |
+| b3e85c6c | ollama                 | 20:37:01/11-06-2026 |                                            |
 | b5ed8774 | ollama                 | 19:50:52/11-06-2026 |                                            |
 | 44d63fa1 | ollama gemma4 qat gguf | 19:38:06/11-06-2026 |                                            |
 | c8dacd20 | linger                 | 21:11:38/10-06-2026 |                                            |
 | f1786c22 | bhyve                  | 18:04:15/10-06-2026 |                                            |
 | 0eaa0681 | bhyve                  | 21:04:41/08-06-2026 |                                            |
 | ab6f0c38 | invidious              | 17:22:19/08-06-2026 |                                            |
-| 8095b6f7 | invidious              | 17:21:55/08-06-2026 |                                            |
-| aafba9a3 | invidious channel fix  | 17:03:17/08-06-2026 |                                            |
-| f3618f60 | port                   | 16:48:34/08-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
