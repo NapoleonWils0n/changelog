@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0f31935e | zfs snapshot           | 00:50:11/12-06-2026 | HEAD -> master, github/master, github/HEAD |
+| f2d9214f | ollama modefiles       | 14:00:19/12-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 00c85665 | ollama modefiles       | 13:59:57/12-06-2026 |                                            |
+| 0f31935e | zfs snapshot           | 00:50:11/12-06-2026 |                                            |
 | ba0460be | gemma4-unsloth-text    | 23:59:18/11-06-2026 |                                            |
 | c1ef2789 | ollama unsloth         | 23:19:39/11-06-2026 |                                            |
 | 78083708 | ollama                 | 22:54:31/11-06-2026 |                                            |
@@ -57,8 +59,6 @@ git status
 | b3e85c6c | ollama                 | 20:37:01/11-06-2026 |                                            |
 | b5ed8774 | ollama                 | 19:50:52/11-06-2026 |                                            |
 | 44d63fa1 | ollama gemma4 qat gguf | 19:38:06/11-06-2026 |                                            |
-| c8dacd20 | linger                 | 21:11:38/10-06-2026 |                                            |
-| f1786c22 | bhyve                  | 18:04:15/10-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 274bdbf | gemma4-unsloth-text    | 00:36:15/12-06-2026 | HEAD -> master, github/master, github/HEAD |
+| d1bd514 | ollama modefiles       | 14:02:42/12-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 274bdbf | gemma4-unsloth-text    | 00:36:15/12-06-2026 |                                            |
 | 82ba4f8 | ollama                 | 21:00:22/11-06-2026 |                                            |
 | 198678d | ollama                 | 20:53:06/11-06-2026 |                                            |
 | 3b1d996 | ollama                 | 20:50:12/11-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 16fb131 | bookmarks              | 00:24:25/11-06-2026 |                                            |
 | af33f51 | tramp                  | 23:31:56/10-06-2026 |                                            |
 | 425a743 | emacs docker           | 23:03:38/10-06-2026 |                                            |
-| 668817a | compile                | 19:56:24/10-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
