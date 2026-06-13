@@ -96,7 +96,7 @@ status
 | ebfda58  | gitignore              | 17:41:16/11-05-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| d1bd514 | ollama modefiles       | 14:02:42/12-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 947f33e | mpv invidious.lua      | 19:00:59/13-06-2026 | HEAD -> master, github/master, github/HEAD |
+| d1bd514 | ollama modefiles       | 14:02:42/12-06-2026 |                                            |
 | 274bdbf | gemma4-unsloth-text    | 00:36:15/12-06-2026 |                                            |
 | 82ba4f8 | ollama                 | 21:00:22/11-06-2026 |                                            |
 | 198678d | ollama                 | 20:53:06/11-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | e1c2d84 | makefiles              | 00:58:52/11-06-2026 |                                            |
 | 16fb131 | bookmarks              | 00:24:25/11-06-2026 |                                            |
 | af33f51 | tramp                  | 23:31:56/10-06-2026 |                                            |
-| 425a743 | emacs docker           | 23:03:38/10-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
