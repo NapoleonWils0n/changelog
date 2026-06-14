@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 022168a | emacs hydra mpv        | 14:31:40/14-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 9905ebd | emacs mpv              | 18:17:06/14-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 022168a | emacs hydra mpv        | 14:31:40/14-06-2026 |                                            |
 | c4a4875 | emacs bookmark         | 19:14:45/13-06-2026 |                                            |
 | 947f33e | mpv invidious.lua      | 19:00:59/13-06-2026 |                                            |
 | d1bd514 | ollama modefiles       | 14:02:42/12-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 198678d | ollama                 | 20:53:06/11-06-2026 |                                            |
 | 3b1d996 | ollama                 | 20:50:12/11-06-2026 |                                            |
 | 3efaacc | ollama gemma4 qat gguf | 19:32:25/11-06-2026 |                                            |
-| e1c2d84 | makefiles              | 00:58:52/11-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
@@ -199,7 +199,7 @@ status
 | ff295a1 | yt-dlp                  | 13:41:45/18-03-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -221,7 +221,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 8398483 | emacs                                    | 14:25:51/12-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 3461c1d | emacs mpv                                | 18:18:54/14-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 8398483 | emacs                                    | 14:25:51/12-06-2026 |                                            |
 | 7cc1a73 | xdg-open                                 | 22:38:22/08-05-2026 |                                            |
 | 8602158 | debian doomode line now playing slot fix | 22:03:34/08-05-2026 |                                            |
 | a8bfc61 | debian                                   | 18:40:07/06-05-2026 |                                            |
@@ -230,7 +231,6 @@ status
 | 06372fe | ollama                                   | 17:08:14/04-05-2026 |                                            |
 | 9bc0fa1 | emacs gptel                              | 12:27:54/04-05-2026 |                                            |
 | 29efee5 | emacs gptel gemma4                       | 22:40:11/03-05-2026 |                                            |
-| 7e7f83d | removed weechat                          | 12:27:08/30-04-2026 |                                            |
 #+end_quote
 
 *** debian-root
