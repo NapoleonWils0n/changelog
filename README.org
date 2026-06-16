@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 96d8b3e9 | freebsd 15-1 upgrade      | 19:45:56/16-06-2026 | HEAD -> master, github/master, github/HEAD |
-| 5cdff4b2 | bhyve vm invidious        | 00:05:43/16-06-2026 |                                            |
-| 08a886fa | invidious bhyve           | 20:50:03/15-06-2026 |                                            |
-| 4deccc40 | vm setup                  | 19:27:50/15-06-2026 |                                            |
-| b527166e | templates                 | 19:12:56/15-06-2026 |                                            |
-| b36b5197 | templates                 | 19:12:12/15-06-2026 |                                            |
-| 0da04ae4 | templates                 | 19:01:24/15-06-2026 |                                            |
-| 6cea0437 | zfs                       | 18:58:17/15-06-2026 |                                            |
-| 5341ee6d | invidious                 | 16:03:26/15-06-2026 |                                            |
-| 8bab2cd7 | zfs destroy all snapshots | 13:28:04/15-06-2026 |                                            |
+| 3e4dfd77 | frebsd upgrade       | 19:49:25/16-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 96d8b3e9 | freebsd 15-1 upgrade | 19:45:56/16-06-2026 |                                            |
+| 5cdff4b2 | bhyve vm invidious   | 00:05:43/16-06-2026 |                                            |
+| 08a886fa | invidious bhyve      | 20:50:03/15-06-2026 |                                            |
+| 4deccc40 | vm setup             | 19:27:50/15-06-2026 |                                            |
+| b527166e | templates            | 19:12:56/15-06-2026 |                                            |
+| b36b5197 | templates            | 19:12:12/15-06-2026 |                                            |
+| 0da04ae4 | templates            | 19:01:24/15-06-2026 |                                            |
+| 6cea0437 | zfs                  | 18:58:17/15-06-2026 |                                            |
+| 5341ee6d | invidious            | 16:03:26/15-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
