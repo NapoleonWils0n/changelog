@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 0cb94a4a | freebsd upgrade      | 20:31:58/16-06-2026 | HEAD -> master, github/master, github/HEAD |
+| f19c7c47 | freebsd upgrade      | 20:38:31/16-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 0cb94a4a | freebsd upgrade      | 20:31:58/16-06-2026 |                                            |
 | 405d86e2 | freebsd upgrade      | 20:30:33/16-06-2026 |                                            |
 | 3e4dfd77 | frebsd upgrade       | 19:49:25/16-06-2026 |                                            |
 | 96d8b3e9 | freebsd 15-1 upgrade | 19:45:56/16-06-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 4deccc40 | vm setup             | 19:27:50/15-06-2026 |                                            |
 | b527166e | templates            | 19:12:56/15-06-2026 |                                            |
 | b36b5197 | templates            | 19:12:12/15-06-2026 |                                            |
-| 0da04ae4 | templates            | 19:01:24/15-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
