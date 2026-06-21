@@ -118,7 +118,9 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| a0f32bd | pkg prime-list                                        | 19:36:52/20-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 52be0f5 | emacs-whisper-cpp                                     | 16:06:14/21-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 3ea1ba2 | kokoro-onnx makefile                                  | 20:41:39/20-06-2026 |                                            |
+| a0f32bd | pkg prime-list                                        | 19:36:52/20-06-2026 |                                            |
 | a256e14 | ollama makefile                                       | 15:08:39/20-06-2026 |                                            |
 | 40c41d1 | ollama makefile                                       | 17:58:20/19-06-2026 |                                            |
 | 07b1f7f | wlr-which-key emacs rewrite youtube urls to invidious | 19:47:08/14-06-2026 |                                            |
@@ -126,8 +128,6 @@ status
 | 9905ebd | emacs mpv                                             | 18:17:06/14-06-2026 |                                            |
 | 022168a | emacs hydra mpv                                       | 14:31:40/14-06-2026 |                                            |
 | c4a4875 | emacs bookmark                                        | 19:14:45/13-06-2026 |                                            |
-| 947f33e | mpv invidious.lua                                     | 19:00:59/13-06-2026 |                                            |
-| d1bd514 | ollama modefiles                                      | 14:02:42/12-06-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
