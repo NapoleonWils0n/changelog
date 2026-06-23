@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 05b85869       | freebsd upgrade        | 13:57:33/18-06-2026 | HEAD -> master, github/master, github/HEAD |
-| 0a9c52a3       | freebsd 15-1 poudrire  | 23:08:30/17-06-2026 |                                            |
-| f3e9b2c8       | freebsd poudriere      | 20:19:54/17-06-2026 |                                            |
-| 824115000000.0 | frebsd poudriere       | 20:19:07/17-06-2026 |                                            |
-| 9fd3ead3       | freebsd 15-1           | 19:55:11/17-06-2026 |                                            |
-| a78663c1       | freebsd 15-1           | 19:30:43/17-06-2026 |                                            |
-| 8a24166a       | freebsd 15-1           | 19:19:10/17-06-2026 |                                            |
-| 47df03a9       | freebsd 15-1 poudriere | 19:17:12/17-06-2026 |                                            |
-| a98a9afe       | freebsd 15-1 poudriere | 19:08:43/17-06-2026 |                                            |
-| abf62c18       | upgrade                | 18:42:55/17-06-2026 |                                            |
+| 290a6858       | emacs whisper with ffmpeg and rnnoise | 20:41:24/23-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 05b85869       | freebsd upgrade                       | 13:57:33/18-06-2026 |                                            |
+| 0a9c52a3       | freebsd 15-1 poudrire                 | 23:08:30/17-06-2026 |                                            |
+| f3e9b2c8       | freebsd poudriere                     | 20:19:54/17-06-2026 |                                            |
+| 824115000000.0 | frebsd poudriere                      | 20:19:07/17-06-2026 |                                            |
+| 9fd3ead3       | freebsd 15-1                          | 19:55:11/17-06-2026 |                                            |
+| a78663c1       | freebsd 15-1                          | 19:30:43/17-06-2026 |                                            |
+| 8a24166a       | freebsd 15-1                          | 19:19:10/17-06-2026 |                                            |
+| 47df03a9       | freebsd 15-1 poudriere                | 19:17:12/17-06-2026 |                                            |
+| a98a9afe       | freebsd 15-1 poudriere                | 19:08:43/17-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 52be0f5 | emacs-whisper-cpp                                     | 16:06:14/21-06-2026 | HEAD -> master, github/master, github/HEAD |
+| c75be4c | emacs whisper.el ffmpeg rnnoise                       | 20:13:25/23-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 52be0f5 | emacs-whisper-cpp                                     | 16:06:14/21-06-2026 |                                            |
 | 3ea1ba2 | kokoro-onnx makefile                                  | 20:41:39/20-06-2026 |                                            |
 | a0f32bd | pkg prime-list                                        | 19:36:52/20-06-2026 |                                            |
 | a256e14 | ollama makefile                                       | 15:08:39/20-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 0308ffe | mpv invidious lua video title                         | 18:35:27/14-06-2026 |                                            |
 | 9905ebd | emacs mpv                                             | 18:17:06/14-06-2026 |                                            |
 | 022168a | emacs hydra mpv                                       | 14:31:40/14-06-2026 |                                            |
-| c4a4875 | emacs bookmark                                        | 19:14:45/13-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
