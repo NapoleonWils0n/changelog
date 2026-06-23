@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ed3a13ac       | rnnoise                               | 23:47:38/23-06-2026 | HEAD -> master, github/master, github/HEAD |
+| b7a69c0b       | emacs whisper                         | 00:31:45/24-06-2026 | HEAD -> master, github/master, github/HEAD |
+| ed3a13ac       | rnnoise                               | 23:47:38/23-06-2026 |                                            |
 | 290a6858       | emacs whisper with ffmpeg and rnnoise | 20:41:24/23-06-2026 |                                            |
 | 05b85869       | freebsd upgrade                       | 13:57:33/18-06-2026 |                                            |
 | 0a9c52a3       | freebsd 15-1 poudrire                 | 23:08:30/17-06-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 9fd3ead3       | freebsd 15-1                          | 19:55:11/17-06-2026 |                                            |
 | a78663c1       | freebsd 15-1                          | 19:30:43/17-06-2026 |                                            |
 | 8a24166a       | freebsd 15-1                          | 19:19:10/17-06-2026 |                                            |
-| 47df03a9       | freebsd 15-1 poudriere                | 19:17:12/17-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
