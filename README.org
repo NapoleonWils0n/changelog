@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| e0020d9  | removed scripts        | 20:32:20/20-06-2026 | HEAD -> master, github/master |
+| fa06cef  | gitignore              | 19:12:24/24-06-2026 | HEAD -> master, github/master |
+| e0020d9  | removed scripts        | 20:32:20/20-06-2026 |                               |
 | 97dc1b9  | wayback links          | 13:57:04/13-06-2026 |                               |
 | 53316da  | kokoro                 | 00:04:36/03-06-2026 |                               |
 | bbe49ce  | kokoro                 | 23:38:56/02-06-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 6cc060e  | transcribe-audio       | 00:19:20/12-05-2026 |                               |
 | 6.89e+21 | transcribe-audio       | 22:25:57/11-05-2026 |                               |
 | c5e027b  | whisper-cli            | 22:22:48/11-05-2026 |                               |
-| 39367bb  | transcribe-audio       | 19:02:16/11-05-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c75be4c | emacs whisper.el ffmpeg rnnoise                       | 20:13:25/23-06-2026 | HEAD -> master, github/master, github/HEAD |
+| a45411f | pkg prime-list                                        | 19:12:54/24-06-2026 | HEAD -> master, github/master, github/HEAD |
+| c75be4c | emacs whisper.el ffmpeg rnnoise                       | 20:13:25/23-06-2026 |                                            |
 | 52be0f5 | emacs-whisper-cpp                                     | 16:06:14/21-06-2026 |                                            |
 | 3ea1ba2 | kokoro-onnx makefile                                  | 20:41:39/20-06-2026 |                                            |
 | a0f32bd | pkg prime-list                                        | 19:36:52/20-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 07b1f7f | wlr-which-key emacs rewrite youtube urls to invidious | 19:47:08/14-06-2026 |                                            |
 | 0308ffe | mpv invidious lua video title                         | 18:35:27/14-06-2026 |                                            |
 | 9905ebd | emacs mpv                                             | 18:17:06/14-06-2026 |                                            |
-| 022168a | emacs hydra mpv                                       | 14:31:40/14-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
