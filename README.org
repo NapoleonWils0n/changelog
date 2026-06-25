@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 644996  | pkg prime-list                  | 20:50:17/25-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 07b3702 | pkg prime-list                  | 00:22:10/26-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 644996  | pkg prime-list                  | 20:50:17/25-06-2026 |                                            |
 | ba9b6cc | ardour                          | 16:13:09/25-06-2026 |                                            |
 | 8596b82 | pkg prime-list                  | 15:31:54/25-06-2026 |                                            |
 | a45411f | pkg prime-list                  | 19:12:54/24-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 3ea1ba2 | kokoro-onnx makefile            | 20:41:39/20-06-2026 |                                            |
 | a0f32bd | pkg prime-list                  | 19:36:52/20-06-2026 |                                            |
 | a256e14 | ollama makefile                 | 15:08:39/20-06-2026 |                                            |
-| 40c41d1 | ollama makefile                 | 17:58:20/19-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
