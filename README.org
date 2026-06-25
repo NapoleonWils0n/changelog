@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b7a69c0b       | emacs whisper                         | 00:31:45/24-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 359adbfe       | deepfilternet                         | 15:31:31/25-06-2026 | HEAD -> master, github/master, github/HEAD |
+| b7a69c0b       | emacs whisper                         | 00:31:45/24-06-2026 |                                            |
 | ed3a13ac       | rnnoise                               | 23:47:38/23-06-2026 |                                            |
 | 290a6858       | emacs whisper with ffmpeg and rnnoise | 20:41:24/23-06-2026 |                                            |
 | 05b85869       | freebsd upgrade                       | 13:57:33/18-06-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 824115000000.0 | frebsd poudriere                      | 20:19:07/17-06-2026 |                                            |
 | 9fd3ead3       | freebsd 15-1                          | 19:55:11/17-06-2026 |                                            |
 | a78663c1       | freebsd 15-1                          | 19:30:43/17-06-2026 |                                            |
-| 8a24166a       | freebsd 15-1                          | 19:19:10/17-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| a45411f | pkg prime-list                                        | 19:12:54/24-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 8596b82 | pkg prime-list                                        | 15:31:54/25-06-2026 | HEAD -> master, github/master, github/HEAD |
+| a45411f | pkg prime-list                                        | 19:12:54/24-06-2026 |                                            |
 | c75be4c | emacs whisper.el ffmpeg rnnoise                       | 20:13:25/23-06-2026 |                                            |
 | 52be0f5 | emacs-whisper-cpp                                     | 16:06:14/21-06-2026 |                                            |
 | 3ea1ba2 | kokoro-onnx makefile                                  | 20:41:39/20-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 40c41d1 | ollama makefile                                       | 17:58:20/19-06-2026 |                                            |
 | 07b1f7f | wlr-which-key emacs rewrite youtube urls to invidious | 19:47:08/14-06-2026 |                                            |
 | 0308ffe | mpv invidious lua video title                         | 18:35:27/14-06-2026 |                                            |
-| 9905ebd | emacs mpv                                             | 18:17:06/14-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
