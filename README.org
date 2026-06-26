@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| fa06cef  | gitignore              | 19:12:24/24-06-2026 | HEAD -> master, github/master |
+| e4dd544  | dwl xwayland           | 01:41:33/26-06-2026 | HEAD -> master, github/master |
+| fa06cef  | gitignore              | 19:12:24/24-06-2026 |                               |
 | e0020d9  | removed scripts        | 20:32:20/20-06-2026 |                               |
 | 97dc1b9  | wayback links          | 13:57:04/13-06-2026 |                               |
 | 53316da  | kokoro                 | 00:04:36/03-06-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 0c44a23  | mcp                    | 13:23:11/12-05-2026 |                               |
 | 6cc060e  | transcribe-audio       | 00:19:20/12-05-2026 |                               |
 | 6.89e+21 | transcribe-audio       | 22:25:57/11-05-2026 |                               |
-| c5e027b  | whisper-cli            | 22:22:48/11-05-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
