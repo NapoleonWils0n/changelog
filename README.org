@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| e4dd544  | dwl xwayland           | 01:41:33/26-06-2026 | HEAD -> master, github/master |
-| fa06cef  | gitignore              | 19:12:24/24-06-2026 |                               |
-| e0020d9  | removed scripts        | 20:32:20/20-06-2026 |                               |
-| 97dc1b9  | wayback links          | 13:57:04/13-06-2026 |                               |
-| 53316da  | kokoro                 | 00:04:36/03-06-2026 |                               |
-| bbe49ce  | kokoro                 | 23:38:56/02-06-2026 |                               |
-| 083a9c4  | wrapper-freebsd podman | 17:24:31/26-05-2026 |                               |
-| 0c44a23  | mcp                    | 13:23:11/12-05-2026 |                               |
-| 6cc060e  | transcribe-audio       | 00:19:20/12-05-2026 |                               |
-| 6.89e+21 | transcribe-audio       | 22:25:57/11-05-2026 |                               |
+| 7.35e+237 | dwl                    | 17:49:22/26-06-2026 | HEAD -> master, github/master |
+| e4dd544   | dwl xwayland           | 01:41:33/26-06-2026 |                               |
+| fa06cef   | gitignore              | 19:12:24/24-06-2026 |                               |
+| e0020d9   | removed scripts        | 20:32:20/20-06-2026 |                               |
+| 97dc1b9   | wayback links          | 13:57:04/13-06-2026 |                               |
+| 53316da   | kokoro                 | 00:04:36/03-06-2026 |                               |
+| bbe49ce   | kokoro                 | 23:38:56/02-06-2026 |                               |
+| 083a9c4   | wrapper-freebsd podman | 17:24:31/26-05-2026 |                               |
+| 0c44a23   | mcp                    | 13:23:11/12-05-2026 |                               |
+| 6cc060e   | transcribe-audio       | 00:19:20/12-05-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 07b3702 | pkg prime-list                  | 00:22:10/26-06-2026 | HEAD -> master, github/master, github/HEAD |
+| fb84d18 | dwl                             | 17:49:45/26-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 07b3702 | pkg prime-list                  | 00:22:10/26-06-2026 |                                            |
 | 644996  | pkg prime-list                  | 20:50:17/25-06-2026 |                                            |
 | ba9b6cc | ardour                          | 16:13:09/25-06-2026 |                                            |
 | 8596b82 | pkg prime-list                  | 15:31:54/25-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 52be0f5 | emacs-whisper-cpp               | 16:06:14/21-06-2026 |                                            |
 | 3ea1ba2 | kokoro-onnx makefile            | 20:41:39/20-06-2026 |                                            |
 | a0f32bd | pkg prime-list                  | 19:36:52/20-06-2026 |                                            |
-| a256e14 | ollama makefile                 | 15:08:39/20-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
