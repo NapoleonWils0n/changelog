@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 7.35e+237 | dwl                    | 17:49:22/26-06-2026 | HEAD -> master, github/master |
+| 2a41709   | dwl xwayland           | 11:54:49/28-06-2026 | HEAD -> master, github/master |
+| 7.35e+237 | dwl                    | 17:49:22/26-06-2026 |                               |
 | e4dd544   | dwl xwayland           | 01:41:33/26-06-2026 |                               |
 | fa06cef   | gitignore              | 19:12:24/24-06-2026 |                               |
 | e0020d9   | removed scripts        | 20:32:20/20-06-2026 |                               |
@@ -93,7 +94,6 @@ status
 | bbe49ce   | kokoro                 | 23:38:56/02-06-2026 |                               |
 | 083a9c4   | wrapper-freebsd podman | 17:24:31/26-05-2026 |                               |
 | 0c44a23   | mcp                    | 13:23:11/12-05-2026 |                               |
-| 6cc060e   | transcribe-audio       | 00:19:20/12-05-2026 |                               |
 #+end_quote
 
 *** freebsd-dotfiles-xps
@@ -130,7 +130,7 @@ status
 | a0f32bd | pkg prime-list                  | 19:36:52/20-06-2026 |                                            |
 #+end_quote
 
-*** freebsd-root-xps
+*** XPS freebsd-root-xps
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 875ccf4 | dont switch audio devices automatically | 18:13:12/22-06-2026 | HEAD -> master, github/master |
+| 475cdcb | poudriere                               | 13:44:02/28-06-2026 | HEAD -> master, github/master |
+| 875ccf4 | dont switch audio devices automatically | 18:13:12/22-06-2026 |                               |
 | d093ff7 | mic devd                                | 17:57:24/22-06-2026 |                               |
 | b678152 | freebsd 15.1                            | 14:05:03/18-06-2026 |                               |
 | 3fb0cbd | laggpf fix for bhyve                    | 15:30:35/12-06-2026 |                               |
@@ -161,7 +162,6 @@ status
 | 1d1df53 | podman devfs.rules                      | 22:23:33/12-05-2026 |                               |
 | f792c25 | devfs.rules                             | 22:14:57/12-05-2026 |                               |
 | fe0405a | removed wsp                             | 16:04:35/10-05-2026 |                               |
-| 9cecedc | dns                                     | 10:51:43/09-05-2026 |                               |
 #+end_quote
 
 ** debian
