@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 51830203       | edepfilter                            | 18:02:27/28-06-2026 | HEAD -> master, github/master, github/HEAD |
-| 6913b4c3       | ladspa                                | 18:10:06/25-06-2026 |                                            |
-| 359adbfe       | deepfilternet                         | 15:31:31/25-06-2026 |                                            |
-| b7a69c0b       | emacs whisper                         | 00:31:45/24-06-2026 |                                            |
-| ed3a13ac       | rnnoise                               | 23:47:38/23-06-2026 |                                            |
-| 290a6858       | emacs whisper with ffmpeg and rnnoise | 20:41:24/23-06-2026 |                                            |
-| 05b85869       | freebsd upgrade                       | 13:57:33/18-06-2026 |                                            |
-| 0a9c52a3       | freebsd 15-1 poudrire                 | 23:08:30/17-06-2026 |                                            |
-| f3e9b2c8       | freebsd poudriere                     | 20:19:54/17-06-2026 |                                            |
-| 824115000000.0 | frebsd poudriere                      | 20:19:07/17-06-2026 |                                            |
+| e4f7ad40 | ardour patch                          | 23:47:08/28-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 51830203 | edepfilter                            | 18:02:27/28-06-2026 |                                            |
+| 6913b4c3 | ladspa                                | 18:10:06/25-06-2026 |                                            |
+| 359adbfe | deepfilternet                         | 15:31:31/25-06-2026 |                                            |
+| b7a69c0b | emacs whisper                         | 00:31:45/24-06-2026 |                                            |
+| ed3a13ac | rnnoise                               | 23:47:38/23-06-2026 |                                            |
+| 290a6858 | emacs whisper with ffmpeg and rnnoise | 20:41:24/23-06-2026 |                                            |
+| 05b85869 | freebsd upgrade                       | 13:57:33/18-06-2026 |                                            |
+| 0a9c52a3 | freebsd 15-1 poudrire                 | 23:08:30/17-06-2026 |                                            |
+| f3e9b2c8 | freebsd poudriere                     | 20:19:54/17-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
