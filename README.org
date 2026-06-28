@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 367123d | login conf                      | 19:04:13/28-06-2026 | HEAD -> master, github/master, github/HEAD |
+| d0222f3 | jack                            | 23:41:24/28-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 367123d | login conf                      | 19:04:13/28-06-2026 |                                            |
 | fb84d18 | dwl                             | 17:49:45/26-06-2026 |                                            |
 | 07b3702 | pkg prime-list                  | 00:22:10/26-06-2026 |                                            |
 | 644996  | pkg prime-list                  | 20:50:17/25-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | a45411f | pkg prime-list                  | 19:12:54/24-06-2026 |                                            |
 | c75be4c | emacs whisper.el ffmpeg rnnoise | 20:13:25/23-06-2026 |                                            |
 | 52be0f5 | emacs-whisper-cpp               | 16:06:14/21-06-2026 |                                            |
-| 3ea1ba2 | kokoro-onnx makefile            | 20:41:39/20-06-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
