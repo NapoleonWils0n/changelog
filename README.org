@@ -96,7 +96,7 @@ status
 | 53316da   | kokoro                  | 00:04:36/03-06-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 4dd572d | realesrgan-ncnn-vulkan          | 14:49:54/03-07-2026 | HEAD -> master, github/master, github/HEAD |
-| d0222f3 | jack                            | 23:41:24/28-06-2026 |                                            |
-| 367123d | login conf                      | 19:04:13/28-06-2026 |                                            |
-| fb84d18 | dwl                             | 17:49:45/26-06-2026 |                                            |
-| 07b3702 | pkg prime-list                  | 00:22:10/26-06-2026 |                                            |
-| 644996  | pkg prime-list                  | 20:50:17/25-06-2026 |                                            |
-| ba9b6cc | ardour                          | 16:13:09/25-06-2026 |                                            |
-| 8596b82 | pkg prime-list                  | 15:31:54/25-06-2026 |                                            |
-| a45411f | pkg prime-list                  | 19:12:54/24-06-2026 |                                            |
-| c75be4c | emacs whisper.el ffmpeg rnnoise | 20:13:25/23-06-2026 |                                            |
+| c022a96 | jack                   | 19:29:02/03-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 4dd572d | realesrgan-ncnn-vulkan | 14:49:54/03-07-2026 |                                            |
+| d0222f3 | jack                   | 23:41:24/28-06-2026 |                                            |
+| 367123d | login conf             | 19:04:13/28-06-2026 |                                            |
+| fb84d18 | dwl                    | 17:49:45/26-06-2026 |                                            |
+| 07b3702 | pkg prime-list         | 00:22:10/26-06-2026 |                                            |
+| 644996  | pkg prime-list         | 20:50:17/25-06-2026 |                                            |
+| ba9b6cc | ardour                 | 16:13:09/25-06-2026 |                                            |
+| 8596b82 | pkg prime-list         | 15:31:54/25-06-2026 |                                            |
+| a45411f | pkg prime-list         | 19:12:54/24-06-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
