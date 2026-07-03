@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c022a96 | jack                   | 19:29:02/03-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 2e12b24 | jack                   | 20:13:09/03-07-2026 | HEAD -> master, github/master, github/HEAD |
+| c022a96 | jack                   | 19:29:02/03-07-2026 |                                            |
 | 4dd572d | realesrgan-ncnn-vulkan | 14:49:54/03-07-2026 |                                            |
 | d0222f3 | jack                   | 23:41:24/28-06-2026 |                                            |
 | 367123d | login conf             | 19:04:13/28-06-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 644996  | pkg prime-list         | 20:50:17/25-06-2026 |                                            |
 | ba9b6cc | ardour                 | 16:13:09/25-06-2026 |                                            |
 | 8596b82 | pkg prime-list         | 15:31:54/25-06-2026 |                                            |
-| a45411f | pkg prime-list         | 19:12:54/24-06-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
