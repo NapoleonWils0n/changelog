@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| e976b5e9 | yt-dlp                                | 16:16:12/05-07-2026 | HEAD -> master, github/master, github/HEAD |
+| b6c6d708 | wlrctl list dislpays                  | 23:00:31/05-07-2026 | HEAD -> master, github/master, github/HEAD |
+| e976b5e9 | yt-dlp                                | 16:16:12/05-07-2026 |                                            |
 | 551e54ae | realesrgan-ncnn-vulkan                | 16:21:36/03-07-2026 |                                            |
 | e4f7ad40 | ardour patch                          | 23:47:08/28-06-2026 |                                            |
 | 51830203 | edepfilter                            | 18:02:27/28-06-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | b7a69c0b | emacs whisper                         | 00:31:45/24-06-2026 |                                            |
 | ed3a13ac | rnnoise                               | 23:47:38/23-06-2026 |                                            |
 | 290a6858 | emacs whisper with ffmpeg and rnnoise | 20:41:24/23-06-2026 |                                            |
-| 05b85869 | freebsd upgrade                       | 13:57:33/18-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
