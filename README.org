@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| e566d6f | python3                | 16:03:30/05-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 71b1290 | wireplumber            | 19:45:34/05-07-2026 | HEAD -> master, github/master, github/HEAD |
+| e566d6f | python3                | 16:03:30/05-07-2026 |                                            |
 | bd2f5ca | obs websocket ipv4     | 22:12:56/04-07-2026 |                                            |
 | e43006d | ffmpeg-makefile        | 17:29:14/04-07-2026 |                                            |
 | 8c7807a | jack                   | 21:38:45/03-07-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 4dd572d | realesrgan-ncnn-vulkan | 14:49:54/03-07-2026 |                                            |
 | d0222f3 | jack                   | 23:41:24/28-06-2026 |                                            |
 | 367123d | login conf             | 19:04:13/28-06-2026 |                                            |
-| fb84d18 | dwl                    | 17:49:45/26-06-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
