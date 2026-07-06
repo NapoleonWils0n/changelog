@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | e0020d9   | removed scripts         | 20:32:20/20-06-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -187,7 +187,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| b95a9ce | yt-dlp                  | 14:17:03/12-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 567faea | yt-dlp                  | 15:39:15/06-07-2026 | HEAD -> master, github/master, github/HEAD |
+| b95a9ce | yt-dlp                  | 14:17:03/12-06-2026 |                                            |
 | 98881.0 | yt-dlp                  | 14:16:47/12-06-2026 |                                            |
 | d0578d5 | backup script           | 14:22:59/03-05-2026 |                                            |
 | de21955 | relay-mpv               | 13:50:34/28-04-2026 |                                            |
@@ -196,7 +197,6 @@ status
 | 519856b | ossuary                 | 23:00:59/30-03-2026 |                                            |
 | 83175c6 | ossuary                 | 15:07:52/29-03-2026 |                                            |
 | f77bab0 | wayback machine cdx api | 22:58:13/18-03-2026 |                                            |
-| ff295a1 | yt-dlp                  | 13:41:45/18-03-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
