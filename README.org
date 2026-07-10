@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 29ff2e28 | relay                  | 23:09:32/09-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 867986f6 | relay flush pipe       | 01:13:41/10-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 29ff2e28 | relay                  | 23:09:32/09-07-2026 |                                            |
 | dd8d9909 | relay scripts          | 22:18:13/09-07-2026 |                                            |
 | fd3e166d | relay scripts          | 19:57:40/09-07-2026 |                                            |
 | d2efae18 | pipewire freebsd       | 23:08:12/08-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 551e54ae | realesrgan-ncnn-vulkan | 16:21:36/03-07-2026 |                                            |
 | e4f7ad40 | ardour patch           | 23:47:08/28-06-2026 |                                            |
 | 51830203 | edepfilter             | 18:02:27/28-06-2026 |                                            |
-| 6913b4c3 | ladspa                 | 18:10:06/25-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| bd8dd06   | relay                   | 23:08:33/09-07-2026 | HEAD -> master, github/master |
-| fde9ac8   | relay scripts           | 22:17:25/09-07-2026 |                               |
-| e57d895   | relay scripts           | 19:57:22/09-07-2026 |                               |
-| bfee34a   | yt-dlp                  | 16:16:44/05-07-2026 |                               |
-| 5aa459e   | obs-cmd                 | 22:13:37/04-07-2026 |                               |
-| 270843b   | davinci resolve scripts | 14:12:09/01-07-2026 |                               |
-| bff7f02   | h264-prores             | 00:28:04/01-07-2026 |                               |
-| c0bbeb2   | prores-h265             | 19:17:55/30-06-2026 |                               |
-| 2a41709   | dwl xwayland            | 11:54:49/28-06-2026 |                               |
-| 7.35e+237 | dwl                     | 17:49:22/26-06-2026 |                               |
+| a01fbb1 | relay flush pipe        | 01:12:59/10-07-2026 | HEAD -> master, github/master |
+| bd8dd06 | relay                   | 23:08:33/09-07-2026 |                               |
+| fde9ac8 | relay scripts           | 22:17:25/09-07-2026 |                               |
+| e57d895 | relay scripts           | 19:57:22/09-07-2026 |                               |
+| bfee34a | yt-dlp                  | 16:16:44/05-07-2026 |                               |
+| 5aa459e | obs-cmd                 | 22:13:37/04-07-2026 |                               |
+| 270843b | davinci resolve scripts | 14:12:09/01-07-2026 |                               |
+| bff7f02 | h264-prores             | 00:28:04/01-07-2026 |                               |
+| c0bbeb2 | prores-h265             | 19:17:55/30-06-2026 |                               |
+| 2a41709 | dwl xwayland            | 11:54:49/28-06-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -187,7 +187,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| ae15c23 | relay              | 23:09:45/09-07-2026 | HEAD -> master, github/master, github/HEAD |
+| cbd445b | relay flush pipe   | 01:13:56/10-07-2026 | HEAD -> master, github/master, github/HEAD |
+| ae15c23 | relay              | 23:09:45/09-07-2026 |                                            |
 | c476cae | relay scripts      | 22:18:34/09-07-2026 |                                            |
 | 05b9fb2 | relay scripts      | 19:58:56/09-07-2026 |                                            |
 | 567faea | yt-dlp             | 15:39:15/06-07-2026 |                                            |
@@ -196,7 +197,6 @@ status
 | d0578d5 | backup script      | 14:22:59/03-05-2026 |                                            |
 | de21955 | relay-mpv          | 13:50:34/28-04-2026 |                                            |
 | b1b96bc | adding new version | 13:13:51/28-04-2026 |                                            |
-| 75f9866 | syncthing          | 17:29:22/20-04-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
