@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| bdf05ebc | relay yt-dlp           | 17:41:23/10-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 2e482d74 | top pgrep              | 18:04:03/10-07-2026 | HEAD -> master, github/master, github/HEAD |
+| bdf05ebc | relay yt-dlp           | 17:41:23/10-07-2026 |                                            |
 | 867986f6 | relay flush pipe       | 01:13:41/10-07-2026 |                                            |
 | 29ff2e28 | relay                  | 23:09:32/09-07-2026 |                                            |
 | dd8d9909 | relay scripts          | 22:18:13/09-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | b6c6d708 | wlrctl list dislpays   | 23:00:31/05-07-2026 |                                            |
 | e976b5e9 | yt-dlp                 | 16:16:12/05-07-2026 |                                            |
 | 551e54ae | realesrgan-ncnn-vulkan | 16:21:36/03-07-2026 |                                            |
-| e4f7ad40 | ardour patch           | 23:47:08/28-06-2026 |                                            |
 #+end_quote
 
 ** freebsd
