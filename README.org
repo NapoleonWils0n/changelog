@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 2e482d74 | top pgrep              | 18:04:03/10-07-2026 | HEAD -> master, github/master, github/HEAD |
-| bdf05ebc | relay yt-dlp           | 17:41:23/10-07-2026 |                                            |
-| 867986f6 | relay flush pipe       | 01:13:41/10-07-2026 |                                            |
-| 29ff2e28 | relay                  | 23:09:32/09-07-2026 |                                            |
-| dd8d9909 | relay scripts          | 22:18:13/09-07-2026 |                                            |
-| fd3e166d | relay scripts          | 19:57:40/09-07-2026 |                                            |
-| d2efae18 | pipewire freebsd       | 23:08:12/08-07-2026 |                                            |
-| b6c6d708 | wlrctl list dislpays   | 23:00:31/05-07-2026 |                                            |
-| e976b5e9 | yt-dlp                 | 16:16:12/05-07-2026 |                                            |
-| 551e54ae | realesrgan-ncnn-vulkan | 16:21:36/03-07-2026 |                                            |
+| c0fc19bd | relay-remote         | 00:47:39/11-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 2e482d74 | top pgrep            | 18:04:03/10-07-2026 |                                            |
+| bdf05ebc | relay yt-dlp         | 17:41:23/10-07-2026 |                                            |
+| 867986f6 | relay flush pipe     | 01:13:41/10-07-2026 |                                            |
+| 29ff2e28 | relay                | 23:09:32/09-07-2026 |                                            |
+| dd8d9909 | relay scripts        | 22:18:13/09-07-2026 |                                            |
+| fd3e166d | relay scripts        | 19:57:40/09-07-2026 |                                            |
+| d2efae18 | pipewire freebsd     | 23:08:12/08-07-2026 |                                            |
+| b6c6d708 | wlrctl list dislpays | 23:00:31/05-07-2026 |                                            |
+| e976b5e9 | yt-dlp               | 16:16:12/05-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| e5fcb1e | relay yt-dlp            | 17:41:12/10-07-2026 | HEAD -> master, github/master |
+| 17459f1 | relay-remote            | 00:46:41/11-07-2026 | HEAD -> master, github/master |
+| e5fcb1e | relay yt-dlp            | 17:41:12/10-07-2026 |                               |
 | bd25fe7 | flush-pipe              | 16:25:44/10-07-2026 |                               |
 | a01fbb1 | relay flush pipe        | 01:12:59/10-07-2026 |                               |
 | bd8dd06 | relay                   | 23:08:33/09-07-2026 |                               |
@@ -93,7 +94,6 @@ status
 | bfee34a | yt-dlp                  | 16:16:44/05-07-2026 |                               |
 | 5aa459e | obs-cmd                 | 22:13:37/04-07-2026 |                               |
 | 270843b | davinci resolve scripts | 14:12:09/01-07-2026 |                               |
-| bff7f02 | h264-prores             | 00:28:04/01-07-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -187,7 +187,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 87d8b3b | relay yt-dlp     | 17:41:34/10-07-2026 | HEAD -> master, github/master, github/HEAD |
+| c593048 | relay-remote     | 00:47:53/11-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 87d8b3b | relay yt-dlp     | 17:41:34/10-07-2026 |                                            |
 | 173f7d4 | flush-pipe       | 16:26:48/10-07-2026 |                                            |
 | cbd445b | relay flush pipe | 01:13:56/10-07-2026 |                                            |
 | ae15c23 | relay            | 23:09:45/09-07-2026 |                                            |
@@ -196,7 +197,6 @@ status
 | 567faea | yt-dlp           | 15:39:15/06-07-2026 |                                            |
 | b95a9ce | yt-dlp           | 14:17:03/12-06-2026 |                                            |
 | 98881.0 | yt-dlp           | 14:16:47/12-06-2026 |                                            |
-| d0578d5 | backup script    | 14:22:59/03-05-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
