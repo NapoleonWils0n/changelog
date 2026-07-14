@@ -187,7 +187,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 6da27e7 | mux scripts           | 17:58:20/13-07-2026 | HEAD -> master, github/master, github/HEAD |
+| ebea5fc | syncthing             | 15:18:03/14-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 6da27e7 | mux scripts           | 17:58:20/13-07-2026 |                                            |
 | d29d947 | mux remote            | 15:22:09/13-07-2026 |                                            |
 | e05678d | mux-play              | 22:11:55/12-07-2026 |                                            |
 | dea9ec8 | srt scripts           | 20:35:09/12-07-2026 |                                            |
@@ -196,7 +197,6 @@ status
 | 5c813c3 | srt                   | 14:01:28/12-07-2026 |                                            |
 | 2bb405d | obs srt streaming     | 00:55:21/12-07-2026 |                                            |
 | 3bc7b6f | removed relay scripts | 21:42:08/11-07-2026 |                                            |
-| 86b8c95 | relay-scripts         | 15:41:13/11-07-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
