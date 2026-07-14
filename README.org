@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b07f4138 | ardour                 | 19:08:19/14-07-2026 | HEAD -> master, github/master, github/HEAD |
+| e2442c5f | drm                    | 00:27:37/15-07-2026 | HEAD -> master, github/master, github/HEAD |
+| b07f4138 | ardour                 | 19:08:19/14-07-2026 |                                            |
 | 7a2ef56f | nvidia upgrade         | 18:58:01/14-07-2026 |                                            |
 | d94d6ded | ports                  | 17:15:39/14-07-2026 |                                            |
 | a2e3f550 | nvidia drivers install | 16:03:50/14-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | cb78e520 | mux scripts            | 17:58:05/13-07-2026 |                                            |
 | e6d8bfed | mux remote             | 15:21:56/13-07-2026 |                                            |
 | 77474c92 | srt media source       | 23:21:08/12-07-2026 |                                            |
-| cb402ae6 | srt makefiles          | 23:03:57/12-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
