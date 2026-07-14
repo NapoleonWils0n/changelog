@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 128934cc     | nvidia reinstall | 14:44:21/14-07-2026 | HEAD -> master, github/master, github/HEAD |
-| 363cd139     | make files       | 18:07:54/13-07-2026 |                                            |
-| cb78e520     | mux scripts      | 17:58:05/13-07-2026 |                                            |
-| e6d8bfed     | mux remote       | 15:21:56/13-07-2026 |                                            |
-| 77474c92     | srt media source | 23:21:08/12-07-2026 |                                            |
-| cb402ae6     | srt makefiles    | 23:03:57/12-07-2026 |                                            |
-| 2d446125     | mux-play         | 22:11:38/12-07-2026 |                                            |
-| 6828030000.0 | srt scripts      | 20:34:52/12-07-2026 |                                            |
-| 2fb049dc     | srt              | 17:40:17/12-07-2026 |                                            |
-| 4f577e9b     | srt              | 14:23:41/12-07-2026 |                                            |
+| b07f4138 | ardour                 | 19:08:19/14-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 7a2ef56f | nvidia upgrade         | 18:58:01/14-07-2026 |                                            |
+| d94d6ded | ports                  | 17:15:39/14-07-2026 |                                            |
+| a2e3f550 | nvidia drivers install | 16:03:50/14-07-2026 |                                            |
+| 128934cc | nvidia reinstall       | 14:44:21/14-07-2026 |                                            |
+| 363cd139 | make files             | 18:07:54/13-07-2026 |                                            |
+| cb78e520 | mux scripts            | 17:58:05/13-07-2026 |                                            |
+| e6d8bfed | mux remote             | 15:21:56/13-07-2026 |                                            |
+| 77474c92 | srt media source       | 23:21:08/12-07-2026 |                                            |
+| cb402ae6 | srt makefiles          | 23:03:57/12-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
