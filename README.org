@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c03fd273 | deep-filter            | 23:43:03/16-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 922d78fd | deepfilter-net         | 00:05:47/17-07-2026 | HEAD -> master, github/master, github/HEAD |
+| c03fd273 | deep-filter            | 23:43:03/16-07-2026 |                                            |
 | e2442c5f | drm                    | 00:27:37/15-07-2026 |                                            |
 | b07f4138 | ardour                 | 19:08:19/14-07-2026 |                                            |
 | 7a2ef56f | nvidia upgrade         | 18:58:01/14-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 128934cc | nvidia reinstall       | 14:44:21/14-07-2026 |                                            |
 | 363cd139 | make files             | 18:07:54/13-07-2026 |                                            |
 | cb78e520 | mux scripts            | 17:58:05/13-07-2026 |                                            |
-| e6d8bfed | mux remote             | 15:21:56/13-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
