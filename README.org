@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 922d78fd | deepfilter-net         | 00:05:47/17-07-2026 | HEAD -> master, github/master, github/HEAD |
+| ab36057c | fdkaac build freebsd   | 20:29:33/19-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 922d78fd | deepfilter-net         | 00:05:47/17-07-2026 |                                            |
 | c03fd273 | deep-filter            | 23:43:03/16-07-2026 |                                            |
 | e2442c5f | drm                    | 00:27:37/15-07-2026 |                                            |
 | b07f4138 | ardour                 | 19:08:19/14-07-2026 |                                            |
@@ -58,11 +59,10 @@ git status
 | a2e3f550 | nvidia drivers install | 16:03:50/14-07-2026 |                                            |
 | 128934cc | nvidia reinstall       | 14:44:21/14-07-2026 |                                            |
 | 363cd139 | make files             | 18:07:54/13-07-2026 |                                            |
-| cb78e520 | mux scripts            | 17:58:05/13-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 563308a | mux scripts       | 17:57:30/13-07-2026 | HEAD -> master, github/master |
-| b1fa017 | mux-remote        | 15:20:22/13-07-2026 |                               |
-| f5de274 | mux-play          | 22:10:55/12-07-2026 |                               |
-| 3baf261 | mux-play          | 20:33:20/12-07-2026 |                               |
-| ad492cd | mux scripts       | 19:37:06/12-07-2026 |                               |
-| 68f8900 | mux-local         | 19:13:01/12-07-2026 |                               |
-| 5ab9f2b | srt scripts       | 14:22:31/12-07-2026 |                               |
-| 23c61d3 | srt mpv           | 14:00:52/12-07-2026 |                               |
-| 8c6c0d6 | srt scripts       | 13:59:27/12-07-2026 |                               |
-| a8829e0 | obs srt streaming | 00:54:51/12-07-2026 |                               |
+| a167ac5 | fdkaac      | 20:28:00/19-07-2026 | HEAD -> master, github/master |
+| 563308a | mux scripts | 17:57:30/13-07-2026 |                               |
+| b1fa017 | mux-remote  | 15:20:22/13-07-2026 |                               |
+| f5de274 | mux-play    | 22:10:55/12-07-2026 |                               |
+| 3baf261 | mux-play    | 20:33:20/12-07-2026 |                               |
+| ad492cd | mux scripts | 19:37:06/12-07-2026 |                               |
+| 68f8900 | mux-local   | 19:13:01/12-07-2026 |                               |
+| 5ab9f2b | srt scripts | 14:22:31/12-07-2026 |                               |
+| 23c61d3 | srt mpv     | 14:00:52/12-07-2026 |                               |
+| 8c6c0d6 | srt scripts | 13:59:27/12-07-2026 |                               |
 #+end_quote
 
 *** freebsd-dotfiles-xps
