@@ -96,7 +96,7 @@ status
 | 8c6c0d6 | srt scripts | 13:59:27/12-07-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 5c15fce | jack                                                | 19:40:47/17-07-2026 | HEAD -> master, github/master, github/HEAD |
-| 4607d83 | sonic-visualiser                                    | 17:07:38/16-07-2026 |                                            |
-| 3702810 | carla                                               | 00:57:58/16-07-2026 |                                            |
-| 653164b | make searxng                                        | 20:26:07/15-07-2026 |                                            |
-| 02a3f4c | pkg prime-list                                      | 19:48:56/15-07-2026 |                                            |
-| f32c364 | ollama                                              | 19:31:41/15-07-2026 |                                            |
-| 70a85b1 | mpv video link commented out to fix bug with tangle | 21:06:59/13-07-2026 |                                            |
-| 11de725 | jack                                                | 14:14:21/09-07-2026 |                                            |
-| db1447c | removed ffmpeg makefile                             | 19:16:01/06-07-2026 |                                            |
-| 3ec557b | zshenv                                              | 00:21:37/06-07-2026 |                                            |
+| 2423800.0 | cadence                                             | 15:31:18/20-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 5c15fce   | jack                                                | 19:40:47/17-07-2026 |                                            |
+| 4607d83   | sonic-visualiser                                    | 17:07:38/16-07-2026 |                                            |
+| 3702810   | carla                                               | 00:57:58/16-07-2026 |                                            |
+| 653164b   | make searxng                                        | 20:26:07/15-07-2026 |                                            |
+| 02a3f4c   | pkg prime-list                                      | 19:48:56/15-07-2026 |                                            |
+| f32c364   | ollama                                              | 19:31:41/15-07-2026 |                                            |
+| 70a85b1   | mpv video link commented out to fix bug with tangle | 21:06:59/13-07-2026 |                                            |
+| 11de725   | jack                                                | 14:14:21/09-07-2026 |                                            |
+| db1447c   | removed ffmpeg makefile                             | 19:16:01/06-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
