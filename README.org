@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ab36057c | fdkaac build freebsd   | 20:29:33/19-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 22de80b4 | jack control           | 21:32:31/20-07-2026 | HEAD -> master, github/master, github/HEAD |
+| ab36057c | fdkaac build freebsd   | 20:29:33/19-07-2026 |                                            |
 | 922d78fd | deepfilter-net         | 00:05:47/17-07-2026 |                                            |
 | c03fd273 | deep-filter            | 23:43:03/16-07-2026 |                                            |
 | e2442c5f | drm                    | 00:27:37/15-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | d94d6ded | ports                  | 17:15:39/14-07-2026 |                                            |
 | a2e3f550 | nvidia drivers install | 16:03:50/14-07-2026 |                                            |
 | 128934cc | nvidia reinstall       | 14:44:21/14-07-2026 |                                            |
-| 363cd139 | make files             | 18:07:54/13-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
