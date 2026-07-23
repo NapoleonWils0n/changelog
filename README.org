@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a47ef99c | mux scripts           | 15:16:03/21-07-2026 | HEAD -> master, github/master, github/HEAD |
-| 4fb9287f | carla plugin settings | 21:33:29/20-07-2026 |                                            |
-| 22de80b4 | jack control          | 21:32:31/20-07-2026 |                                            |
-| ab36057c | fdkaac build freebsd  | 20:29:33/19-07-2026 |                                            |
-| 922d78fd | deepfilter-net        | 00:05:47/17-07-2026 |                                            |
-| c03fd273 | deep-filter           | 23:43:03/16-07-2026 |                                            |
-| e2442c5f | drm                   | 00:27:37/15-07-2026 |                                            |
-| b07f4138 | ardour                | 19:08:19/14-07-2026 |                                            |
-| 7a2ef56f | nvidia upgrade        | 18:58:01/14-07-2026 |                                            |
-| d94d6ded | ports                 | 17:15:39/14-07-2026 |                                            |
+| bf4db9e3 | yt-dlp download section | 23:31:24/23-07-2026 | HEAD -> master, github/master, github/HEAD |
+| a47ef99c | mux scripts             | 15:16:03/21-07-2026 |                                            |
+| 4fb9287f | carla plugin settings   | 21:33:29/20-07-2026 |                                            |
+| 22de80b4 | jack control            | 21:32:31/20-07-2026 |                                            |
+| ab36057c | fdkaac build freebsd    | 20:29:33/19-07-2026 |                                            |
+| 922d78fd | deepfilter-net          | 00:05:47/17-07-2026 |                                            |
+| c03fd273 | deep-filter             | 23:43:03/16-07-2026 |                                            |
+| e2442c5f | drm                     | 00:27:37/15-07-2026 |                                            |
+| b07f4138 | ardour                  | 19:08:19/14-07-2026 |                                            |
+| 7a2ef56f | nvidia upgrade          | 18:58:01/14-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
