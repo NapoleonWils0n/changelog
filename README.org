@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b0d0e318 | workflows               | 18:17:26/25-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 6b999e17 | workflows               | 21:14:05/25-07-2026 | HEAD -> master, github/master, github/HEAD |
+| b0d0e318 | workflows               | 18:17:26/25-07-2026 |                                            |
 | d08de5f0 | comfyui workflows       | 17:43:41/25-07-2026 |                                            |
 | bf4db9e3 | yt-dlp download section | 23:31:24/23-07-2026 |                                            |
 | a47ef99c | mux scripts             | 15:16:03/21-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | ab36057c | fdkaac build freebsd    | 20:29:33/19-07-2026 |                                            |
 | 922d78fd | deepfilter-net          | 00:05:47/17-07-2026 |                                            |
 | c03fd273 | deep-filter             | 23:43:03/16-07-2026 |                                            |
-| e2442c5f | drm                     | 00:27:37/15-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
