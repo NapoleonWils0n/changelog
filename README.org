@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 6ae7d1d1 | dict freebsd            | 22:49:00/27-07-2026 | HEAD -> master, github/master, github/HEAD |
+| fd41e5c2 | disable emoji picker    | 22:59:48/27-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 6ae7d1d1 | dict freebsd            | 22:49:00/27-07-2026 |                                            |
 | 72406340 | makefile                | 21:13:17/26-07-2026 |                                            |
 | 6b999e17 | workflows               | 21:14:05/25-07-2026 |                                            |
 | b0d0e318 | workflows               | 18:17:26/25-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | a47ef99c | mux scripts             | 15:16:03/21-07-2026 |                                            |
 | 4fb9287f | carla plugin settings   | 21:33:29/20-07-2026 |                                            |
 | 22de80b4 | jack control            | 21:32:31/20-07-2026 |                                            |
-| ab36057c | fdkaac build freebsd    | 20:29:33/19-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
