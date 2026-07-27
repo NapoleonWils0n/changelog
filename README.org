@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 56a999f   | dict                                                | 14:07:27/27-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 805190d   | firefox disable emoji picker                        | 22:51:57/27-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 56a999f   | dict                                                | 14:07:27/27-07-2026 |                                            |
 | 2423800.0 | cadence                                             | 15:31:18/20-07-2026 |                                            |
 | 5c15fce   | jack                                                | 19:40:47/17-07-2026 |                                            |
 | 4607d83   | sonic-visualiser                                    | 17:07:38/16-07-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 02a3f4c   | pkg prime-list                                      | 19:48:56/15-07-2026 |                                            |
 | f32c364   | ollama                                              | 19:31:41/15-07-2026 |                                            |
 | 70a85b1   | mpv video link commented out to fix bug with tangle | 21:06:59/13-07-2026 |                                            |
-| 11de725   | jack                                                | 14:14:21/09-07-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
