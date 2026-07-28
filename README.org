@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fd41e5c2 | disable emoji picker    | 22:59:48/27-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 58839bcb | mpv nv-sglrun           | 18:11:41/28-07-2026 | HEAD -> master, github/master, github/HEAD |
+| fd41e5c2 | disable emoji picker    | 22:59:48/27-07-2026 |                                            |
 | 6ae7d1d1 | dict freebsd            | 22:49:00/27-07-2026 |                                            |
 | 72406340 | makefile                | 21:13:17/26-07-2026 |                                            |
 | 6b999e17 | workflows               | 21:14:05/25-07-2026 |                                            |
@@ -58,11 +59,10 @@ git status
 | bf4db9e3 | yt-dlp download section | 23:31:24/23-07-2026 |                                            |
 | a47ef99c | mux scripts             | 15:16:03/21-07-2026 |                                            |
 | 4fb9287f | carla plugin settings   | 21:33:29/20-07-2026 |                                            |
-| 22de80b4 | jack control            | 21:32:31/20-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| a2e5af7 | mux scripts | 15:14:59/21-07-2026 | HEAD -> master, github/master |
-| a167ac5 | fdkaac      | 20:28:00/19-07-2026 |                               |
-| 563308a | mux scripts | 17:57:30/13-07-2026 |                               |
-| b1fa017 | mux-remote  | 15:20:22/13-07-2026 |                               |
-| f5de274 | mux-play    | 22:10:55/12-07-2026 |                               |
-| 3baf261 | mux-play    | 20:33:20/12-07-2026 |                               |
-| ad492cd | mux scripts | 19:37:06/12-07-2026 |                               |
-| 68f8900 | mux-local   | 19:13:01/12-07-2026 |                               |
-| 5ab9f2b | srt scripts | 14:22:31/12-07-2026 |                               |
-| 23c61d3 | srt mpv     | 14:00:52/12-07-2026 |                               |
+| 3eaa266 | mpv                        | 18:10:52/28-07-2026 | HEAD -> master, github/master |
+| 74a355e | mpv wrapper with nv-sglrun | 17:52:50/28-07-2026 |                               |
+| a2e5af7 | mux scripts                | 15:14:59/21-07-2026 |                               |
+| a167ac5 | fdkaac                     | 20:28:00/19-07-2026 |                               |
+| 563308a | mux scripts                | 17:57:30/13-07-2026 |                               |
+| b1fa017 | mux-remote                 | 15:20:22/13-07-2026 |                               |
+| f5de274 | mux-play                   | 22:10:55/12-07-2026 |                               |
+| 3baf261 | mux-play                   | 20:33:20/12-07-2026 |                               |
+| ad492cd | mux scripts                | 19:37:06/12-07-2026 |                               |
+| 68f8900 | mux-local                  | 19:13:01/12-07-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 805190d   | firefox disable emoji picker                        | 22:51:57/27-07-2026 | HEAD -> master, github/master, github/HEAD |
-| 56a999f   | dict                                                | 14:07:27/27-07-2026 |                                            |
-| 2423800.0 | cadence                                             | 15:31:18/20-07-2026 |                                            |
-| 5c15fce   | jack                                                | 19:40:47/17-07-2026 |                                            |
-| 4607d83   | sonic-visualiser                                    | 17:07:38/16-07-2026 |                                            |
-| 3702810   | carla                                               | 00:57:58/16-07-2026 |                                            |
-| 653164b   | make searxng                                        | 20:26:07/15-07-2026 |                                            |
-| 02a3f4c   | pkg prime-list                                      | 19:48:56/15-07-2026 |                                            |
-| f32c364   | ollama                                              | 19:31:41/15-07-2026 |                                            |
-| 70a85b1   | mpv video link commented out to fix bug with tangle | 21:06:59/13-07-2026 |                                            |
+| 1df83e6   | mpv nv-sglrun                | 17:54:22/28-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 805190d   | firefox disable emoji picker | 22:51:57/27-07-2026 |                                            |
+| 56a999f   | dict                         | 14:07:27/27-07-2026 |                                            |
+| 2423800.0 | cadence                      | 15:31:18/20-07-2026 |                                            |
+| 5c15fce   | jack                         | 19:40:47/17-07-2026 |                                            |
+| 4607d83   | sonic-visualiser             | 17:07:38/16-07-2026 |                                            |
+| 3702810   | carla                        | 00:57:58/16-07-2026 |                                            |
+| 653164b   | make searxng                 | 20:26:07/15-07-2026 |                                            |
+| 02a3f4c   | pkg prime-list               | 19:48:56/15-07-2026 |                                            |
+| f32c364   | ollama                       | 19:31:41/15-07-2026 |                                            |
 #+end_quote
 
 *** XPS freebsd-root-xps
