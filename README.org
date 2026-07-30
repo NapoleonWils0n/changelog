@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 581c5598 | invidious            | 14:49:17/29-07-2026 | HEAD -> master, github/master, github/HEAD |
+| ec883a27 | mpv                  | 01:45:23/30-07-2026 | HEAD -> master, github/master, github/HEAD |
+| 581c5598 | invidious            | 14:49:17/29-07-2026 |                                            |
 | bf437c83 | mpv                  | 18:43:15/28-07-2026 |                                            |
 | d6463280 | mpv nv-sglrun        | 18:24:30/28-07-2026 |                                            |
 | 0f0c0b55 | mpv                  | 18:21:54/28-07-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | b7c3a5b8 | mpv nv-sglrun        | 18:15:01/28-07-2026 |                                            |
 | 58839bcb | mpv nv-sglrun        | 18:11:41/28-07-2026 |                                            |
 | fd41e5c2 | disable emoji picker | 22:59:48/27-07-2026 |                                            |
-| 6ae7d1d1 | dict freebsd         | 22:49:00/27-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| f239a0d | mpv                        | 01:26:23/30-07-2026 | HEAD -> master, github/master |
+| f4c34dc | mpv exec                   | 01:47:37/30-07-2026 | HEAD -> master, github/master |
+| f239a0d | mpv                        | 01:26:23/30-07-2026 |                               |
 | 3eaa266 | mpv                        | 18:10:52/28-07-2026 |                               |
 | 74a355e | mpv wrapper with nv-sglrun | 17:52:50/28-07-2026 |                               |
 | a2e5af7 | mux scripts                | 15:14:59/21-07-2026 |                               |
@@ -93,7 +94,6 @@ status
 | b1fa017 | mux-remote                 | 15:20:22/13-07-2026 |                               |
 | f5de274 | mux-play                   | 22:10:55/12-07-2026 |                               |
 | 3baf261 | mux-play                   | 20:33:20/12-07-2026 |                               |
-| ad492cd | mux scripts                | 19:37:06/12-07-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| f69c4f6   | mpv vaapi                    | 01:26:07/30-07-2026 | HEAD -> master, github/master, github/HEAD |
+| de2cc19   | mpv                          | 01:47:01/30-07-2026 | HEAD -> master, github/master, github/HEAD |
+| f69c4f6   | mpv vaapi                    | 01:26:07/30-07-2026 |                                            |
 | e746d4c   | emacs mpv                    | 15:43:13/29-07-2026 |                                            |
 | 1df83e6   | mpv nv-sglrun                | 17:54:22/28-07-2026 |                                            |
 | 805190d   | firefox disable emoji picker | 22:51:57/27-07-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 5c15fce   | jack                         | 19:40:47/17-07-2026 |                                            |
 | 4607d83   | sonic-visualiser             | 17:07:38/16-07-2026 |                                            |
 | 3702810   | carla                        | 00:57:58/16-07-2026 |                                            |
-| 653164b   | make searxng                 | 20:26:07/15-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
