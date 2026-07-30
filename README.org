@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 3eaa266 | mpv                        | 18:10:52/28-07-2026 | HEAD -> master, github/master |
+| f239a0d | mpv                        | 01:26:23/30-07-2026 | HEAD -> master, github/master |
+| 3eaa266 | mpv                        | 18:10:52/28-07-2026 |                               |
 | 74a355e | mpv wrapper with nv-sglrun | 17:52:50/28-07-2026 |                               |
 | a2e5af7 | mux scripts                | 15:14:59/21-07-2026 |                               |
 | a167ac5 | fdkaac                     | 20:28:00/19-07-2026 |                               |
@@ -93,10 +94,9 @@ status
 | f5de274 | mux-play                   | 22:10:55/12-07-2026 |                               |
 | 3baf261 | mux-play                   | 20:33:20/12-07-2026 |                               |
 | ad492cd | mux scripts                | 19:37:06/12-07-2026 |                               |
-| 68f8900 | mux-local                  | 19:13:01/12-07-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| e746d4c   | emacs mpv                    | 15:43:13/29-07-2026 | HEAD -> master, github/master, github/HEAD |
+| f69c4f6   | mpv vaapi                    | 01:26:07/30-07-2026 | HEAD -> master, github/master, github/HEAD |
+| e746d4c   | emacs mpv                    | 15:43:13/29-07-2026 |                                            |
 | 1df83e6   | mpv nv-sglrun                | 17:54:22/28-07-2026 |                                            |
 | 805190d   | firefox disable emoji picker | 22:51:57/27-07-2026 |                                            |
 | 56a999f   | dict                         | 14:07:27/27-07-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 4607d83   | sonic-visualiser             | 17:07:38/16-07-2026 |                                            |
 | 3702810   | carla                        | 00:57:58/16-07-2026 |                                            |
 | 653164b   | make searxng                 | 20:26:07/15-07-2026 |                                            |
-| 02a3f4c   | pkg prime-list               | 19:48:56/15-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
