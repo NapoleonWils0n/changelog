@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ec883a27 | mpv                  | 01:45:23/30-07-2026 | HEAD -> master, github/master, github/HEAD |
-| 581c5598 | invidious            | 14:49:17/29-07-2026 |                                            |
-| bf437c83 | mpv                  | 18:43:15/28-07-2026 |                                            |
-| d6463280 | mpv nv-sglrun        | 18:24:30/28-07-2026 |                                            |
-| 0f0c0b55 | mpv                  | 18:21:54/28-07-2026 |                                            |
-| 6de71ab4 | mpv                  | 18:18:42/28-07-2026 |                                            |
-| 3ccea896 | mpv                  | 18:17:37/28-07-2026 |                                            |
-| b7c3a5b8 | mpv nv-sglrun        | 18:15:01/28-07-2026 |                                            |
-| 58839bcb | mpv nv-sglrun        | 18:11:41/28-07-2026 |                                            |
-| fd41e5c2 | disable emoji picker | 22:59:48/27-07-2026 |                                            |
+| c2e68be0 | mpv removed arg check | 18:18:12/30-07-2026 | HEAD -> master, github/master, github/HEAD |
+| ec883a27 | mpv                   | 01:45:23/30-07-2026 |                                            |
+| 581c5598 | invidious             | 14:49:17/29-07-2026 |                                            |
+| bf437c83 | mpv                   | 18:43:15/28-07-2026 |                                            |
+| d6463280 | mpv nv-sglrun         | 18:24:30/28-07-2026 |                                            |
+| 0f0c0b55 | mpv                   | 18:21:54/28-07-2026 |                                            |
+| 6de71ab4 | mpv                   | 18:18:42/28-07-2026 |                                            |
+| 3ccea896 | mpv                   | 18:17:37/28-07-2026 |                                            |
+| b7c3a5b8 | mpv nv-sglrun         | 18:15:01/28-07-2026 |                                            |
+| 58839bcb | mpv nv-sglrun         | 18:11:41/28-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| f4c34dc | mpv exec                   | 01:47:37/30-07-2026 | HEAD -> master, github/master |
-| f239a0d | mpv                        | 01:26:23/30-07-2026 |                               |
-| 3eaa266 | mpv                        | 18:10:52/28-07-2026 |                               |
-| 74a355e | mpv wrapper with nv-sglrun | 17:52:50/28-07-2026 |                               |
-| a2e5af7 | mux scripts                | 15:14:59/21-07-2026 |                               |
-| a167ac5 | fdkaac                     | 20:28:00/19-07-2026 |                               |
-| 563308a | mux scripts                | 17:57:30/13-07-2026 |                               |
-| b1fa017 | mux-remote                 | 15:20:22/13-07-2026 |                               |
-| f5de274 | mux-play                   | 22:10:55/12-07-2026 |                               |
-| 3baf261 | mux-play                   | 20:33:20/12-07-2026 |                               |
+| 51c1bc8 | mpv script removed arg check | 18:17:39/30-07-2026 | HEAD -> master, github/master |
+| f4c34dc | mpv exec                     | 01:47:37/30-07-2026 |                               |
+| f239a0d | mpv                          | 01:26:23/30-07-2026 |                               |
+| 3eaa266 | mpv                          | 18:10:52/28-07-2026 |                               |
+| 74a355e | mpv wrapper with nv-sglrun   | 17:52:50/28-07-2026 |                               |
+| a2e5af7 | mux scripts                  | 15:14:59/21-07-2026 |                               |
+| a167ac5 | fdkaac                       | 20:28:00/19-07-2026 |                               |
+| 563308a | mux scripts                  | 17:57:30/13-07-2026 |                               |
+| b1fa017 | mux-remote                   | 15:20:22/13-07-2026 |                               |
+| f5de274 | mux-play                     | 22:10:55/12-07-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
