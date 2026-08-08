@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| ad421cb | ollama                       | 18:54:02/08-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 0c36780 | searxng-makefile             | 19:37:09/08-08-2026 | HEAD -> master, github/master, github/HEAD |
+| ad421cb | ollama                       | 18:54:02/08-08-2026 |                                            |
 | 2cf6db5 | searxng                      | 18:51:45/01-08-2026 |                                            |
 | f2267f7 | mpv                          | 21:11:35/30-07-2026 |                                            |
 | 1cdffb8 | searxng                      | 19:35:38/30-07-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | e746d4c | emacs mpv                    | 15:43:13/29-07-2026 |                                            |
 | 1df83e6 | mpv nv-sglrun                | 17:54:22/28-07-2026 |                                            |
 | 805190d | firefox disable emoji picker | 22:51:57/27-07-2026 |                                            |
-| 56a999f | dict                         | 14:07:27/27-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
