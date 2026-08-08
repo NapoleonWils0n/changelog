@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,19 +84,19 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 51c1bc8 | mpv script removed arg check | 18:17:39/30-07-2026 | HEAD -> master, github/master |
-| f4c34dc | mpv exec                     | 01:47:37/30-07-2026 |                               |
-| f239a0d | mpv                          | 01:26:23/30-07-2026 |                               |
-| 3eaa266 | mpv                          | 18:10:52/28-07-2026 |                               |
-| 74a355e | mpv wrapper with nv-sglrun   | 17:52:50/28-07-2026 |                               |
-| a2e5af7 | mux scripts                  | 15:14:59/21-07-2026 |                               |
-| a167ac5 | fdkaac                       | 20:28:00/19-07-2026 |                               |
-| 563308a | mux scripts                  | 17:57:30/13-07-2026 |                               |
-| b1fa017 | mux-remote                   | 15:20:22/13-07-2026 |                               |
-| f5de274 | mux-play                     | 22:10:55/12-07-2026 |                               |
+| 1.0e+INF | wrapper-freebsd              | 18:54:16/08-08-2026 | HEAD -> master, github/master |
+| 51c1bc8  | mpv script removed arg check | 18:17:39/30-07-2026 |                               |
+| f4c34dc  | mpv exec                     | 01:47:37/30-07-2026 |                               |
+| f239a0d  | mpv                          | 01:26:23/30-07-2026 |                               |
+| 3eaa266  | mpv                          | 18:10:52/28-07-2026 |                               |
+| 74a355e  | mpv wrapper with nv-sglrun   | 17:52:50/28-07-2026 |                               |
+| a2e5af7  | mux scripts                  | 15:14:59/21-07-2026 |                               |
+| a167ac5  | fdkaac                       | 20:28:00/19-07-2026 |                               |
+| 563308a  | mux scripts                  | 17:57:30/13-07-2026 |                               |
+| b1fa017  | mux-remote                   | 15:20:22/13-07-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 2cf6db5   | searxng                      | 18:51:45/01-08-2026 | HEAD -> master, github/master, github/HEAD |
-| f2267f7   | mpv                          | 21:11:35/30-07-2026 |                                            |
-| 1cdffb8   | searxng                      | 19:35:38/30-07-2026 |                                            |
-| de2cc19   | mpv                          | 01:47:01/30-07-2026 |                                            |
-| f69c4f6   | mpv vaapi                    | 01:26:07/30-07-2026 |                                            |
-| e746d4c   | emacs mpv                    | 15:43:13/29-07-2026 |                                            |
-| 1df83e6   | mpv nv-sglrun                | 17:54:22/28-07-2026 |                                            |
-| 805190d   | firefox disable emoji picker | 22:51:57/27-07-2026 |                                            |
-| 56a999f   | dict                         | 14:07:27/27-07-2026 |                                            |
-| 2423800.0 | cadence                      | 15:31:18/20-07-2026 |                                            |
+| ad421cb | ollama                       | 18:54:02/08-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 2cf6db5 | searxng                      | 18:51:45/01-08-2026 |                                            |
+| f2267f7 | mpv                          | 21:11:35/30-07-2026 |                                            |
+| 1cdffb8 | searxng                      | 19:35:38/30-07-2026 |                                            |
+| de2cc19 | mpv                          | 01:47:01/30-07-2026 |                                            |
+| f69c4f6 | mpv vaapi                    | 01:26:07/30-07-2026 |                                            |
+| e746d4c | emacs mpv                    | 15:43:13/29-07-2026 |                                            |
+| 1df83e6 | mpv nv-sglrun                | 17:54:22/28-07-2026 |                                            |
+| 805190d | firefox disable emoji picker | 22:51:57/27-07-2026 |                                            |
+| 56a999f | dict                         | 14:07:27/27-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
