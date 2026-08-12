@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 1.0e+INF | wrapper-freebsd              | 18:54:16/08-08-2026 | HEAD -> master, github/master |
+| f4c41bf  | wrappers                     | 18:41:33/12-08-2026 | HEAD -> master, github/master |
+| 1.0e+INF | wrapper-freebsd              | 18:54:16/08-08-2026 |                               |
 | 51c1bc8  | mpv script removed arg check | 18:17:39/30-07-2026 |                               |
 | f4c34dc  | mpv exec                     | 01:47:37/30-07-2026 |                               |
 | f239a0d  | mpv                          | 01:26:23/30-07-2026 |                               |
@@ -93,7 +94,6 @@ status
 | a2e5af7  | mux scripts                  | 15:14:59/21-07-2026 |                               |
 | a167ac5  | fdkaac                       | 20:28:00/19-07-2026 |                               |
 | 563308a  | mux scripts                  | 17:57:30/13-07-2026 |                               |
-| b1fa017  | mux-remote                   | 15:20:22/13-07-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
