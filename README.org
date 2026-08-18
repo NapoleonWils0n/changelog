@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b734049a | konversation          | 18:52:08/18-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 1df7628a | searxng freebsd       | 19:56:55/18-08-2026 | HEAD -> master, github/master, github/HEAD |
+| b734049a | konversation          | 18:52:08/18-08-2026 |                                            |
 | 179a3a37 | comm                  | 20:08:25/17-08-2026 |                                            |
 | 6b4359bb | diff                  | 19:50:35/17-08-2026 |                                            |
 | 7f14fc30 | tun destroy interface | 22:53:09/06-08-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 581c5598 | invidious             | 14:49:17/29-07-2026 |                                            |
 | bf437c83 | mpv                   | 18:43:15/28-07-2026 |                                            |
 | d6463280 | mpv nv-sglrun         | 18:24:30/28-07-2026 |                                            |
-| 0f0c0b55 | mpv                   | 18:21:54/28-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -96,7 +96,7 @@ status
 | 563308a  | mux scripts                  | 17:57:30/13-07-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 64452c6 | searxng-nix      | 13:22:21/14-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 1a37959 | removed searxng  | 19:58:05/18-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 64452c6 | searxng-nix      | 13:22:21/14-08-2026 |                                            |
 | 0c36780 | searxng-makefile | 19:37:09/08-08-2026 |                                            |
 | ad421cb | ollama           | 18:54:02/08-08-2026 |                                            |
 | 2cf6db5 | searxng          | 18:51:45/01-08-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | de2cc19 | mpv              | 01:47:01/30-07-2026 |                                            |
 | f69c4f6 | mpv vaapi        | 01:26:07/30-07-2026 |                                            |
 | e746d4c | emacs mpv        | 15:43:13/29-07-2026 |                                            |
-| 1df83e6 | mpv nv-sglrun    | 17:54:22/28-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
