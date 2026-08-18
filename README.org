@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 179a3a37 | comm                  | 20:08:25/17-08-2026 | HEAD -> master, github/master, github/HEAD |
+| b734049a | konversation          | 18:52:08/18-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 179a3a37 | comm                  | 20:08:25/17-08-2026 |                                            |
 | 6b4359bb | diff                  | 19:50:35/17-08-2026 |                                            |
 | 7f14fc30 | tun destroy interface | 22:53:09/06-08-2026 |                                            |
 | c2e68be0 | mpv removed arg check | 18:18:12/30-07-2026 |                                            |
@@ -58,11 +59,10 @@ git status
 | bf437c83 | mpv                   | 18:43:15/28-07-2026 |                                            |
 | d6463280 | mpv nv-sglrun         | 18:24:30/28-07-2026 |                                            |
 | 0f0c0b55 | mpv                   | 18:21:54/28-07-2026 |                                            |
-| 6de71ab4 | mpv                   | 18:18:42/28-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 563308a  | mux scripts                  | 17:57:30/13-07-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
