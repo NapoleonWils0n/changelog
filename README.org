@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| f4c41bf  | wrappers                     | 18:41:33/12-08-2026 | HEAD -> master, github/master |
+| 4933fd7  | yt-dlp                       | 14:53:50/20-08-2026 | HEAD -> master, github/master |
+| 0810acc  | nix wrapper                  | 19:26:29/12-08-2026 |                               |
+| f4c41bf  | wrappers                     | 18:41:33/12-08-2026 |                               |
 | 1.0e+INF | wrapper-freebsd              | 18:54:16/08-08-2026 |                               |
 | 51c1bc8  | mpv script removed arg check | 18:17:39/30-07-2026 |                               |
 | f4c34dc  | mpv exec                     | 01:47:37/30-07-2026 |                               |
@@ -92,8 +94,6 @@ status
 | 3eaa266  | mpv                          | 18:10:52/28-07-2026 |                               |
 | 74a355e  | mpv wrapper with nv-sglrun   | 17:52:50/28-07-2026 |                               |
 | a2e5af7  | mux scripts                  | 15:14:59/21-07-2026 |                               |
-| a167ac5  | fdkaac                       | 20:28:00/19-07-2026 |                               |
-| 563308a  | mux scripts                  | 17:57:30/13-07-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -187,7 +187,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 7030041 | syncthing   | 19:26:19/18-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 67ce786 | yt-dlp      | 14:54:31/20-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 7030041 | syncthing   | 19:26:19/18-08-2026 |                                            |
 | d1dbc9b | mux scripts | 15:16:17/21-07-2026 |                                            |
 | ebea5fc | syncthing   | 15:18:03/14-07-2026 |                                            |
 | 6da27e7 | mux scripts | 17:58:20/13-07-2026 |                                            |
@@ -196,7 +197,6 @@ status
 | dea9ec8 | srt scripts | 20:35:09/12-07-2026 |                                            |
 | a2d7654 | srt         | 17:40:40/12-07-2026 |                                            |
 | 480ae88 | srt         | 14:24:08/12-07-2026 |                                            |
-| 5c813c3 | srt         | 14:01:28/12-07-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
