@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 5a6ee540 | dolphin file manager  | 21:42:18/20-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 88dba6e7 | dolphin               | 21:43:37/20-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 5a6ee540 | dolphin file manager  | 21:42:18/20-08-2026 |                                            |
 | 7b6ea362 | translatelocally      | 21:03:48/19-08-2026 |                                            |
 | 1df7628a | searxng freebsd       | 19:56:55/18-08-2026 |                                            |
 | b734049a | konversation          | 18:52:08/18-08-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 7f14fc30 | tun destroy interface | 22:53:09/06-08-2026 |                                            |
 | c2e68be0 | mpv removed arg check | 18:18:12/30-07-2026 |                                            |
 | ec883a27 | mpv                   | 01:45:23/30-07-2026 |                                            |
-| 581c5598 | invidious             | 14:49:17/29-07-2026 |                                            |
 #+end_quote
 
 ** freebsd
