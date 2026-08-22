@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 73fa554 | removed erdtree  | 15:13:04/22-08-2026 | HEAD -> master, github/master, github/HEAD |
+| ca56cb8 | ollama           | 18:01:25/22-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 73fa554 | removed erdtree  | 15:13:04/22-08-2026 |                                            |
 | 6d10ab2 | pkg prime-list   | 14:55:33/22-08-2026 |                                            |
 | 7b8a52b | searxng make     | 21:44:23/18-08-2026 |                                            |
 | 1a37959 | removed searxng  | 19:58:05/18-08-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | ad421cb | ollama           | 18:54:02/08-08-2026 |                                            |
 | 2cf6db5 | searxng          | 18:51:45/01-08-2026 |                                            |
 | f2267f7 | mpv              | 21:11:35/30-07-2026 |                                            |
-| 1cdffb8 | searxng          | 19:35:38/30-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
