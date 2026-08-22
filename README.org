@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 7b8a52b | searxng make     | 21:44:23/18-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 6d10ab2 | pkg prime-list   | 14:55:33/22-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 7b8a52b | searxng make     | 21:44:23/18-08-2026 |                                            |
 | 1a37959 | removed searxng  | 19:58:05/18-08-2026 |                                            |
 | 64452c6 | searxng-nix      | 13:22:21/14-08-2026 |                                            |
 | 0c36780 | searxng-makefile | 19:37:09/08-08-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | f2267f7 | mpv              | 21:11:35/30-07-2026 |                                            |
 | 1cdffb8 | searxng          | 19:35:38/30-07-2026 |                                            |
 | de2cc19 | mpv              | 01:47:01/30-07-2026 |                                            |
-| f69c4f6 | mpv vaapi        | 01:26:07/30-07-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
