@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 806d722 | vulkan tools       | 00:57:16/31-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 14384cb | ollama             | 21:53:25/02-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 806d722 | vulkan tools       | 00:57:16/31-08-2026 |                                            |
 | 3118cc5 | clangd eglot emacs | 16:11:59/29-08-2026 |                                            |
 | ca56cb8 | ollama             | 18:01:25/22-08-2026 |                                            |
 | 73fa554 | removed erdtree    | 15:13:04/22-08-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 1a37959 | removed searxng    | 19:58:05/18-08-2026 |                                            |
 | 64452c6 | searxng-nix        | 13:22:21/14-08-2026 |                                            |
 | 0c36780 | searxng-makefile   | 19:37:09/08-08-2026 |                                            |
-| ad421cb | ollama             | 18:54:02/08-08-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
