@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 14384cb | ollama             | 21:53:25/02-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 84831df | emacs-emamux       | 00:17:38/04-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 14384cb | ollama             | 21:53:25/02-09-2026 |                                            |
 | 806d722 | vulkan tools       | 00:57:16/31-08-2026 |                                            |
 | 3118cc5 | clangd eglot emacs | 16:11:59/29-08-2026 |                                            |
 | ca56cb8 | ollama             | 18:01:25/22-08-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 7b8a52b | searxng make       | 21:44:23/18-08-2026 |                                            |
 | 1a37959 | removed searxng    | 19:58:05/18-08-2026 |                                            |
 | 64452c6 | searxng-nix        | 13:22:21/14-08-2026 |                                            |
-| 0c36780 | searxng-makefile   | 19:37:09/08-08-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
@@ -199,7 +199,7 @@ status
 | 480ae88 | srt         | 14:24:08/12-07-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -221,7 +221,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 27e334f | invidious                                | 15:10:21/15-06-2026 | HEAD -> master, github/master, github/HEAD |
+| 22198fa | emacs-emamux                             | 00:17:52/04-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 27e334f | invidious                                | 15:10:21/15-06-2026 |                                            |
 | dc6cc07 | mpv invidious                            | 18:36:39/14-06-2026 |                                            |
 | 3461c1d | emacs mpv                                | 18:18:54/14-06-2026 |                                            |
 | 8398483 | emacs                                    | 14:25:51/12-06-2026 |                                            |
@@ -230,7 +231,6 @@ status
 | a8bfc61 | debian                                   | 18:40:07/06-05-2026 |                                            |
 | f25ba12 | debian dotfiles                          | 18:17:27/06-05-2026 |                                            |
 | 17768cb | ollama                                   | 11:36:52/06-05-2026 |                                            |
-| 06372fe | ollama                                   | 17:08:14/04-05-2026 |                                            |
 #+end_quote
 
 *** debian-root
