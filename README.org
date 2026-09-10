@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 66fa471c     | playerctl        | 19:28:45/10-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 3abb938f     | openbsd packages | 19:22:35/10-09-2026 |                                            |
-| 1a40c7a2     | openbsd          | 17:00:42/10-09-2026 |                                            |
-| c2538c60     | openbsd          | 22:52:02/09-09-2026 |                                            |
-| b140d49c     | openbsd          | 20:38:03/09-09-2026 |                                            |
-| 45e1072d     | movestack        | 20:46:52/07-09-2026 |                                            |
-| ed0e6c50     | emamux           | 20:15:59/05-09-2026 |                                            |
-| c98b71be     | emamux           | 20:10:28/05-09-2026 |                                            |
-| 9e6f0977     | translategemma   | 20:09:24/02-09-2026 |                                            |
-| 5552100000.0 | translatelocally | 13:22:56/28-08-2026 |                                            |
+| 89d7e661 | openbsd fonts    | 19:34:46/10-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 66fa471c | playerctl        | 19:28:45/10-09-2026 |                                            |
+| 3abb938f | openbsd packages | 19:22:35/10-09-2026 |                                            |
+| 1a40c7a2 | openbsd          | 17:00:42/10-09-2026 |                                            |
+| c2538c60 | openbsd          | 22:52:02/09-09-2026 |                                            |
+| b140d49c | openbsd          | 20:38:03/09-09-2026 |                                            |
+| 45e1072d | movestack        | 20:46:52/07-09-2026 |                                            |
+| ed0e6c50 | emamux           | 20:15:59/05-09-2026 |                                            |
+| c98b71be | emamux           | 20:10:28/05-09-2026 |                                            |
+| 9e6f0977 | translategemma   | 20:09:24/02-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
