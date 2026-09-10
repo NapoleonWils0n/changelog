@@ -221,7 +221,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 02640a4 | debian-dotfiles                          | 13:48:29/05-09-2026 | HEAD -> master, github/master, github/HEAD |
+| f20a152 | emacs tramp ssh                          | 22:35:12/10-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 02640a4 | debian-dotfiles                          | 13:48:29/05-09-2026 |                                            |
 | a1d72d8 | emamux                                   | 13:43:36/05-09-2026 |                                            |
 | 22198fa | emacs-emamux                             | 00:17:52/04-09-2026 |                                            |
 | 27e334f | invidious                                | 15:10:21/15-06-2026 |                                            |
@@ -230,7 +231,6 @@ status
 | 8398483 | emacs                                    | 14:25:51/12-06-2026 |                                            |
 | 7cc1a73 | xdg-open                                 | 22:38:22/08-05-2026 |                                            |
 | 8602158 | debian doomode line now playing slot fix | 22:03:34/08-05-2026 |                                            |
-| a8bfc61 | debian                                   | 18:40:07/06-05-2026 |                                            |
 #+end_quote
 
 *** debian-root
