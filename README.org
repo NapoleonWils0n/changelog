@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a3ca7b2f | openbsd ports     | 20:45:53/12-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 1193c92c | openbsd ports csv | 20:18:58/12-09-2026 |                                            |
-| 413b49bd | openbsd ports     | 18:31:58/12-09-2026 |                                            |
-| b2b19f26 | openbsd ports     | 18:30:31/12-09-2026 |                                            |
-| 88d5cc0c | openbsd ports     | 23:37:57/11-09-2026 |                                            |
-| 400a2538 | openbsd sets      | 23:13:59/11-09-2026 |                                            |
-| 317011bf | openbsd ports     | 23:10:17/11-09-2026 |                                            |
-| 2160c63b | openbsd clang     | 21:55:59/11-09-2026 |                                            |
-| c427d5c0 | node              | 19:27:15/11-09-2026 |                                            |
-| 25dd42fd | login.conf        | 21:59:11/10-09-2026 |                                            |
+| 4c97f3fb | openbsd ports csv update | 21:55:05/12-09-2026 | HEAD -> master, github/master, github/HEAD |
+| a3ca7b2f | openbsd ports            | 20:45:53/12-09-2026 |                                            |
+| 1193c92c | openbsd ports csv        | 20:18:58/12-09-2026 |                                            |
+| 413b49bd | openbsd ports            | 18:31:58/12-09-2026 |                                            |
+| b2b19f26 | openbsd ports            | 18:30:31/12-09-2026 |                                            |
+| 88d5cc0c | openbsd ports            | 23:37:57/11-09-2026 |                                            |
+| 400a2538 | openbsd sets             | 23:13:59/11-09-2026 |                                            |
+| 317011bf | openbsd ports            | 23:10:17/11-09-2026 |                                            |
+| 2160c63b | openbsd clang            | 21:55:59/11-09-2026 |                                            |
+| c427d5c0 | node                     | 19:27:15/11-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
