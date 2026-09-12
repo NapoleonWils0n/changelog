@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 88d5cc0c | openbsd ports | 23:37:57/11-09-2026 | HEAD -> master, github/master, github/HEAD |
+| b2b19f26 | openbsd ports | 18:30:31/12-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 88d5cc0c | openbsd ports | 23:37:57/11-09-2026 |                                            |
 | 400a2538 | openbsd sets  | 23:13:59/11-09-2026 |                                            |
 | 317011bf | openbsd ports | 23:10:17/11-09-2026 |                                            |
 | 2160c63b | openbsd clang | 21:55:59/11-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 63929073 | curl          | 21:15:56/10-09-2026 |                                            |
 | a605f570 | qt            | 20:27:13/10-09-2026 |                                            |
 | 124a0b09 | noto-emoji    | 19:45:08/10-09-2026 |                                            |
-| 89d7e661 | openbsd fonts | 19:34:46/10-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
