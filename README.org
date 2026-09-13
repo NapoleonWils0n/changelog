@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| bf12f5ee | libnotify                 | 19:40:58/13-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 4b041725 | openbsd grim slurp        | 19:46:10/13-09-2026 | HEAD -> master, github/master, github/HEAD |
+| bf12f5ee | libnotify                 | 19:40:58/13-09-2026 |                                            |
 | e6b2ca05 | open backlight and screen | 19:12:46/13-09-2026 |                                            |
 | 5540c95e | open passwd and softraid  | 18:13:29/13-09-2026 |                                            |
 | 70063104 | adwaita qt                | 15:22:48/13-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | a3ca7b2f | openbsd ports             | 20:45:53/12-09-2026 |                                            |
 | 1193c92c | openbsd ports csv         | 20:18:58/12-09-2026 |                                            |
 | 413b49bd | openbsd ports             | 18:31:58/12-09-2026 |                                            |
-| b2b19f26 | openbsd ports             | 18:30:31/12-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
