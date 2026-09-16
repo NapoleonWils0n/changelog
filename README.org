@@ -164,6 +164,79 @@ status
 | 3fb0cbd | laggpf fix for bhyve                    | 15:30:35/12-06-2026 |                               |
 #+end_quote
 
+** openbsd
+*** XPS openbsd-bin-macbook
+
+github url
+
+[[https://github.com/NapoleonWils0n/openbsd-bin-macbook]]
+
+local path
+
+#+begin_src sh
+~/git/various-systems/openbsd/openbsd-bin-macbook
+#+end_src
+
+status
+
+#+NAME: openbsd-bin-macbook
+#+HEADER: :var path="~/git/various-systems/openbsd/openbsd-bin-macbook"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: openbsd-bin-macbook
+#+begin_quote
+| 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 | HEAD -> master, origin/master, origin/HEAD |
+#+end_quote
+
+*** XPS openbsd-dotfiles-macbook
+
+github url
+
+[[https://github.com/NapoleonWils0n/openbsd-dotfiles-macbook]]
+
+local path
+
+#+begin_src sh
+~/git/various-systems/openbsd/openbsd-dotfiles-macbook
+#+end_src
+
+status
+
+#+NAME: openbsd-dotfiles-macbook
+#+HEADER: :var path="~/git/various-systems/openbsd/openbsd-dotfiles-macbook"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: openbsd-dotfiles-macbook
+#+begin_quote
+| ddfdb4d | openbsd dotfiles macbook air | 21:29:11/16-09-2026 | HEAD -> master, github/master |
+#+end_quote
+
+*** XPS openbsd-root-macbook
+
+github url
+
+[[https://github.com/NapoleonWils0n/openbsd-root-macbook]]
+
+local path
+
+#+begin_src sh
+~/git/various-systems/openbsd/openbsd-root-macbook
+#+end_src
+
+status
+
+#+NAME: openbsd-root-macbook
+#+HEADER: :var path="~/git/various-systems/openbsd/openbsd-root-macbook"
+#+begin_src sh
+<<noweb-block>>
+#+end_src
+
+#+RESULTS: openbsd-root-macbook
+
 ** debian
 *** debian-bin
 
