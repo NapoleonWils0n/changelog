@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f0777f8e | syncthing                 | 13:42:32/16-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 8553f2fb | openbsd dwl xwayland mpv  | 22:30:11/15-09-2026 |                                            |
-| 57a2db5e | openbsd mpd               | 16:02:24/15-09-2026 |                                            |
-| 7b831746 | pf and mpd                | 14:55:14/15-09-2026 |                                            |
-| 1bdb527b | openbsd macbook air       | 21:32:51/14-09-2026 |                                            |
-| 5c7e1ecc | openbsd                   | 21:12:18/14-09-2026 |                                            |
-| a17a3e81 | openbsd macbook air       | 00:03:58/14-09-2026 |                                            |
-| 4b041725 | openbsd grim slurp        | 19:46:10/13-09-2026 |                                            |
-| bf12f5ee | libnotify                 | 19:40:58/13-09-2026 |                                            |
-| e6b2ca05 | open backlight and screen | 19:12:46/13-09-2026 |                                            |
+| fb52de9e | mpv-mpris                | 18:14:33/16-09-2026 | HEAD -> master, github/master, github/HEAD |
+| f0777f8e | syncthing                | 13:42:32/16-09-2026 |                                            |
+| 8553f2fb | openbsd dwl xwayland mpv | 22:30:11/15-09-2026 |                                            |
+| 57a2db5e | openbsd mpd              | 16:02:24/15-09-2026 |                                            |
+| 7b831746 | pf and mpd               | 14:55:14/15-09-2026 |                                            |
+| 1bdb527b | openbsd macbook air      | 21:32:51/14-09-2026 |                                            |
+| 5c7e1ecc | openbsd                  | 21:12:18/14-09-2026 |                                            |
+| a17a3e81 | openbsd macbook air      | 00:03:58/14-09-2026 |                                            |
+| 4b041725 | openbsd grim slurp       | 19:46:10/13-09-2026 |                                            |
+| bf12f5ee | libnotify                | 19:40:58/13-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
