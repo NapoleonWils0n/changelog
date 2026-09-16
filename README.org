@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f5340631 | chromium                 | 21:35:23/16-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 39c37272 | openbsd firefox unveil   | 23:27:24/16-09-2026 | HEAD -> master, github/master, github/HEAD |
+| f5340631 | chromium                 | 21:35:23/16-09-2026 |                                            |
 | 5d484c7b | dwl-start                | 18:56:28/16-09-2026 |                                            |
 | fb52de9e | mpv-mpris                | 18:14:33/16-09-2026 |                                            |
 | f0777f8e | syncthing                | 13:42:32/16-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 7b831746 | pf and mpd               | 14:55:14/15-09-2026 |                                            |
 | 1bdb527b | openbsd macbook air      | 21:32:51/14-09-2026 |                                            |
 | 5c7e1ecc | openbsd                  | 21:12:18/14-09-2026 |                                            |
-| a17a3e81 | openbsd macbook air      | 00:03:58/14-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
