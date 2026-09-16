@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| fb52de9e | mpv-mpris                | 18:14:33/16-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 5d484c7b | dwl-start                | 18:56:28/16-09-2026 | HEAD -> master, github/master, github/HEAD |
+| fb52de9e | mpv-mpris                | 18:14:33/16-09-2026 |                                            |
 | f0777f8e | syncthing                | 13:42:32/16-09-2026 |                                            |
 | 8553f2fb | openbsd dwl xwayland mpv | 22:30:11/15-09-2026 |                                            |
 | 57a2db5e | openbsd mpd              | 16:02:24/15-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 5c7e1ecc | openbsd                  | 21:12:18/14-09-2026 |                                            |
 | a17a3e81 | openbsd macbook air      | 00:03:58/14-09-2026 |                                            |
 | 4b041725 | openbsd grim slurp       | 19:46:10/13-09-2026 |                                            |
-| bf12f5ee | libnotify                | 19:40:58/13-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
