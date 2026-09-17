@@ -187,7 +187,8 @@ status
 
 #+RESULTS: openbsd-bin-macbook
 #+begin_quote
-| 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 | HEAD -> master, origin/master, origin/HEAD |
+| 76932d8 | rust scripts        | 15:07:55/17-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
 #+end_quote
 
 *** XPS openbsd-dotfiles-macbook
@@ -212,7 +213,8 @@ status
 
 #+RESULTS: openbsd-dotfiles-macbook
 #+begin_quote
-| ee5fe30 | pkg list                     | 14:49:41/17-09-2026 | HEAD -> master, github/master |
+| f0c0ff7 | zshenv ffplay                | 15:07:20/17-09-2026 | HEAD -> master, github/master |
+| ee5fe30 | pkg list                     | 14:49:41/17-09-2026 |                               |
 | 3d9956e | dwl                          | 14:07:07/17-09-2026 |                               |
 | f792795 | grim                         | 13:59:24/17-09-2026 |                               |
 | 17a9457 | wlr-which-key                | 12:51:26/17-09-2026 |                               |
