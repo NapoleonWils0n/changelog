@@ -187,7 +187,8 @@ status
 
 #+RESULTS: openbsd-bin-macbook
 #+begin_quote
-| f92c211 | wayback links       | 19:46:34/17-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 5efabb8 | openvpn             | 20:04:55/17-09-2026 | HEAD -> master, github/master, github/HEAD |
+| f92c211 | wayback links       | 19:46:34/17-09-2026 |                                            |
 | 76932d8 | rust scripts        | 15:07:55/17-09-2026 |                                            |
 | 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
 #+end_quote
