@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 2c0abad  | removed                      | 14:32:05/04-09-2026 | HEAD -> master, github/master |
+| 6142398  | dwl-start                    | 11:37:20/17-09-2026 | HEAD -> master, github/master |
+| 2c0abad  | removed                      | 14:32:05/04-09-2026 |                               |
 | 29fa05d  | kokoro                       | 14:30:45/04-09-2026 |                               |
 | 4933fd7  | yt-dlp                       | 14:53:50/20-08-2026 |                               |
 | 0810acc  | nix wrapper                  | 19:26:29/12-08-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 51c1bc8  | mpv script removed arg check | 18:17:39/30-07-2026 |                               |
 | f4c34dc  | mpv exec                     | 01:47:37/30-07-2026 |                               |
 | f239a0d  | mpv                          | 01:26:23/30-07-2026 |                               |
-| 3eaa266  | mpv                          | 18:10:52/28-07-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
