@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | f239a0d  | mpv                          | 01:26:23/30-07-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** openbsd
-*** XPS openbsd-bin-macbook
+*** openbsd-bin-macbook
 
 github url
 
@@ -191,7 +191,7 @@ status
 | 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
 #+end_quote
 
-*** XPS openbsd-dotfiles-macbook
+*** openbsd-dotfiles-macbook
 
 github url
 
@@ -221,7 +221,7 @@ status
 | ddfdb4d | openbsd dotfiles macbook air | 21:29:11/16-09-2026 |                               |
 #+end_quote
 
-*** XPS openbsd-root-macbook
+*** openbsd-root-macbook
 
 github url
 
@@ -244,7 +244,7 @@ status
 #+RESULTS: openbsd-root-macbook
 
 ** debian
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -266,7 +266,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 67ce786 | yt-dlp      | 14:54:31/20-08-2026 | HEAD -> master, github/master, github/HEAD |
+| 932f5e0 | syncthing   | 15:57:39/17-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 67ce786 | yt-dlp      | 14:54:31/20-08-2026 |                                            |
 | 7030041 | syncthing   | 19:26:19/18-08-2026 |                                            |
 | d1dbc9b | mux scripts | 15:16:17/21-07-2026 |                                            |
 | ebea5fc | syncthing   | 15:18:03/14-07-2026 |                                            |
@@ -275,10 +276,9 @@ status
 | e05678d | mux-play    | 22:11:55/12-07-2026 |                                            |
 | dea9ec8 | srt scripts | 20:35:09/12-07-2026 |                                            |
 | a2d7654 | srt         | 17:40:40/12-07-2026 |                                            |
-| 480ae88 | srt         | 14:24:08/12-07-2026 |                                            |
 #+end_quote
 
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
