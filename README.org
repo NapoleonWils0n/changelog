@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 691afa43 | openbsd pkg commands     | 14:25:00/17-09-2026 | HEAD -> master, github/master, github/HEAD |
+| ed67a48f | openbsd wifi             | 21:46:04/18-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 691afa43 | openbsd pkg commands     | 14:25:00/17-09-2026 |                                            |
 | 7d949f50 | dwl                      | 14:13:37/17-09-2026 |                                            |
 | d982255f | openbsd                  | 14:11:32/17-09-2026 |                                            |
 | 39c37272 | openbsd firefox unveil   | 23:27:24/16-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | fb52de9e | mpv-mpris                | 18:14:33/16-09-2026 |                                            |
 | f0777f8e | syncthing                | 13:42:32/16-09-2026 |                                            |
 | 8553f2fb | openbsd dwl xwayland mpv | 22:30:11/15-09-2026 |                                            |
-| 57a2db5e | openbsd mpd              | 16:02:24/15-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
