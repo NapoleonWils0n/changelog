@@ -224,7 +224,7 @@ status
 | ddfdb4d | openbsd dotfiles macbook air | 21:29:11/16-09-2026 |                               |
 #+end_quote
 
-*** openbsd-root-macbook
+*** XPS openbsd-root-macbook
 
 github url
 
@@ -245,9 +245,12 @@ status
 #+end_src
 
 #+RESULTS: openbsd-root-macbook
+#+begin_quote
+| bacc295 | openbsd root macbook | 17:08:13/18-09-2026 | HEAD -> master, github/master, github/HEAD |
+#+end_quote
 
 ** debian
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
