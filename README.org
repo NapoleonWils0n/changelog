@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** openbsd
-*** XPS openbsd-bin-macbook
+*** openbsd-bin-macbook
 
 github url
 
@@ -193,7 +193,7 @@ status
 | 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
 #+end_quote
 
-*** XPS openbsd-dotfiles-macbook
+*** openbsd-dotfiles-macbook
 
 github url
 
@@ -224,7 +224,7 @@ status
 | ddfdb4d | openbsd dotfiles macbook air | 21:29:11/16-09-2026 |                               |
 #+end_quote
 
-*** XPS openbsd-root-macbook
+*** openbsd-root-macbook
 
 github url
 
