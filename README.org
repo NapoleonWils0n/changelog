@@ -193,7 +193,7 @@ status
 | 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
 #+end_quote
 
-*** openbsd-dotfiles-macbook
+*** XPS openbsd-dotfiles-macbook
 
 github url
 
@@ -215,7 +215,8 @@ status
 
 #+RESULTS: openbsd-dotfiles-macbook
 #+begin_quote
-| f0c0ff7 | zshenv ffplay                | 15:07:20/17-09-2026 | HEAD -> master, github/master |
+| cd8ef1d | openbsd dotfiles             | 13:19:21/18-09-2026 | HEAD -> master, github/master |
+| f0c0ff7 | zshenv ffplay                | 15:07:20/17-09-2026 |                               |
 | ee5fe30 | pkg list                     | 14:49:41/17-09-2026 |                               |
 | 3d9956e | dwl                          | 14:07:07/17-09-2026 |                               |
 | f792795 | grim                         | 13:59:24/17-09-2026 |                               |
