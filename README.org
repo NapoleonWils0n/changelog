@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 8e2fc78c | bectl                  | 15:39:34/19-09-2026 | HEAD -> master, github/master, github/HEAD |
+| c328748f | hotplug                | 20:58:57/19-09-2026 | HEAD -> master, github/master, github/HEAD |
+| febbdf19 | hotplug                | 20:57:04/19-09-2026 |                                            |
+| c9804c9c | openbsd trunk          | 20:36:14/19-09-2026 |                                            |
+| 9e1db514 | openbsd trunk          | 20:28:06/19-09-2026 |                                            |
+| 8e2fc78c | bectl                  | 15:39:34/19-09-2026 |                                            |
 | ed67a48f | openbsd wifi           | 21:46:04/18-09-2026 |                                            |
 | 691afa43 | openbsd pkg commands   | 14:25:00/17-09-2026 |                                            |
 | 7d949f50 | dwl                    | 14:13:37/17-09-2026 |                                            |
 | d982255f | openbsd                | 14:11:32/17-09-2026 |                                            |
 | 39c37272 | openbsd firefox unveil | 23:27:24/16-09-2026 |                                            |
-| f5340631 | chromium               | 21:35:23/16-09-2026 |                                            |
-| 5d484c7b | dwl-start              | 18:56:28/16-09-2026 |                                            |
-| fb52de9e | mpv-mpris              | 18:14:33/16-09-2026 |                                            |
-| f0777f8e | syncthing              | 13:42:32/16-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -130,7 +130,7 @@ status
 | 7b8a52b | searxng make       | 21:44:23/18-08-2026 |                                            |
 #+end_quote
 
-*** freebsd-root-xps
+*** AIR freebsd-root-xps
 
 github url
 
