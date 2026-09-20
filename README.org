@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a62f9744 | openbsd encrypted disk image | 20:03:40/20-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 4240d3ff | ossuary                      | 20:29:06/20-09-2026 | HEAD -> master, github/master, github/HEAD |
+| a62f9744 | openbsd encrypted disk image | 20:03:40/20-09-2026 |                                            |
 | 0ada0370 | openbsd etherbet trunk       | 00:33:21/20-09-2026 |                                            |
 | 1952d017 | openbsd                      | 00:20:25/20-09-2026 |                                            |
 | aa9db1bd | openbsd trunk                | 23:56:29/19-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | febbdf19 | hotplug                      | 20:57:04/19-09-2026 |                                            |
 | c9804c9c | openbsd trunk                | 20:36:14/19-09-2026 |                                            |
 | 9e1db514 | openbsd trunk                | 20:28:06/19-09-2026 |                                            |
-| 8e2fc78c | bectl                        | 15:39:34/19-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
