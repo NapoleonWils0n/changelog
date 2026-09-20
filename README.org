@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| aa9db1bd | openbsd trunk        | 23:56:29/19-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 949488d3 | openbsd trunk pf     | 22:55:00/19-09-2026 |                                            |
-| c328748f | hotplug              | 20:58:57/19-09-2026 |                                            |
-| febbdf19 | hotplug              | 20:57:04/19-09-2026 |                                            |
-| c9804c9c | openbsd trunk        | 20:36:14/19-09-2026 |                                            |
-| 9e1db514 | openbsd trunk        | 20:28:06/19-09-2026 |                                            |
-| 8e2fc78c | bectl                | 15:39:34/19-09-2026 |                                            |
-| ed67a48f | openbsd wifi         | 21:46:04/18-09-2026 |                                            |
-| 691afa43 | openbsd pkg commands | 14:25:00/17-09-2026 |                                            |
-| 7d949f50 | dwl                  | 14:13:37/17-09-2026 |                                            |
+| a62f9744 | openbsd encrypted disk image | 20:03:40/20-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 0ada0370 | openbsd etherbet trunk       | 00:33:21/20-09-2026 |                                            |
+| 1952d017 | openbsd                      | 00:20:25/20-09-2026 |                                            |
+| aa9db1bd | openbsd trunk                | 23:56:29/19-09-2026 |                                            |
+| 949488d3 | openbsd trunk pf             | 22:55:00/19-09-2026 |                                            |
+| c328748f | hotplug                      | 20:58:57/19-09-2026 |                                            |
+| febbdf19 | hotplug                      | 20:57:04/19-09-2026 |                                            |
+| c9804c9c | openbsd trunk                | 20:36:14/19-09-2026 |                                            |
+| 9e1db514 | openbsd trunk                | 20:28:06/19-09-2026 |                                            |
+| 8e2fc78c | bectl                        | 15:39:34/19-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** openbsd
-*** openbsd-bin-macbook
+*** AIR openbsd-bin-macbook
 
 github url
 
@@ -187,7 +187,8 @@ status
 
 #+RESULTS: openbsd-bin-macbook
 #+begin_quote
-| 5efabb8 | openvpn             | 20:04:55/17-09-2026 | HEAD -> master, github/master, github/HEAD |
+| b870e98 | openbsd ossuary     | 20:21:43/20-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 5efabb8 | openvpn             | 20:04:55/17-09-2026 |                                            |
 | f92c211 | wayback links       | 19:46:34/17-09-2026 |                                            |
 | 76932d8 | rust scripts        | 15:07:55/17-09-2026 |                                            |
 | 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
