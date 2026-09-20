@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** AIR cerberus
+** cerberus
 
 github url
 
@@ -165,7 +165,7 @@ status
 #+end_quote
 
 ** openbsd
-*** AIR openbsd-bin-macbook
+*** openbsd-bin-macbook
 
 github url
 
@@ -225,7 +225,7 @@ status
 | ddfdb4d | openbsd dotfiles macbook air | 21:29:11/16-09-2026 |                               |
 #+end_quote
 
-*** AIR openbsd-root-macbook
+*** openbsd-root-macbook
 
 github url
 
