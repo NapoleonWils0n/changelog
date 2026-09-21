@@ -96,7 +96,7 @@ status
 | f239a0d  | mpv                          | 01:26:23/30-07-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| d37f85f | emacs tramp ssh    | 21:15:10/10-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 99ed6df | newsboat           | 18:17:51/21-09-2026 | HEAD -> master, github/master, github/HEAD |
+| d37f85f | emacs tramp ssh    | 21:15:10/10-09-2026 |                                            |
 | a3dd742 | emamux             | 13:42:20/05-09-2026 |                                            |
 | 84831df | emacs-emamux       | 00:17:38/04-09-2026 |                                            |
 | 14384cb | ollama             | 21:53:25/02-09-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | ca56cb8 | ollama             | 18:01:25/22-08-2026 |                                            |
 | 73fa554 | removed erdtree    | 15:13:04/22-08-2026 |                                            |
 | 6d10ab2 | pkg prime-list     | 14:55:33/22-08-2026 |                                            |
-| 7b8a52b | searxng make       | 21:44:23/18-08-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
