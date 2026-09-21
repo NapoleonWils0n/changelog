@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 99ed6df | newsboat           | 18:17:51/21-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 9823a0a | fzf                | 18:43:14/21-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 99ed6df | newsboat           | 18:17:51/21-09-2026 |                                            |
 | d37f85f | emacs tramp ssh    | 21:15:10/10-09-2026 |                                            |
 | a3dd742 | emamux             | 13:42:20/05-09-2026 |                                            |
 | 84831df | emacs-emamux       | 00:17:38/04-09-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 3118cc5 | clangd eglot emacs | 16:11:59/29-08-2026 |                                            |
 | ca56cb8 | ollama             | 18:01:25/22-08-2026 |                                            |
 | 73fa554 | removed erdtree    | 15:13:04/22-08-2026 |                                            |
-| 6d10ab2 | pkg prime-list     | 14:55:33/22-08-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
