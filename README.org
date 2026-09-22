@@ -96,7 +96,7 @@ status
 | 0810acc        | nix wrapper            | 19:26:29/12-08-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 3ab7312 | newsboat           | 21:08:34/21-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 83a8b9a | newsraft           | 23:57:14/22-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 3ab7312 | newsboat           | 21:08:34/21-09-2026 |                                            |
 | 9823a0a | fzf                | 18:43:14/21-09-2026 |                                            |
 | 99ed6df | newsboat           | 18:17:51/21-09-2026 |                                            |
 | d37f85f | emacs tramp ssh    | 21:15:10/10-09-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 14384cb | ollama             | 21:53:25/02-09-2026 |                                            |
 | 806d722 | vulkan tools       | 00:57:16/31-08-2026 |                                            |
 | 3118cc5 | clangd eglot emacs | 16:11:59/29-08-2026 |                                            |
-| ca56cb8 | ollama             | 18:01:25/22-08-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
