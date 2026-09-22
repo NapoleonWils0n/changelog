@@ -49,7 +49,9 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 4dd1cf2c | ossuary                      | 14:49:55/22-09-2026 | HEAD -> master, github/master, github/HEAD |
+| b43e0d9f | openbsd pf                   | 16:02:51/22-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 2d859a69 | disable sshd                 | 15:56:53/22-09-2026 |                                            |
+| 4dd1cf2c | ossuary                      | 14:49:55/22-09-2026 |                                            |
 | 91b4d985 | n8n github                   | 13:40:29/21-09-2026 |                                            |
 | 4240d3ff | ossuary                      | 20:29:06/20-09-2026 |                                            |
 | a62f9744 | openbsd encrypted disk image | 20:03:40/20-09-2026 |                                            |
@@ -57,8 +59,6 @@ git status
 | 1952d017 | openbsd                      | 00:20:25/20-09-2026 |                                            |
 | aa9db1bd | openbsd trunk                | 23:56:29/19-09-2026 |                                            |
 | 949488d3 | openbsd trunk pf             | 22:55:00/19-09-2026 |                                            |
-| c328748f | hotplug                      | 20:58:57/19-09-2026 |                                            |
-| febbdf19 | hotplug                      | 20:57:04/19-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -196,7 +196,7 @@ status
 | 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
 #+end_quote
 
-*** openbsd-dotfiles-macbook
+*** AIR openbsd-dotfiles-macbook
 
 github url
 
@@ -218,7 +218,8 @@ status
 
 #+RESULTS: openbsd-dotfiles-macbook
 #+begin_quote
-| cd8ef1d | openbsd dotfiles             | 13:19:21/18-09-2026 | HEAD -> master, github/master |
+| 8d426e1 | xdg Downloads                | 15:37:48/22-09-2026 | HEAD -> master, github/master |
+| cd8ef1d | openbsd dotfiles             | 13:19:21/18-09-2026 |                               |
 | f0c0ff7 | zshenv ffplay                | 15:07:20/17-09-2026 |                               |
 | ee5fe30 | pkg list                     | 14:49:41/17-09-2026 |                               |
 | 3d9956e | dwl                          | 14:07:07/17-09-2026 |                               |
@@ -249,12 +250,14 @@ status
 
 #+RESULTS: openbsd-root-macbook
 #+begin_quote
-| 50dc64f | firefox unveil       | 15:15:11/22-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 2129920 | openbsd trunk redo   | 23:54:07/19-09-2026 |                                            |
-| 76bd196 | pf trunk             | 22:52:24/19-09-2026 |                                            |
-| 479fdf1 | hotplug              | 22:02:02/19-09-2026 |                                            |
-| 6802ce3 | root hotplug         | 21:04:27/19-09-2026 |                                            |
-| bacc295 | openbsd root macbook | 17:08:13/18-09-2026 |                                            |
+| 68058c9 | pf rc.conf.local      | 16:01:58/22-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 5ff74b3 | firefox downloads dir | 15:40:19/22-09-2026 |                                            |
+| 50dc64f | firefox unveil        | 15:15:11/22-09-2026 |                                            |
+| 2129920 | openbsd trunk redo    | 23:54:07/19-09-2026 |                                            |
+| 76bd196 | pf trunk              | 22:52:24/19-09-2026 |                                            |
+| 479fdf1 | hotplug               | 22:02:02/19-09-2026 |                                            |
+| 6802ce3 | root hotplug          | 21:04:27/19-09-2026 |                                            |
+| bacc295 | openbsd root macbook  | 17:08:13/18-09-2026 |                                            |
 #+end_quote
 
 ** debian
