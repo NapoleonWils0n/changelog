@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 0810acc        | nix wrapper            | 19:26:29/12-08-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
