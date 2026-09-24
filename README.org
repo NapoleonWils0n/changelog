@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 113390000000.0 | sauron mpv yt-dlp      | 23:31:09/22-09-2026 | HEAD -> master, github/master |
+| 899629c        | dwl 0.90               | 16:19:19/24-09-2026 | HEAD -> master, github/master |
+| 113390000000.0 | sauron mpv yt-dlp      | 23:31:09/22-09-2026 |                               |
 | 605eade        | sauron                 | 23:01:50/22-09-2026 |                               |
 | 54d693d        | sauron                 | 22:50:28/22-09-2026 |                               |
 | 19d9251        | mpv nv-sglrun dev null | 21:58:47/22-09-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 2c0abad        | removed                | 14:32:05/04-09-2026 |                               |
 | 29fa05d        | kokoro                 | 14:30:45/04-09-2026 |                               |
 | 4933fd7        | yt-dlp                 | 14:53:50/20-08-2026 |                               |
-| 0810acc        | nix wrapper            | 19:26:29/12-08-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
