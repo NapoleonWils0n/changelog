@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 615bf405 | openbsd doas                 | 18:49:11/22-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 008d41c2 | dwl v9                       | 15:14:02/24-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 615bf405 | openbsd doas                 | 18:49:11/22-09-2026 |                                            |
 | b43e0d9f | openbsd pf                   | 16:02:51/22-09-2026 |                                            |
 | 2d859a69 | disable sshd                 | 15:56:53/22-09-2026 |                                            |
 | 4dd1cf2c | ossuary                      | 14:49:55/22-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | a62f9744 | openbsd encrypted disk image | 20:03:40/20-09-2026 |                                            |
 | 0ada0370 | openbsd etherbet trunk       | 00:33:21/20-09-2026 |                                            |
 | 1952d017 | openbsd                      | 00:20:25/20-09-2026 |                                            |
-| aa9db1bd | openbsd trunk                | 23:56:29/19-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -96,7 +96,7 @@ status
 | 0810acc        | nix wrapper            | 19:26:29/12-08-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 83a8b9a | newsraft           | 23:57:14/22-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 3ab7312 | newsboat           | 21:08:34/21-09-2026 |                                            |
-| 9823a0a | fzf                | 18:43:14/21-09-2026 |                                            |
-| 99ed6df | newsboat           | 18:17:51/21-09-2026 |                                            |
-| d37f85f | emacs tramp ssh    | 21:15:10/10-09-2026 |                                            |
-| a3dd742 | emamux             | 13:42:20/05-09-2026 |                                            |
-| 84831df | emacs-emamux       | 00:17:38/04-09-2026 |                                            |
-| 14384cb | ollama             | 21:53:25/02-09-2026 |                                            |
-| 806d722 | vulkan tools       | 00:57:16/31-08-2026 |                                            |
-| 3118cc5 | clangd eglot emacs | 16:11:59/29-08-2026 |                                            |
+| 40aeb35 | dwl v9          | 15:13:09/24-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 83a8b9a | newsraft        | 23:57:14/22-09-2026 |                                            |
+| 3ab7312 | newsboat        | 21:08:34/21-09-2026 |                                            |
+| 9823a0a | fzf             | 18:43:14/21-09-2026 |                                            |
+| 99ed6df | newsboat        | 18:17:51/21-09-2026 |                                            |
+| d37f85f | emacs tramp ssh | 21:15:10/10-09-2026 |                                            |
+| a3dd742 | emamux          | 13:42:20/05-09-2026 |                                            |
+| 84831df | emacs-emamux    | 00:17:38/04-09-2026 |                                            |
+| 14384cb | ollama          | 21:53:25/02-09-2026 |                                            |
+| 806d722 | vulkan tools    | 00:57:16/31-08-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
