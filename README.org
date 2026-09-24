@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 88a9d90e | dwl v9                       | 15:18:34/24-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 150ce91e | dwl movestack                | 15:16:23/24-09-2026 |                                            |
-| 008d41c2 | dwl v9                       | 15:14:02/24-09-2026 |                                            |
-| 615bf405 | openbsd doas                 | 18:49:11/22-09-2026 |                                            |
-| b43e0d9f | openbsd pf                   | 16:02:51/22-09-2026 |                                            |
-| 2d859a69 | disable sshd                 | 15:56:53/22-09-2026 |                                            |
-| 4dd1cf2c | ossuary                      | 14:49:55/22-09-2026 |                                            |
-| 91b4d985 | n8n github                   | 13:40:29/21-09-2026 |                                            |
-| 4240d3ff | ossuary                      | 20:29:06/20-09-2026 |                                            |
-| a62f9744 | openbsd encrypted disk image | 20:03:40/20-09-2026 |                                            |
+| 45a3da87 | dwl v9 install | 15:21:02/24-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 88a9d90e | dwl v9         | 15:18:34/24-09-2026 |                                            |
+| 150ce91e | dwl movestack  | 15:16:23/24-09-2026 |                                            |
+| 008d41c2 | dwl v9         | 15:14:02/24-09-2026 |                                            |
+| 615bf405 | openbsd doas   | 18:49:11/22-09-2026 |                                            |
+| b43e0d9f | openbsd pf     | 16:02:51/22-09-2026 |                                            |
+| 2d859a69 | disable sshd   | 15:56:53/22-09-2026 |                                            |
+| 4dd1cf2c | ossuary        | 14:49:55/22-09-2026 |                                            |
+| 91b4d985 | n8n github     | 13:40:29/21-09-2026 |                                            |
+| 4240d3ff | ossuary        | 20:29:06/20-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
