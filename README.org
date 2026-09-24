@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 008d41c2 | dwl v9                       | 15:14:02/24-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 150ce91e | dwl movestack                | 15:16:23/24-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 008d41c2 | dwl v9                       | 15:14:02/24-09-2026 |                                            |
 | 615bf405 | openbsd doas                 | 18:49:11/22-09-2026 |                                            |
 | b43e0d9f | openbsd pf                   | 16:02:51/22-09-2026 |                                            |
 | 2d859a69 | disable sshd                 | 15:56:53/22-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 4240d3ff | ossuary                      | 20:29:06/20-09-2026 |                                            |
 | a62f9744 | openbsd encrypted disk image | 20:03:40/20-09-2026 |                                            |
 | 0ada0370 | openbsd etherbet trunk       | 00:33:21/20-09-2026 |                                            |
-| 1952d017 | openbsd                      | 00:20:25/20-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
