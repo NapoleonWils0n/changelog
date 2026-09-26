@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ca4a53fb | openbsd record desktop audio | 18:33:34/26-09-2026 | HEAD -> master, github/master, github/HEAD |
+| e8907984 | openbsd sysctl fstab         | 20:12:37/26-09-2026 | HEAD -> master, github/master, github/HEAD |
+| ca4a53fb | openbsd record desktop audio | 18:33:34/26-09-2026 |                                            |
 | dbc9fbd4 | openbsd dd                   | 14:52:10/26-09-2026 |                                            |
 | 15ecd9a4 | openbsd install notes        | 14:37:33/26-09-2026 |                                            |
 | a06dfc7f | openbsd install              | 14:29:57/26-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 45a3da87 | dwl v9 install               | 15:21:02/24-09-2026 |                                            |
 | 88a9d90e | dwl v9                       | 15:18:34/24-09-2026 |                                            |
 | 150ce91e | dwl movestack                | 15:16:23/24-09-2026 |                                            |
-| 008d41c2 | dwl v9                       | 15:14:02/24-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -230,7 +230,7 @@ status
 | ddfdb4d | openbsd dotfiles macbook air | 21:29:11/16-09-2026 |                               |
 #+end_quote
 
-*** openbsd-root-macbook
+*** AIR openbsd-root-macbook
 
 github url
 
@@ -252,15 +252,16 @@ status
 
 #+RESULTS: openbsd-root-macbook
 #+begin_quote
-| 2e1e0cf | doas.conf             | 18:05:09/22-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 68058c9 | pf rc.conf.local      | 16:01:58/22-09-2026 |                                            |
-| 5ff74b3 | firefox downloads dir | 15:40:19/22-09-2026 |                                            |
-| 50dc64f | firefox unveil        | 15:15:11/22-09-2026 |                                            |
-| 2129920 | openbsd trunk redo    | 23:54:07/19-09-2026 |                                            |
-| 76bd196 | pf trunk              | 22:52:24/19-09-2026 |                                            |
-| 479fdf1 | hotplug               | 22:02:02/19-09-2026 |                                            |
-| 6802ce3 | root hotplug          | 21:04:27/19-09-2026 |                                            |
-| bacc295 | openbsd root macbook  | 17:08:13/18-09-2026 |                                            |
+| 47a8b8f | openbsd desktop settings | 20:02:50/26-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 2e1e0cf | doas.conf                | 18:05:09/22-09-2026 |                                            |
+| 68058c9 | pf rc.conf.local         | 16:01:58/22-09-2026 |                                            |
+| 5ff74b3 | firefox downloads dir    | 15:40:19/22-09-2026 |                                            |
+| 50dc64f | firefox unveil           | 15:15:11/22-09-2026 |                                            |
+| 2129920 | openbsd trunk redo       | 23:54:07/19-09-2026 |                                            |
+| 76bd196 | pf trunk                 | 22:52:24/19-09-2026 |                                            |
+| 479fdf1 | hotplug                  | 22:02:02/19-09-2026 |                                            |
+| 6802ce3 | root hotplug             | 21:04:27/19-09-2026 |                                            |
+| bacc295 | openbsd root macbook     | 17:08:13/18-09-2026 |                                            |
 #+end_quote
 
 ** debian
