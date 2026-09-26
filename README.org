@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a06dfc7f | openbsd install | 14:29:57/26-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 4c119894 | dwl             | 19:51:38/24-09-2026 |                                            |
-| 4e81d6ca | dwl v9          | 19:33:07/24-09-2026 |                                            |
-| 45a3da87 | dwl v9 install  | 15:21:02/24-09-2026 |                                            |
-| 88a9d90e | dwl v9          | 15:18:34/24-09-2026 |                                            |
-| 150ce91e | dwl movestack   | 15:16:23/24-09-2026 |                                            |
-| 008d41c2 | dwl v9          | 15:14:02/24-09-2026 |                                            |
-| 615bf405 | openbsd doas    | 18:49:11/22-09-2026 |                                            |
-| b43e0d9f | openbsd pf      | 16:02:51/22-09-2026 |                                            |
-| 2d859a69 | disable sshd    | 15:56:53/22-09-2026 |                                            |
+| 15ecd9a4 | openbsd install notes | 14:37:33/26-09-2026 | HEAD -> master, github/master, github/HEAD |
+| a06dfc7f | openbsd install       | 14:29:57/26-09-2026 |                                            |
+| 4c119894 | dwl                   | 19:51:38/24-09-2026 |                                            |
+| 4e81d6ca | dwl v9                | 19:33:07/24-09-2026 |                                            |
+| 45a3da87 | dwl v9 install        | 15:21:02/24-09-2026 |                                            |
+| 88a9d90e | dwl v9                | 15:18:34/24-09-2026 |                                            |
+| 150ce91e | dwl movestack         | 15:16:23/24-09-2026 |                                            |
+| 008d41c2 | dwl v9                | 15:14:02/24-09-2026 |                                            |
+| 615bf405 | openbsd doas          | 18:49:11/22-09-2026 |                                            |
+| b43e0d9f | openbsd pf            | 16:02:51/22-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
