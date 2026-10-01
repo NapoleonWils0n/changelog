@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d4b286f5 | openbsd upgrade              | 15:26:57/28-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 301f831b | yt-dlp user agent aria2c     | 23:37:24/01-10-2026 | HEAD -> master, github/master, github/HEAD |
+| d4b286f5 | openbsd upgrade              | 15:26:57/28-09-2026 |                                            |
 | 52b05197 | zfs usb backup               | 01:22:32/28-09-2026 |                                            |
 | b70980be | imagemagick resize svg       | 21:33:36/27-09-2026 |                                            |
 | 6ced3139 | openbsd wayland install      | 20:38:46/27-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | ca4a53fb | openbsd record desktop audio | 18:33:34/26-09-2026 |                                            |
 | dbc9fbd4 | openbsd dd                   | 14:52:10/26-09-2026 |                                            |
 | 15ecd9a4 | openbsd install notes        | 14:37:33/26-09-2026 |                                            |
-| a06dfc7f | openbsd install              | 14:29:57/26-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
