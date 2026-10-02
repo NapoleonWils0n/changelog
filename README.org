@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** PRO cerberus
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 29fa05d        | kokoro                 | 14:30:45/04-09-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** PRO freebsd-dotfiles-xps
 
 github url
 
