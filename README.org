@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 42cb25a        | mpv                    | 21:44:32/27-09-2026 | HEAD -> master, github/master |
+| 1c7ce27        | pinch c version        | 19:50:45/03-10-2026 | HEAD -> master, github/master |
+| cda1eed        | adding c version       | 19:50:26/03-10-2026 |                               |
+| 42cb25a        | mpv                    | 21:44:32/27-09-2026 |                               |
 | 899629c        | dwl 0.90               | 16:19:19/24-09-2026 |                               |
 | 113390000000.0 | sauron mpv yt-dlp      | 23:31:09/22-09-2026 |                               |
 | 605eade        | sauron                 | 23:01:50/22-09-2026 |                               |
@@ -92,11 +94,9 @@ status
 | 19d9251        | mpv nv-sglrun dev null | 21:58:47/22-09-2026 |                               |
 | 1.0e+INF       | sauron                 | 21:00:30/21-09-2026 |                               |
 | 6142398        | dwl-start              | 11:37:20/17-09-2026 |                               |
-| 2c0abad        | removed                | 14:32:05/04-09-2026 |                               |
-| 29fa05d        | kokoro                 | 14:30:45/04-09-2026 |                               |
 #+end_quote
 
-*** PRO freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 764e8ca | deepseek-coder:6.7b | 21:17:04/30-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 40aeb35 | dwl v9              | 15:13:09/24-09-2026 |                                            |
-| 83a8b9a | newsraft            | 23:57:14/22-09-2026 |                                            |
-| 3ab7312 | newsboat            | 21:08:34/21-09-2026 |                                            |
-| 9823a0a | fzf                 | 18:43:14/21-09-2026 |                                            |
-| 99ed6df | newsboat            | 18:17:51/21-09-2026 |                                            |
-| d37f85f | emacs tramp ssh     | 21:15:10/10-09-2026 |                                            |
-| a3dd742 | emamux              | 13:42:20/05-09-2026 |                                            |
-| 84831df | emacs-emamux        | 00:17:38/04-09-2026 |                                            |
-| 14384cb | ollama              | 21:53:25/02-09-2026 |                                            |
+| c108c03 | qwen2.5-coder:7b-instruct-q8_0 | 22:30:53/04-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 764e8ca | deepseek-coder:6.7b            | 21:17:04/30-09-2026 |                                            |
+| 40aeb35 | dwl v9                         | 15:13:09/24-09-2026 |                                            |
+| 83a8b9a | newsraft                       | 23:57:14/22-09-2026 |                                            |
+| 3ab7312 | newsboat                       | 21:08:34/21-09-2026 |                                            |
+| 9823a0a | fzf                            | 18:43:14/21-09-2026 |                                            |
+| 99ed6df | newsboat                       | 18:17:51/21-09-2026 |                                            |
+| d37f85f | emacs tramp ssh                | 21:15:10/10-09-2026 |                                            |
+| a3dd742 | emamux                         | 13:42:20/05-09-2026 |                                            |
+| 84831df | emacs-emamux                   | 00:17:38/04-09-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
