@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c108c03 | qwen2.5-coder:7b-instruct-q8_0 | 22:30:53/04-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 034bc8e | removed unused ollama models   | 15:56:15/05-10-2026 | HEAD -> master, github/master, github/HEAD |
+| c108c03 | qwen2.5-coder:7b-instruct-q8_0 | 22:30:53/04-10-2026 |                                            |
 | 764e8ca | deepseek-coder:6.7b            | 21:17:04/30-09-2026 |                                            |
 | 40aeb35 | dwl v9                         | 15:13:09/24-09-2026 |                                            |
 | 83a8b9a | newsraft                       | 23:57:14/22-09-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 99ed6df | newsboat                       | 18:17:51/21-09-2026 |                                            |
 | d37f85f | emacs tramp ssh                | 21:15:10/10-09-2026 |                                            |
 | a3dd742 | emamux                         | 13:42:20/05-09-2026 |                                            |
-| 84831df | emacs-emamux                   | 00:17:38/04-09-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
