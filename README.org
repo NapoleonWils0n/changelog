@@ -366,7 +366,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** todo
+** XPS todo
 
 #+begin_src sh
 cd ~/git/projects/freebsd-cuda
