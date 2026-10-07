@@ -368,5 +368,4 @@ status
 
 ** todo
 
-to do list
-
+push to github
