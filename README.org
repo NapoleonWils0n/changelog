@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -265,7 +265,7 @@ status
 #+end_quote
 
 ** debian
-*** PRO debian-bin
+*** debian-bin
 
 github url
 
@@ -366,9 +366,5 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** XPS todo
+** todo
 
-#+begin_src sh
-cd ~/git/projects/freebsd-cuda
-git pull github master
-#+end_src
