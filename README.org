@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| ffebed6        | pinch rust             | 21:52:10/06-10-2026 | HEAD -> master, github/master |
-| 1c7ce27        | pinch c version        | 19:50:45/03-10-2026 |                               |
-| cda1eed        | adding c version       | 19:50:26/03-10-2026 |                               |
-| 42cb25a        | mpv                    | 21:44:32/27-09-2026 |                               |
-| 899629c        | dwl 0.90               | 16:19:19/24-09-2026 |                               |
-| 113390000000.0 | sauron mpv yt-dlp      | 23:31:09/22-09-2026 |                               |
-| 605eade        | sauron                 | 23:01:50/22-09-2026 |                               |
-| 54d693d        | sauron                 | 22:50:28/22-09-2026 |                               |
-| 19d9251        | mpv nv-sglrun dev null | 21:58:47/22-09-2026 |                               |
-| 1.0e+INF       | sauron                 | 21:00:30/21-09-2026 |                               |
+| 1ca81b6        | ffmpeg rust script freebsd nvenc support | 21:44:36/08-10-2026 | HEAD -> master, github/master |
+| ffebed6        | pinch rust                               | 21:52:10/06-10-2026 |                               |
+| 1c7ce27        | pinch c version                          | 19:50:45/03-10-2026 |                               |
+| cda1eed        | adding c version                         | 19:50:26/03-10-2026 |                               |
+| 42cb25a        | mpv                                      | 21:44:32/27-09-2026 |                               |
+| 899629c        | dwl 0.90                                 | 16:19:19/24-09-2026 |                               |
+| 113390000000.0 | sauron mpv yt-dlp                        | 23:31:09/22-09-2026 |                               |
+| 605eade        | sauron                                   | 23:01:50/22-09-2026 |                               |
+| 54d693d        | sauron                                   | 22:50:28/22-09-2026 |                               |
+| 19d9251        | mpv nv-sglrun dev null                   | 21:58:47/22-09-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
