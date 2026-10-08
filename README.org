@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 4c52f17 | nv-sglrun compdef              | 21:41:41/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 10d55e0 | emacs gptel                    | 22:29:37/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 4c52f17 | nv-sglrun compdef              | 21:41:41/08-10-2026 |                                            |
 | 8d829e1 | nv-sglrun compdef              | 21:31:34/08-10-2026 |                                            |
 | 1b06a1f | gptel removed gemini           | 18:05:48/08-10-2026 |                                            |
 | 034bc8e | removed unused ollama models   | 15:56:15/05-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 40aeb35 | dwl v9                         | 15:13:09/24-09-2026 |                                            |
 | 83a8b9a | newsraft                       | 23:57:14/22-09-2026 |                                            |
 | 3ab7312 | newsboat                       | 21:08:34/21-09-2026 |                                            |
-| 9823a0a | fzf                            | 18:43:14/21-09-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
