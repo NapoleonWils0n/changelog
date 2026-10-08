@@ -118,7 +118,9 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 1b06a1f | gptel removed gemini           | 18:05:48/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 4c52f17 | nv-sglrun compdef              | 21:41:41/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 8d829e1 | nv-sglrun compdef              | 21:31:34/08-10-2026 |                                            |
+| 1b06a1f | gptel removed gemini           | 18:05:48/08-10-2026 |                                            |
 | 034bc8e | removed unused ollama models   | 15:56:15/05-10-2026 |                                            |
 | c108c03 | qwen2.5-coder:7b-instruct-q8_0 | 22:30:53/04-10-2026 |                                            |
 | 764e8ca | deepseek-coder:6.7b            | 21:17:04/30-09-2026 |                                            |
@@ -126,8 +128,6 @@ status
 | 83a8b9a | newsraft                       | 23:57:14/22-09-2026 |                                            |
 | 3ab7312 | newsboat                       | 21:08:34/21-09-2026 |                                            |
 | 9823a0a | fzf                            | 18:43:14/21-09-2026 |                                            |
-| 99ed6df | newsboat                       | 18:17:51/21-09-2026 |                                            |
-| d37f85f | emacs tramp ssh                | 21:15:10/10-09-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
@@ -368,4 +368,12 @@ status
 
 ** todo
 
-push to github
+pull from github
+
+#+begin_src sh
+cd ~/git/projects/ffmpeg-rust-scripts
+#+end_src
+
+#+begin_src sh
+git pull github master
+#+end_src
