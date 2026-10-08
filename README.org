@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 67dfa2c8 | csv to markdown python       | 01:06:19/02-10-2026 | HEAD -> master, github/master, github/HEAD |
+| bfdb5688 | awk split text on period     | 18:02:40/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 67dfa2c8 | csv to markdown python       | 01:06:19/02-10-2026 |                                            |
 | 301f831b | yt-dlp user agent aria2c     | 23:37:24/01-10-2026 |                                            |
 | d4b286f5 | openbsd upgrade              | 15:26:57/28-09-2026 |                                            |
 | 52b05197 | zfs usb backup               | 01:22:32/28-09-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | c12ea1a6 | openbsd install notes        | 18:54:01/27-09-2026 |                                            |
 | e8907984 | openbsd sysctl fstab         | 20:12:37/26-09-2026 |                                            |
 | ca4a53fb | openbsd record desktop audio | 18:33:34/26-09-2026 |                                            |
-| dbc9fbd4 | openbsd dd                   | 14:52:10/26-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -96,7 +96,7 @@ status
 | 1.0e+INF       | sauron                 | 21:00:30/21-09-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 034bc8e | removed unused ollama models   | 15:56:15/05-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 1b06a1f | gptel removed gemini           | 18:05:48/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 034bc8e | removed unused ollama models   | 15:56:15/05-10-2026 |                                            |
 | c108c03 | qwen2.5-coder:7b-instruct-q8_0 | 22:30:53/04-10-2026 |                                            |
 | 764e8ca | deepseek-coder:6.7b            | 21:17:04/30-09-2026 |                                            |
 | 40aeb35 | dwl v9                         | 15:13:09/24-09-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 9823a0a | fzf                            | 18:43:14/21-09-2026 |                                            |
 | 99ed6df | newsboat                       | 18:17:51/21-09-2026 |                                            |
 | d37f85f | emacs tramp ssh                | 21:15:10/10-09-2026 |                                            |
-| a3dd742 | emamux                         | 13:42:20/05-09-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
@@ -299,7 +299,7 @@ status
 | dea9ec8 | srt scripts | 20:35:09/12-07-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -321,16 +321,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| f20a152 | emacs tramp ssh                          | 22:35:12/10-09-2026 | HEAD -> master, github/master, github/HEAD |
-| 02640a4 | debian-dotfiles                          | 13:48:29/05-09-2026 |                                            |
-| a1d72d8 | emamux                                   | 13:43:36/05-09-2026 |                                            |
-| 22198fa | emacs-emamux                             | 00:17:52/04-09-2026 |                                            |
-| 27e334f | invidious                                | 15:10:21/15-06-2026 |                                            |
-| dc6cc07 | mpv invidious                            | 18:36:39/14-06-2026 |                                            |
-| 3461c1d | emacs mpv                                | 18:18:54/14-06-2026 |                                            |
-| 8398483 | emacs                                    | 14:25:51/12-06-2026 |                                            |
-| 7cc1a73 | xdg-open                                 | 22:38:22/08-05-2026 |                                            |
-| 8602158 | debian doomode line now playing slot fix | 22:03:34/08-05-2026 |                                            |
+| 4e376c3 | removed gptel   | 18:22:22/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| f20a152 | emacs tramp ssh | 22:35:12/10-09-2026 |                                            |
+| 02640a4 | debian-dotfiles | 13:48:29/05-09-2026 |                                            |
+| a1d72d8 | emamux          | 13:43:36/05-09-2026 |                                            |
+| 22198fa | emacs-emamux    | 00:17:52/04-09-2026 |                                            |
+| 27e334f | invidious       | 15:10:21/15-06-2026 |                                            |
+| dc6cc07 | mpv invidious   | 18:36:39/14-06-2026 |                                            |
+| 3461c1d | emacs mpv       | 18:18:54/14-06-2026 |                                            |
+| 8398483 | emacs           | 14:25:51/12-06-2026 |                                            |
+| 7cc1a73 | xdg-open        | 22:38:22/08-05-2026 |                                            |
 #+end_quote
 
 *** debian-root
