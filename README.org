@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 19d9251        | mpv nv-sglrun dev null                   | 21:58:47/22-09-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -299,7 +299,7 @@ status
 | dea9ec8 | srt scripts | 20:35:09/12-07-2026 |                                            |
 #+end_quote
 
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
@@ -369,11 +369,3 @@ status
 ** todo
 
 pull from github
-
-#+begin_src sh
-cd ~/git/projects/ffmpeg-rust-scripts
-#+end_src
-
-#+begin_src sh
-git pull github master
-#+end_src
