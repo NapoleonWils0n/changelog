@@ -96,7 +96,7 @@ status
 | 19d9251        | mpv nv-sglrun dev null                   | 21:58:47/22-09-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -366,11 +366,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** XPS todo
+** todo
 
 pull from github
 
-#+begin_src sh
-cd ~/git/projects/mcp-searxng-enhanced/
-git pull github master
-#+end_src
