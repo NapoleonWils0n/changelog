@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 9ee8b65 | huihui_ai/qwen3.5-abliterated:4b | 14:05:34/09-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 3241314 | emacs gptel qwen models          | 18:09:09/09-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 9ee8b65 | huihui_ai/qwen3.5-abliterated:4b | 14:05:34/09-10-2026 |                                            |
 | 10d55e0 | emacs gptel                      | 22:29:37/08-10-2026 |                                            |
 | 4c52f17 | nv-sglrun compdef                | 21:41:41/08-10-2026 |                                            |
 | 8d829e1 | nv-sglrun compdef                | 21:31:34/08-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | c108c03 | qwen2.5-coder:7b-instruct-q8_0   | 22:30:53/04-10-2026 |                                            |
 | 764e8ca | deepseek-coder:6.7b              | 21:17:04/30-09-2026 |                                            |
 | 40aeb35 | dwl v9                           | 15:13:09/24-09-2026 |                                            |
-| 83a8b9a | newsraft                         | 23:57:14/22-09-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
