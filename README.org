@@ -366,6 +366,11 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** todo
+** XPS todo
 
 pull from github
+
+#+begin_src sh
+cd ~/git/projects/mcp-searxng-enhanced/
+git pull github master
+#+end_src
