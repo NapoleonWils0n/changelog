@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 4dcbe41 | gemma4                           | 17:47:17/10-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 2efab11 | emacs gptel                      | 18:58:36/10-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 4dcbe41 | gemma4                           | 17:47:17/10-10-2026 |                                            |
 | 3241314 | emacs gptel qwen models          | 18:09:09/09-10-2026 |                                            |
 | 9ee8b65 | huihui_ai/qwen3.5-abliterated:4b | 14:05:34/09-10-2026 |                                            |
 | 10d55e0 | emacs gptel                      | 22:29:37/08-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 1b06a1f | gptel removed gemini             | 18:05:48/08-10-2026 |                                            |
 | 034bc8e | removed unused ollama models     | 15:56:15/05-10-2026 |                                            |
 | c108c03 | qwen2.5-coder:7b-instruct-q8_0   | 22:30:53/04-10-2026 |                                            |
-| 764e8ca | deepseek-coder:6.7b              | 21:17:04/30-09-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
