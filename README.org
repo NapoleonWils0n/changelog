@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 34974000000.0 | emacs                            | 19:44:01/10-10-2026 | HEAD -> master, github/master, github/HEAD |
+| e02cd66       | emacs gptel                      | 19:51:04/10-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 34974000000.0 | emacs                            | 19:44:01/10-10-2026 |                                            |
 | 70ba67b       | emacs gptel web prompt           | 19:40:28/10-10-2026 |                                            |
 | cbf9ad6       | emacs gptel                      | 19:35:09/10-10-2026 |                                            |
 | 2efab11       | emacs gptel                      | 18:58:36/10-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 9ee8b65       | huihui_ai/qwen3.5-abliterated:4b | 14:05:34/09-10-2026 |                                            |
 | 10d55e0       | emacs gptel                      | 22:29:37/08-10-2026 |                                            |
 | 4c52f17       | nv-sglrun compdef                | 21:41:41/08-10-2026 |                                            |
-| 8d829e1       | nv-sglrun compdef                | 21:31:34/08-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
