@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 437934ec | pipewire makefile        | 17:51:19/12-10-2026 | HEAD -> master, github/master, github/HEAD |
-| 5a6b0c86 | pipewire makefile        | 17:43:56/12-10-2026 |                                            |
-| bfdb5688 | awk split text on period | 18:02:40/08-10-2026 |                                            |
-| 67dfa2c8 | csv to markdown python   | 01:06:19/02-10-2026 |                                            |
-| 301f831b | yt-dlp user agent aria2c | 23:37:24/01-10-2026 |                                            |
-| d4b286f5 | openbsd upgrade          | 15:26:57/28-09-2026 |                                            |
-| 52b05197 | zfs usb backup           | 01:22:32/28-09-2026 |                                            |
-| b70980be | imagemagick resize svg   | 21:33:36/27-09-2026 |                                            |
-| 6ced3139 | openbsd wayland install  | 20:38:46/27-09-2026 |                                            |
-| c12ea1a6 | openbsd install notes    | 18:54:01/27-09-2026 |                                            |
+| 3.483e+189 | pipewire makefile        | 18:31:22/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 437934ec   | pipewire makefile        | 17:51:19/12-10-2026 |                                            |
+| 5a6b0c86   | pipewire makefile        | 17:43:56/12-10-2026 |                                            |
+| bfdb5688   | awk split text on period | 18:02:40/08-10-2026 |                                            |
+| 67dfa2c8   | csv to markdown python   | 01:06:19/02-10-2026 |                                            |
+| 301f831b   | yt-dlp user agent aria2c | 23:37:24/01-10-2026 |                                            |
+| d4b286f5   | openbsd upgrade          | 15:26:57/28-09-2026 |                                            |
+| 52b05197   | zfs usb backup           | 01:22:32/28-09-2026 |                                            |
+| b70980be   | imagemagick resize svg   | 21:33:36/27-09-2026 |                                            |
+| 6ced3139   | openbsd wayland install  | 20:38:46/27-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 0968a5b       | pipewire makefile      | 17:50:49/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| d819e33       | pipewire makefile      | 18:30:45/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 0968a5b       | pipewire makefile      | 17:50:49/12-10-2026 |                                            |
 | ecb976d       | pipewire makefile      | 17:47:07/12-10-2026 |                                            |
 | 4241012       | pipewire makefile      | 17:46:56/12-10-2026 |                                            |
 | caccc16       | qwen3.5:4b             | 15:52:39/11-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 70ba67b       | emacs gptel web prompt | 19:40:28/10-10-2026 |                                            |
 | cbf9ad6       | emacs gptel            | 19:35:09/10-10-2026 |                                            |
 | 2efab11       | emacs gptel            | 18:58:36/10-10-2026 |                                            |
-| 4dcbe41       | gemma4                 | 17:47:17/10-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
