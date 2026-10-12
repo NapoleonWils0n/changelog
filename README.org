@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 3.483e+189 | pipewire makefile        | 18:31:22/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 038d7328   | pipewire makefile        | 18:36:14/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 3.483e+189 | pipewire makefile        | 18:31:22/12-10-2026 |                                            |
 | 437934ec   | pipewire makefile        | 17:51:19/12-10-2026 |                                            |
 | 5a6b0c86   | pipewire makefile        | 17:43:56/12-10-2026 |                                            |
 | bfdb5688   | awk split text on period | 18:02:40/08-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | d4b286f5   | openbsd upgrade          | 15:26:57/28-09-2026 |                                            |
 | 52b05197   | zfs usb backup           | 01:22:32/28-09-2026 |                                            |
 | b70980be   | imagemagick resize svg   | 21:33:36/27-09-2026 |                                            |
-| 6ced3139   | openbsd wayland install  | 20:38:46/27-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| d819e33       | pipewire makefile      | 18:30:45/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 2019caf       | pipewire makefile      | 18:35:50/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| d819e33       | pipewire makefile      | 18:30:45/12-10-2026 |                                            |
 | 0968a5b       | pipewire makefile      | 17:50:49/12-10-2026 |                                            |
 | ecb976d       | pipewire makefile      | 17:47:07/12-10-2026 |                                            |
 | 4241012       | pipewire makefile      | 17:46:56/12-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 34974000000.0 | emacs                  | 19:44:01/10-10-2026 |                                            |
 | 70ba67b       | emacs gptel web prompt | 19:40:28/10-10-2026 |                                            |
 | cbf9ad6       | emacs gptel            | 19:35:09/10-10-2026 |                                            |
-| 2efab11       | emacs gptel            | 18:58:36/10-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
