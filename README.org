@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| c16599e7   | dired mark files play with embark and mpv | 21:05:33/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| f5c23ded   | freebsd nvidia upgrade                    | 17:51:19/13-10-2026 | HEAD -> master, github/master, github/HEAD |
+| c16599e7   | dired mark files play with embark and mpv | 21:05:33/12-10-2026 |                                            |
 | 038d7328   | pipewire makefile                         | 18:36:14/12-10-2026 |                                            |
 | 3.483e+189 | pipewire makefile                         | 18:31:22/12-10-2026 |                                            |
 | 437934ec   | pipewire makefile                         | 17:51:19/12-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 67dfa2c8   | csv to markdown python                    | 01:06:19/02-10-2026 |                                            |
 | 301f831b   | yt-dlp user agent aria2c                  | 23:37:24/01-10-2026 |                                            |
 | d4b286f5   | openbsd upgrade                           | 15:26:57/28-09-2026 |                                            |
-| 52b05197   | zfs usb backup                            | 01:22:32/28-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
