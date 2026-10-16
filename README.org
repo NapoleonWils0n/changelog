@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| b1ed9dda   | mango                                     | 15:40:40/16-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 112e0ab2   | mango 18                                  | 21:20:00/16-10-2026 | HEAD -> master, github/master, github/HEAD |
+| b1ed9dda   | mango                                     | 15:40:40/16-10-2026 |                                            |
 | f5c23ded   | freebsd nvidia upgrade                    | 17:51:19/13-10-2026 |                                            |
 | c16599e7   | dired mark files play with embark and mpv | 21:05:33/12-10-2026 |                                            |
 | 038d7328   | pipewire makefile                         | 18:36:14/12-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 5a6b0c86   | pipewire makefile                         | 17:43:56/12-10-2026 |                                            |
 | bfdb5688   | awk split text on period                  | 18:02:40/08-10-2026 |                                            |
 | 67dfa2c8   | csv to markdown python                    | 01:06:19/02-10-2026 |                                            |
-| 301f831b   | yt-dlp user agent aria2c                  | 23:37:24/01-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
