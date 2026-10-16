@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 412eab0 | mango 18.04             | 21:14:02/16-10-2026 | HEAD -> master, github/master, github/HEAD |
+| d055824 | freebsd pkg list        | 21:50:42/16-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 412eab0 | mango 18.04             | 21:14:02/16-10-2026 |                                            |
 | d41f126 | mango layouts           | 17:07:22/16-10-2026 |                                            |
 | 6dc0af4 | mangowm and mangobar    | 15:38:35/16-10-2026 |                                            |
 | 0c94324 | wlroots desktop portals | 20:07:05/12-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 0968a5b | pipewire makefile       | 17:50:49/12-10-2026 |                                            |
 | ecb976d | pipewire makefile       | 17:47:07/12-10-2026 |                                            |
 | 4241012 | pipewire makefile       | 17:46:56/12-10-2026 |                                            |
-| caccc16 | qwen3.5:4b              | 15:52:39/11-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
