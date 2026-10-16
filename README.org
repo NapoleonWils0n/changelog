@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f5c23ded   | freebsd nvidia upgrade                    | 17:51:19/13-10-2026 | HEAD -> master, github/master, github/HEAD |
+| b1ed9dda   | mango                                     | 15:40:40/16-10-2026 | HEAD -> master, github/master, github/HEAD |
+| f5c23ded   | freebsd nvidia upgrade                    | 17:51:19/13-10-2026 |                                            |
 | c16599e7   | dired mark files play with embark and mpv | 21:05:33/12-10-2026 |                                            |
 | 038d7328   | pipewire makefile                         | 18:36:14/12-10-2026 |                                            |
 | 3.483e+189 | pipewire makefile                         | 18:31:22/12-10-2026 |                                            |
@@ -58,11 +59,10 @@ git status
 | bfdb5688   | awk split text on period                  | 18:02:40/08-10-2026 |                                            |
 | 67dfa2c8   | csv to markdown python                    | 01:06:19/02-10-2026 |                                            |
 | 301f831b   | yt-dlp user agent aria2c                  | 23:37:24/01-10-2026 |                                            |
-| d4b286f5   | openbsd upgrade                           | 15:26:57/28-09-2026 |                                            |
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 1ca81b6        | ffmpeg rust script freebsd nvenc support | 21:44:36/08-10-2026 | HEAD -> master, github/master |
+| 56a7bbf        | mango-start                              | 15:38:56/16-10-2026 | HEAD -> master, github/master |
+| 1ca81b6        | ffmpeg rust script freebsd nvenc support | 21:44:36/08-10-2026 |                               |
 | ffebed6        | pinch rust                               | 21:52:10/06-10-2026 |                               |
 | 1c7ce27        | pinch c version                          | 19:50:45/03-10-2026 |                               |
 | cda1eed        | adding c version                         | 19:50:26/03-10-2026 |                               |
@@ -93,10 +94,9 @@ status
 | 113390000000.0 | sauron mpv yt-dlp                        | 23:31:09/22-09-2026 |                               |
 | 605eade        | sauron                                   | 23:01:50/22-09-2026 |                               |
 | 54d693d        | sauron                                   | 22:50:28/22-09-2026 |                               |
-| 19d9251        | mpv nv-sglrun dev null                   | 21:58:47/22-09-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 0c94324       | wlroots desktop portals | 20:07:05/12-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 6dc0af4       | mangowm and mangobar    | 15:38:35/16-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 0c94324       | wlroots desktop portals | 20:07:05/12-10-2026 |                                            |
 | 2019caf       | pipewire makefile       | 18:35:50/12-10-2026 |                                            |
 | d819e33       | pipewire makefile       | 18:30:45/12-10-2026 |                                            |
 | 0968a5b       | pipewire makefile       | 17:50:49/12-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | caccc16       | qwen3.5:4b              | 15:52:39/11-10-2026 |                                            |
 | e02cd66       | emacs gptel             | 19:51:04/10-10-2026 |                                            |
 | 34974000000.0 | emacs                   | 19:44:01/10-10-2026 |                                            |
-| 70ba67b       | emacs gptel web prompt  | 19:40:28/10-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
