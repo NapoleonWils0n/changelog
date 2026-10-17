@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 56a7bbf        | mango-start                              | 15:38:56/16-10-2026 | HEAD -> master, github/master |
+| 5b68406        | window-switcher                          | 14:57:11/17-10-2026 | HEAD -> master, github/master |
+| 56a7bbf        | mango-start                              | 15:38:56/16-10-2026 |                               |
 | 1ca81b6        | ffmpeg rust script freebsd nvenc support | 21:44:36/08-10-2026 |                               |
 | ffebed6        | pinch rust                               | 21:52:10/06-10-2026 |                               |
 | 1c7ce27        | pinch c version                          | 19:50:45/03-10-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 899629c        | dwl 0.90                                 | 16:19:19/24-09-2026 |                               |
 | 113390000000.0 | sauron mpv yt-dlp                        | 23:31:09/22-09-2026 |                               |
 | 605eade        | sauron                                   | 23:01:50/22-09-2026 |                               |
-| 54d693d        | sauron                                   | 22:50:28/22-09-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
