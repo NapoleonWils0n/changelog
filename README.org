@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| db3e57c | tofi open on tag using cursor position | 14:51:16/17-10-2026 | HEAD -> master, github/master, github/HEAD |
+| a8f0894 | tofi window switcher                   | 15:43:27/17-10-2026 | HEAD -> master, github/master, github/HEAD |
+| db3e57c | tofi open on tag using cursor position | 14:51:16/17-10-2026 |                                            |
 | 962cb25 | mango xdg                              | 01:07:21/17-10-2026 |                                            |
 | d055824 | freebsd pkg list                       | 21:50:42/16-10-2026 |                                            |
 | 412eab0 | mango 18.04                            | 21:14:02/16-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 0c94324 | wlroots desktop portals                | 20:07:05/12-10-2026 |                                            |
 | 2019caf | pipewire makefile                      | 18:35:50/12-10-2026 |                                            |
 | d819e33 | pipewire makefile                      | 18:30:45/12-10-2026 |                                            |
-| 0968a5b | pipewire makefile                      | 17:50:49/12-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
