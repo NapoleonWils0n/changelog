@@ -196,7 +196,7 @@ status
 | 6461e2f | openbsd bin macbook | 22:21:12/16-09-2026 |                                            |
 #+end_quote
 
-*** openbsd-dotfiles-macbook
+*** XPS openbsd-dotfiles-macbook
 
 github url
 
@@ -218,16 +218,16 @@ status
 
 #+RESULTS: openbsd-dotfiles-macbook
 #+begin_quote
-| 047ad8d | wf-recorder                  | 15:03:33/26-09-2026 | HEAD -> master, github/master |
-| 221597  | mpv config                   | 18:43:58/22-09-2026 |                               |
-| 8d426e1 | xdg Downloads                | 15:37:48/22-09-2026 |                               |
-| cd8ef1d | openbsd dotfiles             | 13:19:21/18-09-2026 |                               |
-| f0c0ff7 | zshenv ffplay                | 15:07:20/17-09-2026 |                               |
-| ee5fe30 | pkg list                     | 14:49:41/17-09-2026 |                               |
-| 3d9956e | dwl                          | 14:07:07/17-09-2026 |                               |
-| f792795 | grim                         | 13:59:24/17-09-2026 |                               |
-| 17a9457 | wlr-which-key                | 12:51:26/17-09-2026 |                               |
-| ddfdb4d | openbsd dotfiles macbook air | 21:29:11/16-09-2026 |                               |
+| 9512bb6 | emacs gptel      | 00:09:12/19-10-2026 | HEAD -> master, github/master |
+| 047ad8d | wf-recorder      | 15:03:33/26-09-2026 |                               |
+| 221597  | mpv config       | 18:43:58/22-09-2026 |                               |
+| 8d426e1 | xdg Downloads    | 15:37:48/22-09-2026 |                               |
+| cd8ef1d | openbsd dotfiles | 13:19:21/18-09-2026 |                               |
+| f0c0ff7 | zshenv ffplay    | 15:07:20/17-09-2026 |                               |
+| ee5fe30 | pkg list         | 14:49:41/17-09-2026 |                               |
+| 3d9956e | dwl              | 14:07:07/17-09-2026 |                               |
+| f792795 | grim             | 13:59:24/17-09-2026 |                               |
+| 17a9457 | wlr-which-key    | 12:51:26/17-09-2026 |                               |
 #+end_quote
 
 *** openbsd-root-macbook
@@ -299,7 +299,7 @@ status
 | dea9ec8 | srt scripts | 20:35:09/12-07-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -321,7 +321,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 4e376c3 | removed gptel   | 18:22:22/08-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 9c1bb5d | emacs gptel     | 00:07:59/19-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 4e376c3 | removed gptel   | 18:22:22/08-10-2026 |                                            |
 | f20a152 | emacs tramp ssh | 22:35:12/10-09-2026 |                                            |
 | 02640a4 | debian-dotfiles | 13:48:29/05-09-2026 |                                            |
 | a1d72d8 | emamux          | 13:43:36/05-09-2026 |                                            |
@@ -330,7 +331,6 @@ status
 | dc6cc07 | mpv invidious   | 18:36:39/14-06-2026 |                                            |
 | 3461c1d | emacs mpv       | 18:18:54/14-06-2026 |                                            |
 | 8398483 | emacs           | 14:25:51/12-06-2026 |                                            |
-| 7cc1a73 | xdg-open        | 22:38:22/08-05-2026 |                                            |
 #+end_quote
 
 *** debian-root
