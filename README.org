@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 775095b | mango wm resizewin                     | 14:11:37/18-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 2b55137 | mango wm tofi switch layout            | 14:52:49/18-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 775095b | mango wm resizewin                     | 14:11:37/18-10-2026 |                                            |
 | 2583d55 | gptel gemini                           | 14:00:00/18-10-2026 |                                            |
 | a8f0894 | tofi window switcher                   | 15:43:27/17-10-2026 |                                            |
 | db3e57c | tofi open on tag using cursor position | 14:51:16/17-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 412eab0 | mango 18.04                            | 21:14:02/16-10-2026 |                                            |
 | d41f126 | mango layouts                          | 17:07:22/16-10-2026 |                                            |
 | 6dc0af4 | mangowm and mangobar                   | 15:38:35/16-10-2026 |                                            |
-| 0c94324 | wlroots desktop portals                | 20:07:05/12-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
