@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| a9cbe0f7   | referer origin yt-dlp                     | 01:44:01/18-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 53ccc4d4   | org-mcp                                   | 23:14:49/19-10-2026 | HEAD -> master, github/master, github/HEAD |
+| a9cbe0f7   | referer origin yt-dlp                     | 01:44:01/18-10-2026 |                                            |
 | 80ffcf85   | mango check config                        | 15:06:04/17-10-2026 |                                            |
 | 112e0ab2   | mango 18                                  | 21:20:00/16-10-2026 |                                            |
 | b1ed9dda   | mango                                     | 15:40:40/16-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 038d7328   | pipewire makefile                         | 18:36:14/12-10-2026 |                                            |
 | 3.483e+189 | pipewire makefile                         | 18:31:22/12-10-2026 |                                            |
 | 437934ec   | pipewire makefile                         | 17:51:19/12-10-2026 |                                            |
-| 5a6b0c86   | pipewire makefile                         | 17:43:56/12-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| b0a55bc | emacs gptel                            | 22:58:29/19-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 6d24b04 | org-mcp                                | 23:12:16/19-10-2026 | HEAD -> master, github/master, github/HEAD |
+| b0a55bc | emacs gptel                            | 22:58:29/19-10-2026 |                                            |
 | 2b55137 | mango wm tofi switch layout            | 14:52:49/18-10-2026 |                                            |
 | 775095b | mango wm resizewin                     | 14:11:37/18-10-2026 |                                            |
 | 2583d55 | gptel gemini                           | 14:00:00/18-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 962cb25 | mango xdg                              | 01:07:21/17-10-2026 |                                            |
 | d055824 | freebsd pkg list                       | 21:50:42/16-10-2026 |                                            |
 | 412eab0 | mango 18.04                            | 21:14:02/16-10-2026 |                                            |
-| d41f126 | mango layouts                          | 17:07:22/16-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
