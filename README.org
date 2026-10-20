@@ -96,7 +96,7 @@ status
 | 113390000000.0 | sauron mpv yt-dlp                        | 23:31:09/22-09-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| d9c8b4a | emacs gptel gemini                     | 13:45:08/20-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 2789d0d | gptel removed gemini                   | 20:57:24/20-10-2026 | HEAD -> master, github/master, github/HEAD |
+| d9c8b4a | emacs gptel gemini                     | 13:45:08/20-10-2026 |                                            |
 | 6d24b04 | org-mcp                                | 23:12:16/19-10-2026 |                                            |
 | b0a55bc | emacs gptel                            | 22:58:29/19-10-2026 |                                            |
 | 2b55137 | mango wm tofi switch layout            | 14:52:49/18-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | a8f0894 | tofi window switcher                   | 15:43:27/17-10-2026 |                                            |
 | db3e57c | tofi open on tag using cursor position | 14:51:16/17-10-2026 |                                            |
 | 962cb25 | mango xdg                              | 01:07:21/17-10-2026 |                                            |
-| d055824 | freebsd pkg list                       | 21:50:42/16-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
@@ -299,7 +299,7 @@ status
 | dea9ec8 | srt scripts | 20:35:09/12-07-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -321,16 +321,16 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 830989d | emacs gptel gemini mcp | 13:49:15/20-10-2026 | HEAD -> master, github/master, github/HEAD |
-| 9a70449 | remove gptel           | 23:00:32/19-10-2026 |                                            |
-| 9c1bb5d | emacs gptel            | 00:07:59/19-10-2026 |                                            |
-| 4e376c3 | removed gptel          | 18:22:22/08-10-2026 |                                            |
-| f20a152 | emacs tramp ssh        | 22:35:12/10-09-2026 |                                            |
-| 02640a4 | debian-dotfiles        | 13:48:29/05-09-2026 |                                            |
-| a1d72d8 | emamux                 | 13:43:36/05-09-2026 |                                            |
-| 22198fa | emacs-emamux           | 00:17:52/04-09-2026 |                                            |
-| 27e334f | invidious              | 15:10:21/15-06-2026 |                                            |
-| dc6cc07 | mpv invidious          | 18:36:39/14-06-2026 |                                            |
+| 0d693fc | removed gptel tool and mcp | 20:58:15/20-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 830989d | emacs gptel gemini mcp     | 13:49:15/20-10-2026 |                                            |
+| 9a70449 | remove gptel               | 23:00:32/19-10-2026 |                                            |
+| 9c1bb5d | emacs gptel                | 00:07:59/19-10-2026 |                                            |
+| 4e376c3 | removed gptel              | 18:22:22/08-10-2026 |                                            |
+| f20a152 | emacs tramp ssh            | 22:35:12/10-09-2026 |                                            |
+| 02640a4 | debian-dotfiles            | 13:48:29/05-09-2026 |                                            |
+| a1d72d8 | emamux                     | 13:43:36/05-09-2026 |                                            |
+| 22198fa | emacs-emamux               | 00:17:52/04-09-2026 |                                            |
+| 27e334f | invidious                  | 15:10:21/15-06-2026 |                                            |
 #+end_quote
 
 *** debian-root
