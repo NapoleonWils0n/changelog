@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -152,7 +152,8 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 7086742 | dictd                                   | 22:32:54/27-07-2026 | HEAD -> master, github/master |
+| 82c66a4 | loader.conf gpu                         | 17:04:23/20-10-2026 | HEAD -> master, github/master |
+| 7086742 | dictd                                   | 22:32:54/27-07-2026 |                               |
 | 36febf7 | dict                                    | 22:32:39/27-07-2026 |                               |
 | 26f80bc | dictd                                   | 14:04:53/27-07-2026 |                               |
 | c96b0e4 | preempt_thresh=224                      | 21:07:32/13-07-2026 |                               |
@@ -161,7 +162,6 @@ status
 | 875ccf4 | dont switch audio devices automatically | 18:13:12/22-06-2026 |                               |
 | d093ff7 | mic devd                                | 17:57:24/22-06-2026 |                               |
 | b678152 | freebsd 15.1                            | 14:05:03/18-06-2026 |                               |
-| 3fb0cbd | laggpf fix for bhyve                    | 15:30:35/12-06-2026 |                               |
 #+end_quote
 
 ** openbsd
