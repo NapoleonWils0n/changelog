@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 53ccc4d4   | org-mcp                                   | 23:14:49/19-10-2026 | HEAD -> master, github/master, github/HEAD |
+| a5474af5   | openbsd single user mode                  | 14:56:33/20-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 53ccc4d4   | org-mcp                                   | 23:14:49/19-10-2026 |                                            |
 | a9cbe0f7   | referer origin yt-dlp                     | 01:44:01/18-10-2026 |                                            |
 | 80ffcf85   | mango check config                        | 15:06:04/17-10-2026 |                                            |
 | 112e0ab2   | mango 18                                  | 21:20:00/16-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | c16599e7   | dired mark files play with embark and mpv | 21:05:33/12-10-2026 |                                            |
 | 038d7328   | pipewire makefile                         | 18:36:14/12-10-2026 |                                            |
 | 3.483e+189 | pipewire makefile                         | 18:31:22/12-10-2026 |                                            |
-| 437934ec   | pipewire makefile                         | 17:51:19/12-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
