@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 1cb7c624 | emacs org-mcp                             | 21:04:14/20-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 171a9467 | org-mcp                                   | 17:41:48/21-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 1cb7c624 | emacs org-mcp                             | 21:04:14/20-10-2026 |                                            |
 | a5474af5 | openbsd single user mode                  | 14:56:33/20-10-2026 |                                            |
 | 53ccc4d4 | org-mcp                                   | 23:14:49/19-10-2026 |                                            |
 | a9cbe0f7 | referer origin yt-dlp                     | 01:44:01/18-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | b1ed9dda | mango                                     | 15:40:40/16-10-2026 |                                            |
 | f5c23ded | freebsd nvidia upgrade                    | 17:51:19/13-10-2026 |                                            |
 | c16599e7 | dired mark files play with embark and mpv | 21:05:33/12-10-2026 |                                            |
-| 038d7328 | pipewire makefile                         | 18:36:14/12-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 2789d0d | gptel removed gemini                   | 20:57:24/20-10-2026 | HEAD -> master, github/master, github/HEAD |
+| c9ec108 | emacs org-mcp                          | 17:42:25/21-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 2789d0d | gptel removed gemini                   | 20:57:24/20-10-2026 |                                            |
 | d9c8b4a | emacs gptel gemini                     | 13:45:08/20-10-2026 |                                            |
 | 6d24b04 | org-mcp                                | 23:12:16/19-10-2026 |                                            |
 | b0a55bc | emacs gptel                            | 22:58:29/19-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 2583d55 | gptel gemini                           | 14:00:00/18-10-2026 |                                            |
 | a8f0894 | tofi window switcher                   | 15:43:27/17-10-2026 |                                            |
 | db3e57c | tofi open on tag using cursor position | 14:51:16/17-10-2026 |                                            |
-| 962cb25 | mango xdg                              | 01:07:21/17-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
