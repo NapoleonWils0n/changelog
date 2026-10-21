@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c9ec108 | emacs org-mcp                          | 17:42:25/21-10-2026 | HEAD -> master, github/master, github/HEAD |
-| 2789d0d | gptel removed gemini                   | 20:57:24/20-10-2026 |                                            |
-| d9c8b4a | emacs gptel gemini                     | 13:45:08/20-10-2026 |                                            |
-| 6d24b04 | org-mcp                                | 23:12:16/19-10-2026 |                                            |
-| b0a55bc | emacs gptel                            | 22:58:29/19-10-2026 |                                            |
-| 2b55137 | mango wm tofi switch layout            | 14:52:49/18-10-2026 |                                            |
-| 775095b | mango wm resizewin                     | 14:11:37/18-10-2026 |                                            |
-| 2583d55 | gptel gemini                           | 14:00:00/18-10-2026 |                                            |
-| a8f0894 | tofi window switcher                   | 15:43:27/17-10-2026 |                                            |
-| db3e57c | tofi open on tag using cursor position | 14:51:16/17-10-2026 |                                            |
+| 3beccd8 | gptel tools lexical binding | 17:51:43/21-10-2026 | HEAD -> master, github/master, github/HEAD |
+| c9ec108 | emacs org-mcp               | 17:42:25/21-10-2026 |                                            |
+| 2789d0d | gptel removed gemini        | 20:57:24/20-10-2026 |                                            |
+| d9c8b4a | emacs gptel gemini          | 13:45:08/20-10-2026 |                                            |
+| 6d24b04 | org-mcp                     | 23:12:16/19-10-2026 |                                            |
+| b0a55bc | emacs gptel                 | 22:58:29/19-10-2026 |                                            |
+| 2b55137 | mango wm tofi switch layout | 14:52:49/18-10-2026 |                                            |
+| 775095b | mango wm resizewin          | 14:11:37/18-10-2026 |                                            |
+| 2583d55 | gptel gemini                | 14:00:00/18-10-2026 |                                            |
+| a8f0894 | tofi window switcher        | 15:43:27/17-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
