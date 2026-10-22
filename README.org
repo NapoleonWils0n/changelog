@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 13381fa        | org mcp server                           | 22:59:06/19-10-2026 | HEAD -> master, github/master |
-| 5b68406        | window-switcher                          | 14:57:11/17-10-2026 |                               |
-| 56a7bbf        | mango-start                              | 15:38:56/16-10-2026 |                               |
-| 1ca81b6        | ffmpeg rust script freebsd nvenc support | 21:44:36/08-10-2026 |                               |
-| ffebed6        | pinch rust                               | 21:52:10/06-10-2026 |                               |
-| 1c7ce27        | pinch c version                          | 19:50:45/03-10-2026 |                               |
-| cda1eed        | adding c version                         | 19:50:26/03-10-2026 |                               |
-| 42cb25a        | mpv                                      | 21:44:32/27-09-2026 |                               |
-| 899629c        | dwl 0.90                                 | 16:19:19/24-09-2026 |                               |
-| 113390000000.0 | sauron mpv yt-dlp                        | 23:31:09/22-09-2026 |                               |
+| 8f45a24 | yt-dlp                                   | 01:24:08/22-10-2026 | HEAD -> master, github/master |
+| 13381fa | org mcp server                           | 22:59:06/19-10-2026 |                               |
+| 5b68406 | window-switcher                          | 14:57:11/17-10-2026 |                               |
+| 56a7bbf | mango-start                              | 15:38:56/16-10-2026 |                               |
+| 1ca81b6 | ffmpeg rust script freebsd nvenc support | 21:44:36/08-10-2026 |                               |
+| ffebed6 | pinch rust                               | 21:52:10/06-10-2026 |                               |
+| 1c7ce27 | pinch c version                          | 19:50:45/03-10-2026 |                               |
+| cda1eed | adding c version                         | 19:50:26/03-10-2026 |                               |
+| 42cb25a | mpv                                      | 21:44:32/27-09-2026 |                               |
+| 899629c | dwl 0.90                                 | 16:19:19/24-09-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
@@ -265,7 +265,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -287,7 +287,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 6e520e2 | syncthing   | 21:06:50/06-10-2026 | HEAD -> master, github/master, github/HEAD |
+| ff126e9 | yt-dlp      | 01:24:46/22-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 6e520e2 | syncthing   | 21:06:50/06-10-2026 |                                            |
 | 932f5e0 | syncthing   | 15:57:39/17-09-2026 |                                            |
 | 67ce786 | yt-dlp      | 14:54:31/20-08-2026 |                                            |
 | 7030041 | syncthing   | 19:26:19/18-08-2026 |                                            |
@@ -296,7 +297,6 @@ status
 | 6da27e7 | mux scripts | 17:58:20/13-07-2026 |                                            |
 | d29d947 | mux remote  | 15:22:09/13-07-2026 |                                            |
 | e05678d | mux-play    | 22:11:55/12-07-2026 |                                            |
-| dea9ec8 | srt scripts | 20:35:09/12-07-2026 |                                            |
 #+end_quote
 
 *** XPS debian-dotfiles
