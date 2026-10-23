@@ -370,3 +370,4 @@ status
 
 pull from github
 
+freebsd-cuda
