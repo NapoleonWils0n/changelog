@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,20 +49,20 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 171a9467 | org-mcp                                   | 17:41:48/21-10-2026 | HEAD -> master, github/master, github/HEAD |
-| 1cb7c624 | emacs org-mcp                             | 21:04:14/20-10-2026 |                                            |
-| a5474af5 | openbsd single user mode                  | 14:56:33/20-10-2026 |                                            |
-| 53ccc4d4 | org-mcp                                   | 23:14:49/19-10-2026 |                                            |
-| a9cbe0f7 | referer origin yt-dlp                     | 01:44:01/18-10-2026 |                                            |
-| 80ffcf85 | mango check config                        | 15:06:04/17-10-2026 |                                            |
-| 112e0ab2 | mango 18                                  | 21:20:00/16-10-2026 |                                            |
-| b1ed9dda | mango                                     | 15:40:40/16-10-2026 |                                            |
-| f5c23ded | freebsd nvidia upgrade                    | 17:51:19/13-10-2026 |                                            |
-| c16599e7 | dired mark files play with embark and mpv | 21:05:33/12-10-2026 |                                            |
+| ab150072 | window switcher          | 17:26:08/23-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 171a9467 | org-mcp                  | 17:41:48/21-10-2026 |                                            |
+| 1cb7c624 | emacs org-mcp            | 21:04:14/20-10-2026 |                                            |
+| a5474af5 | openbsd single user mode | 14:56:33/20-10-2026 |                                            |
+| 53ccc4d4 | org-mcp                  | 23:14:49/19-10-2026 |                                            |
+| a9cbe0f7 | referer origin yt-dlp    | 01:44:01/18-10-2026 |                                            |
+| 80ffcf85 | mango check config       | 15:06:04/17-10-2026 |                                            |
+| 112e0ab2 | mango 18                 | 21:20:00/16-10-2026 |                                            |
+| b1ed9dda | mango                    | 15:40:40/16-10-2026 |                                            |
+| f5c23ded | freebsd nvidia upgrade   | 17:51:19/13-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 8f45a24 | yt-dlp                                   | 01:24:08/22-10-2026 | HEAD -> master, github/master |
+| ebcc072 | removed window-switcher                  | 17:26:28/23-10-2026 | HEAD -> master, github/master |
+| 8f45a24 | yt-dlp                                   | 01:24:08/22-10-2026 |                               |
 | 13381fa | org mcp server                           | 22:59:06/19-10-2026 |                               |
 | 5b68406 | window-switcher                          | 14:57:11/17-10-2026 |                               |
 | 56a7bbf | mango-start                              | 15:38:56/16-10-2026 |                               |
@@ -93,7 +94,6 @@ status
 | 1c7ce27 | pinch c version                          | 19:50:45/03-10-2026 |                               |
 | cda1eed | adding c version                         | 19:50:26/03-10-2026 |                               |
 | 42cb25a | mpv                                      | 21:44:32/27-09-2026 |                               |
-| 899629c | dwl 0.90                                 | 16:19:19/24-09-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
