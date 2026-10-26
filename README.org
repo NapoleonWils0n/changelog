@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** freebsd-bin-xps
+*** XPS freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| ebcc072 | removed window-switcher                  | 17:26:28/23-10-2026 | HEAD -> master, github/master |
+| 31a239f | yt-dlp                                   | 23:08:46/26-10-2026 | HEAD -> master, github/master |
+| ebcc072 | removed window-switcher                  | 17:26:28/23-10-2026 |                               |
 | 8f45a24 | yt-dlp                                   | 01:24:08/22-10-2026 |                               |
 | 13381fa | org mcp server                           | 22:59:06/19-10-2026 |                               |
 | 5b68406 | window-switcher                          | 14:57:11/17-10-2026 |                               |
@@ -93,7 +94,6 @@ status
 | ffebed6 | pinch rust                               | 21:52:10/06-10-2026 |                               |
 | 1c7ce27 | pinch c version                          | 19:50:45/03-10-2026 |                               |
 | cda1eed | adding c version                         | 19:50:26/03-10-2026 |                               |
-| 42cb25a | mpv                                      | 21:44:32/27-09-2026 |                               |
 #+end_quote
 
 *** freebsd-dotfiles-xps
@@ -265,7 +265,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -287,7 +287,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 0.0     | syncthing   | 22:18:11/23-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 7a4b93b | yt-dlp      | 23:09:17/26-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 0.0     | syncthing   | 22:18:11/23-10-2026 |                                            |
 | ff126e9 | yt-dlp      | 01:24:46/22-10-2026 |                                            |
 | 6e520e2 | syncthing   | 21:06:50/06-10-2026 |                                            |
 | 932f5e0 | syncthing   | 15:57:39/17-09-2026 |                                            |
@@ -296,7 +297,6 @@ status
 | d1dbc9b | mux scripts | 15:16:17/21-07-2026 |                                            |
 | ebea5fc | syncthing   | 15:18:03/14-07-2026 |                                            |
 | 6da27e7 | mux scripts | 17:58:20/13-07-2026 |                                            |
-| d29d947 | mux remote  | 15:22:09/13-07-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
