@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -84,7 +84,9 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 31a239f | yt-dlp                                   | 23:08:46/26-10-2026 | HEAD -> master, github/master |
+| 2a8bde1 | ossuary rust                             | 20:22:33/28-10-2026 | HEAD -> master, github/master |
+| 2b634fd | ossaury shell version removed            | 20:21:21/28-10-2026 |                               |
+| 31a239f | yt-dlp                                   | 23:08:46/26-10-2026 |                               |
 | ebcc072 | removed window-switcher                  | 17:26:28/23-10-2026 |                               |
 | 8f45a24 | yt-dlp                                   | 01:24:08/22-10-2026 |                               |
 | 13381fa | org mcp server                           | 22:59:06/19-10-2026 |                               |
@@ -92,8 +94,6 @@ status
 | 56a7bbf | mango-start                              | 15:38:56/16-10-2026 |                               |
 | 1ca81b6 | ffmpeg rust script freebsd nvenc support | 21:44:36/08-10-2026 |                               |
 | ffebed6 | pinch rust                               | 21:52:10/06-10-2026 |                               |
-| 1c7ce27 | pinch c version                          | 19:50:45/03-10-2026 |                               |
-| cda1eed | adding c version                         | 19:50:26/03-10-2026 |                               |
 #+end_quote
 
 *** freebsd-dotfiles-xps
@@ -187,7 +187,8 @@ status
 
 #+RESULTS: openbsd-bin-macbook
 #+begin_quote
-| 4e12c61 | ossuary             | 14:50:27/22-09-2026 | HEAD -> master, github/master, github/HEAD |
+| 433b444 | ossuary rust        | 20:40:22/28-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 4e12c61 | ossuary             | 14:50:27/22-09-2026 |                                            |
 | 10df59a | openbsd ossuary     | 20:26:54/20-09-2026 |                                            |
 | b870e98 | openbsd ossuary     | 20:21:43/20-09-2026 |                                            |
 | 5efabb8 | openvpn             | 20:04:55/17-09-2026 |                                            |
@@ -265,7 +266,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
@@ -287,16 +288,16 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 7a4b93b | yt-dlp      | 23:09:17/26-10-2026 | HEAD -> master, github/master, github/HEAD |
-| 0.0     | syncthing   | 22:18:11/23-10-2026 |                                            |
-| ff126e9 | yt-dlp      | 01:24:46/22-10-2026 |                                            |
-| 6e520e2 | syncthing   | 21:06:50/06-10-2026 |                                            |
-| 932f5e0 | syncthing   | 15:57:39/17-09-2026 |                                            |
-| 67ce786 | yt-dlp      | 14:54:31/20-08-2026 |                                            |
-| 7030041 | syncthing   | 19:26:19/18-08-2026 |                                            |
-| d1dbc9b | mux scripts | 15:16:17/21-07-2026 |                                            |
-| ebea5fc | syncthing   | 15:18:03/14-07-2026 |                                            |
-| 6da27e7 | mux scripts | 17:58:20/13-07-2026 |                                            |
+| 16002c0 | ossuary rust                                                  | 20:30:29/28-10-2026 | HEAD -> master, github/master, github/HEAD |
+| a081f73 | Merge branch 'master' of github.com:NapoleonWils0n/debian-bin | 20:29:22/28-10-2026 |                                            |
+| 6c31c77 | ossuary rust                                                  | 20:28:29/28-10-2026 |                                            |
+| 5195034 | ossuary shell script removed                                  | 20:27:25/28-10-2026 |                                            |
+| 7a4b93b | yt-dlp                                                        | 23:09:17/26-10-2026 |                                            |
+| 0.0     | syncthing                                                     | 22:18:11/23-10-2026 |                                            |
+| ff126e9 | yt-dlp                                                        | 01:24:46/22-10-2026 |                                            |
+| 6e520e2 | syncthing                                                     | 21:06:50/06-10-2026 |                                            |
+| 932f5e0 | syncthing                                                     | 15:57:39/17-09-2026 |                                            |
+| 67ce786 | yt-dlp                                                        | 14:54:31/20-08-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
@@ -366,10 +367,6 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** XPS todo
+** todo
 
 pull from github
-
-freebsd-cuda
-
-ossuary
