@@ -266,7 +266,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
@@ -367,8 +367,7 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** XPS todo
+** todo
 
 pull from github
 
-ossuary
