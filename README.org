@@ -96,7 +96,7 @@ status
 | ffebed6 | pinch rust                               | 21:52:10/06-10-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 48680a8 | whisper emacs offical branch | 15:56:39/23-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 7844deb | whisper                      | 22:44:01/29-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 48680a8 | whisper emacs offical branch | 15:56:39/23-10-2026 |                                            |
 | 3beccd8 | gptel tools lexical binding  | 17:51:43/21-10-2026 |                                            |
 | c9ec108 | emacs org-mcp                | 17:42:25/21-10-2026 |                                            |
 | 2789d0d | gptel removed gemini         | 20:57:24/20-10-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | b0a55bc | emacs gptel                  | 22:58:29/19-10-2026 |                                            |
 | 2b55137 | mango wm tofi switch layout  | 14:52:49/18-10-2026 |                                            |
 | 775095b | mango wm resizewin           | 14:11:37/18-10-2026 |                                            |
-| 2583d55 | gptel gemini                 | 14:00:00/18-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
