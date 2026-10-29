@@ -266,7 +266,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -288,7 +288,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| 16002c0 | ossuary rust                                                  | 20:30:29/28-10-2026 | HEAD -> master, github/master, github/HEAD |
+| c0be8c1 | ossuary linux luks uuid                                       | 14:58:11/29-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 16002c0 | ossuary rust                                                  | 20:30:29/28-10-2026 |                                            |
 | a081f73 | Merge branch 'master' of github.com:NapoleonWils0n/debian-bin | 20:29:22/28-10-2026 |                                            |
 | 6c31c77 | ossuary rust                                                  | 20:28:29/28-10-2026 |                                            |
 | 5195034 | ossuary shell script removed                                  | 20:27:25/28-10-2026 |                                            |
@@ -297,7 +298,6 @@ status
 | ff126e9 | yt-dlp                                                        | 01:24:46/22-10-2026 |                                            |
 | 6e520e2 | syncthing                                                     | 21:06:50/06-10-2026 |                                            |
 | 932f5e0 | syncthing                                                     | 15:57:39/17-09-2026 |                                            |
-| 67ce786 | yt-dlp                                                        | 14:54:31/20-08-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
@@ -367,6 +367,8 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** todo
+** XPS todo
 
 pull from github
+
+ossuary
