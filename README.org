@@ -300,7 +300,7 @@ status
 | 6e520e2 | syncthing                                                     | 21:06:50/06-10-2026 |                                            |
 #+end_quote
 
-*** debian-dotfiles
+*** XPS debian-dotfiles
 
 github url
 
@@ -322,7 +322,8 @@ status
 
 #+RESULTS: debian-dotfiles
 #+begin_quote
-| 0d693fc | removed gptel tool and mcp | 20:58:15/20-10-2026 | HEAD -> master, github/master, github/HEAD |
+| b070bfc | rust mode                  | 22:07:24/30-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 0d693fc | removed gptel tool and mcp | 20:58:15/20-10-2026 |                                            |
 | 830989d | emacs gptel gemini mcp     | 13:49:15/20-10-2026 |                                            |
 | 9a70449 | remove gptel               | 23:00:32/19-10-2026 |                                            |
 | 9c1bb5d | emacs gptel                | 00:07:59/19-10-2026 |                                            |
@@ -331,7 +332,6 @@ status
 | 02640a4 | debian-dotfiles            | 13:48:29/05-09-2026 |                                            |
 | a1d72d8 | emamux                     | 13:43:36/05-09-2026 |                                            |
 | 22198fa | emacs-emamux               | 00:17:52/04-09-2026 |                                            |
-| 27e334f | invidious                  | 15:10:21/15-06-2026 |                                            |
 #+end_quote
 
 *** debian-root
