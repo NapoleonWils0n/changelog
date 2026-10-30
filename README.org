@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 9d976cd1 | dnxhd                    | 21:35:01/30-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 58e865eb | old shell scripts        | 21:41:56/30-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 9d976cd1 | dnxhd                    | 21:35:01/30-10-2026 |                                            |
 | dc26e9bd | loopback-oss             | 20:46:47/30-10-2026 |                                            |
 | 61879948 | ossuary                  | 17:52:19/27-10-2026 |                                            |
 | 87e162b6 | org-mcp                  | 18:48:07/23-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 1cb7c624 | emacs org-mcp            | 21:04:14/20-10-2026 |                                            |
 | a5474af5 | openbsd single user mode | 14:56:33/20-10-2026 |                                            |
 | 53ccc4d4 | org-mcp                  | 23:14:49/19-10-2026 |                                            |
-| a9cbe0f7 | referer origin yt-dlp    | 01:44:01/18-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -84,7 +84,8 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 92c9128 | dnxhd removed                     | 21:35:19/30-10-2026 | HEAD -> master, github/master |
+| 8b0f969 | removed unused scripts            | 21:41:22/30-10-2026 | HEAD -> master, github/master |
+| 92c9128 | dnxhd removed                     | 21:35:19/30-10-2026 |                               |
 | ea597da | loopback-oss rust                 | 20:47:57/30-10-2026 |                               |
 | 7df812d | loopback-oss shell script removed | 20:47:38/30-10-2026 |                               |
 | 2a8bde1 | ossuary rust                      | 20:22:33/28-10-2026 |                               |
@@ -93,7 +94,6 @@ status
 | ebcc072 | removed window-switcher           | 17:26:28/23-10-2026 |                               |
 | 8f45a24 | yt-dlp                            | 01:24:08/22-10-2026 |                               |
 | 13381fa | org mcp server                    | 22:59:06/19-10-2026 |                               |
-| 5b68406 | window-switcher                   | 14:57:11/17-10-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
