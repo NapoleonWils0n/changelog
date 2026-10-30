@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 58e865eb | old shell scripts        | 21:41:56/30-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 374250b5 | old shell scripts        | 21:44:58/30-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 58e865eb | old shell scripts        | 21:41:56/30-10-2026 |                                            |
 | 9d976cd1 | dnxhd                    | 21:35:01/30-10-2026 |                                            |
 | dc26e9bd | loopback-oss             | 20:46:47/30-10-2026 |                                            |
 | 61879948 | ossuary                  | 17:52:19/27-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 171a9467 | org-mcp                  | 17:41:48/21-10-2026 |                                            |
 | 1cb7c624 | emacs org-mcp            | 21:04:14/20-10-2026 |                                            |
 | a5474af5 | openbsd single user mode | 14:56:33/20-10-2026 |                                            |
-| 53ccc4d4 | org-mcp                  | 23:14:49/19-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -266,7 +266,7 @@ status
 #+end_quote
 
 ** debian
-*** debian-bin
+*** XPS debian-bin
 
 github url
 
@@ -288,7 +288,8 @@ status
 
 #+RESULTS: debian-bin
 #+begin_quote
-| c0be8c1 | ossuary linux luks uuid                                       | 14:58:11/29-10-2026 | HEAD -> master, github/master, github/HEAD |
+| e968de3 | removed old scripts                                           | 21:44:26/30-10-2026 | HEAD -> master, github/master, github/HEAD |
+| c0be8c1 | ossuary linux luks uuid                                       | 14:58:11/29-10-2026 |                                            |
 | 16002c0 | ossuary rust                                                  | 20:30:29/28-10-2026 |                                            |
 | a081f73 | Merge branch 'master' of github.com:NapoleonWils0n/debian-bin | 20:29:22/28-10-2026 |                                            |
 | 6c31c77 | ossuary rust                                                  | 20:28:29/28-10-2026 |                                            |
@@ -297,7 +298,6 @@ status
 | 0.0     | syncthing                                                     | 22:18:11/23-10-2026 |                                            |
 | ff126e9 | yt-dlp                                                        | 01:24:46/22-10-2026 |                                            |
 | 6e520e2 | syncthing                                                     | 21:06:50/06-10-2026 |                                            |
-| 932f5e0 | syncthing                                                     | 15:57:39/17-09-2026 |                                            |
 #+end_quote
 
 *** debian-dotfiles
