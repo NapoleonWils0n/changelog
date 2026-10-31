@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -62,7 +62,7 @@ git status
 #+end_quote
 
 ** freebsd
-*** XPS freebsd-bin-xps
+*** freebsd-bin-xps
 
 github url
 
@@ -96,7 +96,7 @@ status
 | 31a239f | yt-dlp                            | 23:08:46/26-10-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -130,7 +130,7 @@ status
 | 2b55137 | mango wm tofi switch layout  | 14:52:49/18-10-2026 |                                            |
 #+end_quote
 
-*** XPS freebsd-root-xps
+*** freebsd-root-xps
 
 github url
 
@@ -266,7 +266,7 @@ status
 #+end_quote
 
 ** debian
-*** XPS debian-bin
+*** debian-bin
 
 github url
 
@@ -300,7 +300,7 @@ status
 | 6e520e2 | syncthing                                                     | 21:06:50/06-10-2026 |                                            |
 #+end_quote
 
-*** XPS debian-dotfiles
+*** debian-dotfiles
 
 github url
 
@@ -367,9 +367,8 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** XPS todo
+** todo
 
 pull from github
 
-rust-scripts
 
