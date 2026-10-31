@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 374250b5 | old shell scripts        | 21:44:58/30-10-2026 | HEAD -> master, github/master, github/HEAD |
-| 58e865eb | old shell scripts        | 21:41:56/30-10-2026 |                                            |
-| 9d976cd1 | dnxhd                    | 21:35:01/30-10-2026 |                                            |
-| dc26e9bd | loopback-oss             | 20:46:47/30-10-2026 |                                            |
-| 61879948 | ossuary                  | 17:52:19/27-10-2026 |                                            |
-| 87e162b6 | org-mcp                  | 18:48:07/23-10-2026 |                                            |
-| ab150072 | window switcher          | 17:26:08/23-10-2026 |                                            |
-| 171a9467 | org-mcp                  | 17:41:48/21-10-2026 |                                            |
-| 1cb7c624 | emacs org-mcp            | 21:04:14/20-10-2026 |                                            |
-| a5474af5 | openbsd single user mode | 14:56:33/20-10-2026 |                                            |
+| fde00f88 | record desktop audio | 00:50:01/31-10-2026 | HEAD -> master, github/master, github/HEAD |
+| 374250b5 | old shell scripts    | 21:44:58/30-10-2026 |                                            |
+| 58e865eb | old shell scripts    | 21:41:56/30-10-2026 |                                            |
+| 9d976cd1 | dnxhd                | 21:35:01/30-10-2026 |                                            |
+| dc26e9bd | loopback-oss         | 20:46:47/30-10-2026 |                                            |
+| 61879948 | ossuary              | 17:52:19/27-10-2026 |                                            |
+| 87e162b6 | org-mcp              | 18:48:07/23-10-2026 |                                            |
+| ab150072 | window switcher      | 17:26:08/23-10-2026 |                                            |
+| 171a9467 | org-mcp              | 17:41:48/21-10-2026 |                                            |
+| 1cb7c624 | emacs org-mcp        | 21:04:14/20-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -84,16 +84,16 @@ status
 
 #+RESULTS: freebsd-bin-xps
 #+begin_quote
-| 8b0f969 | removed unused scripts            | 21:41:22/30-10-2026 | HEAD -> master, github/master |
+| f2288fd | record desktop audio shell script | 00:57:26/31-10-2026 | HEAD -> master, github/master |
+| 6f29e69 | record-desktop-audio              | 00:49:23/31-10-2026 |                               |
+| 76a6083 | adding new version                | 23:16:20/30-10-2026 |                               |
+| 8b0f969 | removed unused scripts            | 21:41:22/30-10-2026 |                               |
 | 92c9128 | dnxhd removed                     | 21:35:19/30-10-2026 |                               |
 | ea597da | loopback-oss rust                 | 20:47:57/30-10-2026 |                               |
 | 7df812d | loopback-oss shell script removed | 20:47:38/30-10-2026 |                               |
 | 2a8bde1 | ossuary rust                      | 20:22:33/28-10-2026 |                               |
 | 2b634fd | ossaury shell version removed     | 20:21:21/28-10-2026 |                               |
 | 31a239f | yt-dlp                            | 23:08:46/26-10-2026 |                               |
-| ebcc072 | removed window-switcher           | 17:26:28/23-10-2026 |                               |
-| 8f45a24 | yt-dlp                            | 01:24:08/22-10-2026 |                               |
-| 13381fa | org mcp server                    | 22:59:06/19-10-2026 |                               |
 #+end_quote
 
 *** XPS freebsd-dotfiles-xps
