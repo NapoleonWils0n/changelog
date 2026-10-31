@@ -152,16 +152,16 @@ status
 
 #+RESULTS: freebsd-root-xps
 #+begin_quote
-| 8245ef8 | virtual oss                             | 23:31:24/30-10-2026 | HEAD -> master, github/master |
-| 82c66a4 | loader.conf gpu                         | 17:04:23/20-10-2026 |                               |
-| 7086742 | dictd                                   | 22:32:54/27-07-2026 |                               |
-| 36febf7 | dict                                    | 22:32:39/27-07-2026 |                               |
-| 26f80bc | dictd                                   | 14:04:53/27-07-2026 |                               |
-| c96b0e4 | preempt_thresh=224                      | 21:07:32/13-07-2026 |                               |
-| 9d3e261 | audio settings                          | 19:32:15/28-06-2026 |                               |
-| 475cdcb | poudriere                               | 13:44:02/28-06-2026 |                               |
-| 875ccf4 | dont switch audio devices automatically | 18:13:12/22-06-2026 |                               |
-| d093ff7 | mic devd                                | 17:57:24/22-06-2026 |                               |
+| d3ca07a | virtual oss option removed from loader.conf | 01:10:30/31-10-2026 | HEAD -> master, github/master |
+| 8245ef8 | virtual oss                                 | 23:31:24/30-10-2026 |                               |
+| 82c66a4 | loader.conf gpu                             | 17:04:23/20-10-2026 |                               |
+| 7086742 | dictd                                       | 22:32:54/27-07-2026 |                               |
+| 36febf7 | dict                                        | 22:32:39/27-07-2026 |                               |
+| 26f80bc | dictd                                       | 14:04:53/27-07-2026 |                               |
+| c96b0e4 | preempt_thresh=224                          | 21:07:32/13-07-2026 |                               |
+| 9d3e261 | audio settings                              | 19:32:15/28-06-2026 |                               |
+| 475cdcb | poudriere                                   | 13:44:02/28-06-2026 |                               |
+| 875ccf4 | dont switch audio devices automatically     | 18:13:12/22-06-2026 |                               |
 #+end_quote
 
 ** openbsd
