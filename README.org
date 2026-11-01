@@ -118,7 +118,9 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c38a793 | emacs whisper command is run if text selected | 23:22:11/01-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 8e30e90 | whisper                                       | 23:58:41/01-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 12da7ce | whisper output dir                            | 23:50:12/01-11-2026 |                                            |
+| c38a793 | emacs whisper command is run if text selected | 23:22:11/01-11-2026 |                                            |
 | d39be77 | whisper                                       | 17:28:28/01-11-2026 |                                            |
 | 7f2e2ca | emacs speech commands not working yet         | 15:50:50/01-11-2026 |                                            |
 | 5b6bf81 | wshiper recording dir                         | 14:24:42/01-11-2026 |                                            |
@@ -126,8 +128,6 @@ status
 | fa66867 | whisper                                       | 13:16:29/01-11-2026 |                                            |
 | 556f1be | mpv dsp                                       | 20:38:43/30-10-2026 |                                            |
 | 7844deb | whisper                                       | 22:44:01/29-10-2026 |                                            |
-| 48680a8 | whisper emacs offical branch                  | 15:56:39/23-10-2026 |                                            |
-| 3beccd8 | gptel tools lexical binding                   | 17:51:43/21-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
