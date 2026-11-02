@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 8e30e90 | whisper                                       | 23:58:41/01-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 3bfb9d1 | whisper                                       | 00:00:20/02-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 8e30e90 | whisper                                       | 23:58:41/01-11-2026 |                                            |
 | 12da7ce | whisper output dir                            | 23:50:12/01-11-2026 |                                            |
 | c38a793 | emacs whisper command is run if text selected | 23:22:11/01-11-2026 |                                            |
 | d39be77 | whisper                                       | 17:28:28/01-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 9bc9bd8 | whisper                                       | 13:34:43/01-11-2026 |                                            |
 | fa66867 | whisper                                       | 13:16:29/01-11-2026 |                                            |
 | 556f1be | mpv dsp                                       | 20:38:43/30-10-2026 |                                            |
-| 7844deb | whisper                                       | 22:44:01/29-10-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
