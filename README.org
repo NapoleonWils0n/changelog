@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| a2cbd67 | save buffer                                   | 00:30:43/03-11-2026 | HEAD -> master             |
-| c475afd | whisper mpv hydra                             | 00:25:32/03-11-2026 | github/master, github/HEAD |
-| 80fe232 | whisper commands                              | 23:33:08/02-11-2026 |                            |
-| f8866f5 | whisper voice commands bookmarks              | 22:36:32/02-11-2026 |                            |
-| 88668fe | whisper commands and text output working      | 16:23:53/02-11-2026 |                            |
-| 7bd6423 | whisper voice commands working                | 15:40:42/02-11-2026 |                            |
-| 3bfb9d1 | whisper                                       | 00:00:20/02-11-2026 |                            |
-| 8e30e90 | whisper                                       | 23:58:41/01-11-2026 |                            |
-| 12da7ce | whisper output dir                            | 23:50:12/01-11-2026 |                            |
-| c38a793 | emacs whisper command is run if text selected | 23:22:11/01-11-2026 |                            |
+| b3d8226 | whisper bookmarks                        | 00:45:56/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 4bf60ad | kill buffer                              | 00:43:33/03-11-2026 |                                            |
+| a2cbd67 | save buffer                              | 00:30:43/03-11-2026 |                                            |
+| c475afd | whisper mpv hydra                        | 00:25:32/03-11-2026 |                                            |
+| 80fe232 | whisper commands                         | 23:33:08/02-11-2026 |                                            |
+| f8866f5 | whisper voice commands bookmarks         | 22:36:32/02-11-2026 |                                            |
+| 88668fe | whisper commands and text output working | 16:23:53/02-11-2026 |                                            |
+| 7bd6423 | whisper voice commands working           | 15:40:42/02-11-2026 |                                            |
+| 3bfb9d1 | whisper                                  | 00:00:20/02-11-2026 |                                            |
+| 8e30e90 | whisper                                  | 23:58:41/01-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
