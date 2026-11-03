@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| fdb44c6 | whisper                          | 18:00:43/03-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 3330b22 | emacs bookmarks                  | 14:10:56/03-11-2026 |                                            |
-| 0e3812e | whisper commands                 | 13:15:09/03-11-2026 |                                            |
-| c49f71b | whisper commands sidebar         | 01:06:10/03-11-2026 |                                            |
-| b3d8226 | whisper bookmarks                | 00:45:56/03-11-2026 |                                            |
-| 4bf60ad | kill buffer                      | 00:43:33/03-11-2026 |                                            |
-| a2cbd67 | save buffer                      | 00:30:43/03-11-2026 |                                            |
-| c475afd | whisper mpv hydra                | 00:25:32/03-11-2026 |                                            |
-| 80fe232 | whisper commands                 | 23:33:08/02-11-2026 |                                            |
-| f8866f5 | whisper voice commands bookmarks | 22:36:32/02-11-2026 |                                            |
+| 4008098 | whisper commands                    | 19:04:26/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 085b31e | whisper display icons in the buffer | 18:48:37/03-11-2026 |                                            |
+| fdb44c6 | whisper                             | 18:00:43/03-11-2026 |                                            |
+| 3330b22 | emacs bookmarks                     | 14:10:56/03-11-2026 |                                            |
+| 0e3812e | whisper commands                    | 13:15:09/03-11-2026 |                                            |
+| c49f71b | whisper commands sidebar            | 01:06:10/03-11-2026 |                                            |
+| b3d8226 | whisper bookmarks                   | 00:45:56/03-11-2026 |                                            |
+| 4bf60ad | kill buffer                         | 00:43:33/03-11-2026 |                                            |
+| a2cbd67 | save buffer                         | 00:30:43/03-11-2026 |                                            |
+| c475afd | whisper mpv hydra                   | 00:25:32/03-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
