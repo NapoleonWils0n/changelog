@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 4e27b6aa | whisper              | 15:01:31/01-11-2026 | HEAD -> master, github/master, github/HEAD |
+| ac37c816 | whisper server       | 00:39:05/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 4e27b6aa | whisper              | 15:01:31/01-11-2026 |                                            |
 | fde00f88 | record desktop audio | 00:50:01/31-10-2026 |                                            |
 | 374250b5 | old shell scripts    | 21:44:58/30-10-2026 |                                            |
 | 58e865eb | old shell scripts    | 21:41:56/30-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 61879948 | ossuary              | 17:52:19/27-10-2026 |                                            |
 | 87e162b6 | org-mcp              | 18:48:07/23-10-2026 |                                            |
 | ab150072 | window switcher      | 17:26:08/23-10-2026 |                                            |
-| 171a9467 | org-mcp              | 17:41:48/21-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 88668fe | whisper commands and text output working      | 16:23:53/02-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 7bd6423 | whisper voice commands working                | 15:40:42/02-11-2026 |                                            |
-| 3bfb9d1 | whisper                                       | 00:00:20/02-11-2026 |                                            |
-| 8e30e90 | whisper                                       | 23:58:41/01-11-2026 |                                            |
-| 12da7ce | whisper output dir                            | 23:50:12/01-11-2026 |                                            |
-| c38a793 | emacs whisper command is run if text selected | 23:22:11/01-11-2026 |                                            |
-| d39be77 | whisper                                       | 17:28:28/01-11-2026 |                                            |
-| 7f2e2ca | emacs speech commands not working yet         | 15:50:50/01-11-2026 |                                            |
-| 5b6bf81 | wshiper recording dir                         | 14:24:42/01-11-2026 |                                            |
-| 9bc9bd8 | whisper                                       | 13:34:43/01-11-2026 |                                            |
+| a2cbd67 | save buffer                                   | 00:30:43/03-11-2026 | HEAD -> master             |
+| c475afd | whisper mpv hydra                             | 00:25:32/03-11-2026 | github/master, github/HEAD |
+| 80fe232 | whisper commands                              | 23:33:08/02-11-2026 |                            |
+| f8866f5 | whisper voice commands bookmarks              | 22:36:32/02-11-2026 |                            |
+| 88668fe | whisper commands and text output working      | 16:23:53/02-11-2026 |                            |
+| 7bd6423 | whisper voice commands working                | 15:40:42/02-11-2026 |                            |
+| 3bfb9d1 | whisper                                       | 00:00:20/02-11-2026 |                            |
+| 8e30e90 | whisper                                       | 23:58:41/01-11-2026 |                            |
+| 12da7ce | whisper output dir                            | 23:50:12/01-11-2026 |                            |
+| c38a793 | emacs whisper command is run if text selected | 23:22:11/01-11-2026 |                            |
 #+end_quote
 
 *** freebsd-root-xps
