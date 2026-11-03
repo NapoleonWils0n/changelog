@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| ac37c816 | whisper server       | 00:39:05/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| addb1e24 | whisper commands     | 19:09:56/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| ac37c816 | whisper server       | 00:39:05/03-11-2026 |                                            |
 | 4e27b6aa | whisper              | 15:01:31/01-11-2026 |                                            |
 | fde00f88 | record desktop audio | 00:50:01/31-10-2026 |                                            |
 | 374250b5 | old shell scripts    | 21:44:58/30-10-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | dc26e9bd | loopback-oss         | 20:46:47/30-10-2026 |                                            |
 | 61879948 | ossuary              | 17:52:19/27-10-2026 |                                            |
 | 87e162b6 | org-mcp              | 18:48:07/23-10-2026 |                                            |
-| ab150072 | window switcher      | 17:26:08/23-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
