@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c13e684 | whisper tmp dir                     | 19:28:09/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 32ed399 | emacs comments                      | 21:10:13/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| c13e684 | whisper tmp dir                     | 19:28:09/03-11-2026 |                                            |
 | 4008098 | whisper commands                    | 19:04:26/03-11-2026 |                                            |
 | 085b31e | whisper display icons in the buffer | 18:48:37/03-11-2026 |                                            |
 | fdb44c6 | whisper                             | 18:00:43/03-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | c49f71b | whisper commands sidebar            | 01:06:10/03-11-2026 |                                            |
 | b3d8226 | whisper bookmarks                   | 00:45:56/03-11-2026 |                                            |
 | 4bf60ad | kill buffer                         | 00:43:33/03-11-2026 |                                            |
-| a2cbd67 | save buffer                         | 00:30:43/03-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
