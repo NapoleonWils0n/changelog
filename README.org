@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| d43778b9 | whisper tmp dir      | 19:29:22/03-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 4693e10d | whisper              | 21:18:24/04-11-2026 | HEAD -> master, github/master, github/HEAD |
+| d43778b9 | whisper tmp dir      | 19:29:22/03-11-2026 |                                            |
 | addb1e24 | whisper commands     | 19:09:56/03-11-2026 |                                            |
 | ac37c816 | whisper server       | 00:39:05/03-11-2026 |                                            |
 | 4e27b6aa | whisper              | 15:01:31/01-11-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 58e865eb | old shell scripts    | 21:41:56/30-10-2026 |                                            |
 | 9d976cd1 | dnxhd                | 21:35:01/30-10-2026 |                                            |
 | dc26e9bd | loopback-oss         | 20:46:47/30-10-2026 |                                            |
-| 61879948 | ossuary              | 17:52:19/27-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 32ed399 | emacs comments                      | 21:10:13/03-11-2026 | HEAD -> master, github/master, github/HEAD |
-| c13e684 | whisper tmp dir                     | 19:28:09/03-11-2026 |                                            |
-| 4008098 | whisper commands                    | 19:04:26/03-11-2026 |                                            |
-| 085b31e | whisper display icons in the buffer | 18:48:37/03-11-2026 |                                            |
-| fdb44c6 | whisper                             | 18:00:43/03-11-2026 |                                            |
-| 3330b22 | emacs bookmarks                     | 14:10:56/03-11-2026 |                                            |
-| 0e3812e | whisper commands                    | 13:15:09/03-11-2026 |                                            |
-| c49f71b | whisper commands sidebar            | 01:06:10/03-11-2026 |                                            |
-| b3d8226 | whisper bookmarks                   | 00:45:56/03-11-2026 |                                            |
-| 4bf60ad | kill buffer                         | 00:43:33/03-11-2026 |                                            |
+| 59f4bbc | whisper commands         | 14:26:59/04-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 5173dd3 | quit window              | 14:25:08/04-11-2026 |                                            |
+| 8d6768a | quit window              | 14:08:00/04-11-2026 |                                            |
+| 2b97cd1 | whisper commands sidebar | 14:03:09/04-11-2026 |                                            |
+| 18c5228 | whisper commands sidebar | 13:57:31/04-11-2026 |                                            |
+| d395ae0 | whisper commands         | 13:56:47/04-11-2026 |                                            |
+| fec0b01 | emacs commands           | 13:18:54/04-11-2026 |                                            |
+| 32ed399 | emacs comments           | 21:10:13/03-11-2026 |                                            |
+| c13e684 | whisper tmp dir          | 19:28:09/03-11-2026 |                                            |
+| 4008098 | whisper commands         | 19:04:26/03-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
