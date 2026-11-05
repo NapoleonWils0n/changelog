@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| de6c90a | whisper phony            | 19:05:49/05-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 0d6e275 | whisper                  | 19:07:40/05-11-2026 | HEAD -> master, github/master, github/HEAD |
+| de6c90a | whisper phony            | 19:05:49/05-11-2026 |                                            |
 | 60aa4e3 | whisper phony            | 17:36:18/05-11-2026 |                                            |
 | 866da32 | whisper                  | 12:54:21/05-11-2026 |                                            |
 | 59f4bbc | whisper commands         | 14:26:59/04-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 2b97cd1 | whisper commands sidebar | 14:03:09/04-11-2026 |                                            |
 | 18c5228 | whisper commands sidebar | 13:57:31/04-11-2026 |                                            |
 | d395ae0 | whisper commands         | 13:56:47/04-11-2026 |                                            |
-| fec0b01 | emacs commands           | 13:18:54/04-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
