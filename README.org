@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 4693e10d | whisper              | 21:18:24/04-11-2026 | HEAD -> master, github/master, github/HEAD |
+| def0ce3c | whisper phony        | 17:39:56/05-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 4693e10d | whisper              | 21:18:24/04-11-2026 |                                            |
 | d43778b9 | whisper tmp dir      | 19:29:22/03-11-2026 |                                            |
 | addb1e24 | whisper commands     | 19:09:56/03-11-2026 |                                            |
 | ac37c816 | whisper server       | 00:39:05/03-11-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 374250b5 | old shell scripts    | 21:44:58/30-10-2026 |                                            |
 | 58e865eb | old shell scripts    | 21:41:56/30-10-2026 |                                            |
 | 9d976cd1 | dnxhd                | 21:35:01/30-10-2026 |                                            |
-| dc26e9bd | loopback-oss         | 20:46:47/30-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -96,7 +96,7 @@ status
 | 31a239f | yt-dlp                            | 23:08:46/26-10-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,9 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 59f4bbc | whisper commands         | 14:26:59/04-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 60aa4e3 | whisper phony            | 17:36:18/05-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 866da32 | whisper                  | 12:54:21/05-11-2026 |                                            |
+| 59f4bbc | whisper commands         | 14:26:59/04-11-2026 |                                            |
 | 5173dd3 | quit window              | 14:25:08/04-11-2026 |                                            |
 | 8d6768a | quit window              | 14:08:00/04-11-2026 |                                            |
 | 2b97cd1 | whisper commands sidebar | 14:03:09/04-11-2026 |                                            |
@@ -126,8 +128,6 @@ status
 | d395ae0 | whisper commands         | 13:56:47/04-11-2026 |                                            |
 | fec0b01 | emacs commands           | 13:18:54/04-11-2026 |                                            |
 | 32ed399 | emacs comments           | 21:10:13/03-11-2026 |                                            |
-| c13e684 | whisper tmp dir          | 19:28:09/03-11-2026 |                                            |
-| 4008098 | whisper commands         | 19:04:26/03-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
