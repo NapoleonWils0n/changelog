@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 3c550f2 | Whisper          | kill current buffer. | 14:15:20/06-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 9075ad3 | Whisper commands | 14:13:19/06-11-2026  |                     |                                            |
-| 956e93f | Whisper commands | 00:55:25/06-11-2026  |                     |                                            |
-| 8495149 | treesitter       | 23:18:22/05-11-2026  |                     |                                            |
-| 0d6e275 | whisper          | 19:07:40/05-11-2026  |                     |                                            |
-| de6c90a | whisper phony    | 19:05:49/05-11-2026  |                     |                                            |
-| 60aa4e3 | whisper phony    | 17:36:18/05-11-2026  |                     |                                            |
-| 866da32 | whisper          | 12:54:21/05-11-2026  |                     |                                            |
-| 59f4bbc | whisper commands | 14:26:59/04-11-2026  |                     |                                            |
-| 5173dd3 | quit window      | 14:25:08/04-11-2026  |                     |                                            |
+| 8892c22 | whisper tab commands | 16:07:46/06-11-2026  | HEAD -> master, github/master, github/HEAD |   |
+| 3c550f2 | Whisper              | kill current buffer. | 14:15:20/06-11-2026                        |   |
+| 9075ad3 | Whisper commands     | 14:13:19/06-11-2026  |                                            |   |
+| 956e93f | Whisper commands     | 00:55:25/06-11-2026  |                                            |   |
+| 8495149 | treesitter           | 23:18:22/05-11-2026  |                                            |   |
+| 0d6e275 | whisper              | 19:07:40/05-11-2026  |                                            |   |
+| de6c90a | whisper phony        | 19:05:49/05-11-2026  |                                            |   |
+| 60aa4e3 | whisper phony        | 17:36:18/05-11-2026  |                                            |   |
+| 866da32 | whisper              | 12:54:21/05-11-2026  |                                            |   |
+| 59f4bbc | whisper commands     | 14:26:59/04-11-2026  |                                            |   |
 #+end_quote
 
 *** freebsd-root-xps
