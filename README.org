@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 288a3b0 | Whisper toggle side window. | 18:40:34/06-11-2026  | HEAD -> master, github/master, github/HEAD |   |
+| cdc0935 | emacs org mode tree sitter  | 23:23:08/06-11-2026  | HEAD -> master, github/master, github/HEAD |   |
+| 288a3b0 | Whisper toggle side window. | 18:40:34/06-11-2026  |                                            |   |
 | 57f51d2 | Whisper sidebar.            | 18:11:42/06-11-2026  |                                            |   |
 | 8892c22 | whisper tab commands        | 16:07:46/06-11-2026  |                                            |   |
 | 3c550f2 | Whisper                     | kill current buffer. | 14:15:20/06-11-2026                        |   |
@@ -127,7 +128,6 @@ status
 | 8495149 | treesitter                  | 23:18:22/05-11-2026  |                                            |   |
 | 0d6e275 | whisper                     | 19:07:40/05-11-2026  |                                            |   |
 | de6c90a | whisper phony               | 19:05:49/05-11-2026  |                                            |   |
-| 60aa4e3 | whisper phony               | 17:36:18/05-11-2026  |                                            |   |
 #+end_quote
 
 *** freebsd-root-xps
