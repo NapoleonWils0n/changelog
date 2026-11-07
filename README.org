@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| def0ce3c | whisper phony        | 17:39:56/05-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 4693e10d | whisper              | 21:18:24/04-11-2026 |                                            |
-| d43778b9 | whisper tmp dir      | 19:29:22/03-11-2026 |                                            |
-| addb1e24 | whisper commands     | 19:09:56/03-11-2026 |                                            |
-| ac37c816 | whisper server       | 00:39:05/03-11-2026 |                                            |
-| 4e27b6aa | whisper              | 15:01:31/01-11-2026 |                                            |
-| fde00f88 | record desktop audio | 00:50:01/31-10-2026 |                                            |
-| 374250b5 | old shell scripts    | 21:44:58/30-10-2026 |                                            |
-| 58e865eb | old shell scripts    | 21:41:56/30-10-2026 |                                            |
-| 9d976cd1 | dnxhd                | 21:35:01/30-10-2026 |                                            |
+| b53cff1e | emacs tree sitter org | 01:16:10/07-11-2026 | HEAD -> master, github/master, github/HEAD |
+| def0ce3c | whisper phony         | 17:39:56/05-11-2026 |                                            |
+| 4693e10d | whisper               | 21:18:24/04-11-2026 |                                            |
+| d43778b9 | whisper tmp dir       | 19:29:22/03-11-2026 |                                            |
+| addb1e24 | whisper commands      | 19:09:56/03-11-2026 |                                            |
+| ac37c816 | whisper server        | 00:39:05/03-11-2026 |                                            |
+| 4e27b6aa | whisper               | 15:01:31/01-11-2026 |                                            |
+| fde00f88 | record desktop audio  | 00:50:01/31-10-2026 |                                            |
+| 374250b5 | old shell scripts     | 21:44:58/30-10-2026 |                                            |
+| 58e865eb | old shell scripts     | 21:41:56/30-10-2026 |                                            |
 #+end_quote
 
 ** freebsd
