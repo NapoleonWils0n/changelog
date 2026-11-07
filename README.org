@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 335ddaa | emacs whisper commands with phony | 23:26:58/07-11-2026  | HEAD -> master, github/master, github/HEAD |   |
-| 21ddd87 | Whisper delete windows            | 16:28:05/07-11-2026  |                                            |   |
-| e56eb20 | emacs                             | 11:14:14/07-11-2026  |                                            |   |
-| 38231c8 | whisper treesit-explore-mode      | 01:04:14/07-11-2026  |                                            |   |
-| cdc0935 | emacs org mode tree sitter        | 23:23:08/06-11-2026  |                                            |   |
-| 288a3b0 | Whisper toggle side window.       | 18:40:34/06-11-2026  |                                            |   |
-| 57f51d2 | Whisper sidebar.                  | 18:11:42/06-11-2026  |                                            |   |
-| 8892c22 | whisper tab commands              | 16:07:46/06-11-2026  |                                            |   |
-| 3c550f2 | Whisper                           | kill current buffer. | 14:15:20/06-11-2026                        |   |
-| 9075ad3 | Whisper commands                  | 14:13:19/06-11-2026  |                                            |   |
+| b5d8474 | whisper phony with fix errors     | 23:51:19/07-11-2026  | HEAD -> master, github/master, github/HEAD |
+| 335ddaa | emacs whisper commands with phony | 23:26:58/07-11-2026  |                                            |
+| 21ddd87 | Whisper delete windows            | 16:28:05/07-11-2026  |                                            |
+| e56eb20 | emacs                             | 11:14:14/07-11-2026  |                                            |
+| 38231c8 | whisper treesit-explore-mode      | 01:04:14/07-11-2026  |                                            |
+| cdc0935 | emacs org mode tree sitter        | 23:23:08/06-11-2026  |                                            |
+| 288a3b0 | Whisper toggle side window.       | 18:40:34/06-11-2026  |                                            |
+| 57f51d2 | Whisper sidebar.                  | 18:11:42/06-11-2026  |                                            |
+| 8892c22 | whisper tab commands              | 16:07:46/06-11-2026  |                                            |
+| 3c550f2 | Whisper                           | kill current buffer. | 14:15:20/06-11-2026                        |
 #+end_quote
 
 *** freebsd-root-xps
