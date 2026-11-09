@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 334937b        | Whisper                      | remove leading space. | 23:06:12/08-11-2026 | HEAD -> master, github/master, github/HEAD |   |
-| 6a2c8e4        | Whisper                      | copy and paste.       | 22:58:19/08-11-2026 |                                            |   |
-| 372910000000.0 | Whisper commands.            | 22:28:00/08-11-2026   |                     |                                            |   |
-| 6b3a2c4        | whisper block commands       | 21:44:53/08-11-2026   |                     |                                            |   |
-| 3bd75b1        | phony source blocks          | 21:41:13/08-11-2026   |                     |                                            |   |
-| ae66904        | Whisper                      | git                   | commit.             | 21:23:45/08-11-2026                        |   |
-| 900ed86        | Whisper                      | git                   | commit.             | 21:20:26/08-11-2026                        |   |
-| d2026db        | whisper phony magit.         | 21:14:58/08-11-2026   |                     |                                            |   |
-| 5c68aac        | Whispers selection command.  | 20:16:36/08-11-2026   |                     |                                            |   |
-| 7d6551e        | emacs whisper phony commands | 20:11:57/08-11-2026   |                     |                                            |   |
+| 7bcdd2c        | whisper phoney doc strings | 17:48:33/09-11-2026   | HEAD -> master, github/master, github/HEAD |                     |
+| 2015c6e        | Tab bar fix.               | 14:04:21/09-11-2026   |                                            |                     |
+| a14228a        | Help buffer.               | 13:51:12/09-11-2026   |                                            |                     |
+| ba6063d        | Whisper phony comments.    | 13:43:29/09-11-2026   |                                            |                     |
+| 334937b        | Whisper                    | remove leading space. | 23:06:12/08-11-2026                        |                     |
+| 6a2c8e4        | Whisper                    | copy and paste.       | 22:58:19/08-11-2026                        |                     |
+| 372910000000.0 | Whisper commands.          | 22:28:00/08-11-2026   |                                            |                     |
+| 6b3a2c4        | whisper block commands     | 21:44:53/08-11-2026   |                                            |                     |
+| 3bd75b1        | phony source blocks        | 21:41:13/08-11-2026   |                                            |                     |
+| ae66904        | Whisper                    | git                   | commit.                                    | 21:23:45/08-11-2026 |
 #+end_quote
 
 *** freebsd-root-xps
