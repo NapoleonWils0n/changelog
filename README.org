@@ -96,7 +96,7 @@ status
 | 31a239f | yt-dlp                            | 23:08:46/26-10-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 7bcdd2c        | whisper phoney doc strings | 17:48:33/09-11-2026   | HEAD -> master, github/master, github/HEAD |                     |
-| 2015c6e        | Tab bar fix.               | 14:04:21/09-11-2026   |                                            |                     |
-| a14228a        | Help buffer.               | 13:51:12/09-11-2026   |                                            |                     |
-| ba6063d        | Whisper phony comments.    | 13:43:29/09-11-2026   |                                            |                     |
-| 334937b        | Whisper                    | remove leading space. | 23:06:12/08-11-2026                        |                     |
-| 6a2c8e4        | Whisper                    | copy and paste.       | 22:58:19/08-11-2026                        |                     |
-| 372910000000.0 | Whisper commands.          | 22:28:00/08-11-2026   |                                            |                     |
-| 6b3a2c4        | whisper block commands     | 21:44:53/08-11-2026   |                                            |                     |
-| 3bd75b1        | phony source blocks        | 21:41:13/08-11-2026   |                                            |                     |
-| ae66904        | Whisper                    | git                   | commit.                                    | 21:23:45/08-11-2026 |
+| 8cb7758 | Whisper phony numbers.          | 21:23:33/10-11-2026 | HEAD -> master, github/master, github/HEAD |
+| f1f5576 | Whisper numbers.                | 20:43:23/10-11-2026 |                                            |
+| 7674854 | Phoney open file                | 20:30:57/10-11-2026 |                                            |
+| 7aaab1d | Whisper phony number command.   | 20:07:13/10-11-2026 |                                            |
+| 68a730c | whisper scroll commands         | 19:08:54/10-11-2026 |                                            |
+| dfc8727 | voice commands side window      | 15:49:48/10-11-2026 |                                            |
+| 5a543cb | voice commands help side window | 15:19:11/10-11-2026 |                                            |
+| 2a52db2 | voice commands side window      | 15:14:55/10-11-2026 |                                            |
+| 02ee764 | voice commands side window      | 15:14:08/10-11-2026 |                                            |
+| 69f0446 | Paragraph commands.             | 22:12:01/09-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
