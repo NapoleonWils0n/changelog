@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 9f3de63 | whisper to do                   | 21:49:08/10-11-2026 | HEAD -> master, github/master, github/HEAD |
+| a01b8b8 | gptel gemini                    | 22:04:33/10-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 9f3de63 | whisper to do                   | 21:49:08/10-11-2026 |                                            |
 | fb9f5e5 | org to state.                   | 21:46:32/10-11-2026 |                                            |
 | 8cb7758 | Whisper phony numbers.          | 21:23:33/10-11-2026 |                                            |
 | f1f5576 | Whisper numbers.                | 20:43:23/10-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 68a730c | whisper scroll commands         | 19:08:54/10-11-2026 |                                            |
 | dfc8727 | voice commands side window      | 15:49:48/10-11-2026 |                                            |
 | 5a543cb | voice commands help side window | 15:19:11/10-11-2026 |                                            |
-| 2a52db2 | voice commands side window      | 15:14:55/10-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
