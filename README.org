@@ -367,8 +367,11 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** todo
+** XPS todo
 
 pull from github
 
 freebsd-cuda
+
+cant remember if i have pulled
+another line
