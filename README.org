@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** XPS cerberus
+** cerberus
 
 github url
 
@@ -48,18 +48,6 @@ git status
 #+end_src
 
 #+RESULTS: cerberus
-#+begin_quote
-| 3d1ec07a | telegram              | 22:47:05/11-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 12f6c27a | whisper commands      | 23:29:36/07-11-2026 |                                            |
-| dba9f931 | whisper               | 11:18:02/07-11-2026 |                                            |
-| b53cff1e | emacs tree sitter org | 01:16:10/07-11-2026 |                                            |
-| def0ce3c | whisper phony         | 17:39:56/05-11-2026 |                                            |
-| 4693e10d | whisper               | 21:18:24/04-11-2026 |                                            |
-| d43778b9 | whisper tmp dir       | 19:29:22/03-11-2026 |                                            |
-| addb1e24 | whisper commands      | 19:09:56/03-11-2026 |                                            |
-| ac37c816 | whisper server        | 00:39:05/03-11-2026 |                                            |
-| 4e27b6aa | whisper               | 15:01:31/01-11-2026 |                                            |
-#+end_quote
 
 ** freebsd
 *** freebsd-bin-xps
@@ -96,7 +84,7 @@ status
 | 31a239f | yt-dlp                            | 23:08:46/26-10-2026 |                               |
 #+end_quote
 
-*** XPS freebsd-dotfiles-xps
+*** freebsd-dotfiles-xps
 
 github url
 
@@ -367,11 +355,6 @@ status
 | 8d99268 | debian root dotfiles | 13:49:16/21-02-2017 |                               |
 #+end_quote
 
-** XPS todo
+** todo
 
 pull from github
-
-freebsd-cuda
-
-cant remember if i have pulled
-another line
