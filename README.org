@@ -84,7 +84,7 @@ status
 | 31a239f | yt-dlp                            | 23:08:46/26-10-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -106,16 +106,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 8cb8d02 | Fix typo                      | 15:04:02/13-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 26778ca | pkg list                      | 22:46:34/11-11-2026 |                                            |
-| 41fbdde | whisper hydra                 | 15:43:44/11-11-2026 |                                            |
-| a01b8b8 | gptel gemini                  | 22:04:33/10-11-2026 |                                            |
-| 9f3de63 | whisper to do                 | 21:49:08/10-11-2026 |                                            |
-| fb9f5e5 | org to state.                 | 21:46:32/10-11-2026 |                                            |
-| 8cb7758 | Whisper phony numbers.        | 21:23:33/10-11-2026 |                                            |
-| f1f5576 | Whisper numbers.              | 20:43:23/10-11-2026 |                                            |
-| 7674854 | Phoney open file              | 20:30:57/10-11-2026 |                                            |
-| 7aaab1d | Whisper phony number command. | 20:07:13/10-11-2026 |                                            |
+| 87830ed | Emacs Gemini GPtel     | 15:48:21/15-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 2377744 | whisper gptel          | 14:39:55/15-11-2026 |                                            |
+| 8cb8d02 | Fix typo               | 15:04:02/13-11-2026 |                                            |
+| 26778ca | pkg list               | 22:46:34/11-11-2026 |                                            |
+| 41fbdde | whisper hydra          | 15:43:44/11-11-2026 |                                            |
+| a01b8b8 | gptel gemini           | 22:04:33/10-11-2026 |                                            |
+| 9f3de63 | whisper to do          | 21:49:08/10-11-2026 |                                            |
+| fb9f5e5 | org to state.          | 21:46:32/10-11-2026 |                                            |
+| 8cb7758 | Whisper phony numbers. | 21:23:33/10-11-2026 |                                            |
+| f1f5576 | Whisper numbers.       | 20:43:23/10-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
