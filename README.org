@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 9cbcf5c | emacs silero vad   | 00:47:00/17-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 265cccc | whisper commands   | 17:08:13/16-11-2026 |                                            |
-| 87830ed | Emacs Gemini GPtel | 15:48:21/15-11-2026 |                                            |
-| 2377744 | whisper gptel      | 14:39:55/15-11-2026 |                                            |
-| 8cb8d02 | Fix typo           | 15:04:02/13-11-2026 |                                            |
-| 26778ca | pkg list           | 22:46:34/11-11-2026 |                                            |
-| 41fbdde | whisper hydra      | 15:43:44/11-11-2026 |                                            |
-| a01b8b8 | gptel gemini       | 22:04:33/10-11-2026 |                                            |
-| 9f3de63 | whisper to do      | 21:49:08/10-11-2026 |                                            |
-| fb9f5e5 | org to state.      | 21:46:32/10-11-2026 |                                            |
+| c8e20c8 | phony speech commands | 13:17:31/18-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 93674af | sacha speech input    | 18:12:06/17-11-2026 |                                            |
+| 4766f68 | sacha speech input    | 17:27:47/17-11-2026 |                                            |
+| ce64762 | whisper and vad start | 14:54:32/17-11-2026 |                                            |
+| 9cbcf5c | emacs silero vad      | 00:47:00/17-11-2026 |                                            |
+| 265cccc | whisper commands      | 17:08:13/16-11-2026 |                                            |
+| 87830ed | Emacs Gemini GPtel    | 15:48:21/15-11-2026 |                                            |
+| 2377744 | whisper gptel         | 14:39:55/15-11-2026 |                                            |
+| 8cb8d02 | Fix typo              | 15:04:02/13-11-2026 |                                            |
+| 26778ca | pkg list              | 22:46:34/11-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
