@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| f5574dc3 | silero-vad            | 00:54:24/17-11-2026 | HEAD -> master, github/master, github/HEAD |
+| b0773dd9 | silero                | 21:56:04/18-11-2026 | HEAD -> master, github/master, github/HEAD |
+| f5574dc3 | silero-vad            | 00:54:24/17-11-2026 |                                            |
 | 3d1ec07a | telegram              | 22:47:05/11-11-2026 |                                            |
 | 12f6c27a | whisper commands      | 23:29:36/07-11-2026 |                                            |
 | dba9f931 | whisper               | 11:18:02/07-11-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | 4693e10d | whisper               | 21:18:24/04-11-2026 |                                            |
 | d43778b9 | whisper tmp dir       | 19:29:22/03-11-2026 |                                            |
 | addb1e24 | whisper commands      | 19:09:56/03-11-2026 |                                            |
-| ac37c816 | whisper server        | 00:39:05/03-11-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| c8e20c8 | phony speech commands | 13:17:31/18-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 93674af | sacha speech input    | 18:12:06/17-11-2026 |                                            |
-| 4766f68 | sacha speech input    | 17:27:47/17-11-2026 |                                            |
-| ce64762 | whisper and vad start | 14:54:32/17-11-2026 |                                            |
-| 9cbcf5c | emacs silero vad      | 00:47:00/17-11-2026 |                                            |
-| 265cccc | whisper commands      | 17:08:13/16-11-2026 |                                            |
-| 87830ed | Emacs Gemini GPtel    | 15:48:21/15-11-2026 |                                            |
-| 2377744 | whisper gptel         | 14:39:55/15-11-2026 |                                            |
-| 8cb8d02 | Fix typo              | 15:04:02/13-11-2026 |                                            |
-| 26778ca | pkg list              | 22:46:34/11-11-2026 |                                            |
+| 9fbb3b9 | removed vad not working | 21:54:56/18-11-2026 | HEAD -> master, github/master, github/HEAD |
+| d98b223 | whisper                 | 18:44:47/18-11-2026 |                                            |
+| d17b53f | python                  | 17:25:54/18-11-2026 |                                            |
+| 8a0dddc | phony speech commands.  | 15:09:28/18-11-2026 |                                            |
+| 15ffc52 | source blocks           | 14:21:29/18-11-2026 |                                            |
+| a54232b | window commands         | 13:47:08/18-11-2026 |                                            |
+| c8e20c8 | phony speech commands   | 13:17:31/18-11-2026 |                                            |
+| 93674af | sacha speech input      | 18:12:06/17-11-2026 |                                            |
+| 4766f68 | sacha speech input      | 17:27:47/17-11-2026 |                                            |
+| ce64762 | whisper and vad start   | 14:54:32/17-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
