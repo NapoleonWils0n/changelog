@@ -118,16 +118,16 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 9fbb3b9 | removed vad not working | 21:54:56/18-11-2026 | HEAD -> master, github/master, github/HEAD |
+| f032297 | keyboard shortcuts.     | 00:51:19/19-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 362d4d0 | Whisper Hydra.          | 00:20:32/19-11-2026 |                                            |
+| 97aea49 | removed transpose       | 00:01:46/19-11-2026 |                                            |
+| 92c1b4c | hydra                   | 23:58:41/18-11-2026 |                                            |
+| 9fbb3b9 | removed vad not working | 21:54:56/18-11-2026 |                                            |
 | d98b223 | whisper                 | 18:44:47/18-11-2026 |                                            |
 | d17b53f | python                  | 17:25:54/18-11-2026 |                                            |
 | 8a0dddc | phony speech commands.  | 15:09:28/18-11-2026 |                                            |
 | 15ffc52 | source blocks           | 14:21:29/18-11-2026 |                                            |
 | a54232b | window commands         | 13:47:08/18-11-2026 |                                            |
-| c8e20c8 | phony speech commands   | 13:17:31/18-11-2026 |                                            |
-| 93674af | sacha speech input      | 18:12:06/17-11-2026 |                                            |
-| 4766f68 | sacha speech input      | 17:27:47/17-11-2026 |                                            |
-| ce64762 | whisper and vad start   | 14:54:32/17-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
