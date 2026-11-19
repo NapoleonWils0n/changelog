@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| e91649d | tab commands             | 19:32:21/19-11-2026 | HEAD -> master, github/master, github/HEAD |
+| efd979c | org cycle headings       | 21:06:19/19-11-2026 | HEAD -> master, github/master, github/HEAD |
+| e91649d | tab commands             | 19:32:21/19-11-2026 |                                            |
 | cdc640c | Org Cycle                | 18:59:41/19-11-2026 |                                            |
 | 3fa6da5 | Window rotation.         | 18:49:29/19-11-2026 |                                            |
 | 9ae0fe6 | Window commands          | 18:07:41/19-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | f032297 | keyboard shortcuts.      | 00:51:19/19-11-2026 |                                            |
 | 362d4d0 | Whisper Hydra.           | 00:20:32/19-11-2026 |                                            |
 | 97aea49 | removed transpose        | 00:01:46/19-11-2026 |                                            |
-| 92c1b4c | hydra                    | 23:58:41/18-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
