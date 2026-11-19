@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| cdc640c | Org Cycle                | 18:59:41/19-11-2026 | HEAD -> master, github/master, github/HEAD |
+| e91649d | tab commands             | 19:32:21/19-11-2026 | HEAD -> master, github/master, github/HEAD |
+| cdc640c | Org Cycle                | 18:59:41/19-11-2026 |                                            |
 | 3fa6da5 | Window rotation.         | 18:49:29/19-11-2026 |                                            |
 | 9ae0fe6 | Window commands          | 18:07:41/19-11-2026 |                                            |
 | 70a7baf | Text commands            | 16:07:30/19-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 362d4d0 | Whisper Hydra.           | 00:20:32/19-11-2026 |                                            |
 | 97aea49 | removed transpose        | 00:01:46/19-11-2026 |                                            |
 | 92c1b4c | hydra                    | 23:58:41/18-11-2026 |                                            |
-| 9fbb3b9 | removed vad not working  | 21:54:56/18-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
