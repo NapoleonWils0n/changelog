@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 70a7baf | Text commands            | 16:07:30/19-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 9ae0fe6 | Window commands          | 18:07:41/19-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 70a7baf | Text commands            | 16:07:30/19-11-2026 |                                            |
 | 43b8f59 | Whisper recording icons. | 01:01:03/19-11-2026 |                                            |
 | f032297 | keyboard shortcuts.      | 00:51:19/19-11-2026 |                                            |
 | 362d4d0 | Whisper Hydra.           | 00:20:32/19-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 9fbb3b9 | removed vad not working  | 21:54:56/18-11-2026 |                                            |
 | d98b223 | whisper                  | 18:44:47/18-11-2026 |                                            |
 | d17b53f | python                   | 17:25:54/18-11-2026 |                                            |
-| 8a0dddc | phony speech commands.   | 15:09:28/18-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
