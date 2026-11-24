@@ -118,7 +118,9 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 9a99e47 | Mango window commands.                     | 18:22:34/24-11-2026 | HEAD -> master, github/master, github/HEAD |
+| a492222 | mango voice commands navigation and master | 20:39:22/24-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 92288ef | mango combo                                | 19:03:06/24-11-2026 |                                            |
+| 9a99e47 | Mango window commands.                     | 18:22:34/24-11-2026 |                                            |
 | 3d9d059 | mangowm fullscreen                         | 18:09:40/23-11-2026 |                                            |
 | 21546f4 | mangowm resize window with voice           | 15:29:03/23-11-2026 |                                            |
 | cb453aa | mangowm voice commands                     | 15:02:11/23-11-2026 |                                            |
@@ -126,8 +128,6 @@ status
 | b851798 | mangowm window speech commands             | 14:10:51/23-11-2026 |                                            |
 | 9136ea1 | Mango voice                                | 19:27:40/22-11-2026 |                                            |
 | efd979c | org cycle headings                         | 21:06:19/19-11-2026 |                                            |
-| e91649d | tab commands                               | 19:32:21/19-11-2026 |                                            |
-| cdc640c | Org Cycle                                  | 18:59:41/19-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
