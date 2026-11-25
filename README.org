@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| f4cb304 | mango voice kill window                    | 21:19:38/24-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 23f29fa | emacs phony headings subtree               | 15:26:53/25-11-2026 | HEAD -> master, github/master, github/HEAD |
+| f4cb304 | mango voice kill window                    | 21:19:38/24-11-2026 |                                            |
 | 1cd4fe5 | mango voice refactored                     | 21:13:23/24-11-2026 |                                            |
 | a492222 | mango voice commands navigation and master | 20:39:22/24-11-2026 |                                            |
 | 92288ef | mango combo                                | 19:03:06/24-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 21546f4 | mangowm resize window with voice           | 15:29:03/23-11-2026 |                                            |
 | cb453aa | mangowm voice commands                     | 15:02:11/23-11-2026 |                                            |
 | 198c431 | mango move window to workspace with speech | 14:45:14/23-11-2026 |                                            |
-| b851798 | mangowm window speech commands             | 14:10:51/23-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
