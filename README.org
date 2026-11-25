@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| f2621d0 | emacs mango voice commands                 | 19:42:38/25-11-2026 | HEAD -> master, github/master, github/HEAD |
+| f852692 | emacs voice commands fixed comment         | 20:34:14/25-11-2026 | HEAD -> master, github/master, github/HEAD |
+| f2621d0 | emacs mango voice commands                 | 19:42:38/25-11-2026 |                                            |
 | 4349461 | emacs voice commands                       | 18:17:58/25-11-2026 |                                            |
 | 835cdf5 | emacs voice shell commands                 | 18:04:03/25-11-2026 |                                            |
 | 18dea83 | emacs lisp headings                        | 15:38:38/25-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 1cd4fe5 | mango voice refactored                     | 21:13:23/24-11-2026 |                                            |
 | a492222 | mango voice commands navigation and master | 20:39:22/24-11-2026 |                                            |
 | 92288ef | mango combo                                | 19:03:06/24-11-2026 |                                            |
-| 9a99e47 | Mango window commands.                     | 18:22:34/24-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
