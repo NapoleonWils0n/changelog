@@ -27,7 +27,7 @@ expanded_path=$(eval echo "${path}") # Force shell expansion
 git -C "${expanded_path}" log --pretty=format:'%h, %s, %cd, "%D"' -10 --date=format:'%H:%M:%S/%d-%m-%Y' 
 #+end_src
 
-** cerberus
+** XPS cerberus
 
 github url
 
@@ -49,7 +49,8 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 8a1a4408 | voice commands phony  | 23:05:39/25-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 2021bb4e | org tree slide mode   | 19:13:01/26-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 8a1a4408 | voice commands phony  | 23:05:39/25-11-2026 |                                            |
 | b0773dd9 | silero                | 21:56:04/18-11-2026 |                                            |
 | f5574dc3 | silero-vad            | 00:54:24/17-11-2026 |                                            |
 | 3d1ec07a | telegram              | 22:47:05/11-11-2026 |                                            |
@@ -58,7 +59,6 @@ git status
 | b53cff1e | emacs tree sitter org | 01:16:10/07-11-2026 |                                            |
 | def0ce3c | whisper phony         | 17:39:56/05-11-2026 |                                            |
 | 4693e10d | whisper               | 21:18:24/04-11-2026 |                                            |
-| d43778b9 | whisper tmp dir       | 19:29:22/03-11-2026 |                                            |
 #+end_quote
 
 ** freebsd
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 16939ba | emacs bookmarks                    | 23:08:00/25-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 410c8d6 | org tree Slide Mode                | 19:06:43/26-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 16939ba | emacs bookmarks                    | 23:08:00/25-11-2026 |                                            |
 | 21fb02c | emacs voice commands fixed typos   | 23:04:39/25-11-2026 |                                            |
 | 87eea33 | emacs voice commands notes         | 22:19:01/25-11-2026 |                                            |
 | dfc5651 | emacs voice commands               | 21:59:17/25-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | f852692 | emacs voice commands fixed comment | 20:34:14/25-11-2026 |                                            |
 | f2621d0 | emacs mango voice commands         | 19:42:38/25-11-2026 |                                            |
 | 4349461 | emacs voice commands               | 18:17:58/25-11-2026 |                                            |
-| 835cdf5 | emacs voice shell commands         | 18:04:03/25-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
