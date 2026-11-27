@@ -49,16 +49,16 @@ git status
 
 #+RESULTS: cerberus
 #+begin_quote
-| 2021bb4e | org tree slide mode   | 19:13:01/26-11-2026 | HEAD -> master, github/master, github/HEAD |
-| 8a1a4408 | voice commands phony  | 23:05:39/25-11-2026 |                                            |
-| b0773dd9 | silero                | 21:56:04/18-11-2026 |                                            |
-| f5574dc3 | silero-vad            | 00:54:24/17-11-2026 |                                            |
-| 3d1ec07a | telegram              | 22:47:05/11-11-2026 |                                            |
-| 12f6c27a | whisper commands      | 23:29:36/07-11-2026 |                                            |
-| dba9f931 | whisper               | 11:18:02/07-11-2026 |                                            |
-| b53cff1e | emacs tree sitter org | 01:16:10/07-11-2026 |                                            |
-| def0ce3c | whisper phony         | 17:39:56/05-11-2026 |                                            |
-| 4693e10d | whisper               | 21:18:24/04-11-2026 |                                            |
+| 8a485cbd | fd convert mkv to mp4 with stream copy | 15:24:47/27-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 2021bb4e | org tree slide mode                    | 19:13:01/26-11-2026 |                                            |
+| 8a1a4408 | voice commands phony                   | 23:05:39/25-11-2026 |                                            |
+| b0773dd9 | silero                                 | 21:56:04/18-11-2026 |                                            |
+| f5574dc3 | silero-vad                             | 00:54:24/17-11-2026 |                                            |
+| 3d1ec07a | telegram                               | 22:47:05/11-11-2026 |                                            |
+| 12f6c27a | whisper commands                       | 23:29:36/07-11-2026 |                                            |
+| dba9f931 | whisper                                | 11:18:02/07-11-2026 |                                            |
+| b53cff1e | emacs tree sitter org                  | 01:16:10/07-11-2026 |                                            |
+| def0ce3c | whisper phony                          | 17:39:56/05-11-2026 |                                            |
 #+end_quote
 
 ** freebsd
