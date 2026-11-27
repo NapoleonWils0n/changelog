@@ -96,7 +96,7 @@ status
 | 2a8bde1 | ossuary rust                      | 20:22:33/28-10-2026 |                               |
 #+end_quote
 
-*** freebsd-dotfiles-xps
+*** XPS freebsd-dotfiles-xps
 
 github url
 
@@ -118,7 +118,8 @@ status
 
 #+RESULTS: freebsd-dotfiles-xps
 #+begin_quote
-| 410c8d6 | org tree Slide Mode                | 19:06:43/26-11-2026 | HEAD -> master, github/master, github/HEAD |
+| c39cadb | silero                             | 23:48:21/27-11-2026 | HEAD -> master, github/master, github/HEAD |
+| 410c8d6 | org tree Slide Mode                | 19:06:43/26-11-2026 |                                            |
 | 16939ba | emacs bookmarks                    | 23:08:00/25-11-2026 |                                            |
 | 21fb02c | emacs voice commands fixed typos   | 23:04:39/25-11-2026 |                                            |
 | 87eea33 | emacs voice commands notes         | 22:19:01/25-11-2026 |                                            |
@@ -127,7 +128,6 @@ status
 | 5f88cc3 | emacs voice window commands        | 20:36:53/25-11-2026 |                                            |
 | f852692 | emacs voice commands fixed comment | 20:34:14/25-11-2026 |                                            |
 | f2621d0 | emacs mango voice commands         | 19:42:38/25-11-2026 |                                            |
-| 4349461 | emacs voice commands               | 18:17:58/25-11-2026 |                                            |
 #+end_quote
 
 *** freebsd-root-xps
